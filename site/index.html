@@ -31,7 +31,7 @@ button:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px so
 #app{display:flex;flex-direction:column;height:100%;position:relative}
 
 /* grain overlay */
-#grain{position:fixed;inset:0;pointer-events:none;z-index:50;opacity:.07;mix-blend-mode:overlay;
+#grain{position:fixed;inset:0;pointer-events:none;z-index:50;opacity:.035;
   background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>")}
 
 /* title block, inline with the controls */
@@ -100,7 +100,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
   padding:6px 8px 7px;display:grid;grid-template-columns:auto 1fr;gap:4px 9px}
 .card,.mk,.ln,.cl{transition:top .42s cubic-bezier(.2,.7,.2,1),bottom .42s cubic-bezier(.2,.7,.2,1),height .42s cubic-bezier(.2,.7,.2,1),transform .42s cubic-bezier(.2,.7,.2,1),opacity .35s,filter .35s,box-shadow .15s}
 .card{transform-origin:50% 0}.card[style*="bottom"]{transform-origin:50% 100%}
-.card.ghost{transform:scale(.55);opacity:.22;filter:saturate(.4) brightness(.75);z-index:3;pointer-events:none}
+.card.ghost{transform:scale(.55);opacity:.18;z-index:3;pointer-events:none}
 .ln.ghost{opacity:.15}
 .nt{transition:none !important}
 .card:hover,.card.active{box-shadow:inset 0 0 0 1px rgba(240,212,138,.9),inset 0 0 0 3px rgba(122,92,35,.15),0 0 0 1px var(--kc),0 0 18px color-mix(in srgb,var(--kc) 60%,transparent),0 8px 18px rgba(0,0,0,.6)}
@@ -304,7 +304,7 @@ const PH=`<svg viewBox="-50 -50 100 100" class="ph">${GEAR}</svg>`;
 const KINDS=['battle','intrigue','revelation','social','travel','loss','history'];
 const KC={history:'#a89a7c',battle:'#ff7a3d',intrigue:'#c9a24d',revelation:'#b48cff',social:'#7fd0a0',travel:'#5fd3ff',loss:'#d9455f'};
 const PRESETS={century:.03,decade:.3,year:3,month:40,week:180,day:1200};
-const ZMIN=.02,ZMAX=2400;
+const ZMIN=.02;let ZMAX=2400;
 const BOOT_WAIT=performance.now();
 
 let DATA,CAL,EV=[],ERAS=[],DPY=336,DPM=28,MINDAY=0,MAXDAY=33600,SPLIT=33264;
@@ -330,7 +330,12 @@ function init(){
   if(window.TIMELINE_LOCAL)$('#localTag').hidden=false;
   DATA=window.TIMELINE;CAL=DATA.calendar;DPM=CAL.daysPerMonth;DPY=DPM*CAL.monthNames.length;
   EV=DATA.events.map(e=>({...e,di:dayIndex(e.year,e.month,e.day,e.hour||0)})).sort((a,b)=>a.di-b.di);
+  // events sharing a day and hour are spread across that hour in array order, so zooming in can always separate them
+  for(let i=0;i<EV.length;){let j=i;while(j<EV.length&&EV[j].di===EV[i].di)j++;for(let k=i;k<j;k++)EV[k].di+=(k-i)/(j-i)/24;i=j;}
   EV.forEach((e,i)=>{e.side=i%2;e.lane=Math.floor(i/2)%2;});
+  // max zoom is whatever lets the closest pair of events in one slot show as two full cards
+  let minGap=1;const prevIn={};for(const e of EV){const k=e.side+':'+e.lane;if(prevIn[k]!==undefined)minGap=Math.min(minGap,Math.max(e.di-prevIn[k],1/24/60));prevIn[k]=e.di;}
+  ZMAX=Math.max(2400,280/minGap*1.2);
   ERAS=DATA.eras.map(r=>({...r,a:dayIndex(r.start.year,r.start.month,r.start.day,0),b:dayIndex(r.end.year,r.end.month,r.end.day,0)+1}));
   MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);
   SPLIT=dayIndex(993,1,1,0);
@@ -339,7 +344,10 @@ function init(){
   P=PRESETS.month;setCenter(SPLIT+14);
   bind();schedule(true);
 }
-function vw(){return lanesEl.clientWidth;}
+// sizes are measured once and on resize: reading them after card writes forces a full synchronous layout
+const SZ={w:0,h:0,mw:0};
+function measure(){SZ.w=lanesEl.clientWidth;SZ.h=lanesEl.clientHeight;SZ.mw=mini.clientWidth;SZ.left=lanesEl.getBoundingClientRect().left;}
+function vw(){if(!SZ.w)measure();return SZ.w;}
 function setCenter(d){off=d-vw()/2/P;clampOff();}
 function clampOff(){const vd=vw()/P,range=MAXDAY-MINDAY;
   if(vd>=range)off=MINDAY-(vd-range)/2;else off=Math.max(MINDAY-vd*.15,Math.min(MAXDAY-vd*.85,off));}
@@ -410,7 +418,7 @@ function clusterLabel(c){const a=fromDay(c[0].di),b=fromDay(c[c.length-1].di);
   if(a.year===b.year&&a.month===b.month)return `${mName(a.month)} ${a.day}–${b.day}`;
   if(a.year===b.year)return `${a.year} YK`;return `${a.year}–${b.year} YK`;}
 function layoutEvents(){
-  const W=vw(),H=lanesEl.clientHeight,mobile=W<760;
+  const W=vw(),H=SZ.h,mobile=W<760;
   layoutOff=off;layoutP=P;layoutW=W;layoutH=H;world.style.transform='';
   const axisY=Math.round(H/2);axisEl.style.top=axisY+'px';
   const w=mobile?150:264,laneH=mobile?80:112,gap=mobile?36:50;
@@ -435,16 +443,19 @@ function layoutEvents(){
   }
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
   // a card whose slot is taken is still drawn there, shrunk and faded behind the others, and grows back when zooming in
-  const overflow=[];
+  // faded cards that would sit almost on top of the previous faded card in the same slot are skipped: a pile of
+  // them reads as one smear and costs a DOM node each
+  const overflow=[],lastGhost={};
   for(const e of vis){
     const x=(e.di-off)*P,kc=KC[e.kind]||KC.history;
     const mk=take('mk',e.id,'mk'+(e.major?' major':'')+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=axisY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
     const ghost=!placed.has(e.id),lane=ghost?Math.min(e.lane,lanesPer-1):placed.get(e.id);if(ghost)overflow.push(e);
+    if(ghost){const k=e.side+':'+lane;if(lastGhost[k]!==undefined&&x-lastGhost[k]<w*.35)continue;lastGhost[k]=x;}
     const card=take('card',e.id,'card major'+(ghost?' ghost':'')+(active&&active.id===e.id?' active':''));
     card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.left=(x-w/2)+'px';
     const edge=gap+lane*laneH;
     if(e.side){card.style.top=(axisY+edge)+'px';card.style.bottom='';}else{card.style.bottom=(H-axisY+edge)+'px';card.style.top='';}
-    card.innerHTML=`<div class="th">${thumb(e)}</div><h3>${esc(e.title)}</h3><div class="d">${fmtShort(e)}${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}</div><div class="s">${esc(e.summary||'')}</div>`;
+    if(card._for!==e.id){card._for=e.id;card.innerHTML=`<div class="th">${thumb(e)}</div><h3>${esc(e.title)}</h3><div class="d">${fmtShort(e)}${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}</div><div class="s">${esc(e.summary||'')}</div>`;}
     card.onclick=ev=>{ev.stopPropagation();openEvent(e);};
     const ln=take('ln',e.id,'ln'+(e.side?' dn':'')+(ghost?' ghost':''));ln.style.setProperty('--kc',kc);ln.style.left=x+'px';ln.style.top=(e.side?axisY:axisY-edge)+'px';ln.style.height=edge+'px';
   }
@@ -466,7 +477,7 @@ function layoutEvents(){
 /* ---------- frame ---------- */
 function frame(){raf=0;if(!CAL)return;
   clampOff();
-  if(relayoutPending||P!==layoutP||vw()!==layoutW||lanesEl.clientHeight!==layoutH||Math.abs(off-layoutOff)*P>vw()*.45){relayoutPending=false;layoutEvents();}
+  if(relayoutPending||P!==layoutP||vw()!==layoutW||SZ.h!==layoutH||Math.abs(off-layoutOff)*P>vw()*.45){relayoutPending=false;layoutEvents();}
   else world.style.transform=`translateX(${(layoutOff-off)*P}px)`;
   layoutEras();drawRuler();updateMini();updateZoomUI();
   if(!reduced){const px=off*P;$('#gearA').style.transform=`rotate(${px/14}deg)`;$('#gearB').style.transform=`rotate(${-px/9}deg)`;}
@@ -501,7 +512,7 @@ function bind(){
     else if(j==='break')animateTo(PRESETS.week,SPLIT+.5,520);
     else{const last=EV[EV.length-1];animateTo(PRESETS.week,last.di,520);}});
   // wheel: ctrl/cmd zooms at cursor; otherwise pans (deltaX or deltaY)
-  stage.addEventListener('wheel',e=>{e.preventDefault();const r=lanesEl.getBoundingClientRect();
+  stage.addEventListener('wheel',e=>{e.preventDefault();const r={left:SZ.left};
     if(e.ctrlKey||e.metaKey){const f=Math.max(.5,Math.min(2.2,Math.exp(-e.deltaY*.009)));zoomAt(P*f,e.clientX-r.left);}
     else{const dx=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;off+=(e.shiftKey?dx*2:dx)/P;schedule(false);}},{passive:false});
   // pointer drag + pinch
@@ -531,7 +542,7 @@ function bind(){
   mini.addEventListener('pointermove',e=>{if(mdrag)mjump(e);});
   mini.addEventListener('pointerup',()=>mdrag=false);mini.addEventListener('pointercancel',()=>mdrag=false);
   $('#close').onclick=closeDrawer;$('#dPrev').onclick=()=>stepEvent(-1);$('#dNext').onclick=()=>stepEvent(1);
-  window.addEventListener('resize',()=>{drawMini();schedule(true);});
+  window.addEventListener('resize',()=>{measure();drawMini();schedule(true);});
 }
 
 /* ---------- minimap: split strip, left 58% = 894..992 YK, right 42% = Zarantyr 993 so the campaign month stays usable ---------- */
@@ -543,7 +554,7 @@ function drawMini(){const W=mini.clientWidth,H=mini.clientHeight,dpr=devicePixel
   const mx=Math.max(1,...bins);
   for(let i=0;i<cols;i++){if(!bins[i])continue;const t=Math.sqrt(bins[i]/mx);mctx.fillStyle=`rgba(95,211,255,${.25+t*.7})`;const h=6+t*(H-18);mctx.fillRect(i*3,H-6-h,2,h);}
   miniDiv.style.left=(SPLIT_F*W-1)+'px';$('#miniMid').style.left=(SPLIT_F*W+8)+'px';}
-function updateMini(){const W=mini.clientWidth;const a=dayToMini(Math.max(MINDAY,off),W),b=dayToMini(Math.min(MAXDAY,off+vw()/P),W);miniWin.style.left=a+'px';miniWin.style.width=Math.max(4,b-a)+'px';}
+function updateMini(){const W=SZ.mw;const a=dayToMini(Math.max(MINDAY,off),W),b=dayToMini(Math.min(MAXDAY,off+vw()/P),W);miniWin.style.left=a+'px';miniWin.style.width=Math.max(4,b-a)+'px';}
 
 /* ---------- drawer ---------- */
 function openEvent(e,pan){active=e;const kc=KC[e.kind]||KC.history;drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');
