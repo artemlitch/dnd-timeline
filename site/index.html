@@ -315,7 +315,7 @@ function fmtLong(e){return `${wName(e.day)}, ${mName(e.month)} ${e.day}, ${e.yea
 function init(){
   DATA=window.TIMELINE;CAL=DATA.calendar;DPM=CAL.daysPerMonth;DPY=DPM*CAL.monthNames.length;
   EV=DATA.events.map(e=>({...e,di:dayIndex(e.year,e.month,e.day,e.hour||0)})).sort((a,b)=>a.di-b.di);
-  EV.forEach((e,i)=>e.side=i%2);
+  EV.forEach((e,i)=>{e.side=i%2;e.lane=Math.floor(i/2)%2;});
   ERAS=DATA.eras.map(r=>({...r,a:dayIndex(r.start.year,r.start.month,r.start.day,0),b:dayIndex(r.end.year,r.end.month,r.end.day,0)+1}));
   MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);
   SPLIT=dayIndex(993,1,1,0);
@@ -403,16 +403,16 @@ function layoutEvents(){
   const margin=W*.5,lo=off-margin/P,hi=off+(W+margin)/P;
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
-  // every event gets an axis marker and owns one side of the axis for good (e.side). Cards are packed into lanes
-  // of intervals on that side; whatever finds no lane is swept into overflow bubbles (neighbours within 90px share one)
+  // every event gets an axis marker and owns one side and one lane of the axis for good (e.side, e.lane), so a
+  // card is always drawn at the same height. If its slot is taken at this zoom it goes to an overflow bubble
+  // instead (neighbours within 90px share one)
   const lanes=[[],[]];for(const s of lanes)for(let i=0;i<lanesPer;i++)s.push([]);
   const fits=(arr,x1,x2)=>arr.every(iv=>x2+10<iv[0]||x1>iv[1]+10);
   const placed=new Map();
   for(const e of vis){
-    const x=(e.di-off)*P,x1=x-w/2,x2=x+w/2,arr=lanes[e.side];
-    const lane=arr.findIndex(l=>fits(l,x1,x2));
-    if(lane<0)continue;
-    arr[lane].push([x1,x2]);placed.set(e.id,lane);
+    const x=(e.di-off)*P,x1=x-w/2,x2=x+w/2,lane=Math.min(e.lane,lanesPer-1),l=lanes[e.side][lane];
+    if(!fits(l,x1,x2))continue;
+    l.push([x1,x2]);placed.set(e.id,lane);
   }
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
   const overflow=[];
