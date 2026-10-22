@@ -37,9 +37,13 @@ textarea{width:100%;min-height:150px;background:#0d1018;color:var(--parch);borde
 #status.ok{color:var(--moss)}#status.err{color:var(--blood)}
 .stats{display:flex;gap:14px;flex-wrap:wrap;font-family:var(--mono);font-size:11px;color:var(--parch-dim);margin-top:8px}
 .stats b{color:var(--brass-hi);font-weight:400}
-.preview{position:relative;background:#000}
-.preview iframe{width:100%;height:100%;min-height:600px;border:0;display:block}
-.preview .tag{position:absolute;top:8px;left:50%;transform:translateX(-50%);font-family:var(--mono);font-size:11px;color:var(--cyan);background:rgba(11,13,20,.85);border:1px solid var(--bronze);border-radius:4px;padding:2px 10px;pointer-events:none}
+.list{display:flex;flex-direction:column;height:calc(100vh - 62px);min-height:0}
+.listhead{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:10px 18px;border-bottom:1px solid var(--bronze);font-family:var(--mono);font-size:11px;color:var(--cyan);background:var(--ink-2)}
+.listhead input{background:#0d1018;color:var(--parch);border:1px solid var(--bronze);border-radius:6px;font-family:var(--body);font-size:15px;padding:4px 10px;width:220px}
+#rows{overflow:auto;flex:1;padding:10px 18px 40px}
+.era{font-family:var(--display);font-size:12px;letter-spacing:.1em;color:var(--brass);margin:14px 0 6px;padding-left:8px;border-left:3px solid var(--c,#555)}
+.era small{font-family:var(--body);font-style:italic;letter-spacing:0;color:var(--parch-dim);margin-left:8px;font-size:13px}
+pre.j{margin:0 0 8px;padding:8px 10px;border-left:3px solid var(--kc,#555);background:var(--ink-2);border-radius:0 4px 4px 0;font-family:var(--mono);font-size:11.5px;line-height:1.45;color:var(--parch);white-space:pre-wrap;word-break:break-word}
 details summary{cursor:pointer;font-family:var(--mono);font-size:12px;color:var(--brass)}
 code{font-family:var(--mono);font-size:12px;color:var(--brass-hi)}
 </style>
@@ -52,7 +56,7 @@ code{font-family:var(--mono);font-size:12px;color:var(--brass-hi)}
 <main>
   <section class="side">
     <h2>1. Ask an AI for the JSON</h2>
-    <p>Copy this prompt, add your session notes under it, and paste the JSON you get back below.</p>
+    <p>Copy this prompt, add your data under it, and paste the JSON you get back below.</p>
     <div class="panel">
       <pre id="prompt"></pre>
       <div class="row"><button class="primary" id="copyPrompt">Copy prompt</button><a class="btn" href="../timeline.json" download="timeline.json">Download current timeline.json</a></div>
@@ -67,19 +71,19 @@ code{font-family:var(--mono);font-size:12px;color:var(--brass-hi)}
       <div class="stats" id="stats"></div>
     </div>
 
-    <h2>3. Preview, then publish</h2>
+    <h2>3. Publish</h2>
     <div class="panel">
-      <p>The preview on the right draws the loaded file exactly as the main page would. It lives only in this browser.</p>
       <div class="row">
         <button id="download" disabled>Download loaded JSON</button>
-        <button id="clear">Clear preview</button>
+        <a class="btn" id="previewLink" href="../?src=local" target="_blank" style="display:none">Open in the timeline ↗</a>
+        <button id="clear">Clear</button>
       </div>
       <p style="margin-top:10px">To publish, replace <code>site/timeline.json</code> in the repo with the downloaded file, drop any new images into <code>site/img/</code>, and run <code>./deploy.sh</code>.</p>
     </div>
   </section>
-  <section class="preview">
-    <span class="tag" id="tag">showing published timeline.json</span>
-    <iframe id="frame" src="../" title="Timeline preview"></iframe>
+  <section class="list">
+    <div class="listhead"><span id="tag">published timeline.json</span><input id="filter" type="search" placeholder="filter…"></div>
+    <div id="rows"></div>
   </section>
 </main>
 <script>
@@ -92,16 +96,13 @@ const PROMPT=`You are updating the data file for an interactive timeline of our 
   "events": [ { "id": "grail-rises", "title": "Grail Grimdell Raises the Dead", "year": 993, "month": 1, "day": 3, "hour": 4, "act": 1, "arc": "Arc 1: DarkWood Prison", "session": 3, "kind": "battle", "major": true, "img": "img/grail-rises.jpg", "summary": "One or two vivid sentences.", "detail": "Three to six sentences with the specifics: names, items, consequences.", "tags": ["Brand","Grail Grimdell","DarkWood Prison"] } ]
 }
 
-Rules:
-- Eberron calendar: 12 months x 28 days. month is 1-12 (Zarantyr = 1, Vult = 12), day is 1-28, hour is 0-23 (best guess; night scenes 22-2, dawn 6, default 12). The campaign year is 993 YK; "last month" references mean Vult 992.
-- id: unique kebab-case, stable across edits (keep existing ids so their images still match). img is optional; if present it must be "img/<id>.jpg".
-- kind: one of history | battle | intrigue | revelation | social | travel | loss. Use "history" only for backstory/lore before the campaign; those have no session.
-- major: true for the biggest moments (roughly a third of events). Keep titles under 8 words. Keep tags to characters, places and factions.
-- eras: row 0 = acts (and the war itself), row 1 = arcs. start/end are inclusive dates. Keep existing eras unless the campaign moved on.
-- Keep every existing event unless I say to remove it. When I give you new session notes, append events in chronological order with the next session number, and extend the last arc's end date if needed.
-- Keep hours sensible so same-day events sort in the order they happened.
+Field reference:
+- calendar: Eberron calendar, 12 months x 28 days. Keep it exactly as shown.
+- eras[]: id (kebab-case), title, subtitle (optional), row (0 = acts, 1 = arcs), start and end (inclusive, {year, month, day}), color (hex).
+- events[]: id (unique kebab-case, stable across edits), title, year, month (1-12, Zarantyr = 1), day (1-28), hour (0-23), act (number), arc (title of its arc era), session (number; omit for history events), kind (history | battle | intrigue | revelation | social | travel | loss), major (boolean), img (optional, "img/<id>.jpg"), summary (1-2 sentences), detail (3-6 sentences), tags (strings).
+- Events are sorted by date and hour when drawn, so order in the array does not matter.
 
-Here is the current timeline.json, followed by my notes:
+Here is the current timeline.json, followed by the new data:
 `;
 const $=s=>document.querySelector(s);
 $('#prompt').textContent=PROMPT;
@@ -143,15 +144,29 @@ function show(t,name){
   const kinds={};for(const e of t.events)kinds[e.kind]=(kinds[e.kind]||0)+1;
   const sessions=new Set(t.events.filter(e=>e.session).map(e=>e.session));
   $('#stats').innerHTML=`<span><b>${t.events.length}</b> events</span><span><b>${t.eras.length}</b> eras</span><span><b>${sessions.size}</b> sessions</span><span><b>${t.events.filter(e=>e.img).length}</b> with images</span>`+Object.entries(kinds).map(([k,n])=>`<span>${k} <b>${n}</b></span>`).join('');
-  $('#download').disabled=false;$('#tag').textContent='previewing '+name;$('#frame').src='../?src=local&v='+Date.now();
+  $('#download').disabled=false;$('#tag').textContent='loaded: '+name;$('#previewLink').style.display='';render(t);
 }
+const KC={history:'#a89a7c',battle:'#ff7a3d',intrigue:'#c9a24d',revelation:'#b48cff',social:'#7fd0a0',travel:'#5fd3ff',loss:'#d9455f'};
+const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let current=null;
+function render(t){current=t;const q=$('#filter').value.trim().toLowerCase();const cal=t.calendar;
+  const di=e=>(e.year-cal.epochYear)*cal.daysPerMonth*12+(e.month-1)*cal.daysPerMonth+(e.day-1)+(e.hour||0)/24;
+  const evs=[...t.events].sort((a,b)=>di(a)-di(b)).filter(e=>!q||JSON.stringify(e).toLowerCase().includes(q));
+  let html=`<div class="era">calendar</div><pre class="j">${esc(JSON.stringify(t.calendar,null,2))}</pre><div class="era">eras (${t.eras.length})</div>`;
+  for(const r of t.eras)html+=`<pre class="j" style="--kc:${esc(r.color||'#555')}">${esc(JSON.stringify(r,null,2))}</pre>`;
+  html+=`<div class="era">events (${evs.length}${q?' matching':''}, in date order)</div>`;
+  for(const e of evs)html+=`<pre class="j" style="--kc:${KC[e.kind]||'#999'}">${esc(JSON.stringify(e,null,2))}</pre>`;
+  $('#rows').innerHTML=html;
+}
+$('#filter').oninput=()=>{if(current)render(current);};
+fetch('../timeline.json',{cache:'no-cache'}).then(r=>r.json()).then(t=>{if(!loaded)render(t);}).catch(()=>{});
 function readFile(f){if(!f)return;f.text().then(txt=>{try{show(JSON.parse(txt),f.name);}catch(e){$('#status').className='err';$('#status').textContent=f.name+': not valid JSON. '+e.message;}});}
 $('#file').onchange=e=>readFile(e.target.files[0]);
 const drop=$('#drop');drop.ondragover=e=>{e.preventDefault();drop.classList.add('over');};drop.ondragleave=()=>drop.classList.remove('over');
 drop.ondrop=e=>{e.preventDefault();drop.classList.remove('over');readFile(e.dataTransfer.files[0]);};
 $('#loadPaste').onclick=()=>{try{show(JSON.parse($('#paste').value),'pasted JSON');}catch(e){$('#status').className='err';$('#status').textContent='Pasted text is not valid JSON. '+e.message;}};
 $('#download').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(loaded,null,2)],{type:'application/json'}));a.download='timeline.json';a.click();};
-$('#clear').onclick=()=>{localStorage.removeItem('timelineOverride');loaded=null;$('#status').textContent='';$('#status').className='';$('#stats').innerHTML='';$('#download').disabled=true;$('#tag').textContent='showing published timeline.json';$('#frame').src='../?v='+Date.now();};
+$('#clear').onclick=()=>{localStorage.removeItem('timelineOverride');loaded=null;$('#status').textContent='';$('#status').className='';$('#stats').innerHTML='';$('#download').disabled=true;$('#previewLink').style.display='none';$('#tag').textContent='published timeline.json';fetch('../timeline.json',{cache:'no-cache'}).then(r=>r.json()).then(render);};
 // resume a preview left from last time
 try{const t=JSON.parse(localStorage.getItem('timelineOverride'));if(t&&t.events)show(t,'previously loaded file');}catch(_){}
 </script>
