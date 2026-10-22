@@ -267,7 +267,7 @@
     },
     {
       "number": 22,
-      "title": "Jeff Shut The Fuck Up, We’re Jacking Off and Punching Birds",
+      "title": "Jeff Shut The Fuck Up, We\u2019re Jacking Off and Punching Birds",
       "act": 1,
       "arc": "Arc 3: Ardev"
     },
@@ -769,13 +769,14 @@
       "kind": "revelation",
       "major": true,
       "summary": "Far from DarkWood, a grizzled old wizard opens a long-locked book and reads aloud the prophecy that frames the whole story.",
-      "detail": "In a dim library crammed wall to wall with texts divine and devilish, and with trinkets from a hundred lifetimes, an old human wizard in green robes slumps at his desk, pipe drooping, a raven perched on his staff. The raven caws once and the wizard whips around with unnatural speed, his green eyes finding a scrying eye in the dark; he smirks, puffs his pipe and turns back. Without a word of command the raven pries a book from the shelf, and the wizard releases its ancient clasp. He reads of a century of war entering its final stage, “its shrieking twilight, its howling dark, the swan song.” “But you are not heroes, you are not soldiers, and you are not villains, you are criminals. And yet it is your hands which hold the quill.” The characters know nothing of this scene. It is simply where their story begins.",
+      "detail": "In a dim library crammed wall to wall with texts divine and devilish, and with trinkets from a hundred lifetimes, an old human wizard in green robes slumps at his desk, pipe drooping, a raven perched on his staff. The raven caws once and the wizard whips around with unnatural speed, his green eyes finding a scrying eye in the dark; he smirks, puffs his pipe and turns back. Without a word of command the raven pries a book from the shelf, and the wizard releases its ancient clasp. He reads of a century of war entering its final stage, \u201cits shrieking twilight, its howling dark, the swan song.\u201d \u201cBut you are not heroes, you are not soldiers, and you are not villains, you are criminals. And yet it is your hands which hold the quill.\u201d The characters know nothing of this scene. It is simply where their story begins.",
       "tags": [
         "Wizard",
         "Raven",
         "Prophecy",
         "Khorvaire"
-      ]
+      ],
+      "img": "img/wizard-and-the-raven.jpg"
     },
     {
       "id": "train-to-darkwood",
@@ -814,7 +815,7 @@
       "kind": "travel",
       "major": false,
       "summary": "The carriages roll through the woods to DarkWood Prison, and the inmates behind the walls start chanting: fresh fish, fresh fish.",
-      "detail": "The journey continues into thick woods and up to a new prison. The players were promised it would not be a corn maze, and it is not. As the carriages approach the gates, a chant rises from inside the walls: “Fresh fish, fresh fish.” The arrivals are split into bunks. Lirael and Elarian share the first with Tauren, and Brand and Sazed share the second with Leff.",
+      "detail": "The journey continues into thick woods and up to a new prison. The players were promised it would not be a corn maze, and it is not. As the carriages approach the gates, a chant rises from inside the walls: \u201cFresh fish, fresh fish.\u201d The arrivals are split into bunks. Lirael and Elarian share the first with Tauren, and Brand and Sazed share the second with Leff.",
       "tags": [
         "DarkWood",
         "Lirael",
@@ -822,7 +823,8 @@
         "Sazed",
         "Tauren",
         "Leff"
-      ]
+      ],
+      "img": "img/fresh-fish-at-the-gates.jpg"
     },
     {
       "id": "bloodworth-takes-their-treasures",
@@ -844,7 +846,8 @@
         "Sazed",
         "Brand",
         "Whispers of Wind and Grass"
-      ]
+      ],
+      "img": "img/bloodworth-takes-their-treasures.jpg"
     },
     {
       "id": "sending-stone-in-the-wall",
@@ -865,7 +868,8 @@
         "Brand",
         "Sending Stone",
         "DarkWood"
-      ]
+      ],
+      "img": "img/sending-stone-in-the-wall.jpg"
     },
     {
       "id": "thaldamir-snaps-his-fingers",
@@ -887,7 +891,8 @@
         "Keys",
         "Lirael",
         "DarkWood"
-      ]
+      ],
+      "img": "img/thaldamir-snaps-his-fingers.jpg"
     },
     {
       "id": "sazed-tortured-by-bloodworth",
@@ -908,7 +913,8 @@
         "Bloodworth",
         "DarkWood",
         "Sentinels"
-      ]
+      ],
+      "img": "img/sazed-tortured-by-bloodworth.jpg"
     },
     {
       "id": "halien-talks-with-elric",
@@ -930,7 +936,8 @@
         "Gelf",
         "Sentinels",
         "DarkWood"
-      ]
+      ],
+      "img": "img/halien-talks-with-elric.jpg"
     },
     {
       "id": "lirael-plays-cromwell",
@@ -952,7 +959,8 @@
         "Cromwell",
         "Faird",
         "Sending Stone"
-      ]
+      ],
+      "img": "img/lirael-plays-cromwell.jpg"
     },
     {
       "id": "newbie-night",
@@ -974,7 +982,8 @@
         "Brand",
         "Sazed",
         "DarkWood"
-      ]
+      ],
+      "img": "img/newbie-night.jpg"
     },
     {
       "id": "initiation-night",
@@ -1018,7 +1027,8 @@
         "Tauren",
         "Scud",
         "DarkWood"
-      ]
+      ],
+      "img": "img/the-alarm-is-pulled.jpg"
     },
     {
       "id": "snatched-off-the-ledge",
@@ -1040,7 +1050,8 @@
         "Brand",
         "Scud",
         "Leff"
-      ]
+      ],
+      "img": "img/snatched-off-the-ledge.jpg"
     },
     {
       "id": "sazed-breaks-out-swinging",
@@ -1060,7 +1071,8 @@
         "Sazed",
         "Lirael",
         "DarkWood"
-      ]
+      ],
+      "img": "img/sazed-breaks-out-swinging.jpg"
     },
     {
       "id": "shmem-gorgis-dies",
@@ -1080,7 +1092,8 @@
         "Shmem Gorgis",
         "Sorenson",
         "DarkWood"
-      ]
+      ],
+      "img": "img/shmem-gorgis-dies.jpg"
     },
     {
       "id": "byll-and-cyriel-spared",
@@ -1101,7 +1114,8 @@
         "Cyriel",
         "Lirael",
         "DarkWood"
-      ]
+      ],
+      "img": "img/byll-and-cyriel-spared.jpg"
     },
     {
       "id": "sorenson-gets-the-tuba",
@@ -1123,7 +1137,8 @@
         "Keys",
         "Faird",
         "Elarian"
-      ]
+      ],
+      "img": "img/sorenson-gets-the-tuba.jpg"
     },
     {
       "id": "saving-elric-galen",
@@ -1143,7 +1158,8 @@
         "Elric",
         "Byll",
         "DarkWood"
-      ]
+      ],
+      "img": "img/saving-elric-galen.jpg"
     },
     {
       "id": "zombie-bloodworth-in-the-pit",
@@ -1164,7 +1180,8 @@
         "Brand",
         "Zombies",
         "DarkWood"
-      ]
+      ],
+      "img": "img/zombie-bloodworth-in-the-pit.jpg"
     },
     {
       "id": "rex-and-thaldamir-gang-war",
@@ -1184,7 +1201,8 @@
         "Rex",
         "Thaldamir",
         "DarkWood"
-      ]
+      ],
+      "img": "img/rex-and-thaldamir-gang-war.jpg"
     },
     {
       "id": "cutting-the-pit-elevator",
@@ -1204,7 +1222,8 @@
         "Bloodworth",
         "Zombies",
         "DarkWood"
-      ]
+      ],
+      "img": "img/cutting-the-pit-elevator.jpg"
     },
     {
       "id": "lirael-plays-both-sides",
@@ -1225,7 +1244,8 @@
         "Rex",
         "Thaldamir",
         "DarkWood"
-      ]
+      ],
+      "img": "img/lirael-plays-both-sides.jpg"
     },
     {
       "id": "talking-past-the-barricade",
@@ -1245,7 +1265,8 @@
         "Lirael",
         "Elric",
         "DarkWood"
-      ]
+      ],
+      "img": "img/talking-past-the-barricade.jpg"
     },
     {
       "id": "wardens-secret",
@@ -1287,7 +1308,8 @@
         "Erald",
         "Grail Grimdell",
         "DarkWood"
-      ]
+      ],
+      "img": "img/erald-names-the-necromancer.jpg"
     },
     {
       "id": "thaldamir-begs-for-his-life",
@@ -1306,7 +1328,8 @@
       "tags": [
         "Thaldamir",
         "DarkWood"
-      ]
+      ],
+      "img": "img/thaldamir-begs-for-his-life.jpg"
     },
     {
       "id": "brand-suits-up",
@@ -1343,14 +1366,15 @@
       "kind": "revelation",
       "major": false,
       "summary": "The tarp comes off the mirror and everyone is dragged into a personal nightmare until Sazed smashes it.",
-      "detail": "Lirael walks a pier behind his family; they cannot hear him, and the faster he runs the farther away they get. Brand walks the streets of Sharn running red with blood, hides under a corpse, and watches soldiers in mechanical suits of armor duckwalk out of the smoke. Sazed leaves his hut to find his village on fire and ringed by soldiers, and the villagers' corpses rise, point at him and say “It was you.” Each wakes in a cold sweat. Sazed destroys the mirror. Mirrors will come back to haunt the party later.",
+      "detail": "Lirael walks a pier behind his family; they cannot hear him, and the faster he runs the farther away they get. Brand walks the streets of Sharn running red with blood, hides under a corpse, and watches soldiers in mechanical suits of armor duckwalk out of the smoke. Sazed leaves his hut to find his village on fire and ringed by soldiers, and the villagers' corpses rise, point at him and say \u201cIt was you.\u201d Each wakes in a cold sweat. Sazed destroys the mirror. Mirrors will come back to haunt the party later.",
       "tags": [
         "Mirror",
         "Lirael",
         "Brand",
         "Sazed",
         "Sharn"
-      ]
+      ],
+      "img": "img/nightmares-in-the-mirror.jpg"
     },
     {
       "id": "chester-the-mimic",
@@ -1370,7 +1394,8 @@
         "Chester",
         "Bag of Devouring",
         "DarkWood"
-      ]
+      ],
+      "img": "img/chester-the-mimic.jpg"
     },
     {
       "id": "the-cafeteria-rescue",
@@ -1393,7 +1418,8 @@
         "Keys",
         "Faird",
         "DarkWood"
-      ]
+      ],
+      "img": "img/the-cafeteria-rescue.jpg"
     },
     {
       "id": "out-through-the-broken-wall",
@@ -1415,7 +1441,8 @@
         "Chester",
         "Zombies",
         "DarkWood"
-      ]
+      ],
+      "img": "img/out-through-the-broken-wall.jpg"
     },
     {
       "id": "grail-rises",
@@ -1431,7 +1458,7 @@
       "kind": "battle",
       "major": true,
       "summary": "In the burning prison yard Grail Grimdell thanks the party for so many beautiful corpses, and everyone they have killed stands back up.",
-      "detail": "The necromancer Grail Grimdell confronts the party in the yard, composed and eloquent. “I must thank you, you have given me so many beautiful corpses for my army. I'm sure you'll recognise them.” He offers them a special place at his side. The dead rise from the ground: Officer Bloodworth, Shmem Gorgis, Scud Barlowe, Magnot Whitlin and Warden Sharpe. Behind them come Bloodworth's personal guard, the guards from every fight, the young officers from the barricade, and gang members from the very first cafeteria brawl. Everyone the party has killed is back.",
+      "detail": "The necromancer Grail Grimdell confronts the party in the yard, composed and eloquent. \u201cI must thank you, you have given me so many beautiful corpses for my army. I'm sure you'll recognise them.\u201d He offers them a special place at his side. The dead rise from the ground: Officer Bloodworth, Shmem Gorgis, Scud Barlowe, Magnot Whitlin and Warden Sharpe. Behind them come Bloodworth's personal guard, the guards from every fight, the young officers from the barricade, and gang members from the very first cafeteria brawl. Everyone the party has killed is back.",
       "tags": [
         "Grail Grimdell",
         "Zombies",
@@ -1460,7 +1487,8 @@
         "Rex",
         "Leff",
         "Zombies"
-      ]
+      ],
+      "img": "img/the-horde-overwhelms-brand.jpg"
     },
     {
       "id": "brand-kills-grail",
@@ -1481,7 +1509,8 @@
         "Grail Grimdell",
         "Zombies",
         "DarkWood"
-      ]
+      ],
+      "img": "img/brand-kills-grail.jpg"
     },
     {
       "id": "grails-final-form",
@@ -1496,13 +1525,14 @@
       "kind": "revelation",
       "major": true,
       "summary": "Grail's necklace raises him as an awakened zombie, more deranged and more powerful, and his dead rise again remembering their lives.",
-      "detail": "As the party starts to rest, the necklace on Grail's corpse raises him as an awakened zombie. He is now noticeably more deranged and far more powerful. With an evil laugh he declares: “You fools think you won. You have only allowed me to achieve my final form!” He vows to become lord of the dead, his dead covering the earth and suffocating the light from this world. All his zombies rise again, their souls now bound to their bodies so they remember their former lives, zombie Rolick among them. “Now my children look upon your killers and help them join us!”",
+      "detail": "As the party starts to rest, the necklace on Grail's corpse raises him as an awakened zombie. He is now noticeably more deranged and far more powerful. With an evil laugh he declares: \u201cYou fools think you won. You have only allowed me to achieve my final form!\u201d He vows to become lord of the dead, his dead covering the earth and suffocating the light from this world. All his zombies rise again, their souls now bound to their bodies so they remember their former lives, zombie Rolick among them. \u201cNow my children look upon your killers and help them join us!\u201d",
       "tags": [
         "Grail Grimdell",
         "Grail's Necklace",
         "Rolick",
         "Zombies"
-      ]
+      ],
+      "img": "img/grails-final-form.jpg"
     },
     {
       "id": "grails-meat-shield",
@@ -1524,7 +1554,8 @@
         "Rex",
         "Rolick",
         "Sazed"
-      ]
+      ],
+      "img": "img/grails-meat-shield.jpg"
     },
     {
       "id": "lirael-pleads-with-damron",
@@ -1545,7 +1576,8 @@
         "Damron Pink",
         "Fumble Figgins",
         "DarkWood"
-      ]
+      ],
+      "img": "img/lirael-pleads-with-damron.jpg"
     },
     {
       "id": "bloodworth-dies-a-third-time",
@@ -1565,7 +1597,8 @@
         "Sazed",
         "Bloodworth",
         "Zombies"
-      ]
+      ],
+      "img": "img/bloodworth-dies-a-third-time.jpg"
     },
     {
       "id": "grails-lieutenants-fall",
@@ -1588,7 +1621,8 @@
         "Shmem Gorgis",
         "Magnot Whitlin",
         "Warden Sharpe"
-      ]
+      ],
+      "img": "img/grails-lieutenants-fall.jpg"
     },
     {
       "id": "grail-falls",
@@ -1631,7 +1665,8 @@
         "Shmem Gorgis",
         "Rex",
         "Rolick"
-      ]
+      ],
+      "img": "img/mourning-the-fallen.jpg"
     },
     {
       "id": "down-from-the-roof",
@@ -1654,7 +1689,8 @@
         "Erald",
         "Byll",
         "Brand"
-      ]
+      ],
+      "img": "img/down-from-the-roof.jpg"
     },
     {
       "id": "sheldor-looks-for-cromwell",
@@ -1675,7 +1711,8 @@
         "Lirael",
         "Cromwell",
         "Sending Stone"
-      ]
+      ],
+      "img": "img/sheldor-looks-for-cromwell.jpg"
     },
     {
       "id": "grails-necklace",
@@ -1695,7 +1732,8 @@
         "Grail's Necklace",
         "Grail Grimdell",
         "Lirael"
-      ]
+      ],
+      "img": "img/grails-necklace.jpg"
     },
     {
       "id": "ddt-note",
@@ -1711,7 +1749,7 @@
       "kind": "revelation",
       "major": true,
       "summary": "A mysterious note on Grail's body, signed DDT, summons him to the hidden mountain village of Mara'bor.",
-      "detail": "Alongside the necklace, the party finds a note. “Grail my friend, I will be needing your assistance once again. You have been of great service to the organization and we ask for your heed again. As usual nothing will be in writing, meet me at the hidden mountain village of Mara'bor for more instructions.” It is signed DDT. Brand remembers Mara'bor from a book about hidden mountain villages he read as a kid. Elric says he knows how to get there.",
+      "detail": "Alongside the necklace, the party finds a note. \u201cGrail my friend, I will be needing your assistance once again. You have been of great service to the organization and we ask for your heed again. As usual nothing will be in writing, meet me at the hidden mountain village of Mara'bor for more instructions.\u201d It is signed DDT. Brand remembers Mara'bor from a book about hidden mountain villages he read as a kid. Elric says he knows how to get there.",
       "tags": [
         "DDT",
         "Mara'bor",
@@ -1761,7 +1799,8 @@
         "Fumble Figgins",
         "Byll",
         "Cyriel"
-      ]
+      ],
+      "img": "img/damrons-ultimatum.jpg"
     },
     {
       "id": "sheldor-and-the-snel-katar",
@@ -1782,7 +1821,8 @@
         "Lirael",
         "Snel Katar",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/sheldor-and-the-snel-katar.jpg"
     },
     {
       "id": "bluffing-the-mine-guards",
@@ -1803,7 +1843,8 @@
         "Spingel",
         "Joerick",
         "Damron Pink"
-      ]
+      ],
+      "img": "img/bluffing-the-mine-guards.jpg"
     },
     {
       "id": "halien-stands-watch",
@@ -1825,7 +1866,8 @@
         "Elric",
         "Kingsblade",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/halien-stands-watch.jpg"
     },
     {
       "id": "wild-cart-ride",
@@ -1845,7 +1887,8 @@
         "Elric",
         "Mara'bor",
         "Brand"
-      ]
+      ],
+      "img": "img/wild-cart-ride.jpg"
     },
     {
       "id": "elrics-supper",
@@ -1866,7 +1909,8 @@
         "Sazed",
         "Lirael",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/elrics-supper.jpg"
     },
     {
       "id": "elric-reveals-sentinels",
@@ -1910,7 +1954,8 @@
         "Sentinels",
         "High Marshalls",
         "Old King"
-      ]
+      ],
+      "img": "img/brand-and-the-old-king.jpg"
     },
     {
       "id": "ddt-and-the-dragonmarks",
@@ -1930,7 +1975,8 @@
         "DDT",
         "House Thuranni",
         "Dragonmarked Houses"
-      ]
+      ],
+      "img": "img/ddt-and-the-dragonmarks.jpg"
     },
     {
       "id": "elric-throws-a-spoon",
@@ -1950,7 +1996,8 @@
         "Elric",
         "Lirael",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/elric-throws-a-spoon.jpg"
     },
     {
       "id": "verona-sharpes-tea",
@@ -1971,7 +2018,8 @@
         "Warden Sharpe",
         "Elric",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/verona-sharpes-tea.jpg"
     },
     {
       "id": "spying-on-damron",
@@ -1993,7 +2041,8 @@
         "Joerick",
         "Fiona Bloodworth",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/spying-on-damron.jpg"
     },
     {
       "id": "luring-spingel-and-joerick",
@@ -2016,7 +2065,8 @@
         "Joerick",
         "Bloodworth",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/luring-spingel-and-joerick.jpg"
     },
     {
       "id": "ambush-at-the-abandoned-house",
@@ -2038,7 +2088,8 @@
         "Spingel",
         "Joerick",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/ambush-at-the-abandoned-house.jpg"
     },
     {
       "id": "grails-cellar",
@@ -2060,7 +2111,8 @@
         "Yedani Mountains",
         "Mara'bor",
         "Elric"
-      ]
+      ],
+      "img": "img/grails-cellar.jpg"
     },
     {
       "id": "calling-grails-brother",
@@ -2081,7 +2133,8 @@
         "Grail's Necklace",
         "Sending Stone",
         "Gelion Grimdell"
-      ]
+      ],
+      "img": "img/calling-grails-brother.jpg"
     },
     {
       "id": "bag-of-devouring",
@@ -2125,7 +2178,8 @@
         "Spingel",
         "Joerick",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/gelf-in-the-closet.jpg"
     },
     {
       "id": "gelf-tells-all",
@@ -2148,7 +2202,8 @@
         "House Thuranni",
         "Blazehelm",
         "Grimdells"
-      ]
+      ],
+      "img": "img/gelf-tells-all.jpg"
     },
     {
       "id": "rotten-potatoes",
@@ -2187,13 +2242,14 @@
       "kind": "social",
       "major": false,
       "summary": "At midnight Grail's brother arrives, and Lirael, wearing the necklace, convinces him he is Grail reborn.",
-      "detail": "At midnight Grail's brother, later named by Major Blazehelm as Gelion Grimdell, arrives at the abandoned house. The party tells him to go into the cellar. He questions his “brother”: why is he allied with the living, and why, if he was reincarnated, is he not a zombie? Lirael sells it, and the brother exclaims that their mother was always trying new things with the necklaces. Before they leave, the brother suggests they turn Lirael's friends into zombies. Lirael says he is too tired to do it, so the brother offers to do it himself.",
+      "detail": "At midnight Grail's brother, later named by Major Blazehelm as Gelion Grimdell, arrives at the abandoned house. The party tells him to go into the cellar. He questions his \u201cbrother\u201d: why is he allied with the living, and why, if he was reincarnated, is he not a zombie? Lirael sells it, and the brother exclaims that their mother was always trying new things with the necklaces. Before they leave, the brother suggests they turn Lirael's friends into zombies. Lirael says he is too tired to do it, so the brother offers to do it himself.",
       "tags": [
         "Gelion Grimdell",
         "Lirael",
         "Grail's Necklace",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/grails-brother-arrives.jpg"
     },
     {
       "id": "kicked-down-the-hatch",
@@ -2214,7 +2270,8 @@
         "Lirael",
         "Sazed",
         "Grail's Necklace"
-      ]
+      ],
+      "img": "img/kicked-down-the-hatch.jpg"
     },
     {
       "id": "the-brother-dies-to-rise",
@@ -2235,7 +2292,8 @@
         "Sazed",
         "Grail's Necklace",
         "Zombies"
-      ]
+      ],
+      "img": "img/the-brother-dies-to-rise.jpg"
     },
     {
       "id": "gelion-into-the-bag",
@@ -2280,7 +2338,8 @@
         "Joerick",
         "Elric",
         "Gelf"
-      ]
+      ],
+      "img": "img/marabor-abandoned.jpg"
     },
     {
       "id": "something-in-the-clouds",
@@ -2300,7 +2359,8 @@
         "Elric",
         "Gelf",
         "Mara'bor"
-      ]
+      ],
+      "img": "img/something-in-the-clouds.jpg"
     },
     {
       "id": "paxon-in-the-clearing",
@@ -2315,13 +2375,14 @@
       "kind": "social",
       "major": false,
       "summary": "Soldiers appear out of thin air in a clearing, and Gelf trades barbs with Chief Petty Officer Smildar Paxon until he lets them in.",
-      "detail": "After about a forty-minute walk the party reaches a clearing. “Leave this to me and Elric okay guys?” says Gelf, as soldiers and Paxon appear out of nowhere. “Hey there Smildar.” “Oh we're using first names now Gelf? Is that proper military vernacular?” Gelf greets him as “Chief Pettiest of Petty Officers Smildar Paxon his Holiness,” insists the party won't be prisoners much longer, and Paxon sighs that he was really enjoying how nice and quiet the Kingsblade was without him. Paxon writes something on his sheet, signals them to follow, and he and the soldiers vanish as quickly as they appeared.",
+      "detail": "After about a forty-minute walk the party reaches a clearing. \u201cLeave this to me and Elric okay guys?\u201d says Gelf, as soldiers and Paxon appear out of nowhere. \u201cHey there Smildar.\u201d \u201cOh we're using first names now Gelf? Is that proper military vernacular?\u201d Gelf greets him as \u201cChief Pettiest of Petty Officers Smildar Paxon his Holiness,\u201d insists the party won't be prisoners much longer, and Paxon sighs that he was really enjoying how nice and quiet the Kingsblade was without him. Paxon writes something on his sheet, signals them to follow, and he and the soldiers vanish as quickly as they appeared.",
       "tags": [
         "Paxon",
         "Gelf",
         "Elric",
         "Kingsblade"
-      ]
+      ],
+      "img": "img/paxon-in-the-clearing.jpg"
     },
     {
       "id": "the-kingsblade",
@@ -2337,7 +2398,7 @@
       "kind": "revelation",
       "major": true,
       "summary": "Crossing an invisible threshold, the party passes through a massive illusion and sees a humongous airship, where Major Blazehelm welcomes them into the Sentinels.",
-      "detail": "“Let's go everyone,” says Gelf. As Elric and Gelf lead the party forward, they too disappear. Crossing the threshold, the party passes through a massive illusion spell and sees a humongous airship in front of them: the Kingsblade, a brand new Galifar class ship on its maiden voyage. A gangway opens. Major Blazehelm introduces himself and welcomes the party into the Sentinels. The DarkWood arc is over.",
+      "detail": "\u201cLet's go everyone,\u201d says Gelf. As Elric and Gelf lead the party forward, they too disappear. Crossing the threshold, the party passes through a massive illusion spell and sees a humongous airship in front of them: the Kingsblade, a brand new Galifar class ship on its maiden voyage. A gangway opens. Major Blazehelm introduces himself and welcomes the party into the Sentinels. The DarkWood arc is over.",
       "tags": [
         "Kingsblade",
         "Blazehelm",
@@ -2366,7 +2427,8 @@
         "Sentinels",
         "King Ir'Wynarn",
         "Kingsblade"
-      ]
+      ],
+      "img": "img/the-sentinels-explained.jpg"
     },
     {
       "id": "prison-was-a-sentinel-trial",
@@ -2388,7 +2450,8 @@
         "Elric",
         "DarkWood Prison",
         "Sentinels"
-      ]
+      ],
+      "img": "img/prison-was-a-sentinel-trial.jpg"
     },
     {
       "id": "grimdells-and-house-thuranni",
@@ -2410,7 +2473,8 @@
         "Deckard D'Thuranni",
         "Blazehelm",
         "Aundair"
-      ]
+      ],
+      "img": "img/grimdells-and-house-thuranni.jpg"
     },
     {
       "id": "blazehelms-offers",
@@ -2456,7 +2520,8 @@
         "Chester",
         "Lirael",
         "Gnomes"
-      ]
+      ],
+      "img": "img/maiden-voyage-feast.jpg"
     },
     {
       "id": "tour-of-the-kingsblade",
@@ -2478,7 +2543,8 @@
         "Kingsblade",
         "Shuriken",
         "Brand"
-      ]
+      ],
+      "img": "img/tour-of-the-kingsblade.jpg"
     },
     {
       "id": "mission-against-killian-gavrin",
@@ -2501,7 +2567,8 @@
         "Broadsword",
         "Broadaxe",
         "Aundair"
-      ]
+      ],
+      "img": "img/mission-against-killian-gavrin.jpg"
     },
     {
       "id": "sazed-confides-in-nedira",
@@ -2523,7 +2590,8 @@
         "Shifters",
         "Aundair",
         "Kingsblade"
-      ]
+      ],
+      "img": "img/sazed-confides-in-nedira.jpg"
     },
     {
       "id": "sazeds-nightmare",
@@ -2543,7 +2611,8 @@
         "Sazed",
         "Nightmares",
         "Childhood"
-      ]
+      ],
+      "img": "img/sazeds-nightmare.jpg"
     },
     {
       "id": "liraels-nightmare",
@@ -2564,7 +2633,8 @@
         "Nightmares",
         "Shadow Mirror",
         "Lirael's Father"
-      ]
+      ],
+      "img": "img/liraels-nightmare.jpg"
     },
     {
       "id": "brands-nightmare",
@@ -2585,7 +2655,8 @@
         "Nightmares",
         "Broadhelm Forge",
         "House Cannith"
-      ]
+      ],
+      "img": "img/brands-nightmare.jpg"
     },
     {
       "id": "found-you",
@@ -2629,7 +2700,8 @@
         "Screech",
         "Invisibility Potion",
         "Kingsblade"
-      ]
+      ],
+      "img": "img/blazehelms-whiskey.jpg"
     },
     {
       "id": "the-dying-aundairian",
@@ -2651,7 +2723,8 @@
         "Broadsword",
         "Broadaxe",
         "Valley"
-      ]
+      ],
+      "img": "img/the-dying-aundairian.jpg"
     },
     {
       "id": "the-stray-dog",
@@ -2672,7 +2745,8 @@
         "Scruffy",
         "Dire Wolves",
         "Sazed"
-      ]
+      ],
+      "img": "img/the-stray-dog.jpg"
     },
     {
       "id": "tripwire-and-red-flare",
@@ -2693,7 +2767,8 @@
         "Lirael",
         "Flare Arrows",
         "Aundair"
-      ]
+      ],
+      "img": "img/tripwire-and-red-flare.jpg"
     },
     {
       "id": "harpy-on-the-cliff",
@@ -2715,7 +2790,8 @@
         "Brand",
         "Harpy",
         "Hobgoblins"
-      ]
+      ],
+      "img": "img/harpy-on-the-cliff.jpg"
     },
     {
       "id": "eeeee-the-dwarf-in-a-can",
@@ -2737,7 +2813,8 @@
         "Lirael",
         "Hobgoblins",
         "Dwarf in a Can"
-      ]
+      ],
+      "img": "img/eeeee-the-dwarf-in-a-can.jpg"
     },
     {
       "id": "eeeee-slain",
@@ -2758,7 +2835,8 @@
         "Sazed",
         "Hobgoblin Captain",
         "Bear Trap"
-      ]
+      ],
+      "img": "img/eeeee-slain.jpg"
     },
     {
       "id": "the-owlbear-pit",
@@ -2779,7 +2857,8 @@
         "Sazed",
         "Owlbear",
         "Traps"
-      ]
+      ],
+      "img": "img/the-owlbear-pit.jpg"
     },
     {
       "id": "crossing-the-river",
@@ -2801,7 +2880,8 @@
         "Sazed",
         "Brand",
         "Waterfall"
-      ]
+      ],
+      "img": "img/crossing-the-river.jpg"
     },
     {
       "id": "sazed-rides-the-rotor",
@@ -2823,7 +2903,8 @@
         "Smokepowder",
         "Invisibility Potion",
         "Harpies"
-      ]
+      ],
+      "img": "img/sazed-rides-the-rotor.jpg"
     },
     {
       "id": "broadsword-stolen",
@@ -2869,7 +2950,8 @@
         "Brand",
         "Smoke Elemental",
         "Harpies"
-      ]
+      ],
+      "img": "img/broadaxe-explodes.jpg"
     },
     {
       "id": "chicken-in-the-landing-gear",
@@ -2890,7 +2972,8 @@
         "Ring of Chicken",
         "Broadsword",
         "Blazehelm"
-      ]
+      ],
+      "img": "img/chicken-in-the-landing-gear.jpg"
     },
     {
       "id": "pilot-overboard",
@@ -2912,7 +2995,8 @@
         "Screech",
         "Broadsword",
         "Aundair"
-      ]
+      ],
+      "img": "img/pilot-overboard.jpg"
     },
     {
       "id": "hobgoblin-warlord-below-decks",
@@ -2934,7 +3018,8 @@
         "Brand",
         "Sazed",
         "Lirael"
-      ]
+      ],
+      "img": "img/hobgoblin-warlord-below-decks.jpg"
     },
     {
       "id": "kunai-to-the-rescue",
@@ -2957,7 +3042,8 @@
         "Leff",
         "Sorenson",
         "Keys"
-      ]
+      ],
+      "img": "img/kunai-to-the-rescue.jpg"
     },
     {
       "id": "spoils-of-the-broadsword",
@@ -2979,7 +3065,8 @@
         "Elric",
         "Book of Fire",
         "Hobgoblins"
-      ]
+      ],
+      "img": "img/spoils-of-the-broadsword.jpg"
     },
     {
       "id": "second-prison-erupts",
@@ -3001,7 +3088,8 @@
         "Zombies",
         "Yedani Mountains",
         "Blazehelm"
-      ]
+      ],
+      "img": "img/second-prison-erupts.jpg"
     },
     {
       "id": "three-weeks-of-training",
@@ -3024,7 +3112,8 @@
         "Gelf",
         "Elric",
         "House Thuranni"
-      ]
+      ],
+      "img": "img/three-weeks-of-training.jpg"
     },
     {
       "id": "cromwells-coin-game",
@@ -3047,11 +3136,12 @@
         "Sheldor",
         "Erald",
         "Chester"
-      ]
+      ],
+      "img": "img/cromwells-coin-game.jpg"
     },
     {
       "id": "wroat-and-the-party",
-      "img": "media/floating-city.jpg",
+      "img": "img/wroat-and-the-party.jpg",
       "title": "The Approach to Wroat",
       "year": 993,
       "month": 1,
@@ -3091,7 +3181,8 @@
         "Hobbstweedle",
         "Blazehelm",
         "Broadsword"
-      ]
+      ],
+      "img": "img/hobbstweedle-and-the-moonwatch.jpg"
     },
     {
       "id": "blazehelms-mansion-feast",
@@ -3112,7 +3203,8 @@
         "Sentinels",
         "Bloodworth",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/blazehelms-mansion-feast.jpg"
     },
     {
       "id": "how-blazehelm-knows-lirael",
@@ -3134,7 +3226,8 @@
         "Blazehelm",
         "Magic Society",
         "Shadow Mirror"
-      ]
+      ],
+      "img": "img/how-blazehelm-knows-lirael.jpg"
     },
     {
       "id": "how-blazehelm-knows-brand",
@@ -3156,7 +3249,8 @@
         "Blazehelm",
         "King Ir'Wynarn",
         "Treason"
-      ]
+      ],
+      "img": "img/how-blazehelm-knows-brand.jpg"
     },
     {
       "id": "how-blazehelm-knows-sazed",
@@ -3178,7 +3272,8 @@
         "Eldritch Groves",
         "Loreguards",
         "Shifters"
-      ]
+      ],
+      "img": "img/how-blazehelm-knows-sazed.jpg"
     },
     {
       "id": "the-beholder-illusion",
@@ -3200,7 +3295,8 @@
         "Beholder",
         "Cromwell",
         "Blazehelm's Mansion"
-      ]
+      ],
+      "img": "img/the-beholder-illusion.jpg"
     },
     {
       "id": "the-quiet-room",
@@ -3222,7 +3318,8 @@
         "Clockwork",
         "Gelf",
         "Elric"
-      ]
+      ],
+      "img": "img/the-quiet-room.jpg"
     },
     {
       "id": "music-room-and-xendrik",
@@ -3244,7 +3341,8 @@
         "Xen'drik",
         "Smarmy Joe",
         "Duergar"
-      ]
+      ],
+      "img": "img/music-room-and-xendrik.jpg"
     },
     {
       "id": "gnome-pranks",
@@ -3265,7 +3363,8 @@
         "Brand",
         "Smildar Paxon",
         "Gnomes"
-      ]
+      ],
+      "img": "img/gnome-pranks.jpg"
     },
     {
       "id": "quasit-in-the-closet",
@@ -3287,7 +3386,8 @@
         "Lirael",
         "Hat of Slight Disguise",
         "Ring of Random Language"
-      ]
+      ],
+      "img": "img/quasit-in-the-closet.jpg"
     },
     {
       "id": "sorensons-song",
@@ -3308,7 +3408,8 @@
         "Shmem",
         "Feldor Windrake",
         "Music"
-      ]
+      ],
+      "img": "img/sorensons-song.jpg"
     },
     {
       "id": "brand-and-smarmy-joe",
@@ -3330,7 +3431,8 @@
         "Lirael",
         "Gnomes",
         "Bullywugs"
-      ]
+      ],
+      "img": "img/brand-and-smarmy-joe.jpg"
     },
     {
       "id": "sazed-and-nedira-prowlstone",
@@ -3352,7 +3454,8 @@
         "Prowlstone",
         "Shifters",
         "Boranex"
-      ]
+      ],
+      "img": "img/sazed-and-nedira-prowlstone.jpg"
     },
     {
       "id": "the-gnome-kitchen",
@@ -3374,7 +3477,8 @@
         "Brand",
         "Lirael",
         "Khyber Powder"
-      ]
+      ],
+      "img": "img/the-gnome-kitchen.jpg"
     },
     {
       "id": "dwarven-roulette",
@@ -3395,7 +3499,8 @@
         "Spingus Dillguard",
         "Gnomes",
         "Dwarven Roulette"
-      ]
+      ],
+      "img": "img/dwarven-roulette.jpg"
     },
     {
       "id": "quasits-in-the-storage-room",
@@ -3417,7 +3522,8 @@
         "Brand",
         "Lirael",
         "Janitor's Key"
-      ]
+      ],
+      "img": "img/quasits-in-the-storage-room.jpg"
     },
     {
       "id": "spingus-dumbwaiter-deal",
@@ -3438,7 +3544,8 @@
         "Dumbwaiter",
         "Lirael",
         "Generals"
-      ]
+      ],
+      "img": "img/spingus-dumbwaiter-deal.jpg"
     },
     {
       "id": "the-puppet-quasit-chase",
@@ -3460,7 +3567,8 @@
         "Sazed",
         "Gnomes",
         "Dumbwaiter"
-      ]
+      ],
+      "img": "img/the-puppet-quasit-chase.jpg"
     },
     {
       "id": "the-potion-room",
@@ -3481,7 +3589,8 @@
         "Sazed",
         "Potion of Invisibility",
         "Potion Recipes"
-      ]
+      ],
+      "img": "img/the-potion-room.jpg"
     },
     {
       "id": "paxons-room-and-the-teleporter",
@@ -3503,7 +3612,8 @@
         "Lirael",
         "Brand",
         "Sazed"
-      ]
+      ],
+      "img": "img/paxons-room-and-the-teleporter.jpg"
     },
     {
       "id": "flatulence-for-paxon",
@@ -3524,7 +3634,8 @@
         "Spingus Dillguard",
         "Gnomes",
         "Potion of Flatulence"
-      ]
+      ],
+      "img": "img/flatulence-for-paxon.jpg"
     },
     {
       "id": "valhalla-eriksson-ball-bearings",
@@ -3545,7 +3656,8 @@
         "Spingus Dillguard",
         "Brand",
         "Sazed"
-      ]
+      ],
+      "img": "img/valhalla-eriksson-ball-bearings.jpg"
     },
     {
       "id": "tauren-finds-faith",
@@ -3568,7 +3680,8 @@
         "Blood of Vol",
         "Keys",
         "Scruffy"
-      ]
+      ],
+      "img": "img/tauren-finds-faith.jpg"
     },
     {
       "id": "sauna-with-dyll-strickland",
@@ -3589,7 +3702,8 @@
         "Lirael",
         "Tauren",
         "Dragonborn"
-      ]
+      ],
+      "img": "img/sauna-with-dyll-strickland.jpg"
     },
     {
       "id": "halfling-card-game",
@@ -3610,7 +3724,8 @@
         "Beazle",
         "Lirael",
         "Halfling Pilots"
-      ]
+      ],
+      "img": "img/halfling-card-game.jpg"
     },
     {
       "id": "blazehelm-and-the-sentinels-band",
@@ -3631,7 +3746,8 @@
         "Smarmy Joe",
         "Brand",
         "Music"
-      ]
+      ],
+      "img": "img/blazehelm-and-the-sentinels-band.jpg"
     },
     {
       "id": "flooded-house",
@@ -3675,7 +3791,8 @@
         "Hobbstweedle",
         "Locked House",
         "Keys"
-      ]
+      ],
+      "img": "img/locked-in-by-metal-plates.jpg"
     },
     {
       "id": "warforged-in-the-dining-room",
@@ -3697,7 +3814,8 @@
         "Brand",
         "Sazed",
         "Training"
-      ]
+      ],
+      "img": "img/warforged-in-the-dining-room.jpg"
     },
     {
       "id": "polar-bear-in-the-ceiling",
@@ -3718,7 +3836,8 @@
         "Keys",
         "Polar Bear",
         "Brand's Workshop"
-      ]
+      ],
+      "img": "img/polar-bear-in-the-ceiling.jpg"
     },
     {
       "id": "the-mirrored-door",
@@ -3740,7 +3859,8 @@
         "Bag of Devouring",
         "Stabilizing Syringes",
         "Red Key"
-      ]
+      ],
+      "img": "img/the-mirrored-door.jpg"
     },
     {
       "id": "the-stables-timer",
@@ -3762,7 +3882,8 @@
         "Sazed",
         "Lirael",
         "Stables"
-      ]
+      ],
+      "img": "img/the-stables-timer.jpg"
     },
     {
       "id": "the-four-potions",
@@ -3783,7 +3904,8 @@
         "Potions",
         "See Invisibility",
         "Invisible Key"
-      ]
+      ],
+      "img": "img/the-four-potions.jpg"
     },
     {
       "id": "the-strange-rooms",
@@ -3804,7 +3926,8 @@
         "Lirael",
         "Brand",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/the-strange-rooms.jpg"
     },
     {
       "id": "dyll-strickland-dressing-down",
@@ -3826,7 +3949,8 @@
         "Clockwork",
         "Training",
         "Gnomes"
-      ]
+      ],
+      "img": "img/dyll-strickland-dressing-down.jpg"
     },
     {
       "id": "the-five-mile-run",
@@ -3847,7 +3971,8 @@
         "Gelf",
         "Dyll Strickland",
         "Training"
-      ]
+      ],
+      "img": "img/the-five-mile-run.jpg"
     },
     {
       "id": "obstacle-course-begins",
@@ -3869,7 +3994,8 @@
         "Keys",
         "Dyll Strickland",
         "Obstacle Course"
-      ]
+      ],
+      "img": "img/obstacle-course-begins.jpg"
     },
     {
       "id": "liraels-rod-and-chicken",
@@ -3890,7 +4016,8 @@
         "Immovable Rod",
         "Ring of Chicken",
         "Obstacle Course"
-      ]
+      ],
+      "img": "img/liraels-rod-and-chicken.jpg"
     },
     {
       "id": "liraels-first-flag",
@@ -3910,7 +4037,8 @@
         "Lirael",
         "Dyll Strickland",
         "Obstacle Course"
-      ]
+      ],
+      "img": "img/liraels-first-flag.jpg"
     },
     {
       "id": "keys-the-shark",
@@ -3930,7 +4058,8 @@
         "Keys",
         "Brand",
         "Obstacle Course"
-      ]
+      ],
+      "img": "img/keys-the-shark.jpg"
     },
     {
       "id": "sazed-throws-the-keys",
@@ -3952,7 +4081,8 @@
         "Keys",
         "Sorenson",
         "Obstacle Course"
-      ]
+      ],
+      "img": "img/sazed-throws-the-keys.jpg"
     },
     {
       "id": "brand-and-the-npcs-finish",
@@ -3974,7 +4104,8 @@
         "Leff",
         "Tauren",
         "Dyll Strickland"
-      ]
+      ],
+      "img": "img/brand-and-the-npcs-finish.jpg"
     },
     {
       "id": "gnome-cleaning-argument",
@@ -3994,7 +4125,8 @@
         "Brand",
         "Gnomes",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/gnome-cleaning-argument.jpg"
     },
     {
       "id": "quasit-thieves",
@@ -4015,7 +4147,8 @@
         "Brand",
         "Quasits",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/quasit-thieves.jpg"
     },
     {
       "id": "sheldor-tells-of-xendrik",
@@ -4036,7 +4169,8 @@
         "Sazed",
         "Xen'drik",
         "Shifters"
-      ]
+      ],
+      "img": "img/sheldor-tells-of-xendrik.jpg"
     },
     {
       "id": "leff-skullcrusher",
@@ -4057,7 +4191,8 @@
         "Brand",
         "Skullcrusher",
         "DarkWood Prison"
-      ]
+      ],
+      "img": "img/leff-skullcrusher.jpg"
     },
     {
       "id": "herbalist-kit-retcon",
@@ -4079,7 +4214,8 @@
         "Potion Recipes",
         "Herbalist Kit",
         "Wroat"
-      ]
+      ],
+      "img": "img/herbalist-kit-retcon.jpg"
     },
     {
       "id": "tauren-cannot-read",
@@ -4099,7 +4235,8 @@
         "Tauren",
         "Sazed",
         "Reading"
-      ]
+      ],
+      "img": "img/tauren-cannot-read.jpg"
     },
     {
       "id": "quasit-village-found",
@@ -4121,7 +4258,8 @@
         "Imps",
         "Cambions",
         "Demon Village"
-      ]
+      ],
+      "img": "img/quasit-village-found.jpg"
     },
     {
       "id": "gelfs-requisitions",
@@ -4143,7 +4281,8 @@
         "House Thuranni",
         "Deckard D'Thuranni",
         "Pillar of Dawn"
-      ]
+      ],
+      "img": "img/gelfs-requisitions.jpg"
     },
     {
       "id": "invisible-over-the-demon-village",
@@ -4165,7 +4304,8 @@
         "Brand",
         "Demon Village",
         "Invisibility Potion"
-      ]
+      ],
+      "img": "img/invisible-over-the-demon-village.jpg"
     },
     {
       "id": "invisible-approach-demon-village",
@@ -4187,7 +4327,8 @@
         "Lirael",
         "Imps",
         "Boranex"
-      ]
+      ],
+      "img": "img/invisible-approach-demon-village.jpg"
     },
     {
       "id": "brand-greets-a-quasit",
@@ -4208,7 +4349,8 @@
         "Quasits",
         "Imps",
         "Boranex"
-      ]
+      ],
+      "img": "img/brand-greets-a-quasit.jpg"
     },
     {
       "id": "demon-village",
@@ -4253,7 +4395,8 @@
         "Sazed",
         "Portal",
         "Demons"
-      ]
+      ],
+      "img": "img/cambion-confession.jpg"
     },
     {
       "id": "bells-beans-and-sentinel-gear",
@@ -4274,7 +4417,8 @@
         "Sentinels",
         "Boranex",
         "Loot"
-      ]
+      ],
+      "img": "img/bells-beans-and-sentinel-gear.jpg"
     },
     {
       "id": "broken-portal",
@@ -4317,7 +4461,8 @@
         "Lirael",
         "Blazehelm",
         "Portal"
-      ]
+      ],
+      "img": "img/whiskey-and-a-napkin.jpg"
     },
     {
       "id": "paxon-nerds-out",
@@ -4339,7 +4484,8 @@
         "Portal",
         "Brand",
         "Sazed"
-      ]
+      ],
+      "img": "img/paxon-nerds-out.jpg"
     },
     {
       "id": "coffee-geyser-bean",
@@ -4359,7 +4505,8 @@
         "Magic Beans",
         "Coffee",
         "Boranex"
-      ]
+      ],
+      "img": "img/coffee-geyser-bean.jpg"
     },
     {
       "id": "erald-fart-debrief",
@@ -4380,7 +4527,8 @@
         "Chester",
         "Paxon",
         "High Marshalls"
-      ]
+      ],
+      "img": "img/erald-fart-debrief.jpg"
     },
     {
       "id": "morkoth-in-the-workshop",
@@ -4402,7 +4550,8 @@
         "Bag of Devouring",
         "Brand",
         "Sazed"
-      ]
+      ],
+      "img": "img/morkoth-in-the-workshop.jpg"
     },
     {
       "id": "morkoth-rope-expedition",
@@ -4425,7 +4574,8 @@
         "Sheldor",
         "Leff",
         "Tauren"
-      ]
+      ],
+      "img": "img/morkoth-rope-expedition.jpg"
     },
     {
       "id": "sheldor-wants-back-in",
@@ -4447,7 +4597,8 @@
         "Bag of Devouring",
         "Leff",
         "Keys"
-      ]
+      ],
+      "img": "img/sheldor-wants-back-in.jpg"
     },
     {
       "id": "sheldor-and-the-bag",
@@ -4492,7 +4643,8 @@
         "Dreamweaver",
         "Horn of Silent Alarm",
         "Lirael"
-      ]
+      ],
+      "img": "img/horn-of-silent-alarm.jpg"
     },
     {
       "id": "keys-mauls-the-spellcaster",
@@ -4514,7 +4666,8 @@
         "Sheldor",
         "Cromwell",
         "Tauren"
-      ]
+      ],
+      "img": "img/keys-mauls-the-spellcaster.jpg"
     },
     {
       "id": "stables-interrogation",
@@ -4537,7 +4690,8 @@
         "Sorenson",
         "Gelf",
         "Elric"
-      ]
+      ],
+      "img": "img/stables-interrogation.jpg"
     },
     {
       "id": "breakfast-at-gelfs",
@@ -4559,7 +4713,8 @@
         "Screech",
         "Lirael",
         "Sorenson"
-      ]
+      ],
+      "img": "img/breakfast-at-gelfs.jpg"
     },
     {
       "id": "code-orange",
@@ -4581,7 +4736,8 @@
         "Feldor",
         "Eloria",
         "Paxon"
-      ]
+      ],
+      "img": "img/code-orange.jpg"
     },
     {
       "id": "lug-murzog-revived",
@@ -4604,7 +4760,8 @@
         "Feldor",
         "Eloria",
         "Cromwell"
-      ]
+      ],
+      "img": "img/lug-murzog-revived.jpg"
     },
     {
       "id": "dreamweaver-speaks",
@@ -4650,7 +4807,8 @@
         "Sheldor",
         "Charlie Trundle",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/back-to-training-as-normal.jpg"
     },
     {
       "id": "fathers-library-card",
@@ -4693,7 +4851,8 @@
         "Shifters",
         "Inquisition",
         "Wroat"
-      ]
+      ],
+      "img": "img/stolen-shifter-books.jpg"
     },
     {
       "id": "library-cards-for-everyone",
@@ -4714,7 +4873,8 @@
         "Tauren",
         "Wroat",
         "Library"
-      ]
+      ],
+      "img": "img/library-cards-for-everyone.jpg"
     },
     {
       "id": "brand-possessed",
@@ -4758,7 +4918,8 @@
         "Brand",
         "Imps",
         "Dreamweaver"
-      ]
+      ],
+      "img": "img/screech-taken.jpg"
     },
     {
       "id": "gelf-fights-free",
@@ -4780,7 +4941,8 @@
         "Brand",
         "Elric",
         "Screech"
-      ]
+      ],
+      "img": "img/gelf-fights-free.jpg"
     },
     {
       "id": "bellatrix-shot",
@@ -4802,7 +4964,8 @@
         "Elric",
         "Gelf",
         "Clockwork"
-      ]
+      ],
+      "img": "img/bellatrix-shot.jpg"
     },
     {
       "id": "gelf-into-the-astral-sea",
@@ -4823,7 +4986,8 @@
         "Brand",
         "Astral Sea",
         "Bag of Devouring"
-      ]
+      ],
+      "img": "img/gelf-into-the-astral-sea.jpg"
     },
     {
       "id": "hunky-dory",
@@ -4845,7 +5009,8 @@
         "Warforged",
         "Gelf",
         "Screech"
-      ]
+      ],
+      "img": "img/hunky-dory.jpg"
     },
     {
       "id": "house-burns-flight-to-airfield",
@@ -4867,7 +5032,8 @@
         "Elric",
         "Screech",
         "Book of Fire"
-      ]
+      ],
+      "img": "img/house-burns-flight-to-airfield.jpg"
     },
     {
       "id": "caught-at-the-village-gate",
@@ -4889,7 +5055,8 @@
         "Cromwell",
         "Brand",
         "Clockwork"
-      ]
+      ],
+      "img": "img/caught-at-the-village-gate.jpg"
     },
     {
       "id": "empty-jail-blood-trail",
@@ -4912,7 +5079,8 @@
         "Clockwork",
         "Broadsword",
         "Kingsblade"
-      ]
+      ],
+      "img": "img/empty-jail-blood-trail.jpg"
     },
     {
       "id": "kingsblade-hijack",
@@ -4958,7 +5126,8 @@
         "Paxon",
         "Lug Murzog",
         "Blazehelm"
-      ]
+      ],
+      "img": "img/bellatrix-revived.jpg"
     },
     {
       "id": "brand-dies-a-little",
@@ -4980,7 +5149,8 @@
         "Paxon",
         "Eloria",
         "Monty O'Brien"
-      ]
+      ],
+      "img": "img/brand-dies-a-little.jpg"
     },
     {
       "id": "clockwork-lassos-gelf",
@@ -5002,7 +5172,8 @@
         "Brand",
         "Kingsblade",
         "Citadel"
-      ]
+      ],
+      "img": "img/clockwork-lassos-gelf.jpg"
     },
     {
       "id": "into-the-dream-plane",
@@ -5023,7 +5194,8 @@
         "Eloria",
         "Dreamweaver",
         "Dream"
-      ]
+      ],
+      "img": "img/into-the-dream-plane.jpg"
     },
     {
       "id": "dream-eater",
@@ -5068,7 +5240,8 @@
         "Lirael",
         "Gelf",
         "Dream"
-      ]
+      ],
+      "img": "img/brass-dragon-in-the-dream.jpg"
     },
     {
       "id": "escape-the-collapsing-dream",
@@ -5090,7 +5263,8 @@
         "Lirael",
         "Brand",
         "Sazed"
-      ]
+      ],
+      "img": "img/escape-the-collapsing-dream.jpg"
     },
     {
       "id": "friends-come-back",
@@ -5113,7 +5287,8 @@
         "Charlie Trundle",
         "Sheldor",
         "Screech"
-      ]
+      ],
+      "img": "img/friends-come-back.jpg"
     },
     {
       "id": "blazehelms-personal-guard",
@@ -5136,7 +5311,8 @@
         "Sorenson",
         "Tauren",
         "Bellatrix"
-      ]
+      ],
+      "img": "img/blazehelms-personal-guard.jpg"
     },
     {
       "id": "mind-control-training",
@@ -5159,7 +5335,8 @@
         "Eloria",
         "Feldor",
         "Dyll Strickland"
-      ]
+      ],
+      "img": "img/mind-control-training.jpg"
     },
     {
       "id": "fireworks-speech",
@@ -5203,7 +5380,8 @@
         "Bellatrix",
         "Gelf",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/nobody-else-possessed.jpg"
     },
     {
       "id": "screechs-model-broadsword",
@@ -5225,7 +5403,8 @@
         "Gelf",
         "Bellatrix",
         "Broadsword"
-      ]
+      ],
+      "img": "img/screechs-model-broadsword.jpg"
     },
     {
       "id": "sazed-trance-research",
@@ -5246,7 +5425,8 @@
         "Starilaskur",
         "Dreamweaver",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/sazed-trance-research.jpg"
     },
     {
       "id": "lirael-first-flight",
@@ -5266,7 +5446,8 @@
         "Lirael",
         "Screech",
         "Shuriken"
-      ]
+      ],
+      "img": "img/lirael-first-flight.jpg"
     },
     {
       "id": "lirael-learns-to-fly",
@@ -5308,7 +5489,8 @@
         "Brand",
         "Clockwork",
         "Warforged"
-      ]
+      ],
+      "img": "img/clockwork-on-sentimentality.jpg"
     },
     {
       "id": "rune-wakes-the-spellcaster",
@@ -5330,7 +5512,8 @@
         "Warforged",
         "Rune",
         "Book of Fire"
-      ]
+      ],
+      "img": "img/rune-wakes-the-spellcaster.jpg"
     },
     {
       "id": "limbs-for-faird",
@@ -5351,7 +5534,8 @@
         "Brand",
         "Clockwork",
         "Warforged"
-      ]
+      ],
+      "img": "img/limbs-for-faird.jpg"
     },
     {
       "id": "monty-elemental-engines",
@@ -5372,7 +5556,8 @@
         "Brand",
         "Kingsblade",
         "Elemental Engines"
-      ]
+      ],
+      "img": "img/monty-elemental-engines.jpg"
     },
     {
       "id": "letter-from-meriel",
@@ -5394,7 +5579,8 @@
         "Lirael",
         "Lirael Sr",
         "Daily Grind"
-      ]
+      ],
+      "img": "img/letter-from-meriel.jpg"
     },
     {
       "id": "plants-have-souls",
@@ -5415,7 +5601,8 @@
         "Brand",
         "Potions",
         "Herbalism"
-      ]
+      ],
+      "img": "img/plants-have-souls.jpg"
     },
     {
       "id": "larkleaf-grow-op",
@@ -5435,7 +5622,8 @@
         "Sazed",
         "Brand",
         "Larkleaf"
-      ]
+      ],
+      "img": "img/larkleaf-grow-op.jpg"
     },
     {
       "id": "meriel-on-the-bridge",
@@ -5478,7 +5666,8 @@
         "Military Police",
         "The Even Hand",
         "Wroat"
-      ]
+      ],
+      "img": "img/wait-im-a-sentinel.jpg"
     },
     {
       "id": "mercy-at-the-library",
@@ -5499,7 +5688,8 @@
         "Lirael",
         "Lirael Sr",
         "Wroat"
-      ]
+      ],
+      "img": "img/mercy-at-the-library.jpg"
     },
     {
       "id": "the-even-hand-named",
@@ -5544,7 +5734,8 @@
         "Gauss Hog",
         "Murphy Gravewood",
         "Ardev"
-      ]
+      ],
+      "img": "img/royal-ardev-regiment.jpg"
     },
     {
       "id": "nedira-signals-training",
@@ -5565,7 +5756,8 @@
         "Sazed",
         "Prowlstone",
         "Boranex"
-      ]
+      ],
+      "img": "img/nedira-signals-training.jpg"
     },
     {
       "id": "mercy-and-the-records",
@@ -5608,7 +5800,8 @@
         "Tauren",
         "Leff",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/eloria-speak-with-dead.jpg"
     },
     {
       "id": "chief-torg",
@@ -5630,7 +5823,8 @@
         "Gauss Hog",
         "Kal",
         "Wroat"
-      ]
+      ],
+      "img": "img/chief-torg.jpg"
     },
     {
       "id": "meriel-speaks-from-the-morgue",
@@ -5651,7 +5845,8 @@
         "Lirael Sr",
         "Obelisk",
         "Wroat"
-      ]
+      ],
+      "img": "img/meriel-speaks-from-the-morgue.jpg"
     },
     {
       "id": "murphys-house",
@@ -5672,7 +5867,8 @@
         "The Even Hand",
         "Wroat",
         "Police"
-      ]
+      ],
+      "img": "img/murphys-house.jpg"
     },
     {
       "id": "binocular-glint-chase",
@@ -5694,7 +5890,8 @@
         "Lirael",
         "The Even Hand",
         "Wroat"
-      ]
+      ],
+      "img": "img/binocular-glint-chase.jpg"
     },
     {
       "id": "gauss-house-explodes",
@@ -5739,7 +5936,8 @@
         "Click Clack",
         "Brand",
         "Lirael"
-      ]
+      ],
+      "img": "img/standoff-at-kals-house.jpg"
     },
     {
       "id": "kal-killed-on-the-street",
@@ -5761,7 +5959,8 @@
         "Sazed",
         "Brand",
         "Lirael"
-      ]
+      ],
+      "img": "img/kal-killed-on-the-street.jpg"
     },
     {
       "id": "hunger-of-hadar-assassins",
@@ -5783,7 +5982,8 @@
         "The Even Hand",
         "Kal",
         "Hunger of Hadar"
-      ]
+      ],
+      "img": "img/hunger-of-hadar-assassins.jpg"
     },
     {
       "id": "even-hand-unmasked",
@@ -5828,7 +6028,8 @@
         "Lirael",
         "Meriel",
         "Click Clack"
-      ]
+      ],
+      "img": "img/obelisk-in-meriels-bag.jpg"
     },
     {
       "id": "click-clack-resigns",
@@ -5849,7 +6050,8 @@
         "Chief Torg",
         "Wroat",
         "Police"
-      ]
+      ],
+      "img": "img/click-clack-resigns.jpg"
     },
     {
       "id": "the-master-key",
@@ -5870,7 +6072,8 @@
         "Lirael",
         "Chief Torg",
         "Wroat"
-      ]
+      ],
+      "img": "img/the-master-key.jpg"
     },
     {
       "id": "gauss-hog-survives",
@@ -5892,7 +6095,8 @@
         "Brand",
         "Sazed",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/gauss-hog-survives.jpg"
     },
     {
       "id": "gauss-hogs-story",
@@ -5915,7 +6119,8 @@
         "Balor",
         "Blazehelm",
         "Portal"
-      ]
+      ],
+      "img": "img/gauss-hogs-story.jpg"
     },
     {
       "id": "imps-firebomb-the-house",
@@ -5937,7 +6142,8 @@
         "Sazed",
         "Clockwork",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/imps-firebomb-the-house.jpg"
     },
     {
       "id": "rolicks-dust",
@@ -5959,7 +6165,8 @@
         "Sazed",
         "Imps",
         "Rolick"
-      ]
+      ],
+      "img": "img/rolicks-dust.jpg"
     },
     {
       "id": "gentle-repose-form",
@@ -5980,7 +6187,8 @@
         "Eleanor",
         "Kal",
         "Paxon"
-      ]
+      ],
+      "img": "img/gentle-repose-form.jpg"
     },
     {
       "id": "ardev-song-on-the-piano",
@@ -6001,7 +6209,8 @@
         "Eloria",
         "Ardev",
         "Kal"
-      ]
+      ],
+      "img": "img/ardev-song-on-the-piano.jpg"
     },
     {
       "id": "obelisk-rune-dream",
@@ -6023,7 +6232,8 @@
         "Lirael",
         "Sazed",
         "Dreamweaver"
-      ]
+      ],
+      "img": "img/obelisk-rune-dream.jpg"
     },
     {
       "id": "rune-transmits",
@@ -6066,7 +6276,8 @@
         "Boranex",
         "Gauss Hog",
         "Royal Ardev Regiment"
-      ]
+      ],
+      "img": "img/circle-blast-marks.jpg"
     },
     {
       "id": "the-old-imp",
@@ -6086,7 +6297,8 @@
         "Imps",
         "Boranex",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/the-old-imp.jpg"
     },
     {
       "id": "brew-and-ale-farewell",
@@ -6109,7 +6321,8 @@
         "Sheldor",
         "Keys",
         "Sorenson"
-      ]
+      ],
+      "img": "img/brew-and-ale-farewell.jpg"
     },
     {
       "id": "dancing-with-eloria",
@@ -6131,7 +6344,8 @@
         "Eleanor",
         "Gauss Hog",
         "Brand"
-      ]
+      ],
+      "img": "img/dancing-with-eloria.jpg"
     },
     {
       "id": "rigged-chicken-races",
@@ -6152,7 +6366,8 @@
         "Screech",
         "Keys",
         "Deep Gnomes"
-      ]
+      ],
+      "img": "img/rigged-chicken-races.jpg"
     },
     {
       "id": "gelf-brand-rematch",
@@ -6172,7 +6387,8 @@
         "Gelf",
         "Brand",
         "Brew and Ale"
-      ]
+      ],
+      "img": "img/gelf-brand-rematch.jpg"
     },
     {
       "id": "brand-walks-eleanor-home",
@@ -6193,7 +6409,8 @@
         "Eleanor",
         "Sazed",
         "Lirael"
-      ]
+      ],
+      "img": "img/brand-walks-eleanor-home.jpg"
     },
     {
       "id": "prison-nightmare-brass-dragon",
@@ -6215,7 +6432,8 @@
         "Brand",
         "Lirael",
         "Nightmare"
-      ]
+      ],
+      "img": "img/prison-nightmare-brass-dragon.jpg"
     },
     {
       "id": "hangover-and-dyll",
@@ -6237,7 +6455,8 @@
         "Tauren",
         "Leff",
         "Sheldor"
-      ]
+      ],
+      "img": "img/hangover-and-dyll.jpg"
     },
     {
       "id": "fighting-shadow-selves",
@@ -6260,7 +6479,8 @@
         "Feldor",
         "Eloria",
         "Dream"
-      ]
+      ],
+      "img": "img/fighting-shadow-selves.jpg"
     },
     {
       "id": "silence-arrow-in-the-door",
@@ -6280,7 +6500,8 @@
         "The Even Hand",
         "Hobbstweedle",
         "Silence Arrow"
-      ]
+      ],
+      "img": "img/silence-arrow-in-the-door.jpg"
     },
     {
       "id": "tracks-into-the-sewers",
@@ -6301,7 +6522,8 @@
         "Clockwork",
         "Leff",
         "Sewers"
-      ]
+      ],
+      "img": "img/tracks-into-the-sewers.jpg"
     },
     {
       "id": "sewer-map-stolen",
@@ -6323,7 +6545,8 @@
         "Paxon",
         "Sewers",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/sewer-map-stolen.jpg"
     },
     {
       "id": "bellatrix-sent-home",
@@ -6343,7 +6566,8 @@
         "Bellatrix",
         "Gelf",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/bellatrix-sent-home.jpg"
     },
     {
       "id": "sasquatch-bucket-prank",
@@ -6363,7 +6587,8 @@
         "Dyll Strickland",
         "Gnomes",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/sasquatch-bucket-prank.jpg"
     },
     {
       "id": "brands-church-service",
@@ -6385,7 +6610,8 @@
         "Skyfire Raid",
         "Aundair",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/brands-church-service.jpg"
     },
     {
       "id": "erald-delivers-the-map",
@@ -6405,7 +6631,8 @@
         "Erald",
         "Paxon",
         "Sewers"
-      ]
+      ],
+      "img": "img/erald-delivers-the-map.jpg"
     },
     {
       "id": "paxon-painting-heist",
@@ -6450,7 +6677,8 @@
         "Clockwork",
         "Paxon",
         "Scroll of Facsimile"
-      ]
+      ],
+      "img": "img/eloria-and-clockwork-join-prank.jpg"
     },
     {
       "id": "potion-room-amulet",
@@ -6471,7 +6699,8 @@
         "Amulet of Compulsive Truth",
         "Comprehend Languages",
         "Mansion"
-      ]
+      ],
+      "img": "img/potion-room-amulet.jpg"
     },
     {
       "id": "tomb-of-centarrel",
@@ -6515,7 +6744,8 @@
         "Thaldamir",
         "Gelf",
         "Tomb of Centarrel"
-      ]
+      ],
+      "img": "img/graves-of-the-fathers.jpg"
     },
     {
       "id": "clockwork-wyrmlings",
@@ -6536,7 +6766,8 @@
         "Tomb of Centarrel",
         "Hobbstweedle",
         "Dragons"
-      ]
+      ],
+      "img": "img/clockwork-wyrmlings.jpg"
     },
     {
       "id": "after-the-walls-fell",
@@ -6558,7 +6789,8 @@
         "Sentinels",
         "Khorvaire",
         "Wroat"
-      ]
+      ],
+      "img": "img/after-the-walls-fell.jpg"
     },
     {
       "id": "beholder-illusion",
@@ -6579,7 +6811,8 @@
         "Paxon",
         "Gnomes",
         "Mansion"
-      ]
+      ],
+      "img": "img/beholder-illusion.jpg"
     },
     {
       "id": "portrait-unveiled",
@@ -6601,7 +6834,8 @@
         "Dyll Strickland",
         "Spingus",
         "Gnomes"
-      ]
+      ],
+      "img": "img/portrait-unveiled.jpg"
     },
     {
       "id": "bellatrix-is-dead",
@@ -6643,7 +6877,8 @@
         "Blazehelm",
         "Paxon",
         "Brand"
-      ]
+      ],
+      "img": "img/why-blazehelm-trusts-paxon.jpg"
     },
     {
       "id": "goodbyes-at-the-airfield",
@@ -6664,7 +6899,8 @@
         "Karrnath",
         "Moonwatch",
         "Hobbstweedle"
-      ]
+      ],
+      "img": "img/goodbyes-at-the-airfield.jpg"
     },
     {
       "id": "moonwatch-crew-roles",
@@ -6686,7 +6922,8 @@
         "Beazle",
         "Sorenson",
         "Erald"
-      ]
+      ],
+      "img": "img/moonwatch-crew-roles.jpg"
     },
     {
       "id": "parting-gifts",
@@ -6709,7 +6946,8 @@
         "Sheldor",
         "Wildheart Claw",
         "Bloodwell Vial"
-      ]
+      ],
+      "img": "img/parting-gifts.jpg"
     },
     {
       "id": "moonwatch-departs",
@@ -6756,7 +6994,8 @@
         "Screech",
         "Beezel",
         "Chester"
-      ]
+      ],
+      "img": "img/lift-off-for-ardev.jpg"
     },
     {
       "id": "evil-in-the-mirrors",
@@ -6801,7 +7040,8 @@
         "Brand",
         "Mirrors",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/detour-over-yedani-prison.jpg"
     },
     {
       "id": "sorenson-confides",
@@ -6824,7 +7064,8 @@
         "Beezel",
         "Sentinels",
         "Dreamweaver"
-      ]
+      ],
+      "img": "img/sorenson-confides.jpg"
     },
     {
       "id": "the-fourth-look",
@@ -6846,7 +7087,8 @@
         "Brand",
         "Sazed",
         "Beezel"
-      ]
+      ],
+      "img": "img/the-fourth-look.jpg"
     },
     {
       "id": "cromwell-the-stowaway",
@@ -6866,7 +7108,8 @@
         "Cromwell",
         "Sorenson",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/cromwell-the-stowaway.jpg"
     },
     {
       "id": "mirrors-overboard",
@@ -6887,7 +7130,8 @@
         "Chester",
         "Sazed",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/mirrors-overboard.jpg"
     },
     {
       "id": "beezel-and-the-books",
@@ -6906,7 +7150,8 @@
       "tags": [
         "Beezel",
         "Sazed"
-      ]
+      ],
+      "img": "img/beezel-and-the-books.jpg"
     },
     {
       "id": "dandys-dinner",
@@ -6928,7 +7173,8 @@
         "Spingus",
         "Ardev",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/dandys-dinner.jpg"
     },
     {
       "id": "canuck-songs",
@@ -6950,7 +7196,8 @@
         "Dandy",
         "Beezel",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/canuck-songs.jpg"
     },
     {
       "id": "the-cookie-feud",
@@ -6972,7 +7219,8 @@
         "Lirael",
         "Sazed",
         "Brand"
-      ]
+      ],
+      "img": "img/the-cookie-feud.jpg"
     },
     {
       "id": "steve-the-skycracker",
@@ -7019,7 +7267,8 @@
         "Dragons Claw",
         "Sazed",
         "Erald"
-      ]
+      ],
+      "img": "img/a-cold-welcome-to-ardev.jpg"
     },
     {
       "id": "farks-bargain-whores",
@@ -7042,7 +7291,8 @@
         "Mustang",
         "Lirael",
         "Ardev"
-      ]
+      ],
+      "img": "img/farks-bargain-whores.jpg"
     },
     {
       "id": "the-murderers-home",
@@ -7064,7 +7314,8 @@
         "Felicia Jr",
         "Silver Flame",
         "Ardev"
-      ]
+      ],
+      "img": "img/the-murderers-home.jpg"
     },
     {
       "id": "fathers-den",
@@ -7110,7 +7361,8 @@
         "The Gate",
         "Shadow Mirror",
         "Beware of Knowledge"
-      ]
+      ],
+      "img": "img/runes-on-the-obelisk.jpg"
     },
     {
       "id": "the-last-poem",
@@ -7131,7 +7383,8 @@
         "Obelisk",
         "Lirael",
         "Ardev"
-      ]
+      ],
+      "img": "img/the-last-poem.jpg"
     },
     {
       "id": "the-mad-library-puzzle",
@@ -7152,7 +7405,8 @@
         "Lirael",
         "Anti-magic",
         "Ardev"
-      ]
+      ],
+      "img": "img/the-mad-library-puzzle.jpg"
     },
     {
       "id": "slaad-dad",
@@ -7197,7 +7451,8 @@
         "Sazed",
         "Brand",
         "Lirael"
-      ]
+      ],
+      "img": "img/chimney-ambush.jpg"
     },
     {
       "id": "the-secret-office",
@@ -7219,7 +7474,8 @@
         "Slaad",
         "Brand",
         "Wroat"
-      ]
+      ],
+      "img": "img/the-secret-office.jpg"
     },
     {
       "id": "mother-under-suggestion",
@@ -7240,7 +7496,8 @@
         "Lirael",
         "Moonwatch",
         "Mirrors"
-      ]
+      ],
+      "img": "img/mother-under-suggestion.jpg"
     },
     {
       "id": "i-pray-the-worst-has-come",
@@ -7261,7 +7518,8 @@
         "Lirael Sr",
         "Lirael",
         "Beware of Knowledge"
-      ]
+      ],
+      "img": "img/i-pray-the-worst-has-come.jpg"
     },
     {
       "id": "hellsauce-recruits-sazed",
@@ -7282,7 +7540,8 @@
         "Baron Hellsauce",
         "Dragons Claw",
         "Beezel"
-      ]
+      ],
+      "img": "img/hellsauce-recruits-sazed.jpg"
     },
     {
       "id": "the-ardev-library",
@@ -7305,7 +7564,8 @@
         "Sazed",
         "Dreamweaver",
         "Chip"
-      ]
+      ],
+      "img": "img/the-ardev-library.jpg"
     },
     {
       "id": "barry-baritone",
@@ -7327,7 +7587,8 @@
         "Brokk",
         "House Cannith",
         "Ardev"
-      ]
+      ],
+      "img": "img/barry-baritone.jpg"
     },
     {
       "id": "xera-harassed",
@@ -7349,7 +7610,8 @@
         "Felicia Jr",
         "Dragons Claw",
         "Lirael"
-      ]
+      ],
+      "img": "img/xera-harassed.jpg"
     },
     {
       "id": "ants-and-birds",
@@ -7395,7 +7657,8 @@
         "Lirael",
         "Grib Grimley",
         "Ardev Watch"
-      ]
+      ],
+      "img": "img/jazz-smells-magic.jpg"
     },
     {
       "id": "felicia-storms-off",
@@ -7417,7 +7680,8 @@
         "Turckle",
         "Neebus",
         "Xera"
-      ]
+      ],
+      "img": "img/felicia-storms-off.jpg"
     },
     {
       "id": "bird-potion",
@@ -7440,7 +7704,8 @@
         "Sazed",
         "Mustang",
         "Dragons Claw"
-      ]
+      ],
+      "img": "img/bird-potion.jpg"
     },
     {
       "id": "imps-and-the-quasit",
@@ -7462,7 +7727,8 @@
         "Quasit",
         "Stones Throw",
         "Turckle"
-      ]
+      ],
+      "img": "img/imps-and-the-quasit.jpg"
     },
     {
       "id": "forge-and-the-right-hand",
@@ -7486,7 +7752,8 @@
         "Jeff",
         "House Cannith",
         "Barry Baritone"
-      ]
+      ],
+      "img": "img/forge-and-the-right-hand.jpg"
     },
     {
       "id": "gynn-at-the-forge",
@@ -7532,7 +7799,8 @@
         "Barry Baritone",
         "Dragons Claw",
         "Jeff"
-      ]
+      ],
+      "img": "img/brokk-takes-refuge.jpg"
     },
     {
       "id": "filgar-the-wererat",
@@ -7555,7 +7823,8 @@
         "Sazed",
         "Xera",
         "The Rat Man"
-      ]
+      ],
+      "img": "img/filgar-the-wererat.jpg"
     },
     {
       "id": "the-interview",
@@ -7578,7 +7847,8 @@
         "Kal",
         "Helena Braithwind",
         "Filgar"
-      ]
+      ],
+      "img": "img/the-interview.jpg"
     },
     {
       "id": "house-trashed",
@@ -7624,7 +7894,8 @@
         "Clocktower",
         "Dragons Claw",
         "Ardev"
-      ]
+      ],
+      "img": "img/the-druid-cat.jpg"
     },
     {
       "id": "the-white-stag",
@@ -7669,7 +7940,8 @@
         "Grib Grimley",
         "Mustang",
         "Dragons Claw"
-      ]
+      ],
+      "img": "img/stealing-the-hit-piece.jpg"
     },
     {
       "id": "the-candle-test",
@@ -7689,7 +7961,8 @@
         "Xera",
         "Lirael",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/the-candle-test.jpg"
     },
     {
       "id": "the-abandoned-house",
@@ -7712,7 +7985,8 @@
         "Blood of Vol",
         "Filgar",
         "Jeff"
-      ]
+      ],
+      "img": "img/the-abandoned-house.jpg"
     },
     {
       "id": "mausoleum-of-ardev",
@@ -7757,7 +8031,8 @@
         "Brand",
         "Imps",
         "Mausoleum"
-      ]
+      ],
+      "img": "img/sazed-kicks-five-imps.jpg"
     },
     {
       "id": "weresharks-and-a-mimic",
@@ -7778,7 +8053,8 @@
         "Wylon",
         "Lirael",
         "Mausoleum"
-      ]
+      ],
+      "img": "img/weresharks-and-a-mimic.jpg"
     },
     {
       "id": "shrimp-diggery",
@@ -7799,7 +8075,8 @@
         "Sazed",
         "Holy Water",
         "Mausoleum"
-      ]
+      ],
+      "img": "img/shrimp-diggery.jpg"
     },
     {
       "id": "voices-in-the-dark",
@@ -7822,7 +8099,8 @@
         "Dreamweaver",
         "Sazed",
         "Brand"
-      ]
+      ],
+      "img": "img/voices-in-the-dark.jpg"
     },
     {
       "id": "the-fury-ritual",
@@ -7868,7 +8146,8 @@
         "Brand",
         "Sazed",
         "The Fury"
-      ]
+      ],
+      "img": "img/the-chicken-gambit.jpg"
     },
     {
       "id": "felicias-fire",
@@ -7889,7 +8168,8 @@
         "Gynn",
         "Lirael",
         "Sazed"
-      ]
+      ],
+      "img": "img/felicias-fire.jpg"
     },
     {
       "id": "bone-devil-river-chase",
@@ -7912,7 +8192,8 @@
         "Topek",
         "Wylon",
         "Abishai"
-      ]
+      ],
+      "img": "img/bone-devil-river-chase.jpg"
     },
     {
       "id": "rallying-ardev",
@@ -7935,7 +8216,8 @@
         "Felicia Sr",
         "Felicia Jr",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/rallying-ardev.jpg"
     },
     {
       "id": "ardev-vs-bone-devils",
@@ -7983,7 +8265,8 @@
         "Sling of Ardev",
         "Mustang",
         "Abishai"
-      ]
+      ],
+      "img": "img/oberoth-the-guardian.jpg"
     },
     {
       "id": "calm-in-the-square",
@@ -8006,7 +8289,8 @@
         "Xera",
         "Thaddeus Cannith",
         "Lirael"
-      ]
+      ],
+      "img": "img/calm-in-the-square.jpg"
     },
     {
       "id": "fey-lynns-society",
@@ -8054,7 +8338,8 @@
         "Screech",
         "Barry Baritone",
         "Archimedes"
-      ]
+      ],
+      "img": "img/moonwatch-party.jpg"
     },
     {
       "id": "stones-throw-in-ashes",
@@ -8076,7 +8361,8 @@
         "Silver Flame",
         "Sazed",
         "Helm of the Devout"
-      ]
+      ],
+      "img": "img/stones-throw-in-ashes.jpg"
     },
     {
       "id": "children-in-the-well",
@@ -8122,7 +8408,8 @@
         "Skye",
         "Sazed",
         "The Right Hand"
-      ]
+      ],
+      "img": "img/archimedes-shot-down.jpg"
     },
     {
       "id": "the-gate-dream",
@@ -8145,7 +8432,8 @@
         "Felicia Jr",
         "Sazed",
         "Brand"
-      ]
+      ],
+      "img": "img/the-gate-dream.jpg"
     },
     {
       "id": "xeras-window",
@@ -8167,7 +8455,8 @@
         "Turckle",
         "Zenya",
         "Kel House"
-      ]
+      ],
+      "img": "img/xeras-window.jpg"
     },
     {
       "id": "phase-two",
@@ -8235,7 +8524,8 @@
         "Helena Braithwind",
         "Lirael",
         "Morganth"
-      ]
+      ],
+      "img": "img/jyo-falls-into-ardev.jpg"
     },
     {
       "id": "mustang-full-of-arrows",
@@ -8258,7 +8548,8 @@
         "Brand",
         "Jyo",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/mustang-full-of-arrows.jpg"
     },
     {
       "id": "ellis-dead-in-the-street",
@@ -8280,7 +8571,8 @@
         "Screech",
         "Moonwatch",
         "Mustang"
-      ]
+      ],
+      "img": "img/ellis-dead-in-the-street.jpg"
     },
     {
       "id": "carriage-chase",
@@ -8324,7 +8616,8 @@
         "Felicia Jr",
         "Plague Soldiers",
         "Astral Plane"
-      ]
+      ],
+      "img": "img/ball-bearings-and-the-safe.jpg"
     },
     {
       "id": "the-even-hand-on-the-roof",
@@ -8346,7 +8639,8 @@
         "Brand",
         "Jyo",
         "Lightning Rail"
-      ]
+      ],
+      "img": "img/the-even-hand-on-the-roof.jpg"
     },
     {
       "id": "leap-from-the-carriage",
@@ -8369,7 +8663,8 @@
         "Mustang",
         "The Even Hand",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/leap-from-the-carriage.jpg"
     },
     {
       "id": "black-booked-train",
@@ -8414,7 +8709,8 @@
         "Beezel",
         "Mr. Beaks",
         "Felicia Jr"
-      ]
+      ],
+      "img": "img/eloria-and-a-bear-army.jpg"
     },
     {
       "id": "brands-workshop",
@@ -8437,7 +8733,8 @@
         "Jyo",
         "Sazed",
         "Screech"
-      ]
+      ],
+      "img": "img/brands-workshop.jpg"
     },
     {
       "id": "a-call-from-lirael",
@@ -8459,7 +8756,8 @@
         "Dreamweaver",
         "Ember",
         "Sagewoods"
-      ]
+      ],
+      "img": "img/a-call-from-lirael.jpg"
     },
     {
       "id": "skye-feels-abandoned",
@@ -8479,7 +8777,8 @@
         "Skye",
         "Sazed",
         "Stones Throw"
-      ]
+      ],
+      "img": "img/skye-feels-abandoned.jpg"
     },
     {
       "id": "shadowing-the-train",
@@ -8499,7 +8798,8 @@
         "Screech",
         "Moonwatch",
         "Lightning Rail"
-      ]
+      ],
+      "img": "img/shadowing-the-train.jpg"
     },
     {
       "id": "jyo-the-spider",
@@ -8522,7 +8822,8 @@
         "The Even Hand",
         "Xera",
         "Fey-Lynn"
-      ]
+      ],
+      "img": "img/jyo-the-spider.jpg"
     },
     {
       "id": "the-invisible-beholder",
@@ -8544,7 +8845,8 @@
         "Jyo",
         "The Even Hand",
         "Kal"
-      ]
+      ],
+      "img": "img/the-invisible-beholder.jpg"
     },
     {
       "id": "xera-and-fey-lynn-die",
@@ -8590,7 +8892,8 @@
         "Cromwell",
         "The Even Hand",
         "Beezel"
-      ]
+      ],
+      "img": "img/bears-and-a-barrel.jpg"
     },
     {
       "id": "mustang-wakes",
@@ -8611,7 +8914,8 @@
         "Brand",
         "The Even Hand",
         "Sazed"
-      ]
+      ],
+      "img": "img/mustang-wakes.jpg"
     },
     {
       "id": "counterspelled-by-lirael",
@@ -8634,7 +8938,8 @@
         "Cromwell",
         "Jyo",
         "Astral Plane"
-      ]
+      ],
+      "img": "img/counterspelled-by-lirael.jpg"
     },
     {
       "id": "even-hand-dies",
@@ -8681,7 +8986,8 @@
         "Cromwell",
         "The Flock",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/into-the-bag-of-holding.jpg"
     },
     {
       "id": "the-dream-prison",
@@ -8704,7 +9010,8 @@
         "Fey-Lynn",
         "Felicia Sr",
         "Ellis"
-      ]
+      ],
+      "img": "img/the-dream-prison.jpg"
     },
     {
       "id": "jyo-torn-apart",
@@ -8749,7 +9056,8 @@
         "Beholder",
         "Mustang",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/protection-and-pattern.jpg"
     },
     {
       "id": "skull-knight-arrives",
@@ -8771,7 +9079,8 @@
         "Sazed",
         "Cromwell",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/skull-knight-arrives.jpg"
     },
     {
       "id": "skull-knight-turtle-fortress",
@@ -8818,7 +9127,8 @@
         "Xera",
         "Fey-Lynn",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/felicias-reunion.jpg"
     },
     {
       "id": "skull-knights-judgment",
@@ -8863,7 +9173,8 @@
         "Lirael",
         "Dol Dorn",
         "Brand"
-      ]
+      ],
+      "img": "img/the-true-name.jpg"
     },
     {
       "id": "mr-beaks-returns",
@@ -8884,7 +9195,8 @@
         "Filgar",
         "Brand",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/mr-beaks-returns.jpg"
     },
     {
       "id": "skye-reunion",
@@ -8904,7 +9216,8 @@
         "Skye",
         "Sazed",
         "Stones Throw"
-      ]
+      ],
+      "img": "img/skye-reunion.jpg"
     },
     {
       "id": "barry-and-brokk-waiting",
@@ -8926,7 +9239,8 @@
         "Sorenson",
         "Thaddeus Cannith",
         "Filgar"
-      ]
+      ],
+      "img": "img/barry-and-brokk-waiting.jpg"
     },
     {
       "id": "i-tag-ye-cosmic",
@@ -8948,7 +9262,8 @@
         "Lirael Sr",
         "Compass",
         "Magic Society"
-      ]
+      ],
+      "img": "img/i-tag-ye-cosmic.jpg"
     },
     {
       "id": "lilya-the-guide",
@@ -8993,7 +9308,8 @@
         "Milton Gravewood",
         "Brand",
         "House Cannith"
-      ]
+      ],
+      "img": "img/curfew-in-ardev.jpg"
     },
     {
       "id": "bimble-repents",
@@ -9016,7 +9332,8 @@
         "Covenant of Emberfall",
         "The Rat Man",
         "Silver Flame"
-      ]
+      ],
+      "img": "img/bimble-repents.jpg"
     },
     {
       "id": "wilford-and-the-stranger-evil",
@@ -9039,7 +9356,8 @@
         "The Right Hand",
         "Magic Society",
         "Ardev"
-      ]
+      ],
+      "img": "img/wilford-and-the-stranger-evil.jpg"
     },
     {
       "id": "wilford-doubts-the-watch",
@@ -9061,7 +9379,8 @@
         "Ardev Watch",
         "Dell Quickfoot",
         "Ardev"
-      ]
+      ],
+      "img": "img/wilford-doubts-the-watch.jpg"
     },
     {
       "id": "valvier-house-ransacked",
@@ -9083,7 +9402,8 @@
         "Lirael",
         "Fark's Bargain",
         "Ardev"
-      ]
+      ],
+      "img": "img/valvier-house-ransacked.jpg"
     },
     {
       "id": "jazz-hears-the-truth",
@@ -9105,7 +9425,8 @@
         "The Even Hand",
         "Grib Grimley",
         "Ardev Police"
-      ]
+      ],
+      "img": "img/jazz-hears-the-truth.jpg"
     },
     {
       "id": "valvier-gold-in-evidence",
@@ -9126,7 +9447,8 @@
         "Valviers",
         "Ardev Police",
         "Craig Jensen"
-      ]
+      ],
+      "img": "img/valvier-gold-in-evidence.jpg"
     },
     {
       "id": "jazz-joins-the-fold",
@@ -9147,7 +9469,8 @@
         "Lirael",
         "Dreamweaver",
         "Xera"
-      ]
+      ],
+      "img": "img/jazz-joins-the-fold.jpg"
     },
     {
       "id": "flowers-coerced",
@@ -9191,7 +9514,8 @@
         "Daedalus",
         "Brand",
         "Lirael"
-      ]
+      ],
+      "img": "img/right-hand-wakes-daedalus.jpg"
     },
     {
       "id": "brokks-armor-plating",
@@ -9213,7 +9537,8 @@
         "Moonwatch",
         "Milton Gravewood",
         "Jazz"
-      ]
+      ],
+      "img": "img/brokks-armor-plating.jpg"
     },
     {
       "id": "body-count-twenty-six",
@@ -9235,7 +9560,8 @@
         "Helena Braithwind",
         "Dell Quickfoot",
         "Felicia Jr"
-      ]
+      ],
+      "img": "img/body-count-twenty-six.jpg"
     },
     {
       "id": "turckle-and-churckle-overrun",
@@ -9257,7 +9583,8 @@
         "Dragons Claw",
         "Zenya",
         "Lirael"
-      ]
+      ],
+      "img": "img/turckle-and-churckle-overrun.jpg"
     },
     {
       "id": "brokks-last-diamonds",
@@ -9279,7 +9606,8 @@
         "Diamonds",
         "Zenya",
         "Jazz"
-      ]
+      ],
+      "img": "img/brokks-last-diamonds.jpg"
     },
     {
       "id": "repair-race-bet",
@@ -9302,7 +9630,8 @@
         "Sorenson",
         "Beezel",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/repair-race-bet.jpg"
     },
     {
       "id": "eloria-arrives",
@@ -9324,7 +9653,8 @@
         "Felicia Jr",
         "Felicia Sr",
         "Dreamweaver"
-      ]
+      ],
+      "img": "img/eloria-arrives.jpg"
     },
     {
       "id": "dell-quickfoot-visit",
@@ -9346,7 +9676,8 @@
         "Helena Braithwind",
         "Ardev Watch",
         "Lirael"
-      ]
+      ],
+      "img": "img/dell-quickfoot-visit.jpg"
     },
     {
       "id": "skye-on-the-flight-deck",
@@ -9368,7 +9699,8 @@
         "Eloria",
         "Screech",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/skye-on-the-flight-deck.jpg"
     },
     {
       "id": "white-horn-wood-ruse",
@@ -9390,7 +9722,8 @@
         "Dreamweaver",
         "Jyo",
         "White Horn Wood"
-      ]
+      ],
+      "img": "img/white-horn-wood-ruse.jpg"
     },
     {
       "id": "xera-returns",
@@ -9435,7 +9768,8 @@
         "Felicia Sr",
         "Felicia Jr",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/zenya-wakes-swinging.jpg"
     },
     {
       "id": "lirael-asks-to-be-punched",
@@ -9457,7 +9791,8 @@
         "Felicia Jr",
         "Sazed",
         "Eloria"
-      ]
+      ],
+      "img": "img/lirael-asks-to-be-punched.jpg"
     },
     {
       "id": "raven-call-illusion",
@@ -9480,7 +9815,8 @@
         "Lirael",
         "Spring",
         "Bears Wood"
-      ]
+      ],
+      "img": "img/raven-call-illusion.jpg"
     },
     {
       "id": "hearthsfire",
@@ -9527,7 +9863,8 @@
         "Ring of Siberys",
         "Sazed",
         "Glade Amberwood"
-      ]
+      ],
+      "img": "img/carrk-on-trial.jpg"
     },
     {
       "id": "carrk-at-moon-stones",
@@ -9549,7 +9886,8 @@
         "Covenant of Emberfall",
         "Cloak of Displacement",
         "Stones Throw"
-      ]
+      ],
+      "img": "img/carrk-at-moon-stones.jpg"
     },
     {
       "id": "stones-throw-children-home",
@@ -9572,7 +9910,8 @@
         "Sazed",
         "Hearthsfire",
         "Stones Throw"
-      ]
+      ],
+      "img": "img/stones-throw-children-home.jpg"
     },
     {
       "id": "spring-at-garfan",
@@ -9595,7 +9934,8 @@
         "Brand",
         "Lirael",
         "Covenant of Emberfall"
-      ]
+      ],
+      "img": "img/spring-at-garfan.jpg"
     },
     {
       "id": "bear-warns-of-carrk",
@@ -9616,7 +9956,8 @@
         "Sazed",
         "Carrk",
         "Covenant of Emberfall"
-      ]
+      ],
+      "img": "img/bear-warns-of-carrk.jpg"
     },
     {
       "id": "falkens-exile-story",
@@ -9639,7 +9980,8 @@
         "Glade Amberwood",
         "Changelings",
         "Aundair"
-      ]
+      ],
+      "img": "img/falkens-exile-story.jpg"
     },
     {
       "id": "skye-becomes-initiate",
@@ -9660,7 +10002,8 @@
         "Sazed",
         "Falken",
         "Loreguard"
-      ]
+      ],
+      "img": "img/skye-becomes-initiate.jpg"
     },
     {
       "id": "brand-and-sazed-on-industry",
@@ -9682,7 +10025,8 @@
         "Eloria",
         "Moonwatch",
         "Shifters"
-      ]
+      ],
+      "img": "img/brand-and-sazed-on-industry.jpg"
     },
     {
       "id": "flock-changeling-questioned",
@@ -9704,7 +10048,8 @@
         "Bravewind",
         "Eloria",
         "Raise Dead"
-      ]
+      ],
+      "img": "img/flock-changeling-questioned.jpg"
     },
     {
       "id": "xera-kisses-lirael",
@@ -9725,7 +10070,8 @@
         "Lirael",
         "Felicia Jr",
         "Eloria"
-      ]
+      ],
+      "img": "img/xera-kisses-lirael.jpg"
     },
     {
       "id": "paxon-junction-call",
@@ -9746,7 +10092,8 @@
         "Starilaskur",
         "Lightning Rail",
         "Railway Junction"
-      ]
+      ],
+      "img": "img/paxon-junction-call.jpg"
     },
     {
       "id": "griffith-guides-them-in",
@@ -9767,7 +10114,8 @@
         "Starilaskur",
         "Moonwatch",
         "Hippogriff"
-      ]
+      ],
+      "img": "img/griffith-guides-them-in.jpg"
     },
     {
       "id": "paladins-draw-steel",
@@ -9789,7 +10137,8 @@
         "Lirael",
         "Watchers of the Gate",
         "Starilaskur"
-      ]
+      ],
+      "img": "img/paladins-draw-steel.jpg"
     },
     {
       "id": "truth-amulet-eptf",
@@ -9834,7 +10183,8 @@
         "Lirael Sr",
         "Witches Waltz",
         "Bulwark Broadhelm"
-      ]
+      ],
+      "img": "img/eptf-blind-spot.jpg"
     },
     {
       "id": "elfina",
@@ -9879,7 +10229,8 @@
         "The Fury",
         "The Obelisk",
         "Skull Knight"
-      ]
+      ],
+      "img": "img/watchers-of-the-gate-explained.jpg"
     },
     {
       "id": "elfina-postpones-despair",
@@ -9901,7 +10252,8 @@
         "Captain Dane",
         "Ember",
         "Broadhelm Forge"
-      ]
+      ],
+      "img": "img/elfina-postpones-despair.jpg"
     },
     {
       "id": "bulwark-broadhelm",
@@ -9923,7 +10275,8 @@
         "EPTF",
         "The Kason",
         "Brand"
-      ]
+      ],
+      "img": "img/bulwark-broadhelm.jpg"
     },
     {
       "id": "arkhan-military-library",
@@ -9946,7 +10299,8 @@
         "Jeff",
         "Skye",
         "Starilaskur"
-      ]
+      ],
+      "img": "img/arkhan-military-library.jpg"
     },
     {
       "id": "gelards-books",
@@ -9991,7 +10345,8 @@
         "Skye",
         "Starilaskur",
         "The Draft"
-      ]
+      ],
+      "img": "img/young-dwarf-recruit.jpg"
     },
     {
       "id": "ember-reunion",
@@ -10013,7 +10368,8 @@
         "Broadhelm Forge",
         "Ash",
         "Starilaskur"
-      ]
+      ],
+      "img": "img/ember-reunion.jpg"
     },
     {
       "id": "broadhelm-family-bad-news",
@@ -10036,7 +10392,8 @@
         "House Cannith",
         "Thaddeus Cannith",
         "Bulwark Broadhelm"
-      ]
+      ],
+      "img": "img/broadhelm-family-bad-news.jpg"
     },
     {
       "id": "ring-of-cure-racism",
@@ -10058,7 +10415,8 @@
         "Ash",
         "Ring of Cure Racism",
         "Lirael"
-      ]
+      ],
+      "img": "img/ring-of-cure-racism.jpg"
     },
     {
       "id": "embers-suit",
@@ -10104,7 +10462,8 @@
         "Skye",
         "Brand",
         "Ring of Cure Racism"
-      ]
+      ],
+      "img": "img/embers-joke-potions.jpg"
     },
     {
       "id": "aundairians-race",
@@ -10127,7 +10486,8 @@
         "EEEEE",
         "Lirael",
         "Aundair"
-      ]
+      ],
+      "img": "img/aundairians-race.jpg"
     },
     {
       "id": "brands-rooftop-detour",
@@ -10148,7 +10508,8 @@
         "Thunder Gauntlets",
         "Sazed",
         "Starilaskur"
-      ]
+      ],
+      "img": "img/brands-rooftop-detour.jpg"
     },
     {
       "id": "immovable-rod-and-elwood",
@@ -10171,7 +10532,8 @@
         "Jeff",
         "Sazed",
         "Killian"
-      ]
+      ],
+      "img": "img/immovable-rod-and-elwood.jpg"
     },
     {
       "id": "aundairians-in-the-alley",
@@ -10215,7 +10577,8 @@
         "Kynds",
         "Sentinels",
         "Starilaskur"
-      ]
+      ],
+      "img": "img/kynds-slips-away.jpg"
     },
     {
       "id": "darvok-shouts-for-aundair",
@@ -10237,7 +10600,8 @@
         "Killian",
         "Jeff",
         "Aundair"
-      ]
+      ],
+      "img": "img/darvok-shouts-for-aundair.jpg"
     },
     {
       "id": "killian-outs-the-sentinels",
@@ -10259,7 +10623,8 @@
         "King Boranel",
         "Brand",
         "Taggart"
-      ]
+      ],
+      "img": "img/killian-outs-the-sentinels.jpg"
     },
     {
       "id": "red-dragon-divination",
@@ -10282,7 +10647,8 @@
         "Griffith",
         "Eloria",
         "Skye"
-      ]
+      ],
+      "img": "img/red-dragon-divination.jpg"
     },
     {
       "id": "brand-fixes-the-roof",
@@ -10304,7 +10670,8 @@
         "Beezel",
         "Eloria",
         "Sentinels"
-      ]
+      ],
+      "img": "img/brand-fixes-the-roof.jpg"
     },
     {
       "id": "we-dont-die-banner",
@@ -10327,7 +10694,8 @@
         "Skye",
         "Eloria",
         "Killian"
-      ]
+      ],
+      "img": "img/we-dont-die-banner.jpg"
     },
     {
       "id": "felicia-too-powerful",
@@ -10350,7 +10718,8 @@
         "Felicia Sr",
         "Sazed",
         "Eloria"
-      ]
+      ],
+      "img": "img/felicia-too-powerful.jpg"
     },
     {
       "id": "cloak-of-connect-mind",
@@ -10397,7 +10766,8 @@
         "Bag of Holding",
         "Soul Street Hooligan",
         "Railway Junction"
-      ]
+      ],
+      "img": "img/into-the-junction-in-a-bag.jpg"
     },
     {
       "id": "cleared-track-and-chaton",
@@ -10419,7 +10789,8 @@
         "Brand",
         "Lightning Rail",
         "Railway Junction"
-      ]
+      ],
+      "img": "img/cleared-track-and-chaton.jpg"
     },
     {
       "id": "catnip-bomb",
@@ -10441,7 +10812,8 @@
         "The Flock",
         "Sazed",
         "Starilaskur"
-      ]
+      ],
+      "img": "img/catnip-bomb.jpg"
     },
     {
       "id": "unabombers-at-the-forge",
@@ -10487,7 +10859,8 @@
         "Ember",
         "Gorgon",
         "Lirael"
-      ]
+      ],
+      "img": "img/gorgon-slain.jpg"
     },
     {
       "id": "captain-dane-incensed",
@@ -10510,7 +10883,8 @@
         "Brand",
         "Major Highfire",
         "Jeff"
-      ]
+      ],
+      "img": "img/captain-dane-incensed.jpg"
     },
     {
       "id": "horses-from-first-tower",
@@ -10533,7 +10907,8 @@
         "Changelings",
         "Captain Dane",
         "Chaton"
-      ]
+      ],
+      "img": "img/horses-from-first-tower.jpg"
     },
     {
       "id": "hooligan-saxophone",
@@ -10555,7 +10930,8 @@
         "Sazed",
         "Brand",
         "Starilaskur"
-      ]
+      ],
+      "img": "img/hooligan-saxophone.jpg"
     },
     {
       "id": "freeing-elfina",
@@ -10577,7 +10953,8 @@
         "Brand",
         "The Fury",
         "Sovereign Host"
-      ]
+      ],
+      "img": "img/freeing-elfina.jpg"
     },
     {
       "id": "witches-waltz",
@@ -10623,7 +11000,8 @@
         "Elfina",
         "Witches Waltz",
         "Mirrors"
-      ]
+      ],
+      "img": "img/lirael-in-the-cart.jpg"
     },
     {
       "id": "kynds-takes-killian",
@@ -10670,7 +11048,8 @@
         "Skye",
         "Beezel",
         "Aundair"
-      ]
+      ],
+      "img": "img/eloria-tells-of-ashhaven.jpg"
     },
     {
       "id": "elfinas-room-elorias-kiss",
@@ -10692,7 +11071,8 @@
         "Eloria",
         "Sazed",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/elfinas-room-elorias-kiss.jpg"
     },
     {
       "id": "emotional-damage-sempenator",
@@ -10713,7 +11093,8 @@
         "Dandy",
         "Tea Machine",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/emotional-damage-sempenator.jpg"
     },
     {
       "id": "thaddeus-nightmare",
@@ -10734,7 +11115,8 @@
         "Thaddeus Cannith",
         "Sorenson",
         "House Cannith"
-      ]
+      ],
+      "img": "img/thaddeus-nightmare.jpg"
     },
     {
       "id": "lirael-morning-rounds",
@@ -10755,7 +11137,8 @@
         "Elfina",
         "Felicia Jr",
         "Knowledge Curse"
-      ]
+      ],
+      "img": "img/lirael-morning-rounds.jpg"
     },
     {
       "id": "felicia-confronts-elfina",
@@ -10776,7 +11159,8 @@
         "Elfina",
         "Lirael",
         "The Fury"
-      ]
+      ],
+      "img": "img/felicia-confronts-elfina.jpg"
     },
     {
       "id": "dragons-lost-sons",
@@ -10821,7 +11205,8 @@
         "Art Broadhelm",
         "Daedalus",
         "Ardev"
-      ]
+      ],
+      "img": "img/empyrean-in-their-spot.jpg"
     },
     {
       "id": "squirrels-in-the-tea",
@@ -10843,7 +11228,8 @@
         "Zenya",
         "Sazed",
         "Tea Machine"
-      ]
+      ],
+      "img": "img/squirrels-in-the-tea.jpg"
     },
     {
       "id": "brand-goes-purple",
@@ -10864,7 +11250,8 @@
         "Zenya",
         "Hat of Slight Disguise",
         "Thaddeus Cannith"
-      ]
+      ],
+      "img": "img/brand-goes-purple.jpg"
     },
     {
       "id": "animal-messenger",
@@ -10909,7 +11296,8 @@
         "Fey-Lynn",
         "Canuck",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/screechs-bedtime-stories.jpg"
     },
     {
       "id": "fey-lynns-debrief",
@@ -10954,7 +11342,8 @@
         "Silver Flame",
         "Stones Throw",
         "Wilford"
-      ]
+      ],
+      "img": "img/skye-asks-about-stones-throw.jpg"
     },
     {
       "id": "wilford-mushroom-warning",
@@ -10976,7 +11365,8 @@
         "Jazz",
         "Silver Flame",
         "Moonwatch"
-      ]
+      ],
+      "img": "img/wilford-mushroom-warning.jpg"
     },
     {
       "id": "reconciliation-day",
@@ -10998,7 +11388,8 @@
         "Sazed",
         "Silver Flame",
         "Stones Throw"
-      ]
+      ],
+      "img": "img/reconciliation-day.jpg"
     },
     {
       "id": "murderer-leaves-ardev",
@@ -11020,7 +11411,8 @@
         "The Right Hand",
         "Thaddeus Cannith",
         "Sorenson"
-      ]
+      ],
+      "img": "img/murderer-leaves-ardev.jpg"
     },
     {
       "id": "dinner-on-the-empyrean",
@@ -11043,7 +11435,8 @@
         "Art Broadhelm",
         "Silvania",
         "The Empyrean"
-      ]
+      ],
+      "img": "img/dinner-on-the-empyrean.jpg"
     },
     {
       "id": "gorgis-family-dead",
@@ -11065,7 +11458,8 @@
         "The Fury",
         "Turckle and Churckle",
         "Dragons Claw"
-      ]
+      ],
+      "img": "img/gorgis-family-dead.jpg"
     },
     {
       "id": "felicia-and-skye-spar",
@@ -11086,7 +11480,8 @@
         "Skye",
         "Baron Hellsauce",
         "Morganth"
-      ]
+      ],
+      "img": "img/felicia-and-skye-spar.jpg"
     },
     {
       "id": "thaddeus-comes-to-town",
@@ -11155,7 +11550,8 @@
         "Art Broadhelm",
         "Thaddeus Cannith",
         "Dragons Claw"
-      ]
+      ],
+      "img": "img/morganth-sending-stone.jpg"
     }
   ]
 }

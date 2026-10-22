@@ -2,6 +2,7 @@
 
 usage: python3 -I gen/image.py <event-id> [--model openai/gpt-5-image-mini] [--provider openrouter|gemini] [--test]
   default: OpenRouter, google/gemini-3.1-flash-lite-image. Keys come from .env (OPENROUTER_API_KEY, GEMINI_API_KEY).
+  --nojson writes the image but leaves timeline.json alone (for parallel batches).
   --test writes gen/test/<event-id>.<model>.jpg and leaves site/ untouched; otherwise writes site/img/<event-id>.jpg
   and sets the event's img in site/timeline.json.
 """
@@ -77,7 +78,7 @@ def main():
         tmp.flush()
         subprocess.run(["sips", "--resampleWidth", "1280", "-s", "format", "jpeg", "-s", "formatOptions", "80",
                         tmp.name, "--out", str(out)], check=True, capture_output=True)
-    if not test:
+    if not test and "--nojson" not in sys.argv:
         ev["img"] = f"img/{event_id}.jpg"
         (ROOT / "site/timeline.json").write_text(json.dumps(data, indent=2))
     print(f"{event_id} ok -> {out.relative_to(ROOT)} ({out.stat().st_size} bytes) refs={refs} model={model} cost={cost}")
