@@ -121,7 +121,8 @@ const PROMPT=`You are updating the data file for an interactive timeline of our 
 Field reference:
 - calendar: Eberron calendar, 12 months x 28 days. Keep it exactly as shown.
 - eras[]: id (kebab-case), title, subtitle (optional), row (0 = acts, 1 = arcs), start and end (inclusive, {year, month, day}), color (hex).
-- events[]: id (unique kebab-case, stable across edits), title, year, month (1-12, Zarantyr = 1), day (1-28), hour (0-23), act (number), arc (title of its arc era), session (number; omit for history events), kind (history | battle | intrigue | revelation | social | travel | loss), major (boolean), img (optional, "img/<id>.jpg"), summary (1-2 sentences), detail (3-6 sentences), tags (strings).
+- sessions[]: number (12.5 allowed), title (optional), act (number), arc (title of its arc era). Every event's session must match one of these numbers.
+- events[]: id (unique kebab-case, stable across edits), title, year, month (1-12, Zarantyr = 1), day (1-28), hour (0-23), act (number), arc (title of its arc era), session (number from sessions[]; omit for history events), kind (history | battle | intrigue | revelation | social | travel | loss), major (boolean), img (optional, "img/<id>.jpg"), summary (1-2 sentences), detail (3-6 sentences), tags (strings).
 - Events are sorted by date and hour when drawn, so order in the array does not matter.
 
 Here is the current timeline.json, followed by the new data:
@@ -190,6 +191,11 @@ function render(t){current=t;const q=$('#filter').value.trim().toLowerCase();con
       <div class="m"><label>start ${dateFields('start',r.start,cal)}</label><label>end ${dateFields('end',r.end,cal)}</label><label>colour <input type="color" data-f="color" value="${esc(r.color||'#555555')}"></label><code>${esc(r.id)}</code></div>
       ${txt('subtitle',r.subtitle,'subtitle','p','d')}</div></div>`;
   }
+  if(t.sessions){html+=`<div class="era">Sessions (${t.sessions.length})</div>`;
+    for(const [i,s] of t.sessions.entries()){const n=t.events.filter(e=>e.session===s.number).length;
+      html+=`<div class="ev" data-kind="session" data-i="${i}"><div class="th" style="display:grid;place-items:center;font-family:var(--display);color:var(--brass-hi)">S${s.number}</div><div>
+        ${txt('title',s.title,'untitled session','h3')}
+        <div class="m">${n} events · act ${num('act',s.act)} <select data-f="arc">${arcs.map(a=>`<option${a.title===s.arc?' selected':''}>${esc(a.title)}</option>`).join('')}</select></div></div></div>`;}}
   const evs=t.events.map((e,i)=>({e,i})).sort((a,b)=>di(a.e)-di(b.e)).filter(x=>!q||JSON.stringify(x.e).toLowerCase().includes(q));
   html+=`<div class="era">Events (${evs.length}${q?' matching':''}, in date order)</div>`;
   for(const {e,i} of evs){
@@ -212,7 +218,7 @@ function setPath(o,path,v){const ks=path.split('.');let x=o;for(const k of ks.sl
   if(v===''||v==null||(typeof v==='number'&&isNaN(v)))delete x[last];else x[last]=v;}
 function onEdit(ev){
   const el=ev.target.closest('[data-f]'),row=ev.target.closest('.ev');if(!el||!row||!current)return;
-  const obj=row.dataset.kind==='era'?current.eras[+row.dataset.i]:current.events[+row.dataset.i];
+  const obj=(row.dataset.kind==='era'?current.eras:row.dataset.kind==='session'?current.sessions:current.events)[+row.dataset.i];
   const f=el.dataset.f,t=el.dataset.t;let v=el.isContentEditable?el.textContent.trim():el.type==='checkbox'?el.checked:el.value;
   if(t==='int')v=v===''?'':parseInt(v,10);
   if(f==='tags')v=v.split(',').map(s=>s.trim()).filter(Boolean);

@@ -75,14 +75,17 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 #stage{position:relative;flex:1;min-height:0;overflow:clip;cursor:grab;user-select:none;-webkit-user-select:none;touch-action:none}
 #stage.dragging{cursor:grabbing}
 #stage::before{content:"";position:absolute;inset:0;background:url("media/khorvaire-map.jpg") center/cover no-repeat;opacity:.06;pointer-events:none}
-#eras{position:absolute;left:0;right:0;top:0;height:48px;z-index:2}
+#eras{position:absolute;left:0;right:0;top:0;height:72px;z-index:2}
 .era{position:absolute;height:20px;top:2px;border-radius:3px;overflow:hidden;border:1px solid rgba(240,212,138,.18);
   background:linear-gradient(180deg,color-mix(in srgb,var(--c) 70%,#000),color-mix(in srgb,var(--c) 40%,#000))}
 .era[data-row="1"]{top:26px}
+.era[data-row="2"]{top:50px}
+.era.alt{filter:brightness(1.35)}
+.era{cursor:zoom-in}.era:hover{border-color:var(--brass-hi)}
 .era span{position:sticky;left:0;display:inline-block;padding:0 8px;font-family:var(--display);font-size:11px;line-height:18px;letter-spacing:.06em;color:var(--parch);white-space:nowrap;text-shadow:0 1px 2px #000}
 .era small{font-family:var(--body);font-size:12px;opacity:.75;margin-left:6px;letter-spacing:0;font-style:italic}
-#ruler{position:absolute;left:0;right:0;top:48px;height:40px;z-index:2;display:block}
-#lanes{position:absolute;left:0;right:0;top:88px;bottom:0;overflow:clip}
+#ruler{position:absolute;left:0;right:0;top:72px;height:40px;z-index:2;display:block}
+#lanes{position:absolute;left:0;right:0;top:112px;bottom:0;overflow:clip}
 #world{position:absolute;inset:0;will-change:transform}
 #axis{position:absolute;left:0;right:0;height:2px;background:linear-gradient(90deg,transparent,var(--brass) 8%,var(--brass-hi) 50%,var(--brass) 92%,transparent);
   box-shadow:0 0 8px rgba(95,211,255,.7),0 0 22px rgba(95,211,255,.35);z-index:1}
@@ -337,6 +340,10 @@ function init(){
   let minGap=1;const prevIn={};for(const e of EV){const k=e.side+':'+e.lane;if(prevIn[k]!==undefined)minGap=Math.min(minGap,Math.max(e.di-prevIn[k],1/24/60));prevIn[k]=e.di;}
   ZMAX=Math.max(2400,280/minGap*1.2);
   ERAS=DATA.eras.map(r=>({...r,a:dayIndex(r.start.year,r.start.month,r.start.day,0),b:dayIndex(r.end.year,r.end.month,r.end.day,0)+1}));
+  // a session band spans its own events, coloured by its arc
+  for(const [i,s] of (DATA.sessions||[]).entries()){const ev=EV.filter(e=>e.session===s.number);if(!ev.length)continue;
+    const arc=ERAS.find(r=>r.row===1&&r.title===s.arc);
+    ERAS.push({id:'session-'+s.number,row:2,session:s.number,alt:i%2,title:'S'+s.number,subtitle:s.title||'',color:arc?arc.color:'#555',a:ev[0].di-1/48,b:ev[ev.length-1].di+1/48});}
   MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);
   SPLIT=dayIndex(993,1,1,0);
   buildFilters();buildEras();drawMini();
@@ -369,7 +376,9 @@ function visible(e){
 /* ---------- eras ---------- */
 function buildEras(){
   erasEl.innerHTML='';
-  for(const r of ERAS){const d=document.createElement('div');d.className='era';d.dataset.row=r.row||0;d.style.setProperty('--c',r.color||'#555');d.innerHTML=`<span>${esc(r.title)}${r.subtitle?`<small>${esc(r.subtitle)}</small>`:''}</span>`;d.title=r.title+(r.subtitle?' — '+r.subtitle:'');r.el=d;erasEl.appendChild(d);}
+  for(const r of ERAS){const d=document.createElement('div');d.className='era'+(r.alt?' alt':'');d.dataset.row=r.row||0;d.style.setProperty('--c',r.color||'#555');d.innerHTML=`<span>${esc(r.title)}${r.subtitle?`<small>${esc(r.subtitle)}</small>`:''}</span>`;
+    d.title=(r.session!=null?'Session '+r.session:r.title)+(r.subtitle?' — '+r.subtitle:'')+' · click to zoom to it';
+    d.onclick=ev=>{ev.stopPropagation();zoomTo(r.a,r.b);};r.el=d;erasEl.appendChild(d);}
 }
 function layoutEras(){
   const W=vw();
@@ -501,7 +510,8 @@ function animateTo(targetP,targetCenter,ms){
     if(t<1)anim={id:requestAnimationFrame(step),targetP};else anim=null;};
   step();
 }
-function zoomTo(a,b){const span=Math.max(b-a,1/24);const target=Math.min(ZMAX,vw()*.6/span);animateTo(target,(a+b)/2,520);}
+// fit a range edge to edge, leaving half a card of room on each side so the end cards aren't cut off
+function zoomTo(a,b){const span=Math.max(b-a,1/24);const target=Math.min(ZMAX,Math.max(ZMIN,(vw()-300)/span));animateTo(target,(a+b)/2,520);}
 function panTo(d){animateTo(anim?anim.targetP:P,d,420);}
 
 function bind(){

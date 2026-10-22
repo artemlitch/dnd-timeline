@@ -1,0 +1,593 @@
+{
+  "invisible-approach-demon-village": {
+    "session": 12,
+    "line": 1632,
+    "confidence": "high"
+  },
+  "brand-greets-a-quasit": {
+    "session": 12,
+    "line": 1636,
+    "confidence": "high"
+  },
+  "demon-village": {
+    "session": 12,
+    "line": 1638,
+    "confidence": "high"
+  },
+  "cambion-confession": {
+    "session": 12,
+    "line": 1640,
+    "confidence": "high"
+  },
+  "bells-beans-and-sentinel-gear": {
+    "session": 12,
+    "line": 1647,
+    "confidence": "high"
+  },
+  "broken-portal": {
+    "session": 12,
+    "line": 1650,
+    "confidence": "high"
+  },
+  "whiskey-and-a-napkin": {
+    "session": 12,
+    "line": 1659,
+    "confidence": "high"
+  },
+  "paxon-nerds-out": {
+    "session": 12,
+    "line": 1663,
+    "confidence": "high"
+  },
+  "coffee-geyser-bean": {
+    "session": 12,
+    "line": 1676,
+    "confidence": "high"
+  },
+  "erald-fart-debrief": {
+    "session": 12,
+    "line": 1680,
+    "confidence": "high"
+  },
+  "morkoth-in-the-workshop": {
+    "session": 12,
+    "line": 1694,
+    "confidence": "high"
+  },
+  "morkoth-rope-expedition": {
+    "session": 12,
+    "line": 1704,
+    "confidence": "high"
+  },
+  "sheldor-wants-back-in": {
+    "session": 12,
+    "line": 1715,
+    "confidence": "high"
+  },
+  "sheldor-and-the-bag": {
+    "session": 12,
+    "line": 1725,
+    "confidence": "high"
+  },
+  "horn-of-silent-alarm": {
+    "session": 12,
+    "line": 1734,
+    "confidence": "high"
+  },
+  "keys-mauls-the-spellcaster": {
+    "session": 12,
+    "line": 1747,
+    "confidence": "high"
+  },
+  "stables-interrogation": {
+    "session": 12,
+    "line": 1760,
+    "confidence": "high"
+  },
+  "breakfast-at-gelfs": {
+    "session": 13,
+    "line": 1788,
+    "confidence": "high"
+  },
+  "code-orange": {
+    "session": 13,
+    "line": 1805,
+    "confidence": "high"
+  },
+  "lug-murzog-revived": {
+    "session": 13,
+    "line": 1835,
+    "confidence": "high"
+  },
+  "dreamweaver-speaks": {
+    "session": 13,
+    "line": 1843,
+    "confidence": "high"
+  },
+  "back-to-training-as-normal": {
+    "session": 13,
+    "line": 1862,
+    "confidence": "high"
+  },
+  "fathers-library-card": {
+    "session": 13,
+    "line": 1867,
+    "confidence": "high"
+  },
+  "stolen-shifter-books": {
+    "session": 13,
+    "line": 1876,
+    "confidence": "high"
+  },
+  "library-cards-for-everyone": {
+    "session": 13,
+    "line": 1880,
+    "confidence": "high"
+  },
+  "brand-possessed": {
+    "session": 12.5,
+    "line": 1887,
+    "confidence": "high"
+  },
+  "screech-taken": {
+    "session": 12.5,
+    "line": 1900,
+    "confidence": "high"
+  },
+  "gelf-fights-free": {
+    "session": 12.5,
+    "line": 1909,
+    "confidence": "high"
+  },
+  "bellatrix-shot": {
+    "session": 12.5,
+    "line": 1918,
+    "confidence": "high"
+  },
+  "gelf-into-the-astral-sea": {
+    "session": 12.5,
+    "line": 1925,
+    "confidence": "high"
+  },
+  "hunky-dory": {
+    "session": 12.5,
+    "line": 1940,
+    "confidence": "high"
+  },
+  "house-burns-flight-to-airfield": {
+    "session": 12.5,
+    "line": 1957,
+    "confidence": "high"
+  },
+  "caught-at-the-village-gate": {
+    "session": 13,
+    "line": 1967,
+    "confidence": "high"
+  },
+  "empty-jail-blood-trail": {
+    "session": 13,
+    "line": 1985,
+    "confidence": "high"
+  },
+  "kingsblade-hijack": {
+    "session": 13,
+    "line": 2012,
+    "confidence": "high"
+  },
+  "bellatrix-revived": {
+    "session": 13,
+    "line": 2029,
+    "confidence": "high"
+  },
+  "brand-dies-a-little": {
+    "session": 13,
+    "line": 2035,
+    "confidence": "high"
+  },
+  "clockwork-lassos-gelf": {
+    "session": 13,
+    "line": 2048,
+    "confidence": "high"
+  },
+  "into-the-dream-plane": {
+    "session": 13,
+    "line": 2053,
+    "confidence": "high"
+  },
+  "dream-eater": {
+    "session": 13,
+    "line": 2058,
+    "confidence": "high"
+  },
+  "brass-dragon-in-the-dream": {
+    "session": 14,
+    "line": 2075,
+    "confidence": "high"
+  },
+  "escape-the-collapsing-dream": {
+    "session": 14,
+    "line": 2082,
+    "confidence": "high"
+  },
+  "friends-come-back": {
+    "session": 14,
+    "line": 2091,
+    "confidence": "high"
+  },
+  "blazehelms-personal-guard": {
+    "session": 14,
+    "line": 2101,
+    "confidence": "high"
+  },
+  "mind-control-training": {
+    "session": 14,
+    "line": 2120,
+    "confidence": "high"
+  },
+  "fireworks-speech": {
+    "session": 14,
+    "line": 2130,
+    "confidence": "high"
+  },
+  "nobody-else-possessed": {
+    "session": 14,
+    "line": 2134,
+    "confidence": "high"
+  },
+  "screechs-model-broadsword": {
+    "session": 14,
+    "line": 2143,
+    "confidence": "high"
+  },
+  "sazed-trance-research": {
+    "session": 14,
+    "line": 2148,
+    "confidence": "high"
+  },
+  "lirael-first-flight": {
+    "session": 14,
+    "line": 2157,
+    "confidence": "high"
+  },
+  "lirael-learns-to-fly": {
+    "session": 14,
+    "line": 2161,
+    "confidence": "high"
+  },
+  "clockwork-on-sentimentality": {
+    "session": 14,
+    "line": 2171,
+    "confidence": "high"
+  },
+  "rune-wakes-the-spellcaster": {
+    "session": 14,
+    "line": 2177,
+    "confidence": "high"
+  },
+  "limbs-for-faird": {
+    "session": 14,
+    "line": 2181,
+    "confidence": "high"
+  },
+  "monty-elemental-engines": {
+    "session": 14,
+    "line": 2185,
+    "confidence": "high"
+  },
+  "letter-from-meriel": {
+    "session": 14,
+    "line": 2190,
+    "confidence": "high"
+  },
+  "plants-have-souls": {
+    "session": 14,
+    "line": 2201,
+    "confidence": "high"
+  },
+  "larkleaf-grow-op": {
+    "session": 14,
+    "line": 2203,
+    "confidence": "high"
+  },
+  "meriel-on-the-bridge": {
+    "session": 14,
+    "line": 2208,
+    "confidence": "high"
+  },
+  "wait-im-a-sentinel": {
+    "session": 14,
+    "line": 2214,
+    "confidence": "high"
+  },
+  "mercy-at-the-library": {
+    "session": 14,
+    "line": 2223,
+    "confidence": "high"
+  },
+  "the-even-hand-named": {
+    "session": 14,
+    "line": 2234,
+    "confidence": "high"
+  },
+  "royal-ardev-regiment": {
+    "session": 14,
+    "line": 2239,
+    "confidence": "high"
+  },
+  "nedira-signals-training": {
+    "session": 14,
+    "line": 2248,
+    "confidence": "high"
+  },
+  "mercy-and-the-records": {
+    "session": 14,
+    "line": 2255,
+    "confidence": "high"
+  },
+  "eloria-speak-with-dead": {
+    "session": 14,
+    "line": 2261,
+    "confidence": "high"
+  },
+  "chief-torg": {
+    "session": 14,
+    "line": 2267,
+    "confidence": "high"
+  },
+  "meriel-speaks-from-the-morgue": {
+    "session": 14,
+    "line": 2277,
+    "confidence": "high"
+  },
+  "murphys-house": {
+    "session": 14,
+    "line": 2284,
+    "confidence": "high"
+  },
+  "binocular-glint-chase": {
+    "session": 14,
+    "line": 2293,
+    "confidence": "high"
+  },
+  "gauss-house-explodes": {
+    "session": 14,
+    "line": 2305,
+    "confidence": "high"
+  },
+  "standoff-at-kals-house": {
+    "session": 15,
+    "line": 2381,
+    "confidence": "high"
+  },
+  "kal-killed-on-the-street": {
+    "session": 15,
+    "line": 2388,
+    "confidence": "high"
+  },
+  "hunger-of-hadar-assassins": {
+    "session": 15,
+    "line": 2395,
+    "confidence": "high"
+  },
+  "even-hand-unmasked": {
+    "session": 15,
+    "line": 2404,
+    "confidence": "high"
+  },
+  "obelisk-in-meriels-bag": {
+    "session": 15,
+    "line": 2415,
+    "confidence": "high"
+  },
+  "click-clack-resigns": {
+    "session": 15,
+    "line": 2423,
+    "confidence": "high"
+  },
+  "the-master-key": {
+    "session": 15,
+    "line": 2437,
+    "confidence": "high"
+  },
+  "gauss-hog-survives": {
+    "session": 15,
+    "line": 2448,
+    "confidence": "high"
+  },
+  "gauss-hogs-story": {
+    "session": 15,
+    "line": 2455,
+    "confidence": "high"
+  },
+  "imps-firebomb-the-house": {
+    "session": 15,
+    "line": 2468,
+    "confidence": "high"
+  },
+  "rolicks-dust": {
+    "session": 15,
+    "line": 2479,
+    "confidence": "high"
+  },
+  "gentle-repose-form": {
+    "session": 16,
+    "line": 2490,
+    "confidence": "high"
+  },
+  "ardev-song-on-the-piano": {
+    "session": 16,
+    "line": 2496,
+    "confidence": "high"
+  },
+  "obelisk-rune-dream": {
+    "session": 16,
+    "line": 2501,
+    "confidence": "high"
+  },
+  "rune-transmits": {
+    "session": 16,
+    "line": 2504,
+    "confidence": "high"
+  },
+  "circle-blast-marks": {
+    "session": 16,
+    "line": 2510,
+    "confidence": "high"
+  },
+  "the-old-imp": {
+    "session": 16,
+    "line": 2511,
+    "confidence": "high"
+  },
+  "brew-and-ale-farewell": {
+    "session": 16,
+    "line": 2516,
+    "confidence": "high"
+  },
+  "dancing-with-eloria": {
+    "session": 16,
+    "line": 2524,
+    "confidence": "high"
+  },
+  "rigged-chicken-races": {
+    "session": 16,
+    "line": 2525,
+    "confidence": "high"
+  },
+  "gelf-brand-rematch": {
+    "session": 16,
+    "line": 2529,
+    "confidence": "high"
+  },
+  "brand-walks-eleanor-home": {
+    "session": 16,
+    "line": 2533,
+    "confidence": "high"
+  },
+  "prison-nightmare-brass-dragon": {
+    "session": 17,
+    "line": 2565,
+    "confidence": "low",
+    "note": "changed 16->17: S16 (2537) only has a prison nightmare; the wis saves, brass dragon freeing them, reviving Lirael and sending Brand to the forge are in S17 at 2565, the night before the 17th"
+  },
+  "hangover-and-dyll": {
+    "session": 16,
+    "line": 2538,
+    "confidence": "high"
+  },
+  "fighting-shadow-selves": {
+    "session": 16,
+    "line": 2540,
+    "confidence": "high"
+  },
+  "silence-arrow-in-the-door": {
+    "session": 17,
+    "line": 2548,
+    "confidence": "high"
+  },
+  "tracks-into-the-sewers": {
+    "session": 17,
+    "line": 2549,
+    "confidence": "high"
+  },
+  "sewer-map-stolen": {
+    "session": 17,
+    "line": 2555,
+    "confidence": "high"
+  },
+  "bellatrix-sent-home": {
+    "session": 17,
+    "line": 2559,
+    "confidence": "high"
+  },
+  "sasquatch-bucket-prank": {
+    "session": 17,
+    "line": 2560,
+    "confidence": "high"
+  },
+  "brands-church-service": {
+    "session": 17,
+    "line": 2562,
+    "confidence": "high"
+  },
+  "erald-delivers-the-map": {
+    "session": 17,
+    "line": 2564,
+    "confidence": "high"
+  },
+  "paxon-painting-heist": {
+    "session": 17,
+    "line": 2568,
+    "confidence": "high"
+  },
+  "eloria-and-clockwork-join-prank": {
+    "session": 17,
+    "line": 2574,
+    "confidence": "high"
+  },
+  "potion-room-amulet": {
+    "session": 17,
+    "line": 2579,
+    "confidence": "high"
+  },
+  "tomb-of-centarrel": {
+    "session": 18,
+    "line": 2585,
+    "confidence": "high"
+  },
+  "graves-of-the-fathers": {
+    "session": 18,
+    "line": 2589,
+    "confidence": "high"
+  },
+  "clockwork-wyrmlings": {
+    "session": 18,
+    "line": 2593,
+    "confidence": "high"
+  },
+  "after-the-walls-fell": {
+    "session": 18,
+    "line": 2595,
+    "confidence": "high"
+  },
+  "beholder-illusion": {
+    "session": 18,
+    "line": 2598,
+    "confidence": "high"
+  },
+  "portrait-unveiled": {
+    "session": 18,
+    "line": 2600,
+    "confidence": "high"
+  },
+  "bellatrix-is-dead": {
+    "session": 18,
+    "line": 2609,
+    "confidence": "high"
+  },
+  "why-blazehelm-trusts-paxon": {
+    "session": 18,
+    "line": 2611,
+    "confidence": "high"
+  },
+  "goodbyes-at-the-airfield": {
+    "session": 18,
+    "line": 2614,
+    "confidence": "high"
+  },
+  "moonwatch-crew-roles": {
+    "session": 18,
+    "line": 2617,
+    "confidence": "high"
+  },
+  "parting-gifts": {
+    "session": 18,
+    "line": 2627,
+    "confidence": "high"
+  },
+  "moonwatch-departs": {
+    "session": 18,
+    "line": 2634,
+    "confidence": "high"
+  }
+}

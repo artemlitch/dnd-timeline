@@ -147,6 +147,225 @@
       "row": 1
     }
   ],
+  "sessions": [
+    {
+      "number": 1,
+      "act": 1,
+      "arc": "Arc 1: DarkWood Prison"
+    },
+    {
+      "number": 2,
+      "act": 1,
+      "arc": "Arc 1: DarkWood Prison"
+    },
+    {
+      "number": 3,
+      "act": 1,
+      "arc": "Arc 1: DarkWood Prison"
+    },
+    {
+      "number": 4,
+      "act": 1,
+      "arc": "Arc 1: DarkWood Prison"
+    },
+    {
+      "number": 5,
+      "act": 1,
+      "arc": "Arc 1: DarkWood Prison"
+    },
+    {
+      "number": 6,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 7,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 8,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 9,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 10,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 11,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 12,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 12.5,
+      "title": "Brands Evil Dreamweaver Mission",
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 13,
+      "title": "All Flesh and Ice Tires",
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 14,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 15,
+      "title": "Click Clack gets Fired",
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 16,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 17,
+      "title": "Not Hard to be Tall With Robot Legs",
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 18,
+      "act": 1,
+      "arc": "Arc 2: The Sentinels"
+    },
+    {
+      "number": 19,
+      "title": "Stop Looking at The Damn Thing",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 20,
+      "title": "Beware of Knowledge",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 21,
+      "title": "Are We Roofieing The Birds?",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 22,
+      "title": "Jeff Shut The Fuck Up, We’re Jacking Off and Punching Birds",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 23,
+      "title": "Sazed Kills 120,000,000,000 Imps In One Turn",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 24,
+      "title": "Brennan Lee Bees",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 25,
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 26,
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 27,
+      "title": "Dead by Bird Rape",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 28,
+      "title": "Nat 1 on Rationality",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 29,
+      "title": "The Skull Knight",
+      "act": 1,
+      "arc": "Arc 3: Ardev"
+    },
+    {
+      "number": 30,
+      "title": "Bunch of Bodies in a Bag",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    },
+    {
+      "number": 31,
+      "title": "All the Shifter Lore",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    },
+    {
+      "number": 32,
+      "title": "Hog on the Horn",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    },
+    {
+      "number": 33,
+      "title": "Jeff Has Been Summoned",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    },
+    {
+      "number": 34,
+      "title": "Which Guy Do You Want Me To Swallow",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    },
+    {
+      "number": 35,
+      "title": "Give Me The Rod",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    },
+    {
+      "number": 36,
+      "title": "Cockblocked to Death",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    },
+    {
+      "number": 37,
+      "title": "Gay Homophobic Dragons",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    },
+    {
+      "number": 38,
+      "title": "Thaddeus is Coming to Town",
+      "act": 2,
+      "arc": "Arc 4: Into Lands Unknown"
+    }
+  ],
   "events": [
     {
       "id": "h-jarot-dies",
@@ -5985,7 +6204,7 @@
       "hour": 4,
       "arc": "Arc 2: The Sentinels",
       "act": 1,
-      "session": 16,
+      "session": 17,
       "kind": "revelation",
       "major": true,
       "summary": "The party shares a nightmare of a prison. They hold their minds together, and the brass dragon frees itself and them, revives Lirael, and sends Brand to the forge.",
@@ -9538,7 +9757,7 @@
       "hour": 8,
       "arc": "Arc 4: Into Lands Unknown",
       "act": 2,
-      "session": 32,
+      "session": 31,
       "kind": "travel",
       "major": false,
       "summary": "Starilaskur's air traffic control is cool and professional. A halfling named Griffith, riding a hippogriff, guides the Moonwatch in.",
@@ -10007,7 +10226,7 @@
       "hour": 5,
       "arc": "Arc 4: Into Lands Unknown",
       "act": 2,
-      "session": 35,
+      "session": 34,
       "kind": "intrigue",
       "major": false,
       "summary": "Killian denies being Aundairian, until a freshly uncharmed Darvok shouts his allegiance to Aundair in front of Sergeant Taggart.",
@@ -10029,7 +10248,7 @@
       "hour": 6,
       "arc": "Arc 4: Into Lands Unknown",
       "act": 2,
-      "session": 35,
+      "session": 34,
       "kind": "intrigue",
       "major": true,
       "summary": "Killian taunts the officers that they cannot even ask who gives their orders, then names the party as Sentinels. Brand knocks him out.",
@@ -10657,7 +10876,7 @@
       "hour": 10,
       "arc": "Arc 4: Into Lands Unknown",
       "act": 2,
-      "session": 38,
+      "session": 37,
       "kind": "revelation",
       "major": true,
       "summary": "During Eloria's animal chapel, a female bird arrives and Mr. Beaks bows and offers her cheese. When Skye calls it cute, the bird turns to her and speaks.",

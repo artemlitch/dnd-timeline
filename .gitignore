@@ -4,3 +4,4 @@ gen/key.txt
 .DS_Store
 gen/refs/
 gen/split/
+gen/test/
