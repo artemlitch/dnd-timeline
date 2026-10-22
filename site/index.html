@@ -97,7 +97,10 @@ button:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px so
   background:linear-gradient(180deg,var(--parch-face),var(--parch-deep));
   border:1px solid var(--bronze);box-shadow:inset 0 0 0 1px rgba(240,212,138,.6),inset 0 0 0 3px rgba(122,92,35,.15),0 6px 16px rgba(0,0,0,.55);
   padding:6px 8px 7px;display:grid;grid-template-columns:auto 1fr;gap:4px 9px}
-.card,.mk,.ln,.cl{transition:top .42s cubic-bezier(.2,.7,.2,1),bottom .42s cubic-bezier(.2,.7,.2,1),height .42s cubic-bezier(.2,.7,.2,1),opacity .3s,box-shadow .15s}
+.card,.mk,.ln,.cl{transition:top .42s cubic-bezier(.2,.7,.2,1),bottom .42s cubic-bezier(.2,.7,.2,1),height .42s cubic-bezier(.2,.7,.2,1),transform .42s cubic-bezier(.2,.7,.2,1),opacity .35s,filter .35s,box-shadow .15s}
+.card{transform-origin:50% 0}.card[style*="bottom"]{transform-origin:50% 100%}
+.card.ghost{transform:scale(.6);opacity:.3;filter:saturate(.5) brightness(.8);z-index:3;pointer-events:none}
+.ln.ghost{opacity:.15}
 .nt{transition:none !important}
 .card:hover,.card.active{box-shadow:inset 0 0 0 1px rgba(240,212,138,.9),inset 0 0 0 3px rgba(122,92,35,.15),0 0 0 1px var(--kc),0 0 18px color-mix(in srgb,var(--kc) 60%,transparent),0 8px 18px rgba(0,0,0,.6)}
 .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--kc);border-radius:5px 0 0 5px}
@@ -415,29 +418,18 @@ function layoutEvents(){
     l.push([x1,x2]);placed.set(e.id,lane);
   }
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
-  const overflow=[];
+  // a card whose slot is taken is still drawn there, shrunk and faded behind the others, and grows back when zooming in
   for(const e of vis){
     const x=(e.di-off)*P,kc=KC[e.kind]||KC.history;
     const mk=take('mk',e.id,'mk'+(e.major?' major':'')+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=axisY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
-    const lane=placed.get(e.id);if(lane===undefined){overflow.push(e);continue;}
-    const card=take('card',e.id,'card major'+(active&&active.id===e.id?' active':''));
+    const ghost=!placed.has(e.id),lane=ghost?Math.min(e.lane,lanesPer-1):placed.get(e.id);
+    const card=take('card',e.id,'card major'+(ghost?' ghost':'')+(active&&active.id===e.id?' active':''));
     card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.left=(x-w/2)+'px';
     const edge=gap+lane*laneH;
     if(e.side){card.style.top=(axisY+edge)+'px';card.style.bottom='';}else{card.style.bottom=(H-axisY+edge)+'px';card.style.top='';}
     card.innerHTML=`<div class="th">${thumb(e)}</div><h3>${esc(e.title)}</h3><div class="d">${fmtShort(e)}${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}</div><div class="s">${esc(e.summary||'')}</div>`;
     card.onclick=ev=>{ev.stopPropagation();openEvent(e);};
-    const ln=take('ln',e.id,'ln'+(e.side?' dn':''));ln.style.setProperty('--kc',kc);ln.style.left=x+'px';ln.style.top=(e.side?axisY:axisY-edge)+'px';ln.style.height=edge+'px';
-  }
-  const groups=[];for(const e of overflow){const g=groups[groups.length-1];if(g&&(e.di-g[g.length-1].di)*P<90)g.push(e);else groups.push([e]);}
-  const lastLabel=[-1e9,-1e9];let ci=0;
-  for(const g of groups){
-    const px=((g[0].di+g[g.length-1].di)/2-off)*P;const el=take('cl',g[0].id,'cl');el.style.left=px+'px';el.style.top=axisY+'px';
-    let side=ci++%2;if(Math.abs(px-lastLabel[side])<118)side=1-side;const show=Math.abs(px-lastLabel[side])>=118;if(show)lastLabel[side]=px;
-    el.classList.toggle('up',side===1);el.classList.toggle('has-big',g.length>=10);
-    const one=g.length===1;
-    el.innerHTML=`<b class="${g.length>=10?'big':''}">${one?'+':g.length}</b>${show?`<span>${one?esc(g[0].title):clusterLabel(g)}</span>`:''}`;
-    el.onclick=ev=>{ev.stopPropagation();if(one)openEvent(g[0]);else zoomTo(g[0].di-.02,g[g.length-1].di+.02);};
-    el.title=one?g[0].title:`${g.length} more moments, ${clusterLabel(g)}. Click to zoom in`;
+    const ln=take('ln',e.id,'ln'+(e.side?' dn':'')+(ghost?' ghost':''));ln.style.setProperty('--kc',kc);ln.style.left=x+'px';ln.style.top=(e.side?axisY:axisY-edge)+'px';ln.style.height=edge+'px';
   }
   trim();
 }
