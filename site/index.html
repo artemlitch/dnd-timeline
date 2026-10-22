@@ -76,12 +76,12 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 #stage.dragging{cursor:grabbing}
 #stage::before{content:"";position:absolute;inset:0;background:url("media/khorvaire-map.jpg") center/cover no-repeat;opacity:.06;pointer-events:none}
 #eras{position:absolute;left:0;right:0;top:0;height:72px;z-index:2}
-.era{position:absolute;height:20px;top:2px;border-radius:3px;overflow:hidden;border:1px solid rgba(240,212,138,.18);
-  background:linear-gradient(180deg,color-mix(in srgb,var(--c) 70%,#000),color-mix(in srgb,var(--c) 40%,#000))}
+.era{position:absolute;height:20px;top:2px;border-radius:0;overflow:hidden;background:var(--ink);
+  border:1px solid color-mix(in srgb,var(--c) 55%,var(--parch) 45%)}
 .era[data-row="1"]{top:26px}
 .era[data-row="2"]{top:50px}
-.era.alt{filter:brightness(1.35)}
-.era{cursor:zoom-in}.era:hover{border-color:var(--brass-hi)}
+.era.alt{border-color:color-mix(in srgb,var(--c) 30%,var(--parch) 70%)}
+.era{cursor:pointer}.era:hover{border-color:var(--brass-hi);background:#16171a}
 .era span{position:sticky;left:0;display:inline-block;padding:0 8px;font-family:var(--display);font-size:11px;line-height:18px;letter-spacing:.06em;color:var(--parch);white-space:nowrap;text-shadow:0 1px 2px #000}
 .era small{font-family:var(--body);font-size:12px;opacity:.75;margin-left:6px;letter-spacing:0;font-style:italic}
 #ruler{position:absolute;left:0;right:0;top:72px;height:40px;z-index:2;display:block}
@@ -380,11 +380,15 @@ function buildEras(){
     d.title=(r.session!=null?'Session '+r.session:r.title)+(r.subtitle?' — '+r.subtitle:'')+' · click to zoom to it';
     d.onclick=ev=>{ev.stopPropagation();zoomTo(r.a,r.b);};r.el=d;erasEl.appendChild(d);}
 }
+// within a row each band ends 2px before the next one starts, so bands never overlap
 function layoutEras(){
-  const W=vw();
-  for(const r of ERAS){let x1=(r.a-off)*P,x2=(r.b-off)*P;
-    if(x2<0||x1>W||x2-x1<2){r.el.style.display='none';continue;}
-    x1=Math.max(x1,-1);x2=Math.min(x2,W+1);r.el.style.display='';r.el.style.left=x1+'px';r.el.style.width=(x2-x1)+'px';}
+  const W=vw(),rows={};
+  for(const r of ERAS)(rows[r.row||0]=rows[r.row||0]||[]).push(r);
+  for(const list of Object.values(rows)){list.sort((p,q)=>p.a-q.a);
+    for(let i=0;i<list.length;i++){const r=list[i],next=list[i+1];
+      let x1=(r.a-off)*P,x2=(r.b-off)*P;if(next)x2=Math.min(x2,(next.a-off)*P-2);
+      if(x2<0||x1>W||x2-x1<2){r.el.style.display='none';continue;}
+      x1=Math.max(x1,-1);x2=Math.min(x2,W+1);r.el.style.display='';r.el.style.left=x1+'px';r.el.style.width=(x2-x1)+'px';}}
 }
 
 /* ---------- ruler ---------- */
