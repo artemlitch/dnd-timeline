@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edit Timeline Data</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%230b0d14'/%3E%3Ccircle cx='32' cy='32' r='18' fill='none' stroke='%23c9a24d' stroke-width='6' stroke-dasharray='9 5'/%3E%3Ccircle cx='32' cy='32' r='6' fill='%235fd3ff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700;900&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#0b0d14;--ink-2:#121622;--parch:#e8dcc0;--parch-dim:#b9ad94;--brass:#c9a24d;--brass-hi:#f0d48a;--bronze:#7a5c23;--cyan:#5fd3ff;--ember:#ff7a3d;--moss:#7fd0a0;--blood:#d9455f;
+  --display:"Cinzel",serif;--body:"Cormorant Garamond",Georgia,serif;--mono:"Special Elite","Courier New",monospace}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--ink);color:var(--parch);font-family:var(--body);font-size:17px;line-height:1.45}
+a{color:var(--cyan)}
+header{padding:16px 24px;border-bottom:1px solid var(--bronze);background:linear-gradient(90deg,rgba(11,13,20,.5),rgba(11,13,20,.85)),#000 url("../media/hero-battle.jpg") center 32%/cover no-repeat;display:flex;align-items:baseline;gap:18px;flex-wrap:wrap}
+header h1{font-family:var(--display);font-weight:900;font-size:22px;letter-spacing:.14em;margin:0;color:var(--brass-hi);text-shadow:0 0 14px rgba(201,162,77,.5),0 2px 0 #4a3614}
+header a{font-family:var(--mono);font-size:12px}
+main{display:grid;grid-template-columns:minmax(320px,440px) 1fr;gap:0;min-height:calc(100vh - 62px)}
+@media (max-width:900px){main{grid-template-columns:1fr}}
+.side{padding:18px 20px 40px;border-right:1px solid var(--bronze);overflow:auto}
+h2{font-family:var(--display);font-size:13px;letter-spacing:.12em;color:var(--brass);margin:22px 0 8px;text-transform:uppercase}
+h2:first-child{margin-top:0}
+p{margin:0 0 10px;color:var(--parch-dim)}
+.panel{border:1px solid var(--bronze);border-radius:6px;background:var(--ink-2);padding:12px}
+pre#prompt{margin:0;white-space:pre-wrap;font-family:var(--mono);font-size:11.5px;line-height:1.5;color:var(--parch);max-height:300px;overflow:auto}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:10px}
+button,.btn{font:inherit;font-family:var(--mono);font-size:12px;color:var(--parch);background:#0d1018;border:1px solid var(--bronze);border-radius:6px;padding:6px 12px;cursor:pointer}
+button:hover,.btn:hover{border-color:var(--brass);color:var(--brass-hi)}
+button.primary{border-color:var(--brass);color:var(--brass-hi)}
+input[type=file]{font-family:var(--mono);font-size:12px;color:var(--parch-dim)}
+textarea{width:100%;min-height:150px;background:#0d1018;color:var(--parch);border:1px solid var(--bronze);border-radius:6px;font-family:var(--mono);font-size:11.5px;padding:8px;resize:vertical}
+.drop{border:2px dashed var(--bronze);border-radius:8px;padding:18px;text-align:center;color:var(--parch-dim);font-family:var(--mono);font-size:12px;margin-top:8px}
+.drop.over{border-color:var(--cyan);color:var(--cyan)}
+#status{font-family:var(--mono);font-size:12px;margin-top:10px;white-space:pre-wrap}
+#status.ok{color:var(--moss)}#status.err{color:var(--blood)}
+.stats{display:flex;gap:14px;flex-wrap:wrap;font-family:var(--mono);font-size:11px;color:var(--parch-dim);margin-top:8px}
+.stats b{color:var(--brass-hi);font-weight:400}
+.preview{position:relative;background:#000}
+.preview iframe{width:100%;height:100%;min-height:600px;border:0;display:block}
+.preview .tag{position:absolute;top:8px;left:50%;transform:translateX(-50%);font-family:var(--mono);font-size:11px;color:var(--cyan);background:rgba(11,13,20,.85);border:1px solid var(--bronze);border-radius:4px;padding:2px 10px;pointer-events:none}
+details summary{cursor:pointer;font-family:var(--mono);font-size:12px;color:var(--brass)}
+code{font-family:var(--mono);font-size:12px;color:var(--brass-hi)}
+</style>
+</head>
+<body>
+<header>
+  <h1>EDIT TIMELINE DATA</h1>
+  <a href="../">← back to the timeline</a>
+</header>
+<main>
+  <section class="side">
+    <h2>1. Ask an AI for the JSON</h2>
+    <p>Copy this prompt, add your session notes under it, and paste the JSON you get back below.</p>
+    <div class="panel">
+      <pre id="prompt"></pre>
+      <div class="row"><button class="primary" id="copyPrompt">Copy prompt</button><a class="btn" href="../timeline.json" download="timeline.json">Download current timeline.json</a></div>
+    </div>
+
+    <h2>2. Load a timeline.json</h2>
+    <div class="panel">
+      <input type="file" id="file" accept="application/json,.json">
+      <div class="drop" id="drop">or drop a .json file here</div>
+      <details style="margin-top:10px"><summary>or paste JSON</summary><textarea id="paste" placeholder='{"calendar": {...}, "eras": [...], "events": [...]}'></textarea><div class="row"><button id="loadPaste">Load pasted JSON</button></div></details>
+      <div id="status"></div>
+      <div class="stats" id="stats"></div>
+    </div>
+
+    <h2>3. Preview, then publish</h2>
+    <div class="panel">
+      <p>The preview on the right draws the loaded file exactly as the main page would. It lives only in this browser.</p>
+      <div class="row">
+        <button id="download" disabled>Download loaded JSON</button>
+        <button id="clear">Clear preview</button>
+      </div>
+      <p style="margin-top:10px">To publish, replace <code>site/timeline.json</code> in the repo with the downloaded file, drop any new images into <code>site/img/</code>, and run <code>./deploy.sh</code>.</p>
+    </div>
+  </section>
+  <section class="preview">
+    <span class="tag" id="tag">showing published timeline.json</span>
+    <iframe id="frame" src="../" title="Timeline preview"></iframe>
+  </section>
+</main>
+<script>
+const KINDS=['history','battle','intrigue','revelation','social','travel','loss'];
+const PROMPT=`You are updating the data file for an interactive timeline of our D&D campaign "The 100 Years War" (Eberron). Output ONLY valid JSON, no prose, no code fences, matching this shape exactly:
+
+{
+  "calendar": { "monthNames": ["Zarantyr","Olarune","Therendor","Eyre","Dravago","Nymm","Lharvion","Barrakas","Rhaan","Sypheros","Aryth","Vult"], "daysPerMonth": 28, "dayNames": ["Sul","Mol","Zol","Wir","Zor","Far","Sar"], "epochYear": 894 },
+  "eras": [ { "id": "arc-1", "title": "Arc 1: DarkWood Prison", "subtitle": "Sessions 1-5", "row": 1, "start": {"year": 993, "month": 1, "day": 1}, "end": {"year": 993, "month": 1, "day": 5}, "color": "#6b2a2a" } ],
+  "events": [ { "id": "grail-rises", "title": "Grail Grimdell Raises the Dead", "year": 993, "month": 1, "day": 3, "hour": 4, "act": 1, "arc": "Arc 1: DarkWood Prison", "session": 3, "kind": "battle", "major": true, "img": "img/grail-rises.jpg", "summary": "One or two vivid sentences.", "detail": "Three to six sentences with the specifics: names, items, consequences.", "tags": ["Brand","Grail Grimdell","DarkWood Prison"] } ]
+}
+
+Rules:
+- Eberron calendar: 12 months x 28 days. month is 1-12 (Zarantyr = 1, Vult = 12), day is 1-28, hour is 0-23 (best guess; night scenes 22-2, dawn 6, default 12). The campaign year is 993 YK; "last month" references mean Vult 992.
+- id: unique kebab-case, stable across edits (keep existing ids so their images still match). img is optional; if present it must be "img/<id>.jpg".
+- kind: one of history | battle | intrigue | revelation | social | travel | loss. Use "history" only for backstory/lore before the campaign; those have no session.
+- major: true for the biggest moments (roughly a third of events). Keep titles under 8 words. Keep tags to characters, places and factions.
+- eras: row 0 = acts (and the war itself), row 1 = arcs. start/end are inclusive dates. Keep existing eras unless the campaign moved on.
+- Keep every existing event unless I say to remove it. When I give you new session notes, append events in chronological order with the next session number, and extend the last arc's end date if needed.
+- Keep hours sensible so same-day events sort in the order they happened.
+
+Here is the current timeline.json, followed by my notes:
+`;
+const $=s=>document.querySelector(s);
+$('#prompt').textContent=PROMPT;
+$('#copyPrompt').onclick=async()=>{let cur='';try{cur=await (await fetch('../timeline.json',{cache:'no-cache'})).text();}catch(_){}
+  await navigator.clipboard.writeText(PROMPT+'\n'+cur+'\n\nNotes:\n');$('#copyPrompt').textContent='Copied (with current JSON)';setTimeout(()=>$('#copyPrompt').textContent='Copy prompt',1800);};
+
+let loaded=null;
+function validate(t){
+  const errs=[];const need=(c,m)=>{if(!c)errs.push(m);};
+  need(t&&typeof t==='object','top level must be an object');if(errs.length)return errs;
+  need(t.calendar&&Array.isArray(t.calendar.monthNames)&&t.calendar.monthNames.length===12,'calendar.monthNames must list 12 months');
+  need(t.calendar&&t.calendar.daysPerMonth===28,'calendar.daysPerMonth must be 28');
+  need(t.calendar&&Array.isArray(t.calendar.dayNames)&&t.calendar.dayNames.length===7,'calendar.dayNames must list 7 days');
+  need(t.calendar&&Number.isInteger(t.calendar.epochYear),'calendar.epochYear must be an integer');
+  need(Array.isArray(t.eras),'eras must be an array');need(Array.isArray(t.events)&&t.events.length,'events must be a non-empty array');
+  if(errs.length)return errs;
+  const ids=new Set();
+  t.events.forEach((e,i)=>{const at=`events[${i}]${e&&e.id?' ('+e.id+')':''}`;
+    need(e&&typeof e.id==='string'&&/^[a-z0-9]+(-[a-z0-9]+)*$/.test(e.id),at+': id must be kebab-case');
+    if(e&&e.id){need(!ids.has(e.id),at+': duplicate id');ids.add(e.id);}
+    need(e&&typeof e.title==='string'&&e.title.trim(),at+': title required');
+    need(Number.isInteger(e.year),at+': year must be an integer');
+    need(Number.isInteger(e.month)&&e.month>=1&&e.month<=12,at+': month must be 1-12');
+    need(Number.isInteger(e.day)&&e.day>=1&&e.day<=28,at+': day must be 1-28');
+    need(e.hour==null||(Number.isInteger(e.hour)&&e.hour>=0&&e.hour<=23),at+': hour must be 0-23');
+    need(KINDS.includes(e.kind),at+': kind must be one of '+KINDS.join(' | '));
+    need(e.img==null||/^(img|media)\/[^\s]+\.(jpe?g|png|webp)$/.test(e.img),at+': img must look like img/<id>.jpg');
+    need(e.tags==null||Array.isArray(e.tags),at+': tags must be an array');});
+  t.eras.forEach((r,i)=>{const at=`eras[${i}]${r&&r.id?' ('+r.id+')':''}`;
+    need(r&&typeof r.title==='string',at+': title required');
+    for(const k of ['start','end'])need(r&&r[k]&&Number.isInteger(r[k].year)&&Number.isInteger(r[k].month)&&Number.isInteger(r[k].day),at+': '+k+' needs year/month/day');});
+  return errs;
+}
+function show(t,name){
+  const errs=validate(t);const st=$('#status');
+  if(errs.length){st.className='err';st.textContent=`${name}: ${errs.length} problem${errs.length>1?'s':''}\n• `+errs.slice(0,12).join('\n• ')+(errs.length>12?`\n… and ${errs.length-12} more`:'');$('#download').disabled=true;return;}
+  loaded=t;localStorage.setItem('timelineOverride',JSON.stringify(t));
+  st.className='ok';st.textContent=`${name}: valid. Previewing on the right.`;
+  const kinds={};for(const e of t.events)kinds[e.kind]=(kinds[e.kind]||0)+1;
+  const sessions=new Set(t.events.filter(e=>e.session).map(e=>e.session));
+  $('#stats').innerHTML=`<span><b>${t.events.length}</b> events</span><span><b>${t.eras.length}</b> eras</span><span><b>${sessions.size}</b> sessions</span><span><b>${t.events.filter(e=>e.img).length}</b> with images</span>`+Object.entries(kinds).map(([k,n])=>`<span>${k} <b>${n}</b></span>`).join('');
+  $('#download').disabled=false;$('#tag').textContent='previewing '+name;$('#frame').src='../?src=local&v='+Date.now();
+}
+function readFile(f){if(!f)return;f.text().then(txt=>{try{show(JSON.parse(txt),f.name);}catch(e){$('#status').className='err';$('#status').textContent=f.name+': not valid JSON. '+e.message;}});}
+$('#file').onchange=e=>readFile(e.target.files[0]);
+const drop=$('#drop');drop.ondragover=e=>{e.preventDefault();drop.classList.add('over');};drop.ondragleave=()=>drop.classList.remove('over');
+drop.ondrop=e=>{e.preventDefault();drop.classList.remove('over');readFile(e.dataTransfer.files[0]);};
+$('#loadPaste').onclick=()=>{try{show(JSON.parse($('#paste').value),'pasted JSON');}catch(e){$('#status').className='err';$('#status').textContent='Pasted text is not valid JSON. '+e.message;}};
+$('#download').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(loaded,null,2)],{type:'application/json'}));a.download='timeline.json';a.click();};
+$('#clear').onclick=()=>{localStorage.removeItem('timelineOverride');loaded=null;$('#status').textContent='';$('#status').className='';$('#stats').innerHTML='';$('#download').disabled=true;$('#tag').textContent='showing published timeline.json';$('#frame').src='../?v='+Date.now();};
+// resume a preview left from last time
+try{const t=JSON.parse(localStorage.getItem('timelineOverride'));if(t&&t.events)show(t,'previously loaded file');}catch(_){}
+</script>
+</body>
+</html>
