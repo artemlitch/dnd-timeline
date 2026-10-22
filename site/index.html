@@ -99,7 +99,7 @@ button:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px so
   padding:6px 8px 7px;display:grid;grid-template-columns:auto 1fr;gap:4px 9px}
 .card,.mk,.ln,.cl{transition:top .42s cubic-bezier(.2,.7,.2,1),bottom .42s cubic-bezier(.2,.7,.2,1),height .42s cubic-bezier(.2,.7,.2,1),transform .42s cubic-bezier(.2,.7,.2,1),opacity .35s,filter .35s,box-shadow .15s}
 .card{transform-origin:50% 0}.card[style*="bottom"]{transform-origin:50% 100%}
-.card.ghost{transform:scale(.6);opacity:.3;filter:saturate(.5) brightness(.8);z-index:3;pointer-events:none}
+.card.ghost{transform:scale(.55);opacity:.22;filter:saturate(.4) brightness(.75);z-index:3;pointer-events:none}
 .ln.ghost{opacity:.15}
 .nt{transition:none !important}
 .card:hover,.card.active{box-shadow:inset 0 0 0 1px rgba(240,212,138,.9),inset 0 0 0 3px rgba(122,92,35,.15),0 0 0 1px var(--kc),0 0 18px color-mix(in srgb,var(--kc) 60%,transparent),0 8px 18px rgba(0,0,0,.6)}
@@ -406,15 +406,20 @@ function layoutEvents(){
   const margin=W*.5,lo=off-margin/P,hi=off+(W+margin)/P;
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
-  // every event gets an axis marker and owns one side and one lane of the axis for good (e.side, e.lane), so a
-  // card is always drawn at the same height. A card is shown full size only when it clears the previous event's
-  // card in its slot, whether or not that one is shown: that distance only grows as the zoom goes in, so a card
-  // that has appeared never hides again, and shown cards can still never overlap
-  const lastX2={},placed=new Map();
-  for(const e of vis){
-    const x=(e.di-off)*P,x1=x-w/2,lane=Math.min(e.lane,lanesPer-1),slot=e.side+':'+lane;
-    if(lastX2[slot]===undefined||x1>lastX2[slot]+10)placed.set(e.id,lane);
-    lastX2[slot]=x+w/2;
+  // every event owns one side and one lane for good (e.side, e.lane), so a card is always drawn at the same
+  // height. Within a slot, events get a fixed rank like a skip list (every 2nd, 4th, 8th event ranks higher). A
+  // card shows full size when it clears the nearest same-or-higher-rank event on each side: those are fixed
+  // events, so the distances only grow as the zoom goes in, a card that has appeared never hides again, high
+  // ranks spread evenly at coarse zoom, and two shown cards can never overlap
+  const slots={};for(const e of EV){const k=e.side+':'+Math.min(e.lane,lanesPer-1);(slots[k]=slots[k]||[]).push(e);}
+  const placed=new Map();
+  for(const k in slots){const list=slots[k];
+    const rank=list.map((_,i)=>{let n=i+1,r=0;while(!(n&1)){n>>=1;r++;}return r;});
+    for(let i=0;i<list.length;i++){const e=list[i];if(e.di<lo||e.di>hi)continue;
+      let ok=true;
+      for(let j=i-1;j>=0;j--)if(rank[j]>=rank[i]){ok=(list[i].di-list[j].di)*P>=w+10;break;}
+      if(ok)for(let j=i+1;j<list.length;j++)if(rank[j]>=rank[i]){ok=(list[j].di-list[i].di)*P>=w+10;break;}
+      if(ok)placed.set(e.id,Math.min(e.lane,lanesPer-1));}
   }
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
   // a card whose slot is taken is still drawn there, shrunk and faded behind the others, and grows back when zooming in
