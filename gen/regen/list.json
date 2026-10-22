@@ -1,0 +1,5188 @@
+{
+ "npc_roster": [
+  {
+   "name": "Gelf",
+   "events": 46
+  },
+  {
+   "name": "Screech",
+   "events": 45
+  },
+  {
+   "name": "Blazehelm",
+   "events": 43
+  },
+  {
+   "name": "Elric",
+   "events": 41
+  },
+  {
+   "name": "Eloria",
+   "events": 36
+  },
+  {
+   "name": "Sorenson",
+   "events": 36
+  },
+  {
+   "name": "Paxon",
+   "events": 35
+  },
+  {
+   "name": "The Even Hand",
+   "events": 33
+  },
+  {
+   "name": "Felicia Jr",
+   "events": 31
+  },
+  {
+   "name": "Xera",
+   "events": 28
+  },
+  {
+   "name": "Keys",
+   "events": 26
+  },
+  {
+   "name": "Sheldor",
+   "events": 26
+  },
+  {
+   "name": "Beezel",
+   "events": 25
+  },
+  {
+   "name": "Clockwork",
+   "events": 25
+  },
+  {
+   "name": "Leff",
+   "events": 25
+  },
+  {
+   "name": "Cromwell",
+   "events": 24
+  },
+  {
+   "name": "Tauren",
+   "events": 24
+  },
+  {
+   "name": "Mustang",
+   "events": 22
+  },
+  {
+   "name": "Skye",
+   "events": 20
+  },
+  {
+   "name": "Lirael Sr",
+   "events": 19
+  },
+  {
+   "name": "Grail Grimdell",
+   "events": 18
+  },
+  {
+   "name": "Erald",
+   "events": 17
+  },
+  {
+   "name": "Felicia Sr",
+   "events": 16
+  },
+  {
+   "name": "Fey-Lynn",
+   "events": 15
+  },
+  {
+   "name": "Thaddeus Cannith",
+   "events": 15
+  },
+  {
+   "name": "Chester",
+   "events": 14
+  },
+  {
+   "name": "Jeff",
+   "events": 13
+  },
+  {
+   "name": "Kal Valvier",
+   "events": 13
+  },
+  {
+   "name": "Bloodworth",
+   "events": 12
+  },
+  {
+   "name": "Jazz",
+   "events": 12
+  },
+  {
+   "name": "Jyo",
+   "events": 12
+  },
+  {
+   "name": "Brokk",
+   "events": 11
+  },
+  {
+   "name": "Dyll Strickland",
+   "events": 11
+  },
+  {
+   "name": "Turckle",
+   "events": 11
+  },
+  {
+   "name": "Barry Baritone",
+   "events": 10
+  },
+  {
+   "name": "Carrk",
+   "events": 10
+  },
+  {
+   "name": "Elfina",
+   "events": 10
+  },
+  {
+   "name": "Ember",
+   "events": 10
+  },
+  {
+   "name": "Bellatrix",
+   "events": 9
+  },
+  {
+   "name": "Captain Dane",
+   "events": 9
+  },
+  {
+   "name": "Charlie Trundle",
+   "events": 9
+  },
+  {
+   "name": "Damron Pink",
+   "events": 9
+  },
+  {
+   "name": "Elarian",
+   "events": 9
+  },
+  {
+   "name": "Ellis",
+   "events": 9
+  },
+  {
+   "name": "Faird",
+   "events": 9
+  },
+  {
+   "name": "Feldor Windrake",
+   "events": 9
+  },
+  {
+   "name": "Filgar",
+   "events": 9
+  },
+  {
+   "name": "Gauss Hog",
+   "events": 9
+  },
+  {
+   "name": "Rolick",
+   "events": 9
+  },
+  {
+   "name": "Thaldamir",
+   "events": 9
+  },
+  {
+   "name": "Zenya",
+   "events": 9
+  },
+  {
+   "name": "Click Clack",
+   "events": 8
+  },
+  {
+   "name": "Dandy",
+   "events": 8
+  },
+  {
+   "name": "Killian",
+   "events": 8
+  },
+  {
+   "name": "Murphy Gravewood",
+   "events": 8
+  },
+  {
+   "name": "Neer",
+   "events": 8
+  },
+  {
+   "name": "Rex",
+   "events": 8
+  },
+  {
+   "name": "Shmem Gorgis",
+   "events": 8
+  },
+  {
+   "name": "Spingus Dillguard",
+   "events": 8
+  },
+  {
+   "name": "Wilford Chism",
+   "events": 8
+  },
+  {
+   "name": "Elk",
+   "events": 7
+  },
+  {
+   "name": "Falken",
+   "events": 7
+  },
+  {
+   "name": "Grib Grimley",
+   "events": 7
+  },
+  {
+   "name": "Joerick",
+   "events": 7
+  },
+  {
+   "name": "Spingel",
+   "events": 7
+  },
+  {
+   "name": "Art Broadhelm",
+   "events": 6
+  },
+  {
+   "name": "Byll",
+   "events": 6
+  },
+  {
+   "name": "Captain Flowers",
+   "events": 6
+  },
+  {
+   "name": "Fark",
+   "events": 6
+  },
+  {
+   "name": "Gelion Grimdell",
+   "events": 6
+  },
+  {
+   "name": "Meriel",
+   "events": 6
+  },
+  {
+   "name": "Morganth",
+   "events": 6
+  },
+  {
+   "name": "Neebus",
+   "events": 6
+  },
+  {
+   "name": "Cyriel",
+   "events": 5
+  },
+  {
+   "name": "Glade Amberwood",
+   "events": 5
+  },
+  {
+   "name": "Gynn",
+   "events": 5
+  },
+  {
+   "name": "Helena Braithwind",
+   "events": 5
+  },
+  {
+   "name": "Kynds",
+   "events": 5
+  },
+  {
+   "name": "Milton Gravewood",
+   "events": 5
+  },
+  {
+   "name": "Nedira",
+   "events": 5
+  },
+  {
+   "name": "Scud",
+   "events": 5
+  },
+  {
+   "name": "The Bloodsinger",
+   "events": 5
+  },
+  {
+   "name": "The Rat Man",
+   "events": 5
+  },
+  {
+   "name": "The Skull Knight",
+   "events": 5
+  },
+  {
+   "name": "Topek",
+   "events": 5
+  },
+  {
+   "name": "Wylon",
+   "events": 5
+  },
+  {
+   "name": "Chief Torg",
+   "events": 4
+  },
+  {
+   "name": "EEEEE",
+   "events": 4
+  },
+  {
+   "name": "Eleanor",
+   "events": 4
+  },
+  {
+   "name": "Fumble Figgins",
+   "events": 4
+  },
+  {
+   "name": "Gelard Greenly",
+   "events": 4
+  },
+  {
+   "name": "Scruffy",
+   "events": 4
+  },
+  {
+   "name": "Taggart",
+   "events": 4
+  },
+  {
+   "name": "Warden Sharpe",
+   "events": 4
+  },
+  {
+   "name": "Archimedes",
+   "events": 3
+  },
+  {
+   "name": "Auntie Bees",
+   "events": 3
+  },
+  {
+   "name": "Baron Hellsauce",
+   "events": 3
+  },
+  {
+   "name": "Bulwark Broadhelm",
+   "events": 3
+  },
+  {
+   "name": "Chaton",
+   "events": 3
+  },
+  {
+   "name": "Deckard d'Thuranni",
+   "events": 3
+  },
+  {
+   "name": "Dell Quickfoot",
+   "events": 3
+  },
+  {
+   "name": "Lug Murzog",
+   "events": 3
+  },
+  {
+   "name": "Mercy",
+   "events": 3
+  },
+  {
+   "name": "Monty O'Brien",
+   "events": 3
+  },
+  {
+   "name": "Mr. Beaks",
+   "events": 3
+  },
+  {
+   "name": "Shrimp Diggery",
+   "events": 3
+  },
+  {
+   "name": "Smarmy Joe",
+   "events": 3
+  },
+  {
+   "name": "The Bear",
+   "events": 3
+  }
+ ],
+ "wrong_batch1": [
+  {
+   "id": "train-to-darkwood",
+   "title": "Waking on the Prison Train",
+   "session": 1,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ]
+  },
+  {
+   "id": "initiation-night",
+   "title": "Initiation Night Becomes a Prison Break",
+   "session": 2,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Bloodworth"
+   ]
+  },
+  {
+   "id": "wardens-secret",
+   "title": "Warden Sharpe's Confession",
+   "session": 2,
+   "characters": [
+    "Warden Sharpe"
+   ]
+  },
+  {
+   "id": "brand-suits-up",
+   "title": "Brand Suits Up",
+   "session": 2,
+   "characters": [
+    "Brand",
+    "Sazed"
+   ]
+  },
+  {
+   "id": "grail-rises",
+   "title": "Grail Grimdell Raises the Dead",
+   "session": 3,
+   "characters": [
+    "Bloodworth",
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "grail-falls",
+   "title": "Brand's Seeking Shot Ends Grail",
+   "session": 4,
+   "characters": [
+    "Brand",
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "ddt-note",
+   "title": "The Note Signed DDT",
+   "session": 4,
+   "characters": [
+    "Brand",
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "darkwood-explodes",
+   "title": "Cool Guys Don't Look at Explosions",
+   "session": 4,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ]
+  },
+  {
+   "id": "elric-reveals-sentinels",
+   "title": "Elric Reveals the Sentinels",
+   "session": 4,
+   "characters": [
+    "Gelf",
+    "Elric"
+   ]
+  },
+  {
+   "id": "bag-of-devouring",
+   "title": "The Bag of Devouring",
+   "session": 5,
+   "characters": [
+    "Sazed",
+    "Chester"
+   ]
+  },
+  {
+   "id": "rotten-potatoes",
+   "title": "Rotten Potatoes",
+   "session": 5,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Gelf",
+    "Elric",
+    "Damron Pink",
+    "Fumble Figgins"
+   ]
+  },
+  {
+   "id": "blazehelms-offers",
+   "title": "Blazehelm's Three Offers",
+   "session": 6,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "gelion-into-the-bag",
+   "title": "Into the Bag of Devouring",
+   "session": 5,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "found-you",
+   "title": "Found You",
+   "session": 6,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ]
+  },
+  {
+   "id": "the-kingsblade",
+   "title": "The Kingsblade Revealed",
+   "session": 5,
+   "characters": [
+    "Gelf",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "broadsword-stolen",
+   "title": "Leap onto the Broadsword",
+   "session": 7,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Screech"
+   ]
+  },
+  {
+   "id": "flooded-house",
+   "title": "Waking to a Flooded Room",
+   "session": 10,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Leff",
+    "Tauren"
+   ]
+  },
+  {
+   "id": "demon-village",
+   "title": "Thunderwave Through the Demon Village",
+   "session": 12,
+   "characters": [
+    "Lirael",
+    "Brand"
+   ]
+  },
+  {
+   "id": "broken-portal",
+   "title": "The Broken Teleportation Circle",
+   "session": 12,
+   "characters": []
+  },
+  {
+   "id": "sheldor-and-the-bag",
+   "title": "Sheldor Shoves Brand in the Bag",
+   "session": 12,
+   "characters": [
+    "Brand",
+    "Sheldor"
+   ]
+  },
+  {
+   "id": "dreamweaver-speaks",
+   "title": "The Dreamweaver Speaks Through Two Men",
+   "session": 13,
+   "characters": [
+    "Brand",
+    "Gelf",
+    "Sheldor",
+    "Charlie Trundle"
+   ]
+  },
+  {
+   "id": "fathers-library-card",
+   "title": "Every Book Checked Out by Lirael Sr",
+   "session": 13,
+   "characters": [
+    "Lirael",
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "brand-possessed",
+   "title": "Possessed Brand Takes Elric",
+   "session": 12.5,
+   "characters": [
+    "Brand",
+    "Elric"
+   ]
+  },
+  {
+   "id": "kingsblade-hijack",
+   "title": "Kingsblade Hijack Foiled",
+   "session": 13,
+   "characters": [
+    "Sazed",
+    "Cromwell",
+    "Sheldor",
+    "Charlie Trundle",
+    "Monty O'Brien"
+   ]
+  },
+  {
+   "id": "dream-eater",
+   "title": "Bombing the Dream Eater",
+   "session": 13,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Cromwell"
+   ]
+  },
+  {
+   "id": "fireworks-speech",
+   "title": "Fireworks Over Hobbstweedle",
+   "session": 14,
+   "characters": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "lirael-learns-to-fly",
+   "title": "Lirael Wins the Paintball Dogfight",
+   "session": 14,
+   "characters": [
+    "Lirael",
+    "Screech"
+   ]
+  },
+  {
+   "id": "meriel-on-the-bridge",
+   "title": "Meriel Dies on the Bridge",
+   "session": 14,
+   "characters": [
+    "Lirael",
+    "Meriel"
+   ]
+  },
+  {
+   "id": "the-even-hand-named",
+   "title": "Paxon Names The Even Hand",
+   "session": 14,
+   "characters": [
+    "Lirael",
+    "The Even Hand",
+    "Paxon"
+   ]
+  },
+  {
+   "id": "mercy-and-the-records",
+   "title": "Mercy Killed, the Records Burned",
+   "session": 14,
+   "characters": [
+    "Paxon",
+    "Mercy"
+   ]
+  },
+  {
+   "id": "gauss-house-explodes",
+   "title": "Gauss Hog's House Explodes",
+   "session": 14,
+   "characters": [
+    "Brand",
+    "Sazed",
+    "The Even Hand",
+    "Gauss Hog"
+   ]
+  },
+  {
+   "id": "even-hand-unmasked",
+   "title": "Click Clack Splits The Even Hand",
+   "session": 15,
+   "characters": [
+    "Sazed",
+    "The Even Hand",
+    "Kal Valvier",
+    "Click Clack"
+   ]
+  },
+  {
+   "id": "rune-transmits",
+   "title": "The Rune Transmits a Soul",
+   "session": 16,
+   "characters": [
+    "The Even Hand",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "paxon-painting-heist",
+   "title": "The Paxon Painting Heist",
+   "session": 17,
+   "characters": [
+    "Screech",
+    "Paxon",
+    "Dyll Strickland",
+    "Dandy",
+    "Spingus Dillguard"
+   ]
+  },
+  {
+   "id": "tomb-of-centarrel",
+   "title": "The Tomb of Centarrel",
+   "session": 18,
+   "characters": [
+    "Paxon"
+   ]
+  },
+  {
+   "id": "bellatrix-is-dead",
+   "title": "Bellatrix Is Dead",
+   "session": 18,
+   "characters": [
+    "Blazehelm",
+    "Bellatrix"
+   ]
+  },
+  {
+   "id": "evil-in-the-mirrors",
+   "title": "Evil in the Mirrors",
+   "session": 19,
+   "characters": [
+    "Lirael",
+    "Brand"
+   ]
+  },
+  {
+   "id": "moonwatch-departs",
+   "title": "The Moonwatch Departs",
+   "session": 18,
+   "characters": [
+    "Screech",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "steve-the-skycracker",
+   "title": "Steve the Skycracker",
+   "session": 19,
+   "characters": [
+    "Lirael"
+   ]
+  },
+  {
+   "id": "fathers-den",
+   "title": "Lirael Sr's Den",
+   "session": 19,
+   "characters": [
+    "Lirael",
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "slaad-dad",
+   "title": "Slaad Dad",
+   "session": 20,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "ants-and-birds",
+   "title": "Ants, Insults and Tighty Whities",
+   "session": 21,
+   "characters": [
+    "Lirael",
+    "Sazed",
+    "Xera",
+    "Ellis"
+   ]
+  },
+  {
+   "id": "gynn-at-the-forge",
+   "title": "Gynn at the Cannith Forge",
+   "session": 22,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Gynn"
+   ]
+  },
+  {
+   "id": "house-trashed",
+   "title": "Felicia Taken",
+   "session": 22,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Felicia Jr",
+    "Turckle",
+    "Gynn"
+   ]
+  },
+  {
+   "id": "the-white-stag",
+   "title": "The White Stag",
+   "session": 22,
+   "characters": [
+    "Sazed",
+    "The Bloodsinger"
+   ]
+  },
+  {
+   "id": "mausoleum-of-ardev",
+   "title": "The Lost Mausoleum of Ardev",
+   "session": 23,
+   "characters": []
+  },
+  {
+   "id": "the-fury-ritual",
+   "title": "The Fury Ritual",
+   "session": 24,
+   "characters": [
+    "Lirael",
+    "Felicia Jr",
+    "Turckle",
+    "Gynn",
+    "Neer",
+    "Elk",
+    "Fark"
+   ]
+  },
+  {
+   "id": "ardev-vs-bone-devils",
+   "title": "All of Ardev vs the Bone Devils",
+   "session": 24,
+   "characters": [
+    "Brand",
+    "Sazed",
+    "Brokk",
+    "Morganth",
+    "The Bloodsinger",
+    "Auntie Bees"
+   ]
+  },
+  {
+   "id": "fey-lynns-society",
+   "title": "Fey-Lynn's Magic Society",
+   "session": 25,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "children-in-the-well",
+   "title": "Children in the Well",
+   "session": 25,
+   "characters": [
+    "Sazed",
+    "Skye"
+   ]
+  },
+  {
+   "id": "phase-two",
+   "title": "Phase Two",
+   "session": 26,
+   "characters": [
+    "Lirael",
+    "Xera",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "ellis-ambush",
+   "title": "Ambushed by Ellis",
+   "session": 26,
+   "characters": [
+    "Lirael",
+    "Xera",
+    "Ellis"
+   ]
+  },
+  {
+   "id": "carriage-chase",
+   "title": "Mustang Betrays Them",
+   "session": 26,
+   "characters": [
+    "Brand",
+    "Sazed",
+    "The Even Hand",
+    "Felicia Jr",
+    "Mustang"
+   ]
+  },
+  {
+   "id": "black-booked-train",
+   "title": "Paxon: A Black-Booked Train",
+   "session": 26,
+   "characters": [
+    "Lirael",
+    "Paxon"
+   ]
+  },
+  {
+   "id": "xera-and-fey-lynn-die",
+   "title": "Xera and Fey-Lynn Beheaded",
+   "session": 28,
+   "characters": [
+    "The Even Hand",
+    "Mustang",
+    "Xera",
+    "Fey-Lynn",
+    "Jyo"
+   ]
+  },
+  {
+   "id": "even-hand-dies",
+   "title": "The Even Hand Dies",
+   "session": 28,
+   "characters": [
+    "Brand",
+    "Sazed",
+    "The Even Hand",
+    "Felicia Sr"
+   ]
+  },
+  {
+   "id": "jyo-torn-apart",
+   "title": "Jyo Torn Apart by Bears",
+   "session": 29,
+   "characters": [
+    "Cromwell",
+    "Jyo"
+   ]
+  },
+  {
+   "id": "skull-knight-turtle-fortress",
+   "title": "The Train Hits the Turtle Fortress",
+   "session": 29,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "The Skull Knight"
+   ]
+  },
+  {
+   "id": "skull-knights-judgment",
+   "title": "The Skull Knight's Judgment",
+   "session": 29,
+   "characters": [
+    "Lirael",
+    "The Skull Knight"
+   ]
+  },
+  {
+   "id": "lilya-the-guide",
+   "title": "Lilya the Guide",
+   "session": 29,
+   "characters": [
+    "Lirael"
+   ]
+  },
+  {
+   "id": "flowers-coerced",
+   "title": "Captain Flowers Under Threat",
+   "session": 30,
+   "characters": [
+    "Lirael",
+    "Jazz",
+    "Captain Flowers"
+   ]
+  },
+  {
+   "id": "xera-returns",
+   "title": "Xera and Fey-Lynn Return",
+   "session": 31,
+   "characters": [
+    "Lirael",
+    "Eloria",
+    "Xera",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "hearthsfire",
+   "title": "Hearthsfire Behind the Illusion",
+   "session": 31,
+   "characters": [
+    "Sazed",
+    "Falken",
+    "The Bear"
+   ]
+  },
+  {
+   "id": "truth-amulet-eptf",
+   "title": "The Truth Amulet at the EPTF",
+   "session": 32,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Captain Dane"
+   ]
+  },
+  {
+   "id": "elfina",
+   "title": "Elfina Daelmourn",
+   "session": 32,
+   "characters": [
+    "Lirael",
+    "Elfina"
+   ]
+  },
+  {
+   "id": "gelards-books",
+   "title": "Gelard Greenly's Overdue Books",
+   "session": 33,
+   "characters": [
+    "Lirael",
+    "Gelard Greenly"
+   ]
+  },
+  {
+   "id": "embers-suit",
+   "title": "Ember's Forty-Year Suit",
+   "session": 33,
+   "characters": [
+    "Brand",
+    "Ember"
+   ]
+  },
+  {
+   "id": "aundairians-in-the-alley",
+   "title": "Jeff Swallows the Aundairians",
+   "session": 34,
+   "characters": [
+    "Sazed",
+    "Jeff",
+    "Killian",
+    "Kynds"
+   ]
+  },
+  {
+   "id": "cloak-of-connect-mind",
+   "title": "Carrk's Cloak Connects to Another Plane",
+   "session": 35,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Carrk"
+   ]
+  },
+  {
+   "id": "unabombers-at-the-forge",
+   "title": "A Package for Ember",
+   "session": 35,
+   "characters": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Ember"
+   ]
+  },
+  {
+   "id": "witches-waltz",
+   "title": "Flashback in the Witches Waltz",
+   "session": 36,
+   "characters": [
+    "Lirael"
+   ]
+  },
+  {
+   "id": "kynds-takes-killian",
+   "title": "Kynds Takes Killian Back",
+   "session": 36,
+   "characters": [
+    "Lirael",
+    "Sazed",
+    "Screech",
+    "Eloria",
+    "Beezel",
+    "Killian",
+    "Kynds"
+   ]
+  },
+  {
+   "id": "dragons-lost-sons",
+   "title": "Steve and Bob's Lost Sons",
+   "session": 37,
+   "characters": []
+  },
+  {
+   "id": "animal-messenger",
+   "title": "A Message for the Lighted One",
+   "session": 37,
+   "characters": [
+    "Sazed",
+    "Eloria",
+    "Skye",
+    "The Bloodsinger",
+    "Mr. Beaks"
+   ]
+  },
+  {
+   "id": "fey-lynns-debrief",
+   "title": "Fey-Lynn's Debrief: Three Phases",
+   "session": 38,
+   "characters": [
+    "Lirael",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "thaddeus-comes-to-town",
+   "title": "Thaddeus Is Coming to Town",
+   "session": 38,
+   "characters": [
+    "Brand",
+    "Thaddeus Cannith",
+    "Brokk",
+    "Barry Baritone"
+   ]
+  },
+  {
+   "id": "flowers-black-order",
+   "title": "Captain Flowers' Black Order",
+   "session": 38,
+   "characters": [
+    "Captain Flowers"
+   ]
+  }
+ ],
+ "npc_major": [
+  {
+   "id": "bloodworth-takes-their-treasures",
+   "title": "Bloodworth Takes Their Treasures",
+   "session": 1,
+   "batch": 2,
+   "npcs": [
+    "Bloodworth"
+   ]
+  },
+  {
+   "id": "thaldamir-snaps-his-fingers",
+   "title": "Thaldamir Snaps His Fingers",
+   "session": 1,
+   "batch": 2,
+   "npcs": [
+    "Elarian",
+    "Thaldamir"
+   ]
+  },
+  {
+   "id": "sazed-tortured-by-bloodworth",
+   "title": "Bloodworth Tortures Sazed",
+   "session": 1,
+   "batch": 2,
+   "npcs": [
+    "Bloodworth"
+   ]
+  },
+  {
+   "id": "halien-talks-with-elric",
+   "title": "Halien Talks with Elric Galen",
+   "session": 1,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric"
+   ]
+  },
+  {
+   "id": "lirael-plays-cromwell",
+   "title": "Lirael Plays Cromwell",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Cromwell",
+    "Sheldor"
+   ]
+  },
+  {
+   "id": "initiation-night",
+   "title": "Initiation Night Becomes a Prison Break",
+   "session": 2,
+   "batch": 1,
+   "npcs": [
+    "Bloodworth"
+   ]
+  },
+  {
+   "id": "snatched-off-the-ledge",
+   "title": "Snatched Off the Ledge",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Leff",
+    "Elarian",
+    "Scud"
+   ]
+  },
+  {
+   "id": "shmem-gorgis-dies",
+   "title": "Shmem Gorgis Dies",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Shmem Gorgis"
+   ]
+  },
+  {
+   "id": "byll-and-cyriel-spared",
+   "title": "Byll and Cyriel Are Spared",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Byll",
+    "Cyriel"
+   ]
+  },
+  {
+   "id": "sorenson-gets-the-tuba",
+   "title": "Sorenson Gets Shmem's Tuba",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Shmem Gorgis"
+   ]
+  },
+  {
+   "id": "saving-elric-galen",
+   "title": "Saving Elric Galen",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Elric"
+   ]
+  },
+  {
+   "id": "zombie-bloodworth-in-the-pit",
+   "title": "Zombie Bloodworth in the Pit",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Bloodworth"
+   ]
+  },
+  {
+   "id": "rex-and-thaldamir-gang-war",
+   "title": "Rex and Thaldamir's Gang War",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Rex",
+    "Thaldamir"
+   ]
+  },
+  {
+   "id": "cutting-the-pit-elevator",
+   "title": "Cutting the Pit Elevator",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Bloodworth"
+   ]
+  },
+  {
+   "id": "lirael-plays-both-sides",
+   "title": "Lirael Plays Both Sides of the Riot",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Rex",
+    "Thaldamir"
+   ]
+  },
+  {
+   "id": "talking-past-the-barricade",
+   "title": "Talking Past the Barricade",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Elric"
+   ]
+  },
+  {
+   "id": "wardens-secret",
+   "title": "Warden Sharpe's Confession",
+   "session": 2,
+   "batch": 1,
+   "npcs": [
+    "Warden Sharpe"
+   ]
+  },
+  {
+   "id": "erald-names-the-necromancer",
+   "title": "Erald Dwelve Names the Necromancer",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Erald",
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "thaldamir-begs-for-his-life",
+   "title": "Thaldamir Begs for His Life",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Thaldamir"
+   ]
+  },
+  {
+   "id": "chester-the-mimic",
+   "title": "Chester the Mimic's Gift",
+   "session": 2,
+   "batch": 2,
+   "npcs": [
+    "Chester"
+   ]
+  },
+  {
+   "id": "out-through-the-broken-wall",
+   "title": "Out Through the Broken Wall",
+   "session": 3,
+   "batch": 2,
+   "npcs": [
+    "Elarian",
+    "Rex"
+   ]
+  },
+  {
+   "id": "grail-rises",
+   "title": "Grail Grimdell Raises the Dead",
+   "session": 3,
+   "batch": 1,
+   "npcs": [
+    "Bloodworth",
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "the-horde-overwhelms-brand",
+   "title": "The Horde Overwhelms Brand",
+   "session": 3,
+   "batch": 2,
+   "npcs": [
+    "Rolick"
+   ]
+  },
+  {
+   "id": "brand-kills-grail",
+   "title": "Brand Kills Grail Grimdell",
+   "session": 3,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "grails-final-form",
+   "title": "Grail's Final Form",
+   "session": 3,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "grails-meat-shield",
+   "title": "Invisible Grail and the Meat Shield",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell",
+    "Rex"
+   ]
+  },
+  {
+   "id": "lirael-pleads-with-damron",
+   "title": "Lirael Talks Damron Pink Around",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Damron Pink",
+    "Fumble Figgins"
+   ]
+  },
+  {
+   "id": "bloodworth-dies-a-third-time",
+   "title": "Bloodworth Dies a Third Time",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Bloodworth"
+   ]
+  },
+  {
+   "id": "grails-lieutenants-fall",
+   "title": "Grail's Lieutenants Fall",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell",
+    "Rolick",
+    "Rex",
+    "Shmem Gorgis",
+    "Warden Sharpe",
+    "Scud"
+   ]
+  },
+  {
+   "id": "grail-falls",
+   "title": "Brand's Seeking Shot Ends Grail",
+   "session": 4,
+   "batch": 1,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "mourning-the-fallen",
+   "title": "Mourning the Fallen",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Leff",
+    "Rex",
+    "Shmem Gorgis"
+   ]
+  },
+  {
+   "id": "down-from-the-roof",
+   "title": "Down from the Roof, Except Thaldamir",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Erald",
+    "Chester",
+    "Thaldamir"
+   ]
+  },
+  {
+   "id": "sheldor-looks-for-cromwell",
+   "title": "Sheldor Looks for Cromwell",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Cromwell",
+    "Sheldor"
+   ]
+  },
+  {
+   "id": "grails-necklace",
+   "title": "Grail's Necklace",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "ddt-note",
+   "title": "The Note Signed DDT",
+   "session": 4,
+   "batch": 1,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "damrons-ultimatum",
+   "title": "Damron Pink's Ultimatum",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Damron Pink"
+   ]
+  },
+  {
+   "id": "sheldor-and-the-snel-katar",
+   "title": "Sheldor Teaches the Snel Katar",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Sheldor"
+   ]
+  },
+  {
+   "id": "bluffing-the-mine-guards",
+   "title": "Bluffing the Mine Guards",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Joerick",
+    "Spingel"
+   ]
+  },
+  {
+   "id": "halien-stands-watch",
+   "title": "Halien Stands Watch",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric"
+   ]
+  },
+  {
+   "id": "wild-cart-ride",
+   "title": "A Wild Cart Ride Down",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Elric"
+   ]
+  },
+  {
+   "id": "elrics-supper",
+   "title": "Supper at Elric's House",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Elric"
+   ]
+  },
+  {
+   "id": "elric-reveals-sentinels",
+   "title": "Elric Reveals the Sentinels",
+   "session": 4,
+   "batch": 1,
+   "npcs": [
+    "Gelf",
+    "Elric"
+   ]
+  },
+  {
+   "id": "ddt-and-the-dragonmarks",
+   "title": "DDT and the Dragonmarked Houses",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "elric-throws-a-spoon",
+   "title": "Elric Throws a Spoon",
+   "session": 4,
+   "batch": 2,
+   "npcs": [
+    "Elric"
+   ]
+  },
+  {
+   "id": "verona-sharpes-tea",
+   "title": "Tea with the Warden's Widow",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Warden Sharpe"
+   ]
+  },
+  {
+   "id": "spying-on-damron",
+   "title": "Spying on Damron's House",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Joerick",
+    "Spingel",
+    "Damron Pink"
+   ]
+  },
+  {
+   "id": "luring-spingel-and-joerick",
+   "title": "Bloodworth's Voice from the Abandoned House",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Bloodworth"
+   ]
+  },
+  {
+   "id": "ambush-at-the-abandoned-house",
+   "title": "Ambush at the Abandoned House",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Joerick",
+    "Spingel"
+   ]
+  },
+  {
+   "id": "grails-cellar",
+   "title": "Grail's Lair Under the Floor",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "calling-grails-brother",
+   "title": "Calling Grail's Brother",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "bag-of-devouring",
+   "title": "The Bag of Devouring",
+   "session": 5,
+   "batch": 1,
+   "npcs": [
+    "Chester"
+   ]
+  },
+  {
+   "id": "gelf-in-the-closet",
+   "title": "Gelf Behind the Closet Door",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric"
+   ]
+  },
+  {
+   "id": "gelf-tells-all",
+   "title": "Gelf Tells All",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric"
+   ]
+  },
+  {
+   "id": "rotten-potatoes",
+   "title": "Rotten Potatoes",
+   "session": 5,
+   "batch": 1,
+   "npcs": [
+    "Gelf",
+    "Elric",
+    "Damron Pink",
+    "Fumble Figgins"
+   ]
+  },
+  {
+   "id": "grails-brother-arrives",
+   "title": "Grail's Brother Comes to Call",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "kicked-down-the-hatch",
+   "title": "Kicked Down the Hatch",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "the-sentinels-explained",
+   "title": "Through the Illusion: The Sentinels",
+   "session": 6,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "prison-was-a-sentinel-trial",
+   "title": "The Prison Was a Trial",
+   "session": 6,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "grimdells-and-house-thuranni",
+   "title": "The Grimdells and House Thuranni",
+   "session": 6,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "blazehelms-offers",
+   "title": "Blazehelm's Three Offers",
+   "session": 6,
+   "batch": 1,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "gelion-into-the-bag",
+   "title": "Into the Bag of Devouring",
+   "session": 5,
+   "batch": 1,
+   "npcs": [
+    "Grail Grimdell"
+   ]
+  },
+  {
+   "id": "maiden-voyage-feast",
+   "title": "Feast Aboard the Kingsblade",
+   "session": 6,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Chester"
+   ]
+  },
+  {
+   "id": "tour-of-the-kingsblade",
+   "title": "Touring the Kingsblade",
+   "session": 6,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "mission-against-killian-gavrin",
+   "title": "Mission: Broadsword and Broadaxe",
+   "session": 6,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "sazed-confides-in-nedira",
+   "title": "Sazed's Confession and Nedira",
+   "session": 6,
+   "batch": 2,
+   "npcs": [
+    "Nedira"
+   ]
+  },
+  {
+   "id": "paxon-in-the-clearing",
+   "title": "Chief Petty Officer Paxon",
+   "session": 5,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Paxon"
+   ]
+  },
+  {
+   "id": "the-kingsblade",
+   "title": "The Kingsblade Revealed",
+   "session": 5,
+   "batch": 1,
+   "npcs": [
+    "Gelf",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "blazehelms-whiskey",
+   "title": "Breakfast and Blazehelm's Whiskey",
+   "session": 6,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "eeeee-the-dwarf-in-a-can",
+   "title": "EEEEE, the Dwarf in a Can",
+   "session": 7,
+   "batch": 2,
+   "npcs": [
+    "EEEEE"
+   ]
+  },
+  {
+   "id": "eeeee-slain",
+   "title": "EEEEE Falls, the Archer Dies",
+   "session": 7,
+   "batch": 2,
+   "npcs": [
+    "EEEEE"
+   ]
+  },
+  {
+   "id": "crossing-the-river",
+   "title": "Crossing the Raging River",
+   "session": 7,
+   "batch": 2,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "sazed-rides-the-rotor",
+   "title": "Sazed Rides the Rotor",
+   "session": 7,
+   "batch": 2,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "broadsword-stolen",
+   "title": "Leap onto the Broadsword",
+   "session": 7,
+   "batch": 1,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "pilot-overboard",
+   "title": "For Aundair, Overboard",
+   "session": 7,
+   "batch": 2,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "hobgoblin-warlord-below-decks",
+   "title": "The Hobgoblin Warlord",
+   "session": 7,
+   "batch": 2,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "kunai-to-the-rescue",
+   "title": "The Kunai to the Rescue",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Keys",
+    "Leff"
+   ]
+  },
+  {
+   "id": "spoils-of-the-broadsword",
+   "title": "Searching the Broadsword",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric"
+   ]
+  },
+  {
+   "id": "three-weeks-of-training",
+   "title": "Orders: Three Weeks of Training",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "cromwells-coin-game",
+   "title": "Cromwell's Coin Game",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Cromwell"
+   ]
+  },
+  {
+   "id": "blazehelms-mansion-feast",
+   "title": "Feast at Blazehelm's Mansion",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "how-blazehelm-knows-lirael",
+   "title": "How Blazehelm Knew: Gelard Greenly",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm",
+    "Gelard Greenly"
+   ]
+  },
+  {
+   "id": "how-blazehelm-knows-brand",
+   "title": "How Blazehelm Knew: The King's Apology",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm",
+    "Paxon"
+   ]
+  },
+  {
+   "id": "how-blazehelm-knows-sazed",
+   "title": "How Blazehelm Knew: Eldritch Groves",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "the-quiet-room",
+   "title": "Foehammer, Eloria and Clockwork",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric",
+    "Eloria",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "music-room-and-xendrik",
+   "title": "The Music Room",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Sheldor"
+   ]
+  },
+  {
+   "id": "gnome-pranks",
+   "title": "Pies, Grease and an Argument",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Paxon"
+   ]
+  },
+  {
+   "id": "sorensons-song",
+   "title": "Sorenson's Song for Shmem",
+   "session": 8,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Shmem Gorgis"
+   ]
+  },
+  {
+   "id": "brand-and-smarmy-joe",
+   "title": "Brand's New Best Friend",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Smarmy Joe"
+   ]
+  },
+  {
+   "id": "sazed-and-nedira-prowlstone",
+   "title": "Nedira and the Village of Prowlstone",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Nedira"
+   ]
+  },
+  {
+   "id": "dwarven-roulette",
+   "title": "Dwarven Roulette with Spingus",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Spingus Dillguard"
+   ]
+  },
+  {
+   "id": "spingus-dumbwaiter-deal",
+   "title": "Spingus's Price for the Dumbwaiter",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Spingus Dillguard"
+   ]
+  },
+  {
+   "id": "paxons-room-and-the-teleporter",
+   "title": "The Keyhole in Paxon's Painting",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Paxon"
+   ]
+  },
+  {
+   "id": "flatulence-for-paxon",
+   "title": "Something in Paxon's Tea",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Paxon",
+    "Spingus Dillguard"
+   ]
+  },
+  {
+   "id": "valhalla-eriksson-ball-bearings",
+   "title": "Valhalla Eriksson and the Ball Bearings",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Spingus Dillguard"
+   ]
+  },
+  {
+   "id": "tauren-finds-faith",
+   "title": "Tauren Finds Faith",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Keys",
+    "Tauren"
+   ]
+  },
+  {
+   "id": "sauna-with-dyll-strickland",
+   "title": "The Dragonborn Sauna",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Tauren",
+    "Dyll Strickland"
+   ]
+  },
+  {
+   "id": "halfling-card-game",
+   "title": "Cards with the Halfling Pilots",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Beezel"
+   ]
+  },
+  {
+   "id": "blazehelm-and-the-sentinels-band",
+   "title": "Blazehelm and the Sentinels Close Out",
+   "session": 9,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm",
+    "Smarmy Joe"
+   ]
+  },
+  {
+   "id": "flooded-house",
+   "title": "Waking to a Flooded Room",
+   "session": 10,
+   "batch": 1,
+   "npcs": [
+    "Leff",
+    "Tauren"
+   ]
+  },
+  {
+   "id": "warforged-in-the-dining-room",
+   "title": "Warforged Ambush: It's a Test",
+   "session": 10,
+   "batch": 2,
+   "npcs": [
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "dyll-strickland-dressing-down",
+   "title": "Drill Instructor Dyll Strickland",
+   "session": 10,
+   "batch": 2,
+   "npcs": [
+    "Dyll Strickland"
+   ]
+  },
+  {
+   "id": "the-five-mile-run",
+   "title": "The Five Mile Run",
+   "session": 10,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Dyll Strickland"
+   ]
+  },
+  {
+   "id": "obstacle-course-begins",
+   "title": "The Obstacle Course",
+   "session": 10,
+   "batch": 2,
+   "npcs": [
+    "Dyll Strickland"
+   ]
+  },
+  {
+   "id": "liraels-first-flag",
+   "title": "Lirael Takes the First Flag",
+   "session": 11,
+   "batch": 2,
+   "npcs": [
+    "Dyll Strickland"
+   ]
+  },
+  {
+   "id": "keys-the-shark",
+   "title": "Keys Becomes a Shark",
+   "session": 11,
+   "batch": 2,
+   "npcs": [
+    "Keys"
+   ]
+  },
+  {
+   "id": "sazed-throws-the-keys",
+   "title": "Sazed Throws Everyone's Keys",
+   "session": 11,
+   "batch": 2,
+   "npcs": [
+    "Keys"
+   ]
+  },
+  {
+   "id": "brand-and-the-npcs-finish",
+   "title": "Brand and the Squad Finish",
+   "session": 11,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Leff",
+    "Tauren"
+   ]
+  },
+  {
+   "id": "sheldor-tells-of-xendrik",
+   "title": "Sheldor Tells Sazed of Xen'drik",
+   "session": 11,
+   "batch": 2,
+   "npcs": [
+    "Sheldor"
+   ]
+  },
+  {
+   "id": "leff-skullcrusher",
+   "title": "How Leff Earned Skullcrusher",
+   "session": 11,
+   "batch": 2,
+   "npcs": [
+    "Leff"
+   ]
+  },
+  {
+   "id": "tauren-cannot-read",
+   "title": "Tauren's Secret",
+   "session": 11,
+   "batch": 2,
+   "npcs": [
+    "Tauren"
+   ]
+  },
+  {
+   "id": "gelfs-requisitions",
+   "title": "Gelf's Requisitions and Cigars",
+   "session": 11,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "whiskey-and-a-napkin",
+   "title": "Whiskey and a Napkin Sketch",
+   "session": 12,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "paxon-nerds-out",
+   "title": "Paxon Nerds Out About Ancient Circles",
+   "session": 12,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Paxon"
+   ]
+  },
+  {
+   "id": "erald-fart-debrief",
+   "title": "Erald Reports on the Fart King",
+   "session": 12,
+   "batch": 2,
+   "npcs": [
+    "Paxon",
+    "Erald"
+   ]
+  },
+  {
+   "id": "morkoth-rope-expedition",
+   "title": "Hauling Morkoths Out of the Bag",
+   "session": 12,
+   "batch": 2,
+   "npcs": [
+    "Cromwell",
+    "Sheldor",
+    "Keys",
+    "Leff",
+    "Tauren"
+   ]
+  },
+  {
+   "id": "sheldor-wants-back-in",
+   "title": "Sheldor Insists on Going Back In",
+   "session": 12,
+   "batch": 2,
+   "npcs": [
+    "Sheldor"
+   ]
+  },
+  {
+   "id": "sheldor-and-the-bag",
+   "title": "Sheldor Shoves Brand in the Bag",
+   "session": 12,
+   "batch": 1,
+   "npcs": [
+    "Sheldor"
+   ]
+  },
+  {
+   "id": "keys-mauls-the-spellcaster",
+   "title": "Keys Mauls the Sentinel Spellcaster",
+   "session": 12,
+   "batch": 2,
+   "npcs": [
+    "Sheldor",
+    "Keys"
+   ]
+  },
+  {
+   "id": "stables-interrogation",
+   "title": "Tell Him Gelf and Elric",
+   "session": 12,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric",
+    "Sorenson"
+   ]
+  },
+  {
+   "id": "breakfast-at-gelfs",
+   "title": "Barging In on Gelf's Breakfast",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric",
+    "Screech"
+   ]
+  },
+  {
+   "id": "code-orange",
+   "title": "Code Orange at the Mansion",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "lug-murzog-revived",
+   "title": "Lug Murzog Comes Back Clean",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Paxon",
+    "Keys",
+    "Lug Murzog"
+   ]
+  },
+  {
+   "id": "dreamweaver-speaks",
+   "title": "The Dreamweaver Speaks Through Two Men",
+   "session": 13,
+   "batch": 1,
+   "npcs": [
+    "Gelf",
+    "Sheldor",
+    "Charlie Trundle"
+   ]
+  },
+  {
+   "id": "back-to-training-as-normal",
+   "title": "Back to Training as If Nothing Happened",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "fathers-library-card",
+   "title": "Every Book Checked Out by Lirael Sr",
+   "session": 13,
+   "batch": 1,
+   "npcs": [
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "library-cards-for-everyone",
+   "title": "Library Cards for Everyone",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Tauren"
+   ]
+  },
+  {
+   "id": "brand-possessed",
+   "title": "Possessed Brand Takes Elric",
+   "session": 12.5,
+   "batch": 1,
+   "npcs": [
+    "Elric"
+   ]
+  },
+  {
+   "id": "screech-taken",
+   "title": "Screech Goes Into the Bag",
+   "session": 12.5,
+   "batch": 2,
+   "npcs": [
+    "Elric",
+    "Screech"
+   ]
+  },
+  {
+   "id": "gelf-fights-free",
+   "title": "Gelf Wakes and Fights Back",
+   "session": 12.5,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Bellatrix"
+   ]
+  },
+  {
+   "id": "bellatrix-shot",
+   "title": "Bellatrix Shot in the Back",
+   "session": 12.5,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric",
+    "Screech",
+    "Clockwork",
+    "Bellatrix"
+   ]
+  },
+  {
+   "id": "gelf-into-the-astral-sea",
+   "title": "Gelf Shoved Into the Astral Sea",
+   "session": 12.5,
+   "batch": 2,
+   "npcs": [
+    "Gelf"
+   ]
+  },
+  {
+   "id": "hunky-dory",
+   "title": "Is Everything Hunky Dory?",
+   "session": 12.5,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "house-burns-flight-to-airfield",
+   "title": "The Book of Fire and the Run",
+   "session": 12.5,
+   "batch": 2,
+   "npcs": [
+    "Elric",
+    "Screech",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "caught-at-the-village-gate",
+   "title": "Lirael Puts Brand to Sleep",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Elric",
+    "Screech",
+    "Cromwell",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "empty-jail-blood-trail",
+   "title": "The Empty Jail and a Trail of Blood",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Sheldor",
+    "Clockwork",
+    "Charlie Trundle"
+   ]
+  },
+  {
+   "id": "kingsblade-hijack",
+   "title": "Kingsblade Hijack Foiled",
+   "session": 13,
+   "batch": 1,
+   "npcs": [
+    "Cromwell",
+    "Sheldor",
+    "Charlie Trundle",
+    "Monty O'Brien"
+   ]
+  },
+  {
+   "id": "bellatrix-revived",
+   "title": "Bellatrix Wakes Among Her Killers",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Paxon",
+    "Bellatrix",
+    "Lug Murzog"
+   ]
+  },
+  {
+   "id": "brand-dies-a-little",
+   "title": "Brand Dies Just a Little Bit",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Paxon",
+    "Monty O'Brien"
+   ]
+  },
+  {
+   "id": "clockwork-lassos-gelf",
+   "title": "Clockwork Lassos Gelf From the Void",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "into-the-dream-plane",
+   "title": "Into the Dreamweaver's Plane",
+   "session": 13,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Feldor Windrake"
+   ]
+  },
+  {
+   "id": "dream-eater",
+   "title": "Bombing the Dream Eater",
+   "session": 13,
+   "batch": 1,
+   "npcs": [
+    "Cromwell"
+   ]
+  },
+  {
+   "id": "brass-dragon-in-the-dream",
+   "title": "A Brass Dragon Bursts From the Light",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Gelf"
+   ]
+  },
+  {
+   "id": "friends-come-back",
+   "title": "Friends Come Back to Themselves",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Eloria"
+   ]
+  },
+  {
+   "id": "blazehelms-personal-guard",
+   "title": "Added to Blazehelm's Personal Guard",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "mind-control-training",
+   "title": "Mind Control Training",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Leff"
+   ]
+  },
+  {
+   "id": "fireworks-speech",
+   "title": "Fireworks Over Hobbstweedle",
+   "session": 14,
+   "batch": 1,
+   "npcs": [
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "nobody-else-possessed",
+   "title": "No One Else Is Possessed",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Blazehelm",
+    "Bellatrix"
+   ]
+  },
+  {
+   "id": "screechs-model-broadsword",
+   "title": "Checklists at Screech's House",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Screech",
+    "Bellatrix"
+   ]
+  },
+  {
+   "id": "lirael-first-flight",
+   "title": "Lirael's First Flight",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "lirael-learns-to-fly",
+   "title": "Lirael Wins the Paintball Dogfight",
+   "session": 14,
+   "batch": 1,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "clockwork-on-sentimentality",
+   "title": "Clockwork Has No Use for Sentiment",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "rune-wakes-the-spellcaster",
+   "title": "The Rune Wakes the Spellcaster",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "limbs-for-faird",
+   "title": "Designing Limbs for Faird",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Clockwork",
+    "Faird"
+   ]
+  },
+  {
+   "id": "monty-elemental-engines",
+   "title": "Monty Offers Elemental Engines",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Clockwork",
+    "Monty O'Brien"
+   ]
+  },
+  {
+   "id": "letter-from-meriel",
+   "title": "A Letter From Meriel",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Erald",
+    "Meriel"
+   ]
+  },
+  {
+   "id": "meriel-on-the-bridge",
+   "title": "Meriel Dies on the Bridge",
+   "session": 14,
+   "batch": 1,
+   "npcs": [
+    "Meriel"
+   ]
+  },
+  {
+   "id": "mercy-at-the-library",
+   "title": "Lirael Confides in Mercy",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Mercy"
+   ]
+  },
+  {
+   "id": "the-even-hand-named",
+   "title": "Paxon Names The Even Hand",
+   "session": 14,
+   "batch": 1,
+   "npcs": [
+    "The Even Hand",
+    "Paxon"
+   ]
+  },
+  {
+   "id": "royal-ardev-regiment",
+   "title": "The Disbanded Royal Ardev Regiment",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Paxon"
+   ]
+  },
+  {
+   "id": "nedira-signals-training",
+   "title": "Signals Training With Nedira",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Nedira"
+   ]
+  },
+  {
+   "id": "mercy-and-the-records",
+   "title": "Mercy Killed, the Records Burned",
+   "session": 14,
+   "batch": 1,
+   "npcs": [
+    "Paxon",
+    "Mercy"
+   ]
+  },
+  {
+   "id": "eloria-speak-with-dead",
+   "title": "Two Scrolls of Speak With Dead",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "chief-torg",
+   "title": "Chief Torg and Another Murder",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Murphy Gravewood",
+    "Chief Torg"
+   ]
+  },
+  {
+   "id": "meriel-speaks-from-the-morgue",
+   "title": "Meriel Speaks From the Morgue",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Meriel"
+   ]
+  },
+  {
+   "id": "murphys-house",
+   "title": "Three Bodies at Murphy's House",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Murphy Gravewood"
+   ]
+  },
+  {
+   "id": "binocular-glint-chase",
+   "title": "A Glint of Binoculars",
+   "session": 14,
+   "batch": 2,
+   "npcs": [
+    "Gauss Hog",
+    "Murphy Gravewood"
+   ]
+  },
+  {
+   "id": "gauss-house-explodes",
+   "title": "Gauss Hog's House Explodes",
+   "session": 14,
+   "batch": 1,
+   "npcs": [
+    "The Even Hand",
+    "Gauss Hog"
+   ]
+  },
+  {
+   "id": "standoff-at-kals-house",
+   "title": "Give Us Kal and Walk Away",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Kal Valvier"
+   ]
+  },
+  {
+   "id": "kal-killed-on-the-street",
+   "title": "Kal Shot From the Rooftop",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Kal Valvier"
+   ]
+  },
+  {
+   "id": "hunger-of-hadar-assassins",
+   "title": "Hunger of Hadar Takes the Assassins",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Kal Valvier",
+    "Click Clack"
+   ]
+  },
+  {
+   "id": "even-hand-unmasked",
+   "title": "Click Clack Splits The Even Hand",
+   "session": 15,
+   "batch": 1,
+   "npcs": [
+    "The Even Hand",
+    "Kal Valvier",
+    "Click Clack"
+   ]
+  },
+  {
+   "id": "obelisk-in-meriels-bag",
+   "title": "Lirael Sr's Obelisk in Meriel's Bag",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "Lirael Sr",
+    "Meriel"
+   ]
+  },
+  {
+   "id": "click-clack-resigns",
+   "title": "Click Clack Resigns",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "Click Clack",
+    "Chief Torg"
+   ]
+  },
+  {
+   "id": "the-master-key",
+   "title": "The Master Key",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "Click Clack"
+   ]
+  },
+  {
+   "id": "gauss-hog-survives",
+   "title": "Gauss Hog Turns Up Alive",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "Gauss Hog"
+   ]
+  },
+  {
+   "id": "gauss-hogs-story",
+   "title": "The Regiment's Real Mission",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm",
+    "Paxon",
+    "Gauss Hog"
+   ]
+  },
+  {
+   "id": "imps-firebomb-the-house",
+   "title": "Imps Firebomb the House",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "rolicks-dust",
+   "title": "Rolick's Dust Finds the Last Imps",
+   "session": 15,
+   "batch": 2,
+   "npcs": [
+    "Click Clack",
+    "Rolick"
+   ]
+  },
+  {
+   "id": "gentle-repose-form",
+   "title": "The Form They Definitely Shouldn't File",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Paxon",
+    "Kal Valvier"
+   ]
+  },
+  {
+   "id": "ardev-song-on-the-piano",
+   "title": "An Ardev Song on the Piano",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Kal Valvier",
+    "Meriel",
+    "Murphy Gravewood"
+   ]
+  },
+  {
+   "id": "obelisk-rune-dream",
+   "title": "The Obelisk Rune Reads Dream",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Paxon"
+   ]
+  },
+  {
+   "id": "rune-transmits",
+   "title": "The Rune Transmits a Soul",
+   "session": 16,
+   "batch": 1,
+   "npcs": [
+    "The Even Hand",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "circle-blast-marks",
+   "title": "Blast Marks at the Broken Circle",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Gauss Hog"
+   ]
+  },
+  {
+   "id": "brew-and-ale-farewell",
+   "title": "A Last Night at Brew and Ale",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Elric",
+    "Screech",
+    "Keys"
+   ]
+  },
+  {
+   "id": "dancing-with-eloria",
+   "title": "Sazed Dances, Eleanor Hides",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Gauss Hog",
+    "Eleanor"
+   ]
+  },
+  {
+   "id": "rigged-chicken-races",
+   "title": "Rigged Chicken Races",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Keys"
+   ]
+  },
+  {
+   "id": "gelf-brand-rematch",
+   "title": "The Gelf and Brand Rematch",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Gelf"
+   ]
+  },
+  {
+   "id": "brand-walks-eleanor-home",
+   "title": "Brand Walks Eleanor Home",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Eleanor"
+   ]
+  },
+  {
+   "id": "hangover-and-dyll",
+   "title": "Hangovers on the Training Field",
+   "session": 16,
+   "batch": 2,
+   "npcs": [
+    "Sheldor",
+    "Leff",
+    "Tauren",
+    "Dyll Strickland"
+   ]
+  },
+  {
+   "id": "silence-arrow-in-the-door",
+   "title": "A Silence Arrow in the Door",
+   "session": 17,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand"
+   ]
+  },
+  {
+   "id": "tracks-into-the-sewers",
+   "title": "Tracks Into the Sewers",
+   "session": 17,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "sewer-map-stolen",
+   "title": "The Stolen Sewer Map",
+   "session": 17,
+   "batch": 2,
+   "npcs": [
+    "Paxon",
+    "Cromwell"
+   ]
+  },
+  {
+   "id": "bellatrix-sent-home",
+   "title": "Bellatrix Sent Home",
+   "session": 17,
+   "batch": 2,
+   "npcs": [
+    "Bellatrix"
+   ]
+  },
+  {
+   "id": "sasquatch-bucket-prank",
+   "title": "Dyll's Sasquatch Bucket",
+   "session": 17,
+   "batch": 2,
+   "npcs": [
+    "Dyll Strickland"
+   ]
+  },
+  {
+   "id": "erald-delivers-the-map",
+   "title": "Erald Delivers the Sewer Map",
+   "session": 17,
+   "batch": 2,
+   "npcs": [
+    "Paxon",
+    "Erald"
+   ]
+  },
+  {
+   "id": "paxon-painting-heist",
+   "title": "The Paxon Painting Heist",
+   "session": 17,
+   "batch": 1,
+   "npcs": [
+    "Screech",
+    "Paxon",
+    "Dyll Strickland",
+    "Dandy",
+    "Spingus Dillguard"
+   ]
+  },
+  {
+   "id": "eloria-and-clockwork-join-prank",
+   "title": "Eloria and Clockwork Join the Prank",
+   "session": 17,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Paxon",
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "tomb-of-centarrel",
+   "title": "The Tomb of Centarrel",
+   "session": 18,
+   "batch": 1,
+   "npcs": [
+    "Paxon"
+   ]
+  },
+  {
+   "id": "graves-of-the-fathers",
+   "title": "The Graves of Their Fathers",
+   "session": 18,
+   "batch": 2,
+   "npcs": [
+    "Gelf",
+    "Thaldamir"
+   ]
+  },
+  {
+   "id": "clockwork-wyrmlings",
+   "title": "Clockwork Wyrmlings and a Dragon Skull",
+   "session": 18,
+   "batch": 2,
+   "npcs": [
+    "Clockwork"
+   ]
+  },
+  {
+   "id": "beholder-illusion",
+   "title": "Hanging the Portrait Under a Beholder",
+   "session": 18,
+   "batch": 2,
+   "npcs": [
+    "Dandy"
+   ]
+  },
+  {
+   "id": "portrait-unveiled",
+   "title": "Paxon's Portrait Unveiled",
+   "session": 18,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm",
+    "Paxon"
+   ]
+  },
+  {
+   "id": "bellatrix-is-dead",
+   "title": "Bellatrix Is Dead",
+   "session": 18,
+   "batch": 1,
+   "npcs": [
+    "Blazehelm",
+    "Bellatrix"
+   ]
+  },
+  {
+   "id": "why-blazehelm-trusts-paxon",
+   "title": "Why Blazehelm Trusts Paxon",
+   "session": 18,
+   "batch": 2,
+   "npcs": [
+    "Blazehelm",
+    "Paxon"
+   ]
+  },
+  {
+   "id": "moonwatch-crew-roles",
+   "title": "The Moonwatch Crew Roster",
+   "session": 18,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Beezel"
+   ]
+  },
+  {
+   "id": "lift-off-for-ardev",
+   "title": "Lift-Off for Ardev",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Beezel"
+   ]
+  },
+  {
+   "id": "parting-gifts",
+   "title": "Parting Gifts",
+   "session": 18,
+   "batch": 2,
+   "npcs": [
+    "Clockwork",
+    "Eleanor"
+   ]
+  },
+  {
+   "id": "moonwatch-departs",
+   "title": "The Moonwatch Departs",
+   "session": 18,
+   "batch": 1,
+   "npcs": [
+    "Screech",
+    "Blazehelm"
+   ]
+  },
+  {
+   "id": "sorenson-confides",
+   "title": "Sorenson's Fears",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Beezel",
+    "Erald"
+   ]
+  },
+  {
+   "id": "cromwell-the-stowaway",
+   "title": "Cromwell the Stowaway",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Cromwell"
+   ]
+  },
+  {
+   "id": "mirrors-overboard",
+   "title": "Mirrors Overboard",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Chester"
+   ]
+  },
+  {
+   "id": "beezel-and-the-books",
+   "title": "A Chipmunk in the Books",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Beezel"
+   ]
+  },
+  {
+   "id": "dandys-dinner",
+   "title": "Dandy's Dinner",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Dandy",
+    "Spingus Dillguard"
+   ]
+  },
+  {
+   "id": "canuck-songs",
+   "title": "Canuck Songs into the Night",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "the-cookie-feud",
+   "title": "The Cookie Feud",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Erald",
+    "Dandy"
+   ]
+  },
+  {
+   "id": "a-cold-welcome-to-ardev",
+   "title": "A Cold Welcome to Ardev",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Mustang",
+    "Jazz"
+   ]
+  },
+  {
+   "id": "farks-bargain-whores",
+   "title": "Fark's Bargain Whores",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Jazz",
+    "Fark"
+   ]
+  },
+  {
+   "id": "fathers-den",
+   "title": "Lirael Sr's Den",
+   "session": 19,
+   "batch": 1,
+   "npcs": [
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "the-last-poem",
+   "title": "Lirael Sr's Last Poem",
+   "session": 19,
+   "batch": 2,
+   "npcs": [
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "the-mad-library-puzzle",
+   "title": "The Madman's Puzzle",
+   "session": 20,
+   "batch": 2,
+   "npcs": [
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "slaad-dad",
+   "title": "Slaad Dad",
+   "session": 20,
+   "batch": 1,
+   "npcs": [
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "the-secret-office",
+   "title": "The Secret Office",
+   "session": 20,
+   "batch": 2,
+   "npcs": [
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "i-pray-the-worst-has-come",
+   "title": "I Pray the Worst Has Come",
+   "session": 20,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Lirael Sr"
+   ]
+  },
+  {
+   "id": "hellsauce-recruits-sazed",
+   "title": "Baron Hellsauce Makes an Offer",
+   "session": 20,
+   "batch": 2,
+   "npcs": [
+    "Baron Hellsauce"
+   ]
+  },
+  {
+   "id": "the-ardev-library",
+   "title": "Carrk's Message at the Library",
+   "session": 20,
+   "batch": 2,
+   "npcs": [
+    "Carrk"
+   ]
+  },
+  {
+   "id": "barry-baritone",
+   "title": "Barry Baritone",
+   "session": 21,
+   "batch": 2,
+   "npcs": [
+    "Brokk",
+    "Barry Baritone"
+   ]
+  },
+  {
+   "id": "xera-harassed",
+   "title": "Trouble at the Turckle and Churckle",
+   "session": 21,
+   "batch": 2,
+   "npcs": [
+    "Xera",
+    "Turckle"
+   ]
+  },
+  {
+   "id": "ants-and-birds",
+   "title": "Ants, Insults and Tighty Whities",
+   "session": 21,
+   "batch": 1,
+   "npcs": [
+    "Xera",
+    "Ellis"
+   ]
+  },
+  {
+   "id": "jazz-smells-magic",
+   "title": "Jazz Smells Magic",
+   "session": 21,
+   "batch": 2,
+   "npcs": [
+    "Mustang",
+    "Jazz"
+   ]
+  },
+  {
+   "id": "felicia-storms-off",
+   "title": "Felicia Storms Off",
+   "session": 21,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr"
+   ]
+  },
+  {
+   "id": "bird-potion",
+   "title": "Irresistible to Birds",
+   "session": 21,
+   "batch": 2,
+   "npcs": [
+    "Ellis",
+    "Neebus"
+   ]
+  },
+  {
+   "id": "forge-and-the-right-hand",
+   "title": "The Right Hand at the Cannith Forge",
+   "session": 22,
+   "batch": 2,
+   "npcs": [
+    "Xera",
+    "Brokk",
+    "Jeff",
+    "Barry Baritone"
+   ]
+  },
+  {
+   "id": "gynn-at-the-forge",
+   "title": "Gynn at the Cannith Forge",
+   "session": 22,
+   "batch": 1,
+   "npcs": [
+    "Gynn"
+   ]
+  },
+  {
+   "id": "brokk-takes-refuge",
+   "title": "Brokk Refuses the Ship",
+   "session": 22,
+   "batch": 2,
+   "npcs": [
+    "Brokk"
+   ]
+  },
+  {
+   "id": "filgar-the-wererat",
+   "title": "Filgar the Wererat",
+   "session": 22,
+   "batch": 2,
+   "npcs": [
+    "Xera",
+    "Filgar",
+    "The Rat Man"
+   ]
+  },
+  {
+   "id": "the-interview",
+   "title": "An Interview Gone Wrong",
+   "session": 22,
+   "batch": 2,
+   "npcs": [
+    "Kal Valvier",
+    "Filgar"
+   ]
+  },
+  {
+   "id": "house-trashed",
+   "title": "Felicia Taken",
+   "session": 22,
+   "batch": 1,
+   "npcs": [
+    "Felicia Jr",
+    "Turckle",
+    "Gynn"
+   ]
+  },
+  {
+   "id": "the-white-stag",
+   "title": "The White Stag",
+   "session": 22,
+   "batch": 1,
+   "npcs": [
+    "The Bloodsinger"
+   ]
+  },
+  {
+   "id": "stealing-the-hit-piece",
+   "title": "Stealing the Morning Paper",
+   "session": 23,
+   "batch": 2,
+   "npcs": [
+    "Mustang"
+   ]
+  },
+  {
+   "id": "the-candle-test",
+   "title": "The Candle Test",
+   "session": 23,
+   "batch": 2,
+   "npcs": [
+    "Xera"
+   ]
+  },
+  {
+   "id": "the-abandoned-house",
+   "title": "The Abandoned House",
+   "session": 23,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr",
+    "Turckle"
+   ]
+  },
+  {
+   "id": "weresharks-and-a-mimic",
+   "title": "Weresharks in the Halls",
+   "session": 23,
+   "batch": 2,
+   "npcs": [
+    "Topek",
+    "Wylon"
+   ]
+  },
+  {
+   "id": "shrimp-diggery",
+   "title": "Heeby Deeby Dee, You Killed Me",
+   "session": 23,
+   "batch": 2,
+   "npcs": [
+    "Shrimp Diggery"
+   ]
+  },
+  {
+   "id": "the-fury-ritual",
+   "title": "The Fury Ritual",
+   "session": 24,
+   "batch": 1,
+   "npcs": [
+    "Felicia Jr",
+    "Turckle",
+    "Gynn",
+    "Neer",
+    "Elk",
+    "Fark"
+   ]
+  },
+  {
+   "id": "the-chicken-gambit",
+   "title": "The Chicken Gambit",
+   "session": 24,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr"
+   ]
+  },
+  {
+   "id": "felicias-fire",
+   "title": "Felicia's Fire",
+   "session": 24,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr",
+    "Gynn"
+   ]
+  },
+  {
+   "id": "bone-devil-river-chase",
+   "title": "Down the Underground River",
+   "session": 24,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr"
+   ]
+  },
+  {
+   "id": "ardev-vs-bone-devils",
+   "title": "All of Ardev vs the Bone Devils",
+   "session": 24,
+   "batch": 1,
+   "npcs": [
+    "Brokk",
+    "Morganth",
+    "The Bloodsinger",
+    "Auntie Bees"
+   ]
+  },
+  {
+   "id": "oberoth-the-guardian",
+   "title": "Oberoth the Guardian",
+   "session": 25,
+   "batch": 2,
+   "npcs": [
+    "Shrimp Diggery"
+   ]
+  },
+  {
+   "id": "calm-in-the-square",
+   "title": "Calm Emotions in the Square",
+   "session": 25,
+   "batch": 2,
+   "npcs": [
+    "Morganth",
+    "Auntie Bees"
+   ]
+  },
+  {
+   "id": "fey-lynns-society",
+   "title": "Fey-Lynn's Magic Society",
+   "session": 25,
+   "batch": 1,
+   "npcs": [
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "moonwatch-party",
+   "title": "Wererats and Bears Aboard",
+   "session": 25,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Barry Baritone"
+   ]
+  },
+  {
+   "id": "children-in-the-well",
+   "title": "Children in the Well",
+   "session": 25,
+   "batch": 1,
+   "npcs": [
+    "Skye"
+   ]
+  },
+  {
+   "id": "archimedes-shot-down",
+   "title": "Archimedes Shot Down",
+   "session": 25,
+   "batch": 2,
+   "npcs": [
+    "Archimedes"
+   ]
+  },
+  {
+   "id": "xeras-window",
+   "title": "At Xera's Window",
+   "session": 25,
+   "batch": 2,
+   "npcs": [
+    "Xera",
+    "Turckle",
+    "Neer",
+    "Elk"
+   ]
+  },
+  {
+   "id": "phase-two",
+   "title": "Phase Two",
+   "session": 26,
+   "batch": 1,
+   "npcs": [
+    "Xera",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "ellis-ambush",
+   "title": "Ambushed by Ellis",
+   "session": 26,
+   "batch": 1,
+   "npcs": [
+    "Xera",
+    "Ellis"
+   ]
+  },
+  {
+   "id": "jyo-falls-into-ardev",
+   "title": "Jyo Falls into Ardev",
+   "session": 26,
+   "batch": 2,
+   "npcs": [
+    "Jyo"
+   ]
+  },
+  {
+   "id": "mustang-full-of-arrows",
+   "title": "Mustang Full of Arrows",
+   "session": 26,
+   "batch": 2,
+   "npcs": [
+    "Felicia Sr",
+    "Mustang"
+   ]
+  },
+  {
+   "id": "ellis-dead-in-the-street",
+   "title": "Ellis Dead in the Street",
+   "session": 26,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "The Even Hand",
+    "Ellis"
+   ]
+  },
+  {
+   "id": "carriage-chase",
+   "title": "Mustang Betrays Them",
+   "session": 26,
+   "batch": 1,
+   "npcs": [
+    "The Even Hand",
+    "Felicia Jr",
+    "Mustang"
+   ]
+  },
+  {
+   "id": "the-even-hand-on-the-roof",
+   "title": "Out of Your Depth",
+   "session": 26,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand"
+   ]
+  },
+  {
+   "id": "leap-from-the-carriage",
+   "title": "Leap from the Carriage",
+   "session": 26,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Felicia Jr",
+    "Mustang"
+   ]
+  },
+  {
+   "id": "black-booked-train",
+   "title": "Paxon: A Black-Booked Train",
+   "session": 26,
+   "batch": 1,
+   "npcs": [
+    "Paxon"
+   ]
+  },
+  {
+   "id": "eloria-and-a-bear-army",
+   "title": "A Bear Army and a Pigeon",
+   "session": 27,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Paxon",
+    "Beezel",
+    "Mr. Beaks"
+   ]
+  },
+  {
+   "id": "brands-workshop",
+   "title": "Brand's Workshop",
+   "session": 27,
+   "batch": 2,
+   "npcs": [
+    "Mustang"
+   ]
+  },
+  {
+   "id": "a-call-from-lirael",
+   "title": "A Call from Lirael",
+   "session": 27,
+   "batch": 2,
+   "npcs": [
+    "Erald",
+    "Ember"
+   ]
+  },
+  {
+   "id": "skye-feels-abandoned",
+   "title": "Skye Feels Abandoned",
+   "session": 27,
+   "batch": 2,
+   "npcs": [
+    "Skye"
+   ]
+  },
+  {
+   "id": "shadowing-the-train",
+   "title": "Shadowing the Train",
+   "session": 27,
+   "batch": 2,
+   "npcs": [
+    "Screech"
+   ]
+  },
+  {
+   "id": "jyo-the-spider",
+   "title": "Jyo the Spider",
+   "session": 27,
+   "batch": 2,
+   "npcs": [
+    "Mustang",
+    "Jyo"
+   ]
+  },
+  {
+   "id": "the-invisible-beholder",
+   "title": "The Invisible Beholder",
+   "session": 27,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Jyo"
+   ]
+  },
+  {
+   "id": "xera-and-fey-lynn-die",
+   "title": "Xera and Fey-Lynn Beheaded",
+   "session": 28,
+   "batch": 1,
+   "npcs": [
+    "The Even Hand",
+    "Mustang",
+    "Xera",
+    "Fey-Lynn",
+    "Jyo"
+   ]
+  },
+  {
+   "id": "bears-and-a-barrel",
+   "title": "Bears and a Barrel",
+   "session": 28,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Cromwell",
+    "Mustang",
+    "Beezel"
+   ]
+  },
+  {
+   "id": "mustang-wakes",
+   "title": "Mustang Wakes",
+   "session": 28,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Mustang"
+   ]
+  },
+  {
+   "id": "counterspelled-by-lirael",
+   "title": "Counterspelled by Lirael",
+   "session": 28,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand"
+   ]
+  },
+  {
+   "id": "even-hand-dies",
+   "title": "The Even Hand Dies",
+   "session": 28,
+   "batch": 1,
+   "npcs": [
+    "The Even Hand",
+    "Felicia Sr"
+   ]
+  },
+  {
+   "id": "into-the-bag-of-holding",
+   "title": "Five Minutes of Air",
+   "session": 28,
+   "batch": 2,
+   "npcs": [
+    "Felicia Sr"
+   ]
+  },
+  {
+   "id": "the-dream-prison",
+   "title": "The Dream Prison",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "Felicia Sr",
+    "Xera",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "jyo-torn-apart",
+   "title": "Jyo Torn Apart by Bears",
+   "session": 29,
+   "batch": 1,
+   "npcs": [
+    "Cromwell",
+    "Jyo"
+   ]
+  },
+  {
+   "id": "skull-knight-arrives",
+   "title": "Hooves in the Mist",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "The Skull Knight"
+   ]
+  },
+  {
+   "id": "skull-knight-turtle-fortress",
+   "title": "The Train Hits the Turtle Fortress",
+   "session": 29,
+   "batch": 1,
+   "npcs": [
+    "The Skull Knight"
+   ]
+  },
+  {
+   "id": "felicias-reunion",
+   "title": "Felicia Learns the Cost",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr",
+    "Xera",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "skull-knights-judgment",
+   "title": "The Skull Knight's Judgment",
+   "session": 29,
+   "batch": 1,
+   "npcs": [
+    "The Skull Knight"
+   ]
+  },
+  {
+   "id": "the-true-name",
+   "title": "Do You Know Its True Name?",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "The Skull Knight"
+   ]
+  },
+  {
+   "id": "mr-beaks-returns",
+   "title": "Mr. Beaks Returns",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "Filgar",
+    "Mr. Beaks"
+   ]
+  },
+  {
+   "id": "skye-reunion",
+   "title": "Sazed Comes Back",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "Skye"
+   ]
+  },
+  {
+   "id": "barry-and-brokk-waiting",
+   "title": "A Missed Recording Session",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Thaddeus Cannith",
+    "Brokk",
+    "Barry Baritone"
+   ]
+  },
+  {
+   "id": "bimble-repents",
+   "title": "Bimble Niblet Repents",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "Carrk",
+    "The Rat Man"
+   ]
+  },
+  {
+   "id": "wilford-and-the-stranger-evil",
+   "title": "A Stranger Evil",
+   "session": 29,
+   "batch": 2,
+   "npcs": [
+    "Wilford Chism"
+   ]
+  },
+  {
+   "id": "wilford-doubts-the-watch",
+   "title": "Wilford Doubts the Ardev Watch",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "Wilford Chism"
+   ]
+  },
+  {
+   "id": "valvier-house-ransacked",
+   "title": "The Valvier House, Torched and Picked Over",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "Jeff"
+   ]
+  },
+  {
+   "id": "jazz-hears-the-truth",
+   "title": "Jazz Learns Mustang Was the Even Hand",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "The Even Hand",
+    "Felicia Jr",
+    "Mustang",
+    "Xera",
+    "Fey-Lynn",
+    "Jazz",
+    "Grib Grimley"
+   ]
+  },
+  {
+   "id": "jazz-joins-the-fold",
+   "title": "Jazz Joins the Fold",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "Xera",
+    "Jazz"
+   ]
+  },
+  {
+   "id": "flowers-coerced",
+   "title": "Captain Flowers Under Threat",
+   "session": 30,
+   "batch": 1,
+   "npcs": [
+    "Jazz",
+    "Captain Flowers"
+   ]
+  },
+  {
+   "id": "brokks-armor-plating",
+   "title": "Brokk's Peace Offering",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "Brokk"
+   ]
+  },
+  {
+   "id": "turckle-and-churckle-overrun",
+   "title": "Mercenaries at Turckle and Churckle",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "Neebus",
+    "Fark"
+   ]
+  },
+  {
+   "id": "brokks-last-diamonds",
+   "title": "Brokk's Last Two Diamonds",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "Brokk"
+   ]
+  },
+  {
+   "id": "repair-race-bet",
+   "title": "The Great Repair Race",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Sorenson",
+    "Brokk"
+   ]
+  },
+  {
+   "id": "eloria-arrives",
+   "title": "Eloria Arrives in Ardev",
+   "session": 30,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Felicia Jr"
+   ]
+  },
+  {
+   "id": "dell-quickfoot-visit",
+   "title": "Dell Quickfoot's Warning",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Grib Grimley",
+    "Helena Braithwind",
+    "Dell Quickfoot"
+   ]
+  },
+  {
+   "id": "skye-on-the-flight-deck",
+   "title": "Skye Lets Go",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Skye"
+   ]
+  },
+  {
+   "id": "xera-returns",
+   "title": "Xera and Fey-Lynn Return",
+   "session": 31,
+   "batch": 1,
+   "npcs": [
+    "Eloria",
+    "Xera",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "zenya-wakes-swinging",
+   "title": "Zenya Takes a Hostage, Briefly",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Felicia Sr",
+    "Zenya"
+   ]
+  },
+  {
+   "id": "lirael-asks-to-be-punched",
+   "title": "Punch Me",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Felicia Jr"
+   ]
+  },
+  {
+   "id": "hearthsfire",
+   "title": "Hearthsfire Behind the Illusion",
+   "session": 31,
+   "batch": 1,
+   "npcs": [
+    "Falken",
+    "The Bear"
+   ]
+  },
+  {
+   "id": "carrk-on-trial",
+   "title": "Should Carrk Keep the Ring?",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Carrk",
+    "Falken",
+    "The Bear"
+   ]
+  },
+  {
+   "id": "carrk-at-moon-stones",
+   "title": "Carrk at the Moon Stones",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Carrk"
+   ]
+  },
+  {
+   "id": "stones-throw-children-home",
+   "title": "The Children of Stones Throw Come Home",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Skye",
+    "Carrk",
+    "Falken"
+   ]
+  },
+  {
+   "id": "bear-warns-of-carrk",
+   "title": "Beware of Carrk",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Carrk",
+    "Falken"
+   ]
+  },
+  {
+   "id": "falkens-exile-story",
+   "title": "Why the Elders Fled Aundair",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Falken",
+    "Glade Amberwood"
+   ]
+  },
+  {
+   "id": "skye-becomes-initiate",
+   "title": "Skye Chooses Her Teacher",
+   "session": 31,
+   "batch": 2,
+   "npcs": [
+    "Skye",
+    "Falken"
+   ]
+  },
+  {
+   "id": "flock-changeling-questioned",
+   "title": "Questioning the Dead Changeling",
+   "session": 32,
+   "batch": 2,
+   "npcs": [
+    "Eloria"
+   ]
+  },
+  {
+   "id": "xera-kisses-lirael",
+   "title": "Xera's Thank-You Kiss",
+   "session": 32,
+   "batch": 2,
+   "npcs": [
+    "Xera"
+   ]
+  },
+  {
+   "id": "paxon-junction-call",
+   "title": "Paxon Traces the Lightning Rail",
+   "session": 32,
+   "batch": 2,
+   "npcs": [
+    "Paxon"
+   ]
+  },
+  {
+   "id": "paladins-draw-steel",
+   "title": "Paladins at the Door",
+   "session": 32,
+   "batch": 2,
+   "npcs": [
+    "Captain Dane"
+   ]
+  },
+  {
+   "id": "truth-amulet-eptf",
+   "title": "The Truth Amulet at the EPTF",
+   "session": 32,
+   "batch": 1,
+   "npcs": [
+    "Captain Dane"
+   ]
+  },
+  {
+   "id": "eptf-blind-spot",
+   "title": "The Task Force's Blind Spot",
+   "session": 32,
+   "batch": 2,
+   "npcs": [
+    "Lirael Sr",
+    "Captain Dane"
+   ]
+  },
+  {
+   "id": "elfina",
+   "title": "Elfina Daelmourn",
+   "session": 32,
+   "batch": 1,
+   "npcs": [
+    "Elfina"
+   ]
+  },
+  {
+   "id": "watchers-of-the-gate-explained",
+   "title": "Who the Watchers Were",
+   "session": 32,
+   "batch": 2,
+   "npcs": [
+    "Elfina"
+   ]
+  },
+  {
+   "id": "elfina-postpones-despair",
+   "title": "A Reason to Wait",
+   "session": 32,
+   "batch": 2,
+   "npcs": [
+    "Captain Dane",
+    "Elfina"
+   ]
+  },
+  {
+   "id": "bulwark-broadhelm",
+   "title": "The Warforged Named Broadhelm",
+   "session": 33,
+   "batch": 2,
+   "npcs": [
+    "Captain Dane",
+    "Bulwark Broadhelm"
+   ]
+  },
+  {
+   "id": "gelards-books",
+   "title": "Gelard Greenly's Overdue Books",
+   "session": 33,
+   "batch": 1,
+   "npcs": [
+    "Gelard Greenly"
+   ]
+  },
+  {
+   "id": "ember-reunion",
+   "title": "Ember Broadhelm",
+   "session": 33,
+   "batch": 2,
+   "npcs": [
+    "Ember"
+   ]
+  },
+  {
+   "id": "broadhelm-family-bad-news",
+   "title": "The Broadhelm Family Falls Apart",
+   "session": 33,
+   "batch": 2,
+   "npcs": [
+    "Ember",
+    "Art Broadhelm"
+   ]
+  },
+  {
+   "id": "ring-of-cure-racism",
+   "title": "The Ring of Cure Racism",
+   "session": 33,
+   "batch": 2,
+   "npcs": [
+    "Ember"
+   ]
+  },
+  {
+   "id": "embers-suit",
+   "title": "Ember's Forty-Year Suit",
+   "session": 33,
+   "batch": 1,
+   "npcs": [
+    "Ember"
+   ]
+  },
+  {
+   "id": "embers-joke-potions",
+   "title": "Joke Potions and a Goblin Brand",
+   "session": 33,
+   "batch": 2,
+   "npcs": [
+    "Ember"
+   ]
+  },
+  {
+   "id": "aundairians-race",
+   "title": "Race to the Moonwatch",
+   "session": 34,
+   "batch": 2,
+   "npcs": [
+    "Killian",
+    "Kynds",
+    "EEEEE"
+   ]
+  },
+  {
+   "id": "immovable-rod-and-elwood",
+   "title": "The Rod, Elwood and the Axe",
+   "session": 34,
+   "batch": 2,
+   "npcs": [
+    "Jeff",
+    "Killian",
+    "EEEEE"
+   ]
+  },
+  {
+   "id": "aundairians-in-the-alley",
+   "title": "Jeff Swallows the Aundairians",
+   "session": 34,
+   "batch": 1,
+   "npcs": [
+    "Jeff",
+    "Killian",
+    "Kynds"
+   ]
+  },
+  {
+   "id": "kynds-slips-away",
+   "title": "Kynds Slips Away",
+   "session": 34,
+   "batch": 2,
+   "npcs": [
+    "Kynds"
+   ]
+  },
+  {
+   "id": "darvok-shouts-for-aundair",
+   "title": "Darvok Shouts for Aundair",
+   "session": 34,
+   "batch": 2,
+   "npcs": [
+    "Killian",
+    "Taggart"
+   ]
+  },
+  {
+   "id": "killian-outs-the-sentinels",
+   "title": "King Boranel's Little Secret",
+   "session": 34,
+   "batch": 2,
+   "npcs": [
+    "Killian",
+    "Taggart"
+   ]
+  },
+  {
+   "id": "red-dragon-divination",
+   "title": "This Is Not Your Refuge",
+   "session": 35,
+   "batch": 2,
+   "npcs": [
+    "Elfina"
+   ]
+  },
+  {
+   "id": "we-dont-die-banner",
+   "title": "We Don't Die",
+   "session": 35,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Skye",
+    "Chester",
+    "Zenya"
+   ]
+  },
+  {
+   "id": "felicia-too-powerful",
+   "title": "Too Powerful for Patrol",
+   "session": 35,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr",
+    "Skye"
+   ]
+  },
+  {
+   "id": "cloak-of-connect-mind",
+   "title": "Carrk's Cloak Connects to Another Plane",
+   "session": 35,
+   "batch": 1,
+   "npcs": [
+    "Carrk"
+   ]
+  },
+  {
+   "id": "cleared-track-and-chaton",
+   "title": "Orange Fur on the Cleared Track",
+   "session": 35,
+   "batch": 2,
+   "npcs": [
+    "Chaton"
+   ]
+  },
+  {
+   "id": "catnip-bomb",
+   "title": "Chaton's Catnip",
+   "session": 35,
+   "batch": 2,
+   "npcs": [
+    "Chaton"
+   ]
+  },
+  {
+   "id": "unabombers-at-the-forge",
+   "title": "A Package for Ember",
+   "session": 35,
+   "batch": 1,
+   "npcs": [
+    "Ember"
+   ]
+  },
+  {
+   "id": "gorgon-slain",
+   "title": "Off the Cliff, Into the Gorgon",
+   "session": 35,
+   "batch": 2,
+   "npcs": [
+    "Ember"
+   ]
+  },
+  {
+   "id": "captain-dane-incensed",
+   "title": "Sigils Up, Captain Dane Furious",
+   "session": 36,
+   "batch": 2,
+   "npcs": [
+    "Captain Dane",
+    "Taggart"
+   ]
+  },
+  {
+   "id": "horses-from-first-tower",
+   "title": "Horses from First Tower",
+   "session": 36,
+   "batch": 2,
+   "npcs": [
+    "Beezel",
+    "Taggart"
+   ]
+  },
+  {
+   "id": "freeing-elfina",
+   "title": "Elfina Walks Free",
+   "session": 36,
+   "batch": 2,
+   "npcs": [
+    "Captain Dane",
+    "Elfina"
+   ]
+  },
+  {
+   "id": "kynds-takes-killian",
+   "title": "Kynds Takes Killian Back",
+   "session": 36,
+   "batch": 1,
+   "npcs": [
+    "Screech",
+    "Eloria",
+    "Beezel",
+    "Killian",
+    "Kynds"
+   ]
+  },
+  {
+   "id": "eloria-tells-of-ashhaven",
+   "title": "Eloria's Ashhaven",
+   "session": 36,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Skye"
+   ]
+  },
+  {
+   "id": "elfinas-room-elorias-kiss",
+   "title": "A Room for Elfina, a Kiss for Sazed",
+   "session": 37,
+   "batch": 2,
+   "npcs": [
+    "Eloria",
+    "Elfina"
+   ]
+  },
+  {
+   "id": "emotional-damage-sempenator",
+   "title": "The Emotional Damage Sempenator",
+   "session": 37,
+   "batch": 2,
+   "npcs": [
+    "Dandy"
+   ]
+  },
+  {
+   "id": "thaddeus-nightmare",
+   "title": "A Nightmare in Song",
+   "session": 37,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Thaddeus Cannith"
+   ]
+  },
+  {
+   "id": "lirael-morning-rounds",
+   "title": "Lirael's Morning Rounds",
+   "session": 37,
+   "batch": 2,
+   "npcs": [
+    "Elfina"
+   ]
+  },
+  {
+   "id": "felicia-confronts-elfina",
+   "title": "Felicia Confronts Elfina",
+   "session": 37,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr",
+    "Elfina"
+   ]
+  },
+  {
+   "id": "empyrean-in-their-spot",
+   "title": "The Empyrean in Their Spot",
+   "session": 37,
+   "batch": 2,
+   "npcs": [
+    "Thaddeus Cannith"
+   ]
+  },
+  {
+   "id": "squirrels-in-the-tea",
+   "title": "Squirrels in the Tea",
+   "session": 37,
+   "batch": 2,
+   "npcs": [
+    "Skye",
+    "Dandy",
+    "Zenya"
+   ]
+  },
+  {
+   "id": "brand-goes-purple",
+   "title": "Brand Goes Purple",
+   "session": 37,
+   "batch": 2,
+   "npcs": [
+    "Thaddeus Cannith",
+    "Zenya"
+   ]
+  },
+  {
+   "id": "animal-messenger",
+   "title": "A Message for the Lighted One",
+   "session": 37,
+   "batch": 1,
+   "npcs": [
+    "Eloria",
+    "Skye",
+    "The Bloodsinger",
+    "Mr. Beaks"
+   ]
+  },
+  {
+   "id": "screechs-bedtime-stories",
+   "title": "Screech's Bedtime Stories",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Screech",
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "fey-lynns-debrief",
+   "title": "Fey-Lynn's Debrief: Three Phases",
+   "session": 38,
+   "batch": 1,
+   "npcs": [
+    "Fey-Lynn"
+   ]
+  },
+  {
+   "id": "skye-asks-about-stones-throw",
+   "title": "Who Burned Stones Throw?",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Skye"
+   ]
+  },
+  {
+   "id": "wilford-mushroom-warning",
+   "title": "Wilford's Mushroom Warning",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Wilford Chism"
+   ]
+  },
+  {
+   "id": "reconciliation-day",
+   "title": "Reconciliation Day",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Wilford Chism"
+   ]
+  },
+  {
+   "id": "murderer-leaves-ardev",
+   "title": "Murderer Leaves Ardev",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Sorenson"
+   ]
+  },
+  {
+   "id": "dinner-on-the-empyrean",
+   "title": "Dinner on the Empyrean",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Thaddeus Cannith",
+    "Barry Baritone"
+   ]
+  },
+  {
+   "id": "gorgis-family-dead",
+   "title": "The Last of the Gorgis Family",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Sorenson",
+    "Shmem Gorgis"
+   ]
+  },
+  {
+   "id": "felicia-and-skye-spar",
+   "title": "Felicia and Skye Spar",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Felicia Jr",
+    "Skye"
+   ]
+  },
+  {
+   "id": "thaddeus-comes-to-town",
+   "title": "Thaddeus Is Coming to Town",
+   "session": 38,
+   "batch": 1,
+   "npcs": [
+    "Thaddeus Cannith",
+    "Brokk",
+    "Barry Baritone"
+   ]
+  },
+  {
+   "id": "flowers-black-order",
+   "title": "Captain Flowers' Black Order",
+   "session": 38,
+   "batch": 1,
+   "npcs": [
+    "Captain Flowers"
+   ]
+  },
+  {
+   "id": "morganth-sending-stone",
+   "title": "Morganth on the Sending Stone",
+   "session": 38,
+   "batch": 2,
+   "npcs": [
+    "Thaddeus Cannith",
+    "Captain Flowers",
+    "Ellis",
+    "Morganth"
+   ]
+  }
+ ],
+ "all_to_regenerate": [
+  "train-to-darkwood",
+  "bloodworth-takes-their-treasures",
+  "thaldamir-snaps-his-fingers",
+  "sazed-tortured-by-bloodworth",
+  "halien-talks-with-elric",
+  "lirael-plays-cromwell",
+  "initiation-night",
+  "snatched-off-the-ledge",
+  "shmem-gorgis-dies",
+  "byll-and-cyriel-spared",
+  "sorenson-gets-the-tuba",
+  "saving-elric-galen",
+  "zombie-bloodworth-in-the-pit",
+  "rex-and-thaldamir-gang-war",
+  "cutting-the-pit-elevator",
+  "lirael-plays-both-sides",
+  "talking-past-the-barricade",
+  "wardens-secret",
+  "erald-names-the-necromancer",
+  "thaldamir-begs-for-his-life",
+  "brand-suits-up",
+  "chester-the-mimic",
+  "out-through-the-broken-wall",
+  "grail-rises",
+  "the-horde-overwhelms-brand",
+  "brand-kills-grail",
+  "grails-final-form",
+  "grails-meat-shield",
+  "lirael-pleads-with-damron",
+  "bloodworth-dies-a-third-time",
+  "grails-lieutenants-fall",
+  "grail-falls",
+  "mourning-the-fallen",
+  "down-from-the-roof",
+  "sheldor-looks-for-cromwell",
+  "grails-necklace",
+  "ddt-note",
+  "darkwood-explodes",
+  "damrons-ultimatum",
+  "sheldor-and-the-snel-katar",
+  "bluffing-the-mine-guards",
+  "halien-stands-watch",
+  "wild-cart-ride",
+  "elrics-supper",
+  "elric-reveals-sentinels",
+  "ddt-and-the-dragonmarks",
+  "elric-throws-a-spoon",
+  "verona-sharpes-tea",
+  "spying-on-damron",
+  "luring-spingel-and-joerick",
+  "ambush-at-the-abandoned-house",
+  "grails-cellar",
+  "calling-grails-brother",
+  "bag-of-devouring",
+  "gelf-in-the-closet",
+  "gelf-tells-all",
+  "rotten-potatoes",
+  "grails-brother-arrives",
+  "kicked-down-the-hatch",
+  "the-sentinels-explained",
+  "prison-was-a-sentinel-trial",
+  "grimdells-and-house-thuranni",
+  "blazehelms-offers",
+  "gelion-into-the-bag",
+  "maiden-voyage-feast",
+  "tour-of-the-kingsblade",
+  "mission-against-killian-gavrin",
+  "sazed-confides-in-nedira",
+  "paxon-in-the-clearing",
+  "found-you",
+  "the-kingsblade",
+  "blazehelms-whiskey",
+  "eeeee-the-dwarf-in-a-can",
+  "eeeee-slain",
+  "crossing-the-river",
+  "sazed-rides-the-rotor",
+  "broadsword-stolen",
+  "pilot-overboard",
+  "hobgoblin-warlord-below-decks",
+  "kunai-to-the-rescue",
+  "spoils-of-the-broadsword",
+  "three-weeks-of-training",
+  "cromwells-coin-game",
+  "blazehelms-mansion-feast",
+  "how-blazehelm-knows-lirael",
+  "how-blazehelm-knows-brand",
+  "how-blazehelm-knows-sazed",
+  "the-quiet-room",
+  "music-room-and-xendrik",
+  "gnome-pranks",
+  "sorensons-song",
+  "brand-and-smarmy-joe",
+  "sazed-and-nedira-prowlstone",
+  "dwarven-roulette",
+  "spingus-dumbwaiter-deal",
+  "paxons-room-and-the-teleporter",
+  "flatulence-for-paxon",
+  "valhalla-eriksson-ball-bearings",
+  "tauren-finds-faith",
+  "sauna-with-dyll-strickland",
+  "halfling-card-game",
+  "blazehelm-and-the-sentinels-band",
+  "flooded-house",
+  "warforged-in-the-dining-room",
+  "dyll-strickland-dressing-down",
+  "the-five-mile-run",
+  "obstacle-course-begins",
+  "liraels-first-flag",
+  "keys-the-shark",
+  "sazed-throws-the-keys",
+  "brand-and-the-npcs-finish",
+  "sheldor-tells-of-xendrik",
+  "leff-skullcrusher",
+  "tauren-cannot-read",
+  "demon-village",
+  "broken-portal",
+  "gelfs-requisitions",
+  "whiskey-and-a-napkin",
+  "paxon-nerds-out",
+  "erald-fart-debrief",
+  "morkoth-rope-expedition",
+  "sheldor-wants-back-in",
+  "sheldor-and-the-bag",
+  "keys-mauls-the-spellcaster",
+  "stables-interrogation",
+  "breakfast-at-gelfs",
+  "code-orange",
+  "lug-murzog-revived",
+  "dreamweaver-speaks",
+  "back-to-training-as-normal",
+  "fathers-library-card",
+  "library-cards-for-everyone",
+  "brand-possessed",
+  "screech-taken",
+  "gelf-fights-free",
+  "bellatrix-shot",
+  "gelf-into-the-astral-sea",
+  "hunky-dory",
+  "house-burns-flight-to-airfield",
+  "caught-at-the-village-gate",
+  "empty-jail-blood-trail",
+  "kingsblade-hijack",
+  "bellatrix-revived",
+  "brand-dies-a-little",
+  "clockwork-lassos-gelf",
+  "into-the-dream-plane",
+  "dream-eater",
+  "brass-dragon-in-the-dream",
+  "friends-come-back",
+  "blazehelms-personal-guard",
+  "mind-control-training",
+  "fireworks-speech",
+  "nobody-else-possessed",
+  "screechs-model-broadsword",
+  "lirael-first-flight",
+  "lirael-learns-to-fly",
+  "clockwork-on-sentimentality",
+  "rune-wakes-the-spellcaster",
+  "limbs-for-faird",
+  "monty-elemental-engines",
+  "letter-from-meriel",
+  "meriel-on-the-bridge",
+  "mercy-at-the-library",
+  "the-even-hand-named",
+  "royal-ardev-regiment",
+  "nedira-signals-training",
+  "mercy-and-the-records",
+  "eloria-speak-with-dead",
+  "chief-torg",
+  "meriel-speaks-from-the-morgue",
+  "murphys-house",
+  "binocular-glint-chase",
+  "gauss-house-explodes",
+  "standoff-at-kals-house",
+  "kal-killed-on-the-street",
+  "hunger-of-hadar-assassins",
+  "even-hand-unmasked",
+  "obelisk-in-meriels-bag",
+  "click-clack-resigns",
+  "the-master-key",
+  "gauss-hog-survives",
+  "gauss-hogs-story",
+  "imps-firebomb-the-house",
+  "rolicks-dust",
+  "gentle-repose-form",
+  "ardev-song-on-the-piano",
+  "obelisk-rune-dream",
+  "rune-transmits",
+  "circle-blast-marks",
+  "brew-and-ale-farewell",
+  "dancing-with-eloria",
+  "rigged-chicken-races",
+  "gelf-brand-rematch",
+  "brand-walks-eleanor-home",
+  "hangover-and-dyll",
+  "silence-arrow-in-the-door",
+  "tracks-into-the-sewers",
+  "sewer-map-stolen",
+  "bellatrix-sent-home",
+  "sasquatch-bucket-prank",
+  "erald-delivers-the-map",
+  "paxon-painting-heist",
+  "eloria-and-clockwork-join-prank",
+  "tomb-of-centarrel",
+  "graves-of-the-fathers",
+  "clockwork-wyrmlings",
+  "beholder-illusion",
+  "portrait-unveiled",
+  "bellatrix-is-dead",
+  "why-blazehelm-trusts-paxon",
+  "moonwatch-crew-roles",
+  "lift-off-for-ardev",
+  "parting-gifts",
+  "evil-in-the-mirrors",
+  "moonwatch-departs",
+  "sorenson-confides",
+  "cromwell-the-stowaway",
+  "mirrors-overboard",
+  "beezel-and-the-books",
+  "dandys-dinner",
+  "canuck-songs",
+  "the-cookie-feud",
+  "steve-the-skycracker",
+  "a-cold-welcome-to-ardev",
+  "farks-bargain-whores",
+  "fathers-den",
+  "the-last-poem",
+  "the-mad-library-puzzle",
+  "slaad-dad",
+  "the-secret-office",
+  "i-pray-the-worst-has-come",
+  "hellsauce-recruits-sazed",
+  "the-ardev-library",
+  "barry-baritone",
+  "xera-harassed",
+  "ants-and-birds",
+  "jazz-smells-magic",
+  "felicia-storms-off",
+  "bird-potion",
+  "forge-and-the-right-hand",
+  "gynn-at-the-forge",
+  "brokk-takes-refuge",
+  "filgar-the-wererat",
+  "the-interview",
+  "house-trashed",
+  "the-white-stag",
+  "stealing-the-hit-piece",
+  "the-candle-test",
+  "the-abandoned-house",
+  "mausoleum-of-ardev",
+  "weresharks-and-a-mimic",
+  "shrimp-diggery",
+  "the-fury-ritual",
+  "the-chicken-gambit",
+  "felicias-fire",
+  "bone-devil-river-chase",
+  "ardev-vs-bone-devils",
+  "oberoth-the-guardian",
+  "calm-in-the-square",
+  "fey-lynns-society",
+  "moonwatch-party",
+  "children-in-the-well",
+  "archimedes-shot-down",
+  "xeras-window",
+  "phase-two",
+  "ellis-ambush",
+  "jyo-falls-into-ardev",
+  "mustang-full-of-arrows",
+  "ellis-dead-in-the-street",
+  "carriage-chase",
+  "the-even-hand-on-the-roof",
+  "leap-from-the-carriage",
+  "black-booked-train",
+  "eloria-and-a-bear-army",
+  "brands-workshop",
+  "a-call-from-lirael",
+  "skye-feels-abandoned",
+  "shadowing-the-train",
+  "jyo-the-spider",
+  "the-invisible-beholder",
+  "xera-and-fey-lynn-die",
+  "bears-and-a-barrel",
+  "mustang-wakes",
+  "counterspelled-by-lirael",
+  "even-hand-dies",
+  "into-the-bag-of-holding",
+  "the-dream-prison",
+  "jyo-torn-apart",
+  "skull-knight-arrives",
+  "skull-knight-turtle-fortress",
+  "felicias-reunion",
+  "skull-knights-judgment",
+  "the-true-name",
+  "mr-beaks-returns",
+  "skye-reunion",
+  "barry-and-brokk-waiting",
+  "lilya-the-guide",
+  "bimble-repents",
+  "wilford-and-the-stranger-evil",
+  "wilford-doubts-the-watch",
+  "valvier-house-ransacked",
+  "jazz-hears-the-truth",
+  "jazz-joins-the-fold",
+  "flowers-coerced",
+  "brokks-armor-plating",
+  "turckle-and-churckle-overrun",
+  "brokks-last-diamonds",
+  "repair-race-bet",
+  "eloria-arrives",
+  "dell-quickfoot-visit",
+  "skye-on-the-flight-deck",
+  "xera-returns",
+  "zenya-wakes-swinging",
+  "lirael-asks-to-be-punched",
+  "hearthsfire",
+  "carrk-on-trial",
+  "carrk-at-moon-stones",
+  "stones-throw-children-home",
+  "bear-warns-of-carrk",
+  "falkens-exile-story",
+  "skye-becomes-initiate",
+  "flock-changeling-questioned",
+  "xera-kisses-lirael",
+  "paxon-junction-call",
+  "paladins-draw-steel",
+  "truth-amulet-eptf",
+  "eptf-blind-spot",
+  "elfina",
+  "watchers-of-the-gate-explained",
+  "elfina-postpones-despair",
+  "bulwark-broadhelm",
+  "gelards-books",
+  "ember-reunion",
+  "broadhelm-family-bad-news",
+  "ring-of-cure-racism",
+  "embers-suit",
+  "embers-joke-potions",
+  "aundairians-race",
+  "immovable-rod-and-elwood",
+  "aundairians-in-the-alley",
+  "kynds-slips-away",
+  "darvok-shouts-for-aundair",
+  "killian-outs-the-sentinels",
+  "red-dragon-divination",
+  "we-dont-die-banner",
+  "felicia-too-powerful",
+  "cloak-of-connect-mind",
+  "cleared-track-and-chaton",
+  "catnip-bomb",
+  "unabombers-at-the-forge",
+  "gorgon-slain",
+  "captain-dane-incensed",
+  "horses-from-first-tower",
+  "freeing-elfina",
+  "witches-waltz",
+  "kynds-takes-killian",
+  "eloria-tells-of-ashhaven",
+  "elfinas-room-elorias-kiss",
+  "emotional-damage-sempenator",
+  "thaddeus-nightmare",
+  "lirael-morning-rounds",
+  "felicia-confronts-elfina",
+  "dragons-lost-sons",
+  "empyrean-in-their-spot",
+  "squirrels-in-the-tea",
+  "brand-goes-purple",
+  "animal-messenger",
+  "screechs-bedtime-stories",
+  "fey-lynns-debrief",
+  "skye-asks-about-stones-throw",
+  "wilford-mushroom-warning",
+  "reconciliation-day",
+  "murderer-leaves-ardev",
+  "dinner-on-the-empyrean",
+  "gorgis-family-dead",
+  "felicia-and-skye-spar",
+  "thaddeus-comes-to-town",
+  "flowers-black-order",
+  "morganth-sending-stone"
+ ]
+}

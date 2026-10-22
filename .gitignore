@@ -2,6 +2,5 @@ gen/key.txt
 .env
 .wrangler/
 .DS_Store
-gen/refs/
 gen/split/
 gen/test/
