@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-SITE_DIR="${1:-/private/tmp/claude-501/-Users-artemlitch-readwise-rekindled/6063c040-5e4e-4dec-8911-a6971a97ab2e/scratchpad/site}"
+SITE_DIR="${1:-$(cd "$(dirname "$0")" && pwd)/site}"
 PROJECT="dnd-100-years-war"
 
 OUT="$(npx --yes wrangler@latest pages deploy "$SITE_DIR" --project-name "$PROJECT" --branch main --commit-dirty=true 2>&1)"
