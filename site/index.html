@@ -419,10 +419,11 @@ function layoutEvents(){
   }
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
   // a card whose slot is taken is still drawn there, shrunk and faded behind the others, and grows back when zooming in
+  const overflow=[];
   for(const e of vis){
     const x=(e.di-off)*P,kc=KC[e.kind]||KC.history;
     const mk=take('mk',e.id,'mk'+(e.major?' major':'')+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=axisY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
-    const ghost=!placed.has(e.id),lane=ghost?Math.min(e.lane,lanesPer-1):placed.get(e.id);
+    const ghost=!placed.has(e.id),lane=ghost?Math.min(e.lane,lanesPer-1):placed.get(e.id);if(ghost)overflow.push(e);
     const card=take('card',e.id,'card major'+(ghost?' ghost':'')+(active&&active.id===e.id?' active':''));
     card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.left=(x-w/2)+'px';
     const edge=gap+lane*laneH;
@@ -430,6 +431,18 @@ function layoutEvents(){
     card.innerHTML=`<div class="th">${thumb(e)}</div><h3>${esc(e.title)}</h3><div class="d">${fmtShort(e)}${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}</div><div class="s">${esc(e.summary||'')}</div>`;
     card.onclick=ev=>{ev.stopPropagation();openEvent(e);};
     const ln=take('ln',e.id,'ln'+(e.side?' dn':'')+(ghost?' ghost':''));ln.style.setProperty('--kc',kc);ln.style.left=x+'px';ln.style.top=(e.side?axisY:axisY-edge)+'px';ln.style.height=edge+'px';
+  }
+  // count bubbles on the axis for the faded cards: click to zoom in on that run (neighbours within 90px share one)
+  const groups=[];for(const e of overflow){const g=groups[groups.length-1];if(g&&(e.di-g[g.length-1].di)*P<90)g.push(e);else groups.push([e]);}
+  const lastLabel=[-1e9,-1e9];let ci=0;
+  for(const g of groups){
+    const px=((g[0].di+g[g.length-1].di)/2-off)*P;const el=take('cl',g[0].id,'cl');el.style.left=px+'px';el.style.top=axisY+'px';
+    let side=ci++%2;if(Math.abs(px-lastLabel[side])<118)side=1-side;const show=Math.abs(px-lastLabel[side])>=118;if(show)lastLabel[side]=px;
+    el.classList.toggle('up',side===1);el.classList.toggle('has-big',g.length>=10);
+    const one=g.length===1;
+    el.innerHTML=`<b class="${g.length>=10?'big':''}">${one?'+':g.length}</b>${show?`<span>${one?esc(g[0].title):clusterLabel(g)}</span>`:''}`;
+    el.onclick=ev=>{ev.stopPropagation();if(one)openEvent(g[0]);else zoomTo(g[0].di-.02,g[g.length-1].di+.02);};
+    el.title=one?g[0].title:`${g.length} faded moments, ${clusterLabel(g)}. Click to zoom in`;
   }
   trim();
 }
@@ -473,7 +486,7 @@ function bind(){
     else{const last=EV[EV.length-1];animateTo(PRESETS.week,last.di,520);}});
   // wheel: ctrl/cmd zooms at cursor; otherwise pans (deltaX or deltaY)
   stage.addEventListener('wheel',e=>{e.preventDefault();const r=lanesEl.getBoundingClientRect();
-    if(e.ctrlKey||e.metaKey){const f=Math.max(.75,Math.min(1.35,Math.exp(-e.deltaY*.003)));zoomAt(P*f,e.clientX-r.left);}
+    if(e.ctrlKey||e.metaKey){const f=Math.max(.6,Math.min(1.7,Math.exp(-e.deltaY*.006)));zoomAt(P*f,e.clientX-r.left);}
     else{const dx=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;off+=(e.shiftKey?dx*2:dx)/P;schedule(false);}},{passive:false});
   // pointer drag + pinch
   // capture the pointer only once it moves past the click threshold, otherwise the click retargets to the stage
