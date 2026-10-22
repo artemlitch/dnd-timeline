@@ -486,7 +486,7 @@ function bind(){
     else{const last=EV[EV.length-1];animateTo(PRESETS.week,last.di,520);}});
   // wheel: ctrl/cmd zooms at cursor; otherwise pans (deltaX or deltaY)
   stage.addEventListener('wheel',e=>{e.preventDefault();const r=lanesEl.getBoundingClientRect();
-    if(e.ctrlKey||e.metaKey){const f=Math.max(.6,Math.min(1.7,Math.exp(-e.deltaY*.006)));zoomAt(P*f,e.clientX-r.left);}
+    if(e.ctrlKey||e.metaKey){const f=Math.max(.5,Math.min(2.2,Math.exp(-e.deltaY*.009)));zoomAt(P*f,e.clientX-r.left);}
     else{const dx=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;off+=(e.shiftKey?dx*2:dx)/P;schedule(false);}},{passive:false});
   // pointer drag + pinch
   // capture the pointer only once it moves past the click threshold, otherwise the click retargets to the stage
