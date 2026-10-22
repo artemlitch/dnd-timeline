@@ -315,8 +315,7 @@ function fmtLong(e){return `${wName(e.day)}, ${mName(e.month)} ${e.day}, ${e.yea
 function init(){
   DATA=window.TIMELINE;CAL=DATA.calendar;DPM=CAL.daysPerMonth;DPY=DPM*CAL.monthNames.length;
   EV=DATA.events.map(e=>({...e,di:dayIndex(e.year,e.month,e.day,e.hour||0)})).sort((a,b)=>a.di-b.di);
-  // sides flip per run: a session is one run, each sessionless (history) event is its own run
-  let side=1,runKey=null;EV.forEach((e,i)=>{const k=e.session?'s'+e.session:'h'+i;if(k!==runKey){side=1-side;runKey=k;}e.side=side;});
+  EV.forEach((e,i)=>e.side=i%2);
   ERAS=DATA.eras.map(r=>({...r,a:dayIndex(r.start.year,r.start.month,r.start.day,0),b:dayIndex(r.end.year,r.end.month,r.end.day,0)+1}));
   MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);
   SPLIT=dayIndex(993,1,1,0);
@@ -399,48 +398,46 @@ function layoutEvents(){
   const W=vw(),H=lanesEl.clientHeight,mobile=W<760;
   layoutOff=off;layoutP=P;layoutW=W;layoutH=H;world.style.transform='';
   const axisY=Math.round(H/2);axisEl.style.top=axisY+'px';
-  const wMajor=mobile?150:264,wMinor=mobile?150:184,laneH=mobile?108:134,gap=mobile?36:40;
-  const lanesPer=Math.max(1,Math.min(2,Math.floor((H/2-gap)/laneH)));
+  const w=mobile?150:264,laneH=mobile?80:112,gap=mobile?36:50;
+  const lanesPer=Math.max(1,Math.floor((H/2-gap)/laneH));
   const margin=W*.5,lo=off-margin/P,hi=off+(W+margin)/P;
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
-  // each event owns a side and a lane of the axis for good (e.side, e.lane); a card never moves vertically.
-  // Runs of consecutive events share a side (a session's events sit together), one row per side. An event starts
-  // a new stack at its own marker only if its card would clear the previous event's card on its side; otherwise
-  // it joins the latest stack, whichever side that stack sits on, so stacks are always consecutive. The test is a
-  // plain distance to a fixed event, so stacks only grow as the zoom goes out, and a stack never moves
-  const lastX=[-1e9,-1e9];let groups=[];
+  // every event gets an axis marker and owns one side of the axis for good (e.side). Cards are packed into lanes
+  // of intervals on that side; whatever finds no lane is swept into overflow bubbles (neighbours within 90px share one)
+  const lanes=[[],[]];for(const s of lanes)for(let i=0;i<lanesPer;i++)s.push([]);
+  const fits=(arr,x1,x2)=>arr.every(iv=>x2+10<iv[0]||x1>iv[1]+10);
+  const placed=new Map();
   for(const e of vis){
-    const x=(e.di-off)*P;
-    if(groups.length&&x-lastX[e.side]<wMajor+8)groups[groups.length-1].items.push(e);
-    else groups.push({items:[e],side:e.side,lane:0,x,w:wMajor});
-    lastX[e.side]=x;
+    const x=(e.di-off)*P,x1=x-w/2,x2=x+w/2,arr=lanes[e.side];
+    const lane=arr.findIndex(l=>fits(l,x1,x2));
+    if(lane<0)continue;
+    arr[lane].push([x1,x2]);placed.set(e.id,lane);
   }
-  window.__groups=groups.map(g=>g.items.map(i=>i.id));
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
+  const overflow=[];
   for(const e of vis){
     const x=(e.di-off)*P,kc=KC[e.kind]||KC.history;
     const mk=take('mk',e.id,'mk'+(e.major?' major':'')+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=axisY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
+    const lane=placed.get(e.id);if(lane===undefined){overflow.push(e);continue;}
+    const card=take('card',e.id,'card major'+(active&&active.id===e.id?' active':''));
+    card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.left=(x-w/2)+'px';
+    const edge=gap+lane*laneH;
+    if(e.side){card.style.top=(axisY+edge)+'px';card.style.bottom='';}else{card.style.bottom=(H-axisY+edge)+'px';card.style.top='';}
+    card.innerHTML=`<div class="th">${thumb(e)}</div><h3>${esc(e.title)}</h3><div class="d">${fmtShort(e)}${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}</div><div class="s">${esc(e.summary||'')}</div>`;
+    card.onclick=ev=>{ev.stopPropagation();openEvent(e);};
+    const ln=take('ln',e.id,'ln'+(e.side?' dn':''));ln.style.setProperty('--kc',kc);ln.style.left=x+'px';ln.style.top=(e.side?axisY:axisY-edge)+'px';ln.style.height=edge+'px';
   }
+  const groups=[];for(const e of overflow){const g=groups[groups.length-1];if(g&&(e.di-g[g.length-1].di)*P<90)g.push(e);else groups.push([e]);}
+  const lastLabel=[-1e9,-1e9];let ci=0;
   for(const g of groups){
-    const first=g.items[0],kc=KC[first.kind]||KC.history,isGroup=g.items.length>1,major=true,w=g.w;
-    const card=take('card',first.id,'card '+(isGroup?'group':major?'major':'minor')+(active&&g.items.some(i=>i.id===active.id)?' active':''));
-    card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.left=(g.x-w/2)+'px';
-    const edge=gap+g.lane*laneH;
-    if(g.side){card.style.top=(axisY+edge)+'px';card.style.bottom='';}else{card.style.bottom=(H-axisY+edge)+'px';card.style.top='';}
-    if(isGroup){
-      const shown=g.items.slice(0,4),more=g.items.length-shown.length;
-      card.innerHTML=`<div class="gh">${clusterLabel(g.items)}<span class="pill">${g.items.length} moments</span></div>`+
-        shown.map(i=>`<div class="row" data-id="${i.id}" style="--kc:${KC[i.kind]||KC.history}"><div class="rt">${thumb(i)}</div><div><b>${esc(i.title)}</b><small>${mName(i.month)} ${i.day}${i.session?` · S${i.session}`:''}</small></div></div>`).join('')+
-        (more?`<div class="more">+${more} more · click to zoom in</div>`:'');
-      card.onclick=ev=>{ev.stopPropagation();const r=ev.target.closest('.row');if(r)openEvent(g.items.find(i=>i.id===r.dataset.id));else zoomTo(g.items[0].di-.02,g.items[g.items.length-1].di+.02);};
-    }else{
-      const e=first;
-      card.innerHTML=(major?`<div class="th">${thumb(e)}</div>`:'')+
-        `<h3>${esc(e.title)}</h3><div class="d">${fmtShort(e)}${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}</div>`+(major?`<div class="s">${esc(e.summary||'')}</div>`:'');
-      card.onclick=ev=>{ev.stopPropagation();openEvent(e);};
-    }
-    const ln=take('ln',first.id,'ln'+(g.side?' dn':''));ln.style.setProperty('--kc',kc);ln.style.left=g.x+'px';ln.style.top=(g.side?axisY:axisY-edge)+'px';ln.style.height=edge+'px';
+    const px=((g[0].di+g[g.length-1].di)/2-off)*P;const el=take('cl',g[0].id,'cl');el.style.left=px+'px';el.style.top=axisY+'px';
+    let side=ci++%2;if(Math.abs(px-lastLabel[side])<118)side=1-side;const show=Math.abs(px-lastLabel[side])>=118;if(show)lastLabel[side]=px;
+    el.classList.toggle('up',side===1);el.classList.toggle('has-big',g.length>=10);
+    const one=g.length===1;
+    el.innerHTML=`<b class="${g.length>=10?'big':''}">${one?'+':g.length}</b>${show?`<span>${one?esc(g[0].title):clusterLabel(g)}</span>`:''}`;
+    el.onclick=ev=>{ev.stopPropagation();if(one)openEvent(g[0]);else zoomTo(g[0].di-.02,g[g.length-1].di+.02);};
+    el.title=one?g[0].title:`${g.length} more moments, ${clusterLabel(g)}. Click to zoom in`;
   }
   trim();
 }
