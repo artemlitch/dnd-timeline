@@ -76,14 +76,14 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 #stage.dragging{cursor:grabbing}
 #stage::before{content:"";position:absolute;inset:0;background:url("media/khorvaire-map.jpg") center/cover no-repeat;opacity:.06;pointer-events:none}
 #eras{position:absolute;left:0;right:0;top:0;height:72px;z-index:2}
-.era{position:absolute;height:20px;top:2px;border-radius:0;overflow:hidden;background:var(--ink);
-  border:1px solid color-mix(in srgb,var(--c) 55%,var(--parch) 45%)}
+.era{position:absolute;height:20px;top:2px;border-radius:0;overflow:hidden;background:var(--ink);display:flex;align-items:center;
+  border:1px solid color-mix(in srgb,color-mix(in srgb,var(--c) 55%,var(--parch) 45%) 20%,transparent)}
 .era[data-row="1"]{top:26px}
 .era[data-row="2"]{top:50px}
-.era.alt{border-color:color-mix(in srgb,var(--c) 30%,var(--parch) 70%)}
-.era{cursor:pointer}.era:hover{border-color:var(--brass-hi);background:#16171a}
-.era span{position:sticky;left:0;display:inline-block;padding:0 8px;font-family:var(--display);font-size:11px;line-height:18px;letter-spacing:.06em;color:var(--parch);white-space:nowrap;text-shadow:0 1px 2px #000}
-.era small{font-family:var(--body);font-size:12px;opacity:.75;margin-left:6px;letter-spacing:0;font-style:italic}
+.era.alt{border-color:color-mix(in srgb,color-mix(in srgb,var(--c) 30%,var(--parch) 70%) 20%,transparent)}
+.era{cursor:pointer}.era:hover{border-color:color-mix(in srgb,var(--brass-hi) 60%,transparent);background:#16171a}
+.era span{position:sticky;left:0;display:inline-flex;align-items:center;gap:6px;padding:0 8px;font-family:var(--display);font-size:11px;line-height:1;letter-spacing:.06em;color:var(--parch);white-space:nowrap;text-shadow:0 1px 2px #000}
+.era small{font-family:var(--body);font-size:12px;line-height:1;opacity:.75;letter-spacing:0;font-style:italic}
 #ruler{position:absolute;left:0;right:0;top:72px;height:40px;z-index:2;display:block}
 #lanes{position:absolute;left:0;right:0;top:112px;bottom:0;overflow:clip}
 #world{position:absolute;inset:0;will-change:transform}
