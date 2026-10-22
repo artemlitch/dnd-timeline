@@ -235,6 +235,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
       <button class="jump" data-j="break">Prison break</button>
       <button class="jump" data-j="now">Now</button>
       <a class="jump" href="edit_timeline/" id="editLink">Edit data</a>
+      <a class="jump" href="?src=published" id="localTag" hidden title="This browser shows your saved edits. Click to view the published timeline.">your edits · view published</a>
     </div>
     <div class="grp" id="filters"></div>
     <div class="grp"><input id="search" type="search" placeholder="Search anything…" aria-label="Search events"></div>
@@ -279,10 +280,10 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 <figure id="lightbox" role="dialog" aria-label="Enlarged image"><img alt=""><figcaption></figcaption></figure>
 
 <script>
-// data comes from timeline.json; /edit_timeline previews an uploaded file through localStorage when ?src=local is set
+// data comes from timeline.json, unless this browser has edits saved from /edit_timeline (?src=published skips them)
 (function(){
-  if(new URLSearchParams(location.search).get('src')==='local'){
-    try{const t=JSON.parse(localStorage.getItem('timelineOverride'));if(t&&t.events){window.TIMELINE=t;return;}}catch(_){}
+  if(new URLSearchParams(location.search).get('src')!=='published'){
+    try{const t=JSON.parse(localStorage.getItem('timelineOverride'));if(t&&t.events){window.TIMELINE=t;window.TIMELINE_LOCAL=true;return;}}catch(_){}
   }
   fetch('timeline.json',{cache:'no-cache'}).then(r=>r.json()).then(t=>{window.TIMELINE=t;}).catch(()=>{});
 })();
@@ -326,6 +327,7 @@ function fmtShort(e){return `${mName(e.month)} ${e.day}, ${e.year} YK`;}
 function fmtLong(e){return `${wName(e.day)}, ${mName(e.month)} ${e.day}, ${e.year} YK, ${hh(e.hour||0)}`;}
 
 function init(){
+  if(window.TIMELINE_LOCAL)$('#localTag').hidden=false;
   DATA=window.TIMELINE;CAL=DATA.calendar;DPM=CAL.daysPerMonth;DPY=DPM*CAL.monthNames.length;
   EV=DATA.events.map(e=>({...e,di:dayIndex(e.year,e.month,e.day,e.hour||0)})).sort((a,b)=>a.di-b.di);
   EV.forEach((e,i)=>{e.side=i%2;e.lane=Math.floor(i/2)%2;});

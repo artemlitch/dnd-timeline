@@ -43,7 +43,28 @@ textarea{width:100%;min-height:150px;background:#0d1018;color:var(--parch);borde
 #rows{overflow:auto;flex:1;padding:10px 18px 40px}
 .era{font-family:var(--display);font-size:12px;letter-spacing:.1em;color:var(--brass);margin:14px 0 6px;padding-left:8px;border-left:3px solid var(--c,#555)}
 .era small{font-family:var(--body);font-style:italic;letter-spacing:0;color:var(--parch-dim);margin-left:8px;font-size:13px}
-pre.j{margin:0 0 8px;padding:8px 10px;border-left:3px solid var(--kc,#555);background:var(--ink-2);border-radius:0 4px 4px 0;font-family:var(--mono);font-size:11.5px;line-height:1.45;color:var(--parch);white-space:pre-wrap;word-break:break-word}
+.ev{display:grid;grid-template-columns:96px 1fr;gap:12px;padding:10px 8px;border-bottom:1px dashed rgba(122,92,35,.4);align-items:start}
+.ev .th{width:96px;aspect-ratio:16/9;border-radius:3px;background:#1e1a14;border:1px solid var(--bronze);overflow:hidden}
+.ev .th img{width:100%;height:100%;object-fit:cover;display:block}
+.ev h3{margin:0;font-family:var(--display);font-size:14px;color:var(--parch)}
+.ev .m{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-family:var(--mono);font-size:10.5px;color:var(--parch-dim);margin:4px 0 5px}
+.ev .m i{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--kc)}
+.ev .m input,.ev .m select{background:#0d1018;color:var(--parch);border:1px solid rgba(122,92,35,.6);border-radius:3px;font-family:var(--mono);font-size:10.5px;padding:1px 4px}
+.ev .m input[type=number]{width:52px}.ev .m input.yr{width:60px}
+.ev .m label{display:inline-flex;align-items:center;gap:3px}
+.ev p{margin:0;color:var(--parch);font-size:15px;line-height:1.35}
+.ev p.d{color:var(--parch-dim);font-size:14px;margin-top:4px}
+.ev .tags{margin-top:4px;font-family:var(--body);font-style:italic;font-size:13px;color:var(--brass)}
+.ev .lbl{font-family:var(--mono);font-size:9.5px;color:#6d6350;letter-spacing:.06em;margin-top:5px}
+[contenteditable]{outline:none;border-radius:3px;padding:1px 3px;margin:0 -3px;transition:background .15s}
+[contenteditable]:hover{background:rgba(201,162,77,.08)}
+[contenteditable]:focus{background:rgba(95,211,255,.08);box-shadow:0 0 0 1px rgba(95,211,255,.5)}
+[contenteditable]:empty::before{content:attr(data-ph);color:#6d6350;font-style:italic}
+.ev.dirty{background:rgba(201,162,77,.06)}
+.era [contenteditable]{display:inline-block}
+#saveBar{display:flex;align-items:center;gap:10px}
+#saveState{font-family:var(--mono);font-size:11px;color:var(--parch-dim)}
+#saveState.dirty{color:var(--ember)}#saveState.saved{color:var(--moss)}
 details summary{cursor:pointer;font-family:var(--mono);font-size:12px;color:var(--brass)}
 code{font-family:var(--mono);font-size:12px;color:var(--brass-hi)}
 </style>
@@ -71,18 +92,19 @@ code{font-family:var(--mono);font-size:12px;color:var(--brass-hi)}
       <div class="stats" id="stats"></div>
     </div>
 
-    <h2>3. Publish</h2>
+    <h2>3. Edit, save, publish</h2>
     <div class="panel">
+      <p>Click any text on the right to edit it. <b>Save</b> stores the edits in this browser and the timeline here shows them right away.</p>
       <div class="row">
-        <button id="download" disabled>Download loaded JSON</button>
-        <a class="btn" id="previewLink" href="../?src=local" target="_blank" style="display:none">Open in the timeline ↗</a>
-        <button id="clear">Clear</button>
+        <button id="download">Download JSON</button>
+        <a class="btn" href="../" target="_blank">Open the timeline ↗</a>
+        <button id="clear">Discard saved edits</button>
       </div>
-      <p style="margin-top:10px">To publish, replace <code>site/timeline.json</code> in the repo with the downloaded file, drop any new images into <code>site/img/</code>, and run <code>./deploy.sh</code>.</p>
+      <p style="margin-top:10px">To publish for everyone, download, replace <code>site/timeline.json</code> in the repo, and run <code>./deploy.sh</code>.</p>
     </div>
   </section>
   <section class="list">
-    <div class="listhead"><span id="tag">published timeline.json</span><input id="filter" type="search" placeholder="filter…"></div>
+    <div class="listhead"><div id="saveBar"><button class="primary" id="save">Save</button><span id="saveState"></span></div><span id="tag">published timeline.json</span><input id="filter" type="search" placeholder="filter…"></div>
     <div id="rows"></div>
   </section>
 </main>
@@ -136,39 +158,94 @@ function validate(t){
     for(const k of ['start','end'])need(r&&r[k]&&Number.isInteger(r[k].year)&&Number.isInteger(r[k].month)&&Number.isInteger(r[k].day),at+': '+k+' needs year/month/day');});
   return errs;
 }
-function show(t,name){
-  const errs=validate(t);const st=$('#status');
-  if(errs.length){st.className='err';st.textContent=`${name}: ${errs.length} problem${errs.length>1?'s':''}\n• `+errs.slice(0,12).join('\n• ')+(errs.length>12?`\n… and ${errs.length-12} more`:'');$('#download').disabled=true;return;}
-  loaded=t;localStorage.setItem('timelineOverride',JSON.stringify(t));
-  st.className='ok';st.textContent=`${name}: valid. Previewing on the right.`;
-  const kinds={};for(const e of t.events)kinds[e.kind]=(kinds[e.kind]||0)+1;
-  const sessions=new Set(t.events.filter(e=>e.session).map(e=>e.session));
-  $('#stats').innerHTML=`<span><b>${t.events.length}</b> events</span><span><b>${t.eras.length}</b> eras</span><span><b>${sessions.size}</b> sessions</span><span><b>${t.events.filter(e=>e.img).length}</b> with images</span>`+Object.entries(kinds).map(([k,n])=>`<span>${k} <b>${n}</b></span>`).join('');
-  $('#download').disabled=false;$('#tag').textContent='loaded: '+name;$('#previewLink').style.display='';render(t);
-}
 const KC={history:'#a89a7c',battle:'#ff7a3d',intrigue:'#c9a24d',revelation:'#b48cff',social:'#7fd0a0',travel:'#5fd3ff',loss:'#d9455f'};
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let current=null;
+let current=null,dirty=false;
+function setState(cls,txt){const s=$('#saveState');s.className=cls;s.textContent=txt;}
+function markDirty(){dirty=true;setState('dirty','unsaved changes');}
+function stats(t){const kinds={};for(const e of t.events)kinds[e.kind]=(kinds[e.kind]||0)+1;
+  const sessions=new Set(t.events.filter(e=>e.session).map(e=>e.session));
+  $('#stats').innerHTML=`<span><b>${t.events.length}</b> events</span><span><b>${t.eras.length}</b> eras</span><span><b>${sessions.size}</b> sessions</span><span><b>${t.events.filter(e=>e.img).length}</b> with images</span>`+Object.entries(kinds).map(([k,n])=>`<span>${k} <b>${n}</b></span>`).join('');}
+function show(t,name){
+  const errs=validate(t);const st=$('#status');
+  if(errs.length){st.className='err';st.textContent=`${name}: ${errs.length} problem${errs.length>1?'s':''}\n• `+errs.slice(0,12).join('\n• ')+(errs.length>12?`\n… and ${errs.length-12} more`:'');return;}
+  st.className='ok';st.textContent=`${name}: valid. Loaded below; press Save to keep it.`;
+  stats(t);$('#tag').textContent=name;render(t);markDirty();
+}
+
+// editable fields: data-f names the field on the event or era object; data-t is the type
+const txt=(f,v,ph,tag='span',cls='')=>`<${tag} class="${cls}" contenteditable="plaintext-only" data-f="${f}" data-ph="${ph}">${esc(v)}</${tag}>`;
+const num=(f,v,cls='')=>`<input type="number" class="${cls}" data-f="${f}" data-t="int" value="${v==null?'':v}">`;
+const monthSel=(f,v,cal)=>`<select data-f="${f}" data-t="int">${cal.monthNames.map((m,i)=>`<option value="${i+1}"${v===i+1?' selected':''}>${m}</option>`).join('')}</select>`;
+function dateFields(prefix,d,cal){return `${num(prefix+'.year',d.year,'yr')}${monthSel(prefix+'.month',d.month,cal)}${num(prefix+'.day',d.day)}`;}
 function render(t){current=t;const q=$('#filter').value.trim().toLowerCase();const cal=t.calendar;
   const di=e=>(e.year-cal.epochYear)*cal.daysPerMonth*12+(e.month-1)*cal.daysPerMonth+(e.day-1)+(e.hour||0)/24;
-  const evs=[...t.events].sort((a,b)=>di(a)-di(b)).filter(e=>!q||JSON.stringify(e).toLowerCase().includes(q));
-  let html=`<div class="era">calendar</div><pre class="j">${esc(JSON.stringify(t.calendar,null,2))}</pre><div class="era">eras (${t.eras.length})</div>`;
-  for(const r of t.eras)html+=`<pre class="j" style="--kc:${esc(r.color||'#555')}">${esc(JSON.stringify(r,null,2))}</pre>`;
-  html+=`<div class="era">events (${evs.length}${q?' matching':''}, in date order)</div>`;
-  for(const e of evs)html+=`<pre class="j" style="--kc:${KC[e.kind]||'#999'}">${esc(JSON.stringify(e,null,2))}</pre>`;
+  const arcs=t.eras.filter(r=>r.row===1);
+  let html='';
+  for(const [row,label] of [[0,'Acts'],[1,'Arcs']]){
+    const list=t.eras.map((r,i)=>({r,i})).filter(x=>(x.r.row||0)===row);
+    html+=`<div class="era">${label} (${list.length})</div>`;
+    for(const {r,i} of list)html+=`<div class="ev" data-kind="era" data-i="${i}" style="--kc:${esc(r.color||'#555')}"><div class="th" style="background:${esc(r.color||'#555')}"></div><div>
+      ${txt('title',r.title,'title','h3')}
+      <div class="m"><label>start ${dateFields('start',r.start,cal)}</label><label>end ${dateFields('end',r.end,cal)}</label><label>colour <input type="color" data-f="color" value="${esc(r.color||'#555555')}"></label><code>${esc(r.id)}</code></div>
+      ${txt('subtitle',r.subtitle,'subtitle','p','d')}</div></div>`;
+  }
+  const evs=t.events.map((e,i)=>({e,i})).sort((a,b)=>di(a.e)-di(b.e)).filter(x=>!q||JSON.stringify(x.e).toLowerCase().includes(q));
+  html+=`<div class="era">Events (${evs.length}${q?' matching':''}, in date order)</div>`;
+  for(const {e,i} of evs){
+    html+=`<div class="ev" data-kind="event" data-i="${i}" style="--kc:${KC[e.kind]||'#999'}"><div class="th">${e.img?`<img src="../${esc(e.img)}" alt="" loading="lazy">`:''}</div><div>
+      ${txt('title',e.title,'title','h3')}
+      <div class="m"><i></i><select data-f="kind">${KINDS.map(k=>`<option${k===e.kind?' selected':''}>${k}</option>`).join('')}</select>
+        ${dateFields('',e,cal).replace(/data-f="\./g,'data-f="')}<label>h ${num('hour',e.hour)}</label>
+        <label>S ${num('session',e.session)}</label><label>act ${num('act',e.act)}</label>
+        <select data-f="arc"><option value="">(no arc)</option>${arcs.map(a=>`<option${a.title===e.arc?' selected':''}>${esc(a.title)}</option>`).join('')}</select>
+        <label><input type="checkbox" data-f="major" data-t="bool"${e.major?' checked':''}> major</label></div>
+      ${txt('summary',e.summary,'summary','p')}
+      ${txt('detail',e.detail,'detail','p','d')}
+      <div class="lbl">tags</div>${txt('tags',(e.tags||[]).join(', '),'comma separated','div','tags')}
+      <div class="lbl">id · image</div><div class="m">${txt('id',e.id,'id','code')} · ${txt('img',e.img,'img/<id>.jpg','code')}</div>
+    </div></div>`;
+  }
   $('#rows').innerHTML=html;
 }
+function setPath(o,path,v){const ks=path.split('.');let x=o;for(const k of ks.slice(0,-1))x=x[k]=x[k]||{};const last=ks[ks.length-1];
+  if(v===''||v==null||(typeof v==='number'&&isNaN(v)))delete x[last];else x[last]=v;}
+function onEdit(ev){
+  const el=ev.target.closest('[data-f]'),row=ev.target.closest('.ev');if(!el||!row||!current)return;
+  const obj=row.dataset.kind==='era'?current.eras[+row.dataset.i]:current.events[+row.dataset.i];
+  const f=el.dataset.f,t=el.dataset.t;let v=el.isContentEditable?el.textContent.trim():el.type==='checkbox'?el.checked:el.value;
+  if(t==='int')v=v===''?'':parseInt(v,10);
+  if(f==='tags')v=v.split(',').map(s=>s.trim()).filter(Boolean);
+  if(f==='major'&&!v)v='';
+  setPath(obj,f,v);row.classList.add('dirty');
+  if(f==='kind')row.style.setProperty('--kc',KC[v]||'#999');
+  if(f==='color'){row.style.setProperty('--kc',v);row.querySelector('.th').style.background=v;}
+  markDirty();
+}
+$('#rows').addEventListener('input',onEdit);$('#rows').addEventListener('change',onEdit);
+$('#rows').addEventListener('keydown',e=>{if(e.key==='Enter'&&e.target.isContentEditable&&e.target.tagName!=='P'){e.preventDefault();e.target.blur();}});
+function save(){
+  if(!current)return;const errs=validate(current);
+  if(errs.length){setState('dirty','cannot save: '+errs[0]+(errs.length>1?` (+${errs.length-1} more)`:''));return;}
+  localStorage.setItem('timelineOverride',JSON.stringify(current));dirty=false;
+  setState('saved','saved '+new Date().toLocaleTimeString());$('#tag').textContent='your saved edits';stats(current);
+  document.querySelectorAll('.ev.dirty').forEach(r=>r.classList.remove('dirty'));render(current);
+}
+$('#save').onclick=save;
+document.addEventListener('keydown',e=>{if((e.metaKey||e.ctrlKey)&&e.key==='s'){e.preventDefault();save();}});
+window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue='';}});
 $('#filter').oninput=()=>{if(current)render(current);};
-fetch('../timeline.json',{cache:'no-cache'}).then(r=>r.json()).then(t=>{if(!loaded)render(t);}).catch(()=>{});
+
 function readFile(f){if(!f)return;f.text().then(txt=>{try{show(JSON.parse(txt),f.name);}catch(e){$('#status').className='err';$('#status').textContent=f.name+': not valid JSON. '+e.message;}});}
 $('#file').onchange=e=>readFile(e.target.files[0]);
 const drop=$('#drop');drop.ondragover=e=>{e.preventDefault();drop.classList.add('over');};drop.ondragleave=()=>drop.classList.remove('over');
 drop.ondrop=e=>{e.preventDefault();drop.classList.remove('over');readFile(e.dataTransfer.files[0]);};
 $('#loadPaste').onclick=()=>{try{show(JSON.parse($('#paste').value),'pasted JSON');}catch(e){$('#status').className='err';$('#status').textContent='Pasted text is not valid JSON. '+e.message;}};
-$('#download').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(loaded,null,2)],{type:'application/json'}));a.download='timeline.json';a.click();};
-$('#clear').onclick=()=>{localStorage.removeItem('timelineOverride');loaded=null;$('#status').textContent='';$('#status').className='';$('#stats').innerHTML='';$('#download').disabled=true;$('#previewLink').style.display='none';$('#tag').textContent='published timeline.json';fetch('../timeline.json',{cache:'no-cache'}).then(r=>r.json()).then(render);};
-// resume a preview left from last time
-try{const t=JSON.parse(localStorage.getItem('timelineOverride'));if(t&&t.events)show(t,'previously loaded file');}catch(_){}
+$('#download').onclick=()=>{if(!current)return;const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(current,null,2)],{type:'application/json'}));a.download='timeline.json';a.click();};
+function loadPublished(){return fetch('../timeline.json',{cache:'no-cache'}).then(r=>r.json()).then(t=>{$('#tag').textContent='published timeline.json';stats(t);render(t);setState('','');dirty=false;});}
+$('#clear').onclick=()=>{if(!confirm('Discard your saved edits and go back to the published timeline?'))return;localStorage.removeItem('timelineOverride');$('#status').textContent='';$('#status').className='';loadPublished();};
+let saved=null;try{saved=JSON.parse(localStorage.getItem('timelineOverride'));}catch(_){}
+if(saved&&saved.events){$('#tag').textContent='your saved edits';stats(saved);render(saved);setState('saved','saved edits loaded');}else loadPublished();
 </script>
 </body>
 </html>
