@@ -315,7 +315,8 @@ function fmtLong(e){return `${wName(e.day)}, ${mName(e.month)} ${e.day}, ${e.yea
 function init(){
   DATA=window.TIMELINE;CAL=DATA.calendar;DPM=CAL.daysPerMonth;DPY=DPM*CAL.monthNames.length;
   EV=DATA.events.map(e=>({...e,di:dayIndex(e.year,e.month,e.day,e.hour||0)})).sort((a,b)=>a.di-b.di);
-  EV.forEach((e,i)=>{e.side=i%2;e.lane=Math.floor(i/2)%2;});
+  // sides flip per run: a session is one run, each sessionless (history) event is its own run
+  let side=1,runKey=null;EV.forEach((e,i)=>{const k=e.session?'s'+e.session:'h'+i;if(k!==runKey){side=1-side;runKey=k;}e.side=side;});
   ERAS=DATA.eras.map(r=>({...r,a:dayIndex(r.start.year,r.start.month,r.start.day,0),b:dayIndex(r.end.year,r.end.month,r.end.day,0)+1}));
   MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);
   SPLIT=dayIndex(993,1,1,0);
@@ -404,16 +405,16 @@ function layoutEvents(){
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
   // each event owns a side and a lane of the axis for good (e.side, e.lane); a card never moves vertically.
-  // Stacks are always consecutive runs of events. An event starts a new card only if it is clear of the previous
-  // event (not practically on top of it) and a full card width clear of every earlier event in its own slot;
-  // otherwise it joins the current stack. Both tests are plain distances that shrink as the zoom goes out, so
-  // stacks only ever grow. A stack sits in its first event's slot, so cards never move
-  const near=28,lastInSlot={};let groups=[],prevX=-1e9;
+  // Runs of consecutive events share a side (a session's events sit together), one row per side. An event starts
+  // a new stack at its own marker only if its card would clear the previous event's card on its side; otherwise
+  // it joins the latest stack, whichever side that stack sits on, so stacks are always consecutive. The test is a
+  // plain distance to a fixed event, so stacks only grow as the zoom goes out, and a stack never moves
+  const lastX=[-1e9,-1e9];let groups=[];
   for(const e of vis){
-    const x=(e.di-off)*P,lane=Math.min(e.lane,lanesPer-1),slot=e.side+':'+lane,sx=lastInSlot[slot];
-    const starts=x-prevX>=near&&(sx===undefined||x-sx>=wMajor+8);
-    if(starts||!groups.length)groups.push({items:[e],side:e.side,lane,x,w:wMajor});else groups[groups.length-1].items.push(e);
-    lastInSlot[slot]=x;prevX=x;
+    const x=(e.di-off)*P;
+    if(groups.length&&x-lastX[e.side]<wMajor+8)groups[groups.length-1].items.push(e);
+    else groups.push({items:[e],side:e.side,lane:0,x,w:wMajor});
+    lastX[e.side]=x;
   }
   window.__groups=groups.map(g=>g.items.map(i=>i.id));
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
@@ -428,7 +429,7 @@ function layoutEvents(){
     const edge=gap+g.lane*laneH;
     if(g.side){card.style.top=(axisY+edge)+'px';card.style.bottom='';}else{card.style.bottom=(H-axisY+edge)+'px';card.style.top='';}
     if(isGroup){
-      const shown=g.items.slice(0,2),more=g.items.length-shown.length;
+      const shown=g.items.slice(0,4),more=g.items.length-shown.length;
       card.innerHTML=`<div class="gh">${clusterLabel(g.items)}<span class="pill">${g.items.length} moments</span></div>`+
         shown.map(i=>`<div class="row" data-id="${i.id}" style="--kc:${KC[i.kind]||KC.history}"><div class="rt">${thumb(i)}</div><div><b>${esc(i.title)}</b><small>${mName(i.month)} ${i.day}${i.session?` · S${i.session}`:''}</small></div></div>`).join('')+
         (more?`<div class="more">+${more} more · click to zoom in</div>`:'');
