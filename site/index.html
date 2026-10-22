@@ -407,15 +407,14 @@ function layoutEvents(){
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
   // every event gets an axis marker and owns one side and one lane of the axis for good (e.side, e.lane), so a
-  // card is always drawn at the same height. If its slot is taken at this zoom it goes to an overflow bubble
-  // instead (neighbours within 90px share one)
-  const lanes=[[],[]];for(const s of lanes)for(let i=0;i<lanesPer;i++)s.push([]);
-  const fits=(arr,x1,x2)=>arr.every(iv=>x2+10<iv[0]||x1>iv[1]+10);
-  const placed=new Map();
+  // card is always drawn at the same height. A card is shown full size only when it clears the previous event's
+  // card in its slot, whether or not that one is shown: that distance only grows as the zoom goes in, so a card
+  // that has appeared never hides again, and shown cards can still never overlap
+  const lastX2={},placed=new Map();
   for(const e of vis){
-    const x=(e.di-off)*P,x1=x-w/2,x2=x+w/2,lane=Math.min(e.lane,lanesPer-1),l=lanes[e.side][lane];
-    if(!fits(l,x1,x2))continue;
-    l.push([x1,x2]);placed.set(e.id,lane);
+    const x=(e.di-off)*P,x1=x-w/2,lane=Math.min(e.lane,lanesPer-1),slot=e.side+':'+lane;
+    if(lastX2[slot]===undefined||x1>lastX2[slot]+10)placed.set(e.id,lane);
+    lastX2[slot]=x+w/2;
   }
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
   // a card whose slot is taken is still drawn there, shrunk and faded behind the others, and grows back when zooming in
