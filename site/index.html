@@ -357,8 +357,11 @@ function init(){
   buildFilters();buildEras();drawMini();
   // open at Month scale centered on Zarantyr 993
   P=PRESETS.month;setCenter(SPLIT+14);
+  const linked=EV.find(e=>e.id===new URLSearchParams(location.search).get('event'));
+  if(linked){P=PRESETS.week;setCenter(linked.di+(vw()>760?220:0)/P);openEvent(linked,false);}
   bind();schedule(true);
 }
+function setEventParam(id){const u=new URL(location.href);if(id)u.searchParams.set('event',id);else u.searchParams.delete('event');history.replaceState(null,'',u);}
 // sizes are measured once and on resize: reading them after card writes forces a full synchronous layout
 const SZ={w:0,h:0,mw:0};
 function measure(){SZ.w=lanesEl.clientWidth;SZ.h=lanesEl.clientHeight;SZ.mw=mini.clientWidth;SZ.left=lanesEl.getBoundingClientRect().left;}
@@ -582,7 +585,7 @@ function drawMini(){const W=mini.clientWidth,H=mini.clientHeight,dpr=devicePixel
 function updateMini(){const W=SZ.mw;const a=dayToMini(Math.max(MINDAY,off),W),b=dayToMini(Math.min(MAXDAY,off+vw()/P),W);miniWin.style.left=a+'px';miniWin.style.width=Math.max(4,b-a)+'px';}
 
 /* ---------- drawer ---------- */
-function openEvent(e,pan){active=e;const kc=KC[e.kind]||KC.history;drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');
+function openEvent(e,pan){active=e;setEventParam(e.id);const kc=KC[e.kind]||KC.history;drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');
   const art={battle:'media/airship-combat.jpg',travel:'media/flying-fortress.jpg',revelation:'media/character.jpg',social:'media/party-art.jpg',history:'media/five-nations.jpg',intrigue:'media/floating-city.jpg',loss:'media/art2.jpg'};
   const src=e.img||art[e.kind]||'media/art2.jpg';
   $('#dImg').innerHTML=`<img src="${esc(src)}" alt="" onerror="this.outerHTML='<div class=ph>${PH.replace(/"/g,'&quot;').replace(/'/g,'&#39;')}</div>'">`;
@@ -600,7 +603,7 @@ function openLightbox(src,caption){lb.querySelector('img').src=src;lb.querySelec
 function closeLightbox(){lb.classList.remove('open');}
 lb.onclick=closeLightbox;
 drawer.querySelector('.hd').addEventListener('click',e=>{if(e.target.closest('#close'))return;const img=$('#dImg img');if(img&&active)openLightbox(img.src,active.title);});
-function closeDrawer(){drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true');active=null;schedule(true);}
+function closeDrawer(){drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true');active=null;setEventParam(null);schedule(true);}
 function stepEvent(dir){const i=active?EV.indexOf(active):(dir>0?-1:EV.length);let j=i+dir;while(EV[j]&&!visible(EV[j]))j+=dir;if(EV[j])openEvent(EV[j]);}
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 
