@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:yedani-mountains}
 In this moment: a road down through the mountains. A small convoy of horses and prison carriages taken from DarkWood Prison has stopped on the road. Far behind, a thin column of smoke still rises from the ruins of the prison. Time and light: morning.
+{maps:Prison Gate}
 
 THE MOMENT
 Beside the carriages Lirael and Sheldor, two drow, stand face to face, and Sheldor, having forgiven Lirael for pretending to be his friend Cromwell, is teaching him the Snel Katar, the traditional drow handshake ritual: their forearms are clasped and their free hands meet in a deliberate, formal gesture, eyes locked, both of them serious. Around the carriages the rest of the freed convoy, most still in drab prison fatigues, rests and watches: the tattooed half-orc Leff, Tauren, the red-bearded dwarf Sorenson, Keys the dwarf, old Faird, the grey-haired record keeper Erald, and Erald's pet mimic Chester, a wooden treasure chest on stubby legs with a single big eye, rows of teeth and a long pink tongue hanging out of its lid.

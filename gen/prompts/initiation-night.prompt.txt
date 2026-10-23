@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:darkwood-prison}
 In this moment: a rough ring of prisoners and guards in the prison, cheap weapons handed out for a fight to the death. Time and light: night, torchlight.
+{maps:Prison Level 1}
 
 THE MOMENT
 The new prisoners were handed weapons and told to fight each other for the guards' entertainment. Instead they have turned on the guards. Sazed drives his weapon into Officer Bloodworth, his torturer, blood spraying, Bloodworth's face twisted in shock. Brand, in his prison clothes, bowls a guard over with his shoulder. Lirael slips a blade between the ribs of another guard from behind. Tauren is down on one knee, wounded and bleeding. At the edge of the ring, the guard Fumble Figgins drops his club and runs.

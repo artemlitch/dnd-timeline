@@ -8,6 +8,7 @@ SETTING
 {setting:moonwatch/flight-deck}
 {setting:ardev/ardev-landing-field}
 In this moment: the airship is parked in the landing field outside Ardev. Time and light: morning.
+{maps:Main Deck Moonwatch}
 
 THE MOMENT
 Mustang has just come running up the gangway onto the deck, frantic, bristling with arrows: a dozen arrows stick out of his metal body, his chest, shoulders and back, and out of his torn navy greatcoat and cap. He grips Brand, who has just been woken and is still pulling on his armor, and tells him Lirael's mother has been taken. Behind them, Sazed and the rest of the crew come stumbling up the stairs from below deck. And at the far rail, unnoticed until this second, Jyo strolls onto the deck as if he belonged there, surprising everyone.

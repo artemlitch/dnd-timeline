@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:yedani-mountains/hidden-clearing-camp}
 In this moment: inside a canvas military tent pitched beneath the hull of the huge airship, a folding camp table between them, a lantern hanging from the ridge pole. Time and light: about two in the morning, lit by the lantern.
+{maps:Dead Wood Clearing}
 
 THE MOMENT
 Major Blazehelm stands across the camp table from the three escaped convicts and lays out what he knows about each of them and what the Sentinels will give in return for joining. He is speaking to Sazed, looking him straight in the eye, telling him that by betraying his Aundairian masters to save Brelish villagers he served Breland; Sazed listens with his arms folded, guarded. Brand, in his power armor, stands with a hand on his chest, and Lirael watches the Major closely, both waiting for their turn: a cleared name and protected inventions for the dwarf, and for the drow, proof he was possessed and a search for his missing father.

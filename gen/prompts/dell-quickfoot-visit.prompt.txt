@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:ardev/ardev-landing-field}
 In this moment: the Moonwatch is parked on the landing field, freshly repaired. Time and light: late morning.
+{maps:Ardev}
 
 THE MOMENT
 Dell Quickfoot, the tortle reporter, has just finished warning Lirael that there is no record of his crimes anywhere and that the Ardev Watch's reporting on him is a fraud. Now, to lie low, he has pulled himself completely into his shell, head, arms and legs gone, and his two wereshark bodyguards, Topek and Wylon, have hoisted the shell between them and are carrying him away across the field like a heavy trunk. Lirael and Brand, in his power armor, stand at the foot of the Moonwatch's ramp, watching them go.

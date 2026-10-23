@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:mirror-nightmares}
 In this moment: the three nightmares are coming apart around the dreamers, fragments of each drifting in the dark: a burning village of huts by a river, a man trapped behind the glass of a mirror in a living room, and a dwarven forge doorway. Time and light: the dark of the dream, lit by the burning fragments and the eye.
+{maps:Shadowmirror Cell}
 
 THE MOMENT
 Sazed, Lirael and Brand stand together in the dark at the end of their separate nightmares, each still shaken from his own: Sazed from his burning village, Lirael from his father trapped behind the mirror, Brand from the forge that no longer knows him. Above them the darkness opens into a single giant eye, filling the sky, its pupil fixed on the three of them, and it speaks two words that boom through the dream: "Found you." All three stare up at it, frozen.

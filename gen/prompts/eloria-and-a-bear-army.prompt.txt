@@ -8,6 +8,7 @@ SETTING
 {setting:moonwatch/flight-deck}
 {setting:skies-over-breland}
 In this moment: the Moonwatch is in flight. The deck is crowded with Beezel's new bear army: a crowd of huge brown bears lying, sitting and pacing between the crates and the rail. Near the mast, Brand, the old dwarf in his power armor, works over a pile of tools and half-built machinery: a contraption for cutting the hinges off a safe and two train decouplers. Time and light: late afternoon, daylight.
+{maps:Main Deck Moonwatch}
 
 THE MOMENT
 Beezel, the small scruffy halfling druid, stands at the rail among his bears and flings Mr. Beaks the pigeon up into the sky. Mr. Beaks flaps away from the ship with a small enchanted tracking charm, found hidden aboard, clutched in his claws, to lead whoever is tracking them off in the wrong direction. Sazed stands beside Beezel watching the bird go, and on a crate beside Brand lies a sending stone, still faintly glowing from Paxon's call.

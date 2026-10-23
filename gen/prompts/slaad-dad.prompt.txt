@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:ardev/lirael-srs-den}
 In this moment: the secret office at the bottom of the elevator, its doors open behind the party. Time and light: lamplight in the office, and the glare of a fireball.
+{maps:Lireal Sr Secret Office}
 
 THE MOMENT
 Lirael Sr, who a moment ago sat at his desk saying he had given up and that everyone is doomed, is tearing out of his own shape: his body swells and splits into a hulking slaad, a huge frog-like monster with mottled red-grey skin and long claws, the rags of his clothes ripping off it, while a fireball bursts from its hand toward the party. Sazed, who never believed it was really him, stands between it and Lirael with his quarterstaff up. Lirael stares at what was his father. Brand, in his power armor, thrusts out his gauntlet, casting enlarge on Sazed, and Sazed is already beginning to grow.

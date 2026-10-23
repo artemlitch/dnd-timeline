@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:yedani-mountains/hidden-clearing-camp}
 In this moment: inside a canvas military tent pitched beneath the hull of the huge airship, a folding camp table in the middle, a lantern hanging from the ridge pole. Time and light: about two in the morning, lit by the lantern.
+{maps:Dead Wood Clearing}
 
 THE MOMENT
 On the camp table lies the painting the party took from the necromancer's cellar: a family portrait of the Grimdells when they were younger, a father, a mother, two sons and a daughter in dark, gothic clothes. Next to it lies a small token bearing the sigil of House Thuranni. Major Blazehelm leans over the painting with one armored finger on it, naming each figure in turn: the dead brother, the daughter, the mother, the father, and the house of assassins and thieves they work for. Lirael, Brand and Sazed lean in around the table to look, the lantern swinging above them. Lirael glances up at the tent roof, where they heard something flying over them on the walk here.

@@ -1,9 +1,12 @@
-TONE
 {tone}
 This scene is the campaign's darkest horror moment: brutal, bloody and shocking.
 
+FRAMING
+{framing:close}
+
 SETTING
 {setting:even-hand-train/train-car-interior}
+{maps:Inside Lightning Rail 2#2}
 In this moment: the arcane safe stands open, its doorway showing the swirling silver void of the Astral Plane: the party has just come through it.
 Time and light: daytime outside, but the car is dim; the scene is lit by flashes of the train's lightning through the windows and the silver glow of the astral portal.
 

@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:ardev/ardev-cemetery}
 In this moment: the bodies and snipers come later in the day. Right now a column of black smoke rises behind the cemetery from the house the plague-masked men just set alight.
+{maps:Ardev Graveyard}
 Time and light: early morning.
 
 THE MOMENT

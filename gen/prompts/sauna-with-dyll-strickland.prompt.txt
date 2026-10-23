@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:blazehelms-mansion/hot-tub-and-sauna}
 In this moment: inside the sauna, packed shoulder to shoulder on the benches with big dragonborn in towels, scales glistening. A pile of hot stones glows in an iron brazier. Time and light: the small hours of the night at the end of Blazehelm's party, lit by the glow of the stones and a single lamp.
+{maps:Mansion Main Floor}
 
 THE MOMENT
 Lirael, an adult, wrapped in a towel at the waist and drenched in sweat, has just mocked how hot it is. In answer, a grinning dragonborn ladles water onto the glowing stones, and a huge blast of steam rolls over Lirael, who is wilting and with flushed cheeks. Beside him sits Dyll Strickland, the old human warrior, the only human in the room, completely unbothered, towel over his shoulders, mid-sentence about why he would rather stay with the soldiers than become a general. In the doorway behind them, Tauren is already escaping, a towel around his waist, fanning his face, unable to take the heat. Everyone here is an adult and covered by towels and steam.

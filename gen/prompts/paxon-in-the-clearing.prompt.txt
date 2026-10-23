@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:yedani-mountains/hidden-clearing-camp}
 In this moment: the clearing, still empty-looking. At its far side the air ripples where a massive illusion hides what lies beyond; nothing of it can be seen yet. Time and light: about six in the morning, before dawn.
+{maps:Dead Wood Clearing}
 
 THE MOMENT
 At the far edge of the clearing, Brelish soldiers in black step out of nowhere, half of one still fading in out of the empty air, crossbows held ready. With them is Chief Petty Officer Smildar Paxon, a prim elf officer holding a sheet of paper and a pen, looking down his nose. Gelf strolls out in front of the party with a wide grin and a mocking bow, greeting him by his first name and grandest possible title; Paxon sighs, unimpressed. Elric stands a step behind Gelf. Lirael, Brand and Sazed, tired and dirty from the night in Mara'bor, wait at the back, eyeing the soldiers.

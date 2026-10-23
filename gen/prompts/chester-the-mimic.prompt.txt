@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:darkwood-prison/secret-inventory-room}
 In this moment: through the doorway, smoke and the orange glow of a spreading fire down the corridor. Time and light: night, lamplight and firelight.
+{maps:Prison Basement}
 
 THE MOMENT
 Lirael kneels before a heavy locked chest with his thieves' tools in the lock, and the lock has just clicked open. At that instant the chest comes alive: it is Chester the mimic. The lid splits into a grinning mouth of teeth, a long tongue lolls out, and a single big eye blinks at them, pleased and impressed. With its tongue it holds out a plain cloth sack as a reward. Lirael rocks back on his heels; Sazed, beside him, stares at the sack; Brand, in his power armor, has his gauntlet half raised.

@@ -8,6 +8,7 @@ SETTING
 {setting:moonwatch/flight-deck}
 {setting:skies-over-breland}
 In this moment: the Moonwatch is in flight from Ardev toward the Bears Wood, freshly repaired with new armor plating. The open deck is full of children. Time and light: early afternoon.
+{maps:Main Deck Moonwatch}
 
 THE MOMENT
 Skye, a ten-year-old shifter girl rescued from her destroyed village, is terrified of flying and has been clinging to Sazed's arm with both hands. Sazed has just finished telling her about the time he hung off the side of this very ship, and about prison, and in this moment she lets go: she takes her hands off his arm and stands on her own on the open deck, chin up, scared but steady, while Sazed watches her with quiet pride. Behind them Lirael lowers his hand from the calm emotions spell he cast on her. Around them the rescued shifter children are having the time of their lives: Eloria, the ship's cleric, is wrangling them away from the rail, and at the helm Screech, the halfling pilot, is letting one of the children take the wheel.

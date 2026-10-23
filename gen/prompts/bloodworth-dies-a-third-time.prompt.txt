@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:darkwood-prison/prison-yard}
 In this moment: the prison is burning behind them, and the yard is strewn with the bodies of fallen zombies. Time and light: night, lit by the burning prison.
+{maps:Prison Exterior 10ft squares}
 
 THE MOMENT
 Sazed brings his quarterstaff down with both hands on zombie Bloodworth's head, and the skull shatters: bone, rotten flesh and blood burst outward in mid-air as the zombie's body crumples. Bloodworth once tortured Sazed; this is the third time he has been killed, and Sazed's face is set and cold. Around them the battle is turning, guards and freed prisoners fighting the last of the zombies.

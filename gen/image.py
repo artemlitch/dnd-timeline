@@ -152,6 +152,8 @@ def build(event_id, style=None, lineup=True, prompt_file=None):
     """The prompt and attached references for an event, from gen/prompts/<event-id>.prompt.txt."""
     style = style or house_style()
     text = pathlib.Path(prompt_file or ROOT / "gen/prompts" / f"{event_id}.prompt.txt").read_text()
+    if "{maps:" not in text:
+        raise SystemExit(f"{event_id}: the prompt has no {{maps:...}}; every scene takes place on a Roll20 map")
     if "{framing:epic}" in text:
         # an epic shot is a high, far view; the style's in-the-action camera would contradict it
         style = re.sub(r"A dynamic, tilted camera[^.]*\.\s*", "", style)

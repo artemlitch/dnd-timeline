@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:starilaskur/square-alleys-and-mine-works}
 In this moment: inside a small house beside the mine works, a couple's living room. Through the hole above, the hook of a mining crane still swings. Time and light: night, lamplight in the room.
+{maps:Starilaskur}
 
 THE MOMENT
 Brand comes crashing down through the ceiling of the couple's living room in his power armor, arms flung wide, his thunder gauntlets crackling with lightning, roof slates, timbers and plaster raining around him. A moment ago he blasted a mine cart along its rails with the gauntlets, caught the crane, swung onto the roof, and the roof gave way. Below him a middle-aged human couple at their small table leap back in panic: the wife drops her teacup in a splash of tea, the husband throws up his hands, and their supper scatters across the floor.

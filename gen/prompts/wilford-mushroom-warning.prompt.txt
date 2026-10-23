@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:ardev/ardev-landing-field}
 In this moment: the Moonwatch, the party's captured Aundairian airship, sits on its landing gear, its gangway lowered. A pink banner hangs from the rigging; its lettering is not legible. Time and light: early afternoon, daylight.
+{maps:Ardev}
 
 THE MOMENT
 Sorenson stomps up the gangway with a long-suffering scowl, and close on his heels comes Wilford Chism, the elderly head of Ardev's Silver Flame church, wild-eyed and sweating, his pockets bulging with mushrooms and a half-eaten mushroom clutched in one fist. Wilford grabs at Sorenson's sleeve with his free hand and points up at the sky with the mushroom, mid-sentence, insisting his god is speaking to him clearer than ever. Lirael and Brand stand at the top of the gangway, looking down at the pair.

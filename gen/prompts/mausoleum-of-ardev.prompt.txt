@@ -6,6 +6,7 @@ FRAMING
 
 SETTING
 {setting:mausoleum-of-alton-ardev/mausoleum-main-chamber}
+{maps:Mausoleum of Ardev}
 Time and light: the chamber's own faint glow and the blue light of the fountain.
 
 THE MOMENT

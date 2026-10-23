@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:ardev/ardev-landing-field}
 In this moment: the Moonwatch, a sail-winged airship, has just set down in the field outside town, its gangway lowered. Time and light: the middle of the night, lit by the mercenaries' lanterns and the ship's lamps.
+{maps:Ardev}
 
 THE MOMENT
 At the foot of the gangway, a ring of hostile Dragons Claw mercenaries blocks the way with swords and crossbows raised. Sazed holds out his Sentinel badge, and the lead mercenary sneers at it. Brand and Lirael stand behind Sazed, braced for a fight. Then two of Ardev's police push through the ring and berate the mercenaries: Jazz, jabbing a finger in the lead mercenary's face, and Mustang, the warforged police officer, calmly stepping between the mercenaries' weapons and the party.

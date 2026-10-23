@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:skies-over-breland/dagger-river-ambush}
 In this moment: the wrecks of the pirate airships tumble burning out of the sky behind the dragon. Time and light: day.
+{maps:Dogfight}
 
 THE MOMENT
 Steve the Skycracker, an enormous blue dragon, hangs in the air right off the Moonwatch's bow, wings spread wide, jaws crackling with lightning, glaring down at the ship. A moment ago he tore the pirates apart. On the deck Lirael stands at the rail, staring straight into the dragon's eye, one hand at his temple, speaking to it with his mind. Screech grips the wheel behind him, and crewmen brace at the rails. Below deck, through an open hatch, Beezel is fast asleep in his hammock.

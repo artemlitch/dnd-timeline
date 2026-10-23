@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:ardev/ardev-forest-meeting-place}
 Time and light: late night, moonlight.
+{maps:Ardev}
 
 THE MOMENT
 The white stag that led Sazed here, with a brown crescent moon on its brow, has just shed its shape: the last of the stag, its white antlers and pale hide, is fading into the figure of The Bloodsinger, who now stands before Sazed, spear in hand. Sazed faces him alone, wary, hands loose at his sides. All around them in the dark, dozens of eyes shine, watching.

@@ -8,6 +8,7 @@ SETTING
 {setting:moonwatch/flight-deck}
 {setting:skies-over-breland}
 In this moment: the Moonwatch is on its first mission, flying from Hobbstweedle toward the Yedani Mountains. Time and light: late afternoon.
+{maps:Main Deck Moonwatch}
 
 THE MOMENT
 Sorenson sits hunched on a crate by the rail, his mandolin idle in his lap, admitting to Lirael that he only joined the Sentinels to get out of prison, that he is nervous out in the world without his friend Keys, that he does not want to die and worries about everything. Lirael leans on the rail beside him, half smiling, telling him that he might look like he has it together but he has no idea what he is doing either. A few steps behind them at the helm, Beezel, the young halfling helmsman, steers the ship with a grin, and Erald, the old dwarf scribe and intelligence officer, stands next to him reading a long parchment. Both are about to be pulled aside and told the truth about the Dreamweaver.

@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:moonwatch/crew-cabins}
 In this moment: a small cabin below deck, turned into a surgery. Two bunks stand side by side with the women laid on them, bloodstained sheets, basins of reddened water, needles, thread and bandages on a crate. The ship is in flight. Time and light: late afternoon, daylight through a small porthole and a lamp swinging overhead.
+{maps:Below Deck Moonwatch}
 
 THE MOMENT
 Xera and Fey-Lynn were beheaded by assassins on a train. Eloria and Sazed have stitched their heads back onto their bodies, and a raw, freshly healed seam still circles each woman's throat; their clothes are stiff and dark with dried blood. Eloria has stored a Raise Dead spell in her ring of spell storing and Lirael has twinned it, so one diamond brought both back at once: the ring on Eloria's outstretched hand still blazes with golden light, and a pinch of diamond dust drifts in the air between the two bunks. In this instant both women have jerked upright, gasping, utterly panicked. Xera clutches at the scar on her throat, eyes wide, already starting to take in where she is. Fey-Lynn stares straight ahead, lost and blank, as if she does not know who she is. Lirael stands between the bunks with both hands raised, casting calm emotions on them, his face full of grief and relief. Sazed stands ready at the foot of the bunks with his surgical kit.

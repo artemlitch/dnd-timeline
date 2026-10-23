@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:darkwood-prison/prison-yard}
 In this moment: the prison burns behind them, and fallen zombies litter the yard. Time and light: night, lit by the burning prison.
+{maps:Prison Exterior 10ft squares}
 
 THE MOMENT
 Brand, in his power armor, has fired his seeking attack: a blazing bolt of force from his outstretched gauntlet has punched clean through Grail Grimdell, in at the top of his skull and out the other end, and the necromancer hangs in that instant, his head blown open, blood and bone bursting behind him, his skull-topped staff falling from his hand and his blood-red gem necklace flying loose. All across the yard, the zombies around them are dropping where they stand.

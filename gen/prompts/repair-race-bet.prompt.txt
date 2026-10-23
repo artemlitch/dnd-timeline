@@ -8,6 +8,7 @@ SETTING
 {setting:moonwatch}
 {setting:ardev/ardev-landing-field}
 In this moment: the Moonwatch rests on its landing gear on the Ardev landing field, its hull holed and scorched by anti-airship guns, ladders and scaffolding propped against both sides, tools, planks and stacks of new dwarven armor plates on the ground. Time and light: late morning.
+{maps:The Moonwatch}
 
 THE MOMENT
 Brand and Screech have bet 100 gold on whose team finishes their side of the hull first, working from stern to bow. On the near side, Brand bolts the very last armor plate into place at the bow and throws his arms up, winning. Working beside him is his nephew Brokk, who came to collect Sorenson and decided to pitch in uninvited, riveting plates faster than anyone to show his uncle how it is really done. Sorenson hauls a plate up a ladder, and Jazz, the town police officer, holds a ladder steady. Barry Baritone, the brass musician construct who came along with Brokk, looks on. Around the bow, on the far side, Screech freezes on his scaffold, staring in disbelief, while his crew keeps working: Beezel, wild-shaped into a huge gorilla, carries a stack of planks on his shoulder, and Jeff, the frog-man, is hammering at a plate halfway down the hull.

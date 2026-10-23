@@ -8,6 +8,7 @@ SETTING
 {setting:shuriken-fighters}
 {setting:hobbstweedle}
 In this moment: low over Hobbstweedle, the airfield and the village far below. Time and light: early morning.
+{maps:Dogfight}
 
 THE MOMENT
 Lirael, at the controls of a Shuriken for the first time, banks into his first spin: the small fighter rolls over, its elemental ring flaring, the ground wheeling below. Lirael, in smoked goggles and black Sentinel flight gear, grips the controls with fierce concentration and the start of a grin. Close off his wing flies Screech in his own Shuriken, leaning out of his cockpit, goggles down, shouting instructions and pointing.

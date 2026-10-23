@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:starilaskur/starilaskur-broadhelm-forge}
 In this moment: the hidden wall case stands open and empty. Brand's old suit of power armor stands beside Ember, given to her. Mugs of dwarven ale sit on the workbench. Time and light: night, firelight from the forge.
+{maps:Starilaskur}
 
 THE MOMENT
 Brand has just slipped the Ring of Cure Racism onto his finger and turned into a goblin: green skin, long pointed ears and a goblin's sharp-toothed face, still with his own grey-white hair and beard, standing inside his gleaming new suit of power armor, holding up his hand to stare at it. Ember, his twin sister, laughs at him across the workbench, holding out two small joke potions: a Potion of Become Rock and a Potion of Attacked by Birds, beside three larger greater healing potions. Skye, ten years old, sways unsteadily with a mug of ale far too big for her, slightly drunk, and Sazed catches her by the shoulder while frowning at the mug. Lirael leans on the bench, grinning at goblin Brand.

@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:marabor/abandoned-house}
 In this moment: the ground floor, wrecked by the fight, with the cellar hatch open in the floor and broken skeleton bones scattered across the boards. Time and light: midnight, lit by the violet glow of faerie fire clinging to the zombie.
+{maps:Mara'bor Inside}
 
 THE MOMENT
 Brand, in his power armor, has Grail's brother hoisted upside down over his head and is piledriving him headfirst into the Bag of Devouring. Lirael kneels on the floor holding the bag's mouth wide open with both hands, and inside it a ring of wet, toothed tentacles is already reaching up and coiling around the brother's head and shoulders. Sazed, bloodied and only just healed back to his feet, shoves the brother's flailing legs down toward the bag. The brother screams, clawing at the air.

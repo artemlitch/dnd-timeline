@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:ardev/turckle-and-churckle}
 In this moment: the scene is the street right outside the bar, townsfolk crowding the doorway and windows to watch.
+{maps:The Turckle and Churckle}
 Time and light: evening, lamplight from the bar's windows and open door.
 
 THE MOMENT

@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:yedani-mountains/aundairian-valley-base}
 In this moment: the Aundairian camp in the valley below. Time and light: day.
+{maps:Yedani Valley Airship Sabotage}
 
 THE MOMENT
 The Broadaxe, an Aundairian warship, has just blown apart in the air as its elemental holding cell explodes: fire and black smoke burst from its belly, its rotor shears away, and the broken hull is falling toward the camp below. Out of the wreck pours a huge, furious smoke elemental, a towering shape of black smoke with burning eyes, lashing at everything around it. Just above, its sister warship the Broadsword climbs away. Sazed is in mid-leap from the falling Broadaxe to the Broadsword's rail. On the Broadsword's deck Brand, in his power armor, blasts two Aundairian soldiers off the ship with a thunderwave, an arrow wound in his side, while two harpies swoop in at him.

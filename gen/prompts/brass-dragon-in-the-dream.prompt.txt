@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:dreamweaver-dream/dream-cage}
 In this moment: the rocks around the cage. Scattered smouldering shreds of the Dream Eater, just blown apart by a smokepowder bomb, lie across the rocks. Below the rocks the vast featureless face of the Dreamweaver fills the darkness, its two eyes made of the gathered light orbs. Time and light: the only light is the drifting orbs and the blinding burst of light around the dragon.
+{maps:Possession Battle}
 
 THE MOMENT
 The giant face below rages, mouth stretched open in a soundless roar. Out of a sudden explosion of white-gold light bursts a brass dragon, huge, wings spread, gleaming metallic brass scales, and it slams into the face claws first, tearing at it. In the foreground stands the locked cage, its bars bound with a heavy chain and padlock: a ghostly, glowing spectral hand floats at the padlock, Cromwell's mage hand, picking it, and the chain is just slipping loose and falling from the bars. Inside the cage the dreamwoven captives sit slumped and sullen, Gelf, Elric, Screech, Sheldor and Charlie Trundle, but light is starting to return to their dead eyes. Lirael grips the bars, yelling into Gelf's face to wake him. Cromwell stands a few steps back, hand outstretched, guiding the spectral hand. Brand and Sazed brace on the rocks beside the cage, staring down at the dragon and the face.

@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:ardev/ardev-cannith-forge}
 In this moment: the forge room is wrecked by the fight, tools and stolen goods scattered across the floor. Time and light: night, firelight from the forge.
+{maps:Cannith Forge Ardev}
 
 THE MOMENT
 Gynn the glabrezu towers over the forge room, a moment after knocking Sazed out in one round, and Brand kneels over Sazed with a glowing hand, healing him. In that instant Lirael has slipped up beside the demon and pushed a plain ring onto one of its smaller clawed hands, and the ring flares: the glabrezu's body is already flickering and folding away into nowhere, teleported off at random, its pincers snapping at empty air. Small mephits made of smoke and ember scatter with armfuls of stolen tools. Brokk, the dwarf the demon came for, crouches behind an anvil.

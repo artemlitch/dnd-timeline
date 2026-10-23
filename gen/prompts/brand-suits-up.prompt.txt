@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:darkwood-prison/secret-inventory-room}
 In this moment: the party's confiscated gear lies spread across the shelves and floor. In the corner stands a tall mirror with a tarp thrown over it. Time and light: night, lamplight.
+{maps:Prison Basement}
 
 THE MOMENT
 Brand, still in his filthy prison clothes, stands with his arms spread as his power armor closes around him: the plates swing up and lock onto his legs, chest and arms one after another, the gauntlets snap shut over his hands, his holy symbol glowing at the center of the chestplate, the helmet just folding into place. Sazed, beside him, has just picked up his book, Whispers of Wind and Grass, and his Oath Watcher pendant, and pauses to watch. Lirael leans in the doorway with a set of thieves' tools in hand, grinning at the spectacle.

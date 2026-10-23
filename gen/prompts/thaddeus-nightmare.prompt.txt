@@ -7,6 +7,7 @@ FRAMING
 SETTING
 {setting:moonwatch/crew-cabins}
 In this moment: Brand's cabin below deck, cluttered with tools, gears and blueprints, his power armor standing empty in the corner with its holy core dimmed. The ship is flying through the night from Starilaskur to Ardev. Time and light: three in the morning, dark, a single lamp turned low.
+{maps:Below Deck Moonwatch}
 
 THE MOMENT
 Brand lies asleep in his bunk, out of his armor, twisting in the sheets, sweating, his face clenched. His nightmare fills the cabin around him, as real as the furniture: at the foot of the bunk stands Sorenson, a one-man band, mandolin in hand, bass drum and cymbal on his back, grinning and singing at the top of his lungs that Thaddeus is coming to town. Behind Sorenson, out of the darkness at the back of the cabin, looms Thaddeus D'Cannith, the House Cannith heir who framed Brand and sent him to prison for forty years, much larger than life, cold and smiling, looking down at the sleeping dwarf.

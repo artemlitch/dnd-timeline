@@ -8,6 +8,7 @@ SETTING
 {setting:shuriken-fighters}
 {setting:hobbstweedle}
 In this moment: two Shuriken fighters twist around each other high over Hobbstweedle, the village and its airfield small below. Time and light: morning.
+{maps:Dogfight}
 
 THE MOMENT
 Lirael, a beginner, has just pulled off a spin while keeping his speed, and he shimmers faintly with the haste spell on him. Coming out of the spin he fires: a burst of paintballs smacks into Screech's fighter, and Screech's cockpit canopy is splattered all over with bright paint, Screech visible behind the smeared glass with his mouth hanging open in shock. One earlier paint splat, Screech's only hit, is on the side of Lirael's fighter. Lirael, in smoked goggles and black flight gear, is grinning in his cockpit.
