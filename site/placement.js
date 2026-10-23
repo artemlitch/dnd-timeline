@@ -63,6 +63,16 @@
     return best;
   }
 
-  const api = { prepare, place, nearestShown, ROWS: 2 };
+  // the next full-size card after `from` in date order (dir 1) or before it (dir -1), or null
+  function stepShown(events, shown, from, dir) {
+    let best = null;
+    for (const e of events) {
+      if (!shown.has(e.id) || (e.di - from.di) * dir <= 0) continue;
+      if (!best || Math.abs(e.di - from.di) < Math.abs(best.di - from.di)) best = e;
+    }
+    return best;
+  }
+
+  const api = { prepare, place, nearestShown, stepShown, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);

@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place, nearestShown, ROWS } = require('../site/placement.js');
+const { prepare, place, nearestShown, stepShown, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
@@ -76,4 +76,23 @@ test('the tile nearest a day is the closest full-size card, not a closer faded o
 
 test('with no full-size cards there is no nearest tile', () => {
   assert.equal(nearestShown(events, new Map(), events[0].di), null);
+});
+
+test('stepping moves to the next full-size card in date order, skipping faded ones', () => {
+  const shown = shownAt(0.5), list = events.filter(e => shown.has(e.id));
+  const from = list[3], next = stepShown(events, shown, from, 1), prev = stepShown(events, shown, from, -1);
+  assert.equal(next.id, list[4].id);
+  assert.equal(prev.id, list[2].id);
+});
+
+test('stepping from a faded event goes to the nearest full-size card in that direction', () => {
+  const shown = shownAt(0.5);
+  const faded = events.find(e => !shown.has(e.id) && events.some(f => f.di > e.di && shown.has(f.id)));
+  const next = stepShown(events, shown, faded, 1);
+  assert.equal(next.id, events.find(f => f.di > faded.di && shown.has(f.id)).id);
+});
+
+test('stepping past the last full-size card gives nothing', () => {
+  const shown = shownAt(0.5), list = events.filter(e => shown.has(e.id));
+  assert.equal(stepShown(events, shown, list[list.length - 1], 1), null);
 });

@@ -609,12 +609,13 @@ lb.onclick=closeLightbox;
 drawer.querySelector('.hd').addEventListener('click',e=>{if(e.target.closest('#close'))return;const img=$('#dImg img');if(img&&active)openLightbox(img.src,active.title);});
 function closeDrawer(){closeLightbox();drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true');active=null;setEventParam(null);schedule(true);}
 function stepEvent(dir){const i=active?EV.indexOf(active):(dir>0?-1:EV.length);let j=i+dir;while(EV[j]&&!visible(EV[j]))j+=dir;if(EV[j])openEvent(EV[j]);}
-// keyboard: with nothing open, open the full-size tile nearest the middle of the screen; otherwise step. Either way
-// the event is scrolled to the middle of the timeline left of the sidebar
+// keyboard: with nothing open, open the full-size tile nearest the middle of the screen; otherwise step to the next
+// full-size tile. Either way the event is scrolled to the middle of the timeline left of the sidebar
 function keyStep(dir){
-  if(active)stepEvent(dir);
-  else{const e=Placement.nearestShown(shownNow.cand,shownNow.placed,off+vw()/2/P);if(!e)return stepEvent(dir);openEvent(e,false);}
-  if(active)panTo(active.di+(vw()>760?220:0)/P);
+  const {cand,placed}=shownNow;
+  const e=active?Placement.stepShown(cand,placed,active,dir):Placement.nearestShown(cand,placed,off+vw()/2/P);
+  if(!e)return;
+  openEvent(e,false);panTo(e.di+(vw()>760?220:0)/P);
 }
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 
