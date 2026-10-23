@@ -56,6 +56,13 @@
     return sim.layouts[s];
   }
 
-  const api = { prepare, place, ROWS: 2 };
+  // the full-size card closest to a day, or null when none is shown
+  function nearestShown(events, shown, di) {
+    let best = null;
+    for (const e of events) if (shown.has(e.id) && (!best || Math.abs(e.di - di) < Math.abs(best.di - di))) best = e;
+    return best;
+  }
+
+  const api = { prepare, place, nearestShown, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);

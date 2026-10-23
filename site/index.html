@@ -456,6 +456,7 @@ function clusterLabel(c){const a=fromDay(c[0].di),b=fromDay(c[c.length-1].di);
   if(a.year===b.year)return `${a.year} YK`;return `${a.year}–${b.year} YK`;}
 // the same list object is handed to Placement while the search is unchanged, so its zoom-in layout is computed once
 const candMemo={query:null,ev:null,list:null};
+const shownNow={cand:[],placed:new Map()};
 function layoutEvents(){
   const W=vw(),H=SZ.h,mobile=W<760;
   layoutOff=off;layoutP=P;layoutW=W;layoutH=H;world.style.transform='';
@@ -467,7 +468,7 @@ function layoutEvents(){
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
   // placement runs over every event, not just the ones on screen, so panning never reshuffles rows
   if(candMemo.query!==query||candMemo.ev!==EV){candMemo.query=query;candMemo.ev=EV;candMemo.list=EV.filter(visible);}
-  const cand=candMemo.list,placed=Placement.place(cand,rows,(w+10)/P);
+  const cand=candMemo.list,placed=Placement.place(cand,rows,(w+10)/P);shownNow.cand=cand;shownNow.placed=placed;
   const rowX=Array.from({length:rows},()=>[]);for(const e of cand)if(placed.has(e.id))rowX[placed.get(e.id)].push(e.di);
   // a faded card sits in the row with the most room around it, top row on ties
   const ghostRow=e=>{let best=0,room=-1;for(let r=0;r<rows;r++){const m=Math.min(Infinity,...rowX[r].map(d=>Math.abs(d-e.di)));if(m>room){room=m;best=r;}}return best;};
@@ -509,7 +510,7 @@ function frame(){raf=0;if(!CAL)return;
   if(relayoutPending||P!==layoutP||vw()!==layoutW||SZ.h!==layoutH||Math.abs(off-layoutOff)*P>vw()*.45){relayoutPending=false;layoutEvents();}
   else world.style.transform=`translateX(${(layoutOff-off)*P}px)`;
   layoutEras();drawRuler();updateMini();updateZoomUI();
-  if(!reduced){const px=off*P;$('#gearA').style.transform=`rotate(${px/140}deg)`;$('#gearB').style.transform=`rotate(${-px/90}deg)`;}
+  if(!reduced){const px=off*P;$('#gearA').style.transform=`rotate(${px/1400}deg)`;$('#gearB').style.transform=`rotate(${-px/900}deg)`;}
 }
 function updateZoomUI(){const t=Math.log(P/ZMIN)/Math.log(ZMAX/ZMIN);$('#zoom').value=Math.round(t*1000);
   let best='',bd=1e9;for(const k in PRESETS){const d=Math.abs(Math.log(PRESETS[k]/P));if(d<bd){bd=d;best=k;}}
@@ -562,10 +563,10 @@ function bind(){
   stage.addEventListener('click',e=>{if(dragged){e.stopPropagation();e.preventDefault();dragged=false;}},true);
   // keyboard
   document.addEventListener('keydown',e=>{if(e.target.tagName==='INPUT')return;const k=e.key;
-    if(k==='ArrowRight'||k==='ArrowDown')stepEvent(1);else if(k==='ArrowLeft'||k==='ArrowUp')stepEvent(-1);
+    if(k==='ArrowRight'||k==='ArrowDown')keyStep(1);else if(k==='ArrowLeft'||k==='ArrowUp')keyStep(-1);
     else if(k==='+'||k==='='){zoomAt(P*1.5,vw()/2);}else if(k==='-'||k==='_'){zoomAt(P/1.5,vw()/2);}
     else if(k==='Escape'){if(lb.classList.contains('open'))closeLightbox();else closeDrawer();}
-    else if(k==='j'||k==='J')stepEvent(1);else if(k==='k'||k==='K')stepEvent(-1);else return;e.preventDefault();});
+    else if(k==='j'||k==='J')keyStep(1);else if(k==='k'||k==='K')keyStep(-1);else return;e.preventDefault();});
   // minimap
   let mdrag=false;const mjump=e=>{const r=mini.getBoundingClientRect();setCenter(miniToDay(e.clientX-r.left,r.width));schedule(false);};
   mini.addEventListener('pointerdown',e=>{mdrag=true;mini.setPointerCapture(e.pointerId);mjump(e);});
@@ -608,6 +609,13 @@ lb.onclick=closeLightbox;
 drawer.querySelector('.hd').addEventListener('click',e=>{if(e.target.closest('#close'))return;const img=$('#dImg img');if(img&&active)openLightbox(img.src,active.title);});
 function closeDrawer(){closeLightbox();drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true');active=null;setEventParam(null);schedule(true);}
 function stepEvent(dir){const i=active?EV.indexOf(active):(dir>0?-1:EV.length);let j=i+dir;while(EV[j]&&!visible(EV[j]))j+=dir;if(EV[j])openEvent(EV[j]);}
+// keyboard: with nothing open, open the full-size tile nearest the middle of the screen; otherwise step. Either way
+// the event is scrolled to the middle of the timeline left of the sidebar
+function keyStep(dir){
+  if(active)stepEvent(dir);
+  else{const e=Placement.nearestShown(shownNow.cand,shownNow.placed,off+vw()/2/P);if(!e)return stepEvent(dir);openEvent(e,false);}
+  if(active)panTo(active.di+(vw()>760?220:0)/P);
+}
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 
 if(document.fonts&&document.fonts.ready)document.fonts.ready.then(()=>schedule(false));

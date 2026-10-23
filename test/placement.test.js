@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place, ROWS } = require('../site/placement.js');
+const { prepare, place, nearestShown, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
@@ -63,4 +63,17 @@ test('every row number is below the row count', () => {
 
 test('everything shows once the zoom spreads every event a card apart', () => {
   assert.equal(shownAt(zooms[zooms.length - 1]).size, events.length);
+});
+
+test('the tile nearest a day is the closest full-size card, not a closer faded one', () => {
+  const p = 0.5, shown = shownAt(p);
+  const faded = events.find(e => !shown.has(e.id));
+  const picked = nearestShown(events, shown, faded.di);
+  assert.ok(shown.has(picked.id));
+  const best = Math.min(...events.filter(e => shown.has(e.id)).map(e => Math.abs(e.di - faded.di)));
+  assert.equal(Math.abs(picked.di - faded.di), best);
+});
+
+test('with no full-size cards there is no nearest tile', () => {
+  assert.equal(nearestShown(events, new Map(), events[0].di), null);
 });
