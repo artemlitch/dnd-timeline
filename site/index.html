@@ -284,6 +284,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 <div id="grain"></div>
 <figure id="lightbox" role="dialog" aria-label="Enlarged image"><img alt=""><figcaption></figcaption></figure>
 
+<script src="placement.js"></script>
 <script>
 // data comes from timeline.json, unless this browser has edits saved from /edit_timeline (?src=published skips them)
 (function(){
@@ -334,10 +335,7 @@ function fmtLong(e){return `${wName(e.day)}, ${mName(e.month)} ${e.day}, ${e.yea
 function init(){
   if(window.TIMELINE_LOCAL)$('#localTag').hidden=false;
   DATA=window.TIMELINE;CAL=DATA.calendar;DPM=CAL.daysPerMonth;DPY=DPM*CAL.monthNames.length;
-  EV=DATA.events.map(e=>({...e,di:dayIndex(e.year,e.month,e.day,e.hour||0)})).sort((a,b)=>a.di-b.di);
-  // events sharing a day and hour are spread across that hour in array order, so zooming in can always separate them
-  for(let i=0;i<EV.length;){let j=i;while(j<EV.length&&EV[j].di===EV[i].di)j++;for(let k=i;k<j;k++)EV[k].di+=(k-i)/(j-i)/24;i=j;}
-  EV.forEach((e,i)=>{e.idx=i;});
+  EV=Placement.prepare(DATA);
   // max zoom is whatever lets the closest pair of events in one row show as two full cards
   let minGap=1;const prevIn={};for(const e of EV){const k=e.idx%ROWS;if(prevIn[k]!==undefined)minGap=Math.min(minGap,Math.max(e.di-prevIn[k],1/24/60));prevIn[k]=e.di;}
   ZMAX=Math.max(2400,320/minGap*1.2);
@@ -432,6 +430,7 @@ function clusterLabel(c){const a=fromDay(c[0].di),b=fromDay(c[c.length-1].di);
   if(a.year===b.year&&a.month===b.month&&a.day===b.day)return `${mName(a.month)} ${a.day}`;
   if(a.year===b.year&&a.month===b.month)return `${mName(a.month)} ${a.day}–${b.day}`;
   if(a.year===b.year)return `${a.year} YK`;return `${a.year}–${b.year} YK`;}
+const spanMemo={key:'',spans:null};
 function layoutEvents(){
   const W=vw(),H=SZ.h,mobile=W<760;
   layoutOff=off;layoutP=P;layoutW=W;layoutH=H;world.style.transform='';
@@ -441,23 +440,11 @@ function layoutEvents(){
   const margin=W*.5,lo=off-margin/P,hi=off+(W+margin)/P;
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
-  // events are picked by rank (major first, then every 2nd, 4th, 8th event so the picks spread evenly) and kept
-  // while no card-width window holds more than `rows` of them, so lower ranks fade first when space runs out. The
-  // kept ones then take rows in date order, each the highest row whose last card it clears. Placement runs over
-  // every event, not just the ones on screen, so panning never reshuffles rows
-  const need=(w+10)/P,cand=EV.filter(visible);
-  const score=e=>{let n=e.idx+1,r=0;while(!(n&1)){n>>=1;r++;}return (e.major?64:0)+r;};
-  const keptDi=[],kept=new Set();
-  for(const e of [...cand].sort((a,b)=>score(b)-score(a)||a.idx-b.idx)){
-    let p=0,q=keptDi.length;while(p<q){const m=(p+q)>>1;if(keptDi[m]<e.di)p=m+1;else q=m;}
-    const win=[...keptDi.slice(Math.max(0,p-rows),p),e.di,...keptDi.slice(p,p+rows)];
-    let ok=true;for(let i=0;i+rows<win.length;i++)if(win[i+rows]-win[i]<need){ok=false;break;}
-    if(ok){keptDi.splice(p,0,e.di);kept.add(e.id);}
-  }
-  const rowX=Array.from({length:rows},()=>[]),placed=new Map();
-  for(const e of cand){if(!kept.has(e.id))continue;
-    for(let r=0;r<rows;r++){const last=rowX[r][rowX[r].length-1];if(last===undefined||e.di-last>=need){rowX[r].push(e.di);placed.set(e.id,r);break;}}
-  }
+  // placement runs over every event, not just the ones on screen, so panning never reshuffles rows
+  const cand=EV.filter(visible),spanKey=rows+'|'+query;
+  if(spanKey!==spanMemo.key){spanMemo.key=spanKey;spanMemo.spans=Placement.spans(cand,rows);}
+  const placed=Placement.place(cand,rows,(w+10)/P,spanMemo.spans);
+  const rowX=Array.from({length:rows},()=>[]);for(const e of cand)if(placed.has(e.id))rowX[placed.get(e.id)].push(e.di);
   // a faded card sits in the row with the most room around it, top row on ties
   const ghostRow=e=>{let best=0,room=-1;for(let r=0;r<rows;r++){const m=Math.min(Infinity,...rowX[r].map(d=>Math.abs(d-e.di)));if(m>room){room=m;best=r;}}return best;};
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
