@@ -1,0 +1,25 @@
+{tone}
+This scene is a prison riot being turned on itself by one clever liar.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a cellblock corridor in the middle of a riot, cell doors hanging open, smoke from small fires and debris everywhere. Time and light: night, torchlight and firelight.
+{maps:Prison Level 2}
+
+THE MOMENT
+Lirael stands at a junction in the corridor, pointing both ways at once, completely sincere. On one side a squad of rioting guards, clubs raised, is already charging off down the left passage to rescue Thaldamir. On the other side a mob of rioting prisoners with improvised weapons is stampeding down the right passage to rescue Rex. Behind Lirael, Brand and Sazed are slipping past along the wall, keeping low, trying not to laugh.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- {cast:Sazed} Here: in drab prison fatigues.
+- Rex's portrait is attached for reference only; Rex is not in this moment. Do not draw him.
+- Thaldamir's portrait is attached for reference only; Thaldamir is not in this moment. Do not draw him.
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs.
+- The prisoners: rioting inmates in drab prison fatigues with chair legs, pipes and shivs.
+
+REFERENCES
+{references}

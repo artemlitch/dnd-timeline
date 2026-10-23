@@ -23,6 +23,8 @@ PORTRAITS = json.loads((ROOT / "gen/regen/portraits.json").read_text())
 NOTES = json.loads((ROOT / "gen/world/cast_notes.json").read_text())
 HEIGHTS = json.loads((ROOT / "gen/world/heights.json").read_text())
 STYLE = (ROOT / "gen/world/tone.txt").read_text().split("Style:", 1)[1].split("\n", 1)[0].strip()
+# a reference is one still figure on plain grey; the style's in-the-action camera would add a crowd and blur behind it
+STYLE = re.sub(r"A dynamic, tilted camera[^.]*\.\s*", "", STYLE)
 
 
 def slug(name):

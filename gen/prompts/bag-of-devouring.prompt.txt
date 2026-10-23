@@ -1,0 +1,22 @@
+{tone}
+This scene is a magic bag turning out to be a monster.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/grails-cellar}
+In this moment: the necromancer's black-and-purple cellar lair, cluttered with necromantic items. Time and light: lamplight.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Sazed was putting a framed family painting into the plain cloth sack they thought was a bag of holding, and the bag has turned on him: wet, toothed tentacles have burst out of its mouth, wrapped around his arm and shoulders and are dragging him in head first, the painting half swallowed with him. He has braced one foot against the floor and is straining back with all his strength. Lirael and Brand, in his power armor, lunge to grab him.
+
+CAST
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand}
+- Chester's portrait is attached for reference only; Chester is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

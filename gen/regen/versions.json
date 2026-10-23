@@ -9,6 +9,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/train-to-darkwood.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/train-to-darkwood.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Leff",
+    "Rolick"
+   ],
+   "refs": [
+    "Character lineup",
+    "Dead Woods map"
+   ],
+   "cost": 0.034629,
+   "at": "2026-10-23T15:29:56",
+   "draft": "gen/drafts/train-to-darkwood/20261023-152956-601000.jpg"
   }
  ],
  "fresh-fish-at-the-gates": [
@@ -253,6 +273,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/lirael-plays-both-sides.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/lirael-plays-both-sides.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 2 map"
+   ],
+   "cost": 0.034621,
+   "at": "2026-10-23T15:29:55",
+   "draft": "gen/drafts/lirael-plays-both-sides/20261023-152955-871000.jpg"
   }
  ],
  "talking-past-the-barricade": [
@@ -848,6 +887,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/bag-of-devouring.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/bag-of-devouring.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Lirael",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03458425,
+   "at": "2026-10-23T15:29:54",
+   "draft": "gen/drafts/bag-of-devouring/20261023-152954-829000.jpg"
   }
  ],
  "gelf-in-the-closet": [
@@ -2538,6 +2596,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/broken-portal.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/broken-portal.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Broken Portal map"
+   ],
+   "cost": 0.0345455,
+   "at": "2026-10-23T15:29:54",
+   "draft": "gen/drafts/broken-portal/20261023-152954-955000.jpg"
   }
  ],
  "whiskey-and-a-napkin": [

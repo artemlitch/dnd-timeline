@@ -1,0 +1,21 @@
+{tone}
+This scene is the discovery of a shattered portal at the end of a forest path.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:demon-village/broken-circle}
+Time and light: day.
+{maps:Broken Portal}
+
+THE MOMENT
+At the end of the path out of the demon village lies a great teleportation circle, cracked and blasted apart, its stone slabs heaved up and split as if by a tremendous force. Its surface is carved all over with strange markings unlike any circle the party knows, still faintly glowing in places. Lirael kneels at its edge, tracing the strange runes with a finger. Brand, in his power armor, stands on a broken slab, studying the scorch marks. Sazed looks down into the deepest crack, uneasy.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

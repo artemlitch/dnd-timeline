@@ -781,7 +781,7 @@
     },
     {
       "id": "train-to-darkwood",
-      "img": "img/train-to-darkwood.jpg",
+      "img": "img/train-to-darkwood.v2.jpg",
       "title": "Waking on the Prison Train",
       "year": 993,
       "month": 1,
@@ -802,7 +802,7 @@
         "Tauren",
         "Rolick"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "fresh-fish-at-the-gates",
@@ -1266,8 +1266,8 @@
         "Thaldamir",
         "DarkWood"
       ],
-      "img": "img/lirael-plays-both-sides.jpg",
-      "img_version": 1
+      "img": "img/lirael-plays-both-sides.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "talking-past-the-barricade",
@@ -2200,7 +2200,7 @@
     },
     {
       "id": "bag-of-devouring",
-      "img": "img/bag-of-devouring.jpg",
+      "img": "img/bag-of-devouring.v2.jpg",
       "title": "The Bag of Devouring",
       "year": 993,
       "month": 1,
@@ -2219,7 +2219,7 @@
         "Chester",
         "Mara'bor"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "gelf-in-the-closet",
@@ -4595,7 +4595,7 @@
       "session": 12,
       "kind": "revelation",
       "major": true,
-      "img": "img/broken-portal.jpg",
+      "img": "img/broken-portal.v2.jpg",
       "summary": "A path from the village ends at a ruined teleportation circle covered in markings unlike anything the party has seen.",
       "detail": "Following a path out of the village, the party finds a broken teleportation circle. It is covered in markings that match no circle they know. It leads to a plane they cannot identify; they guess Khyber, since demons come from there and nobody would need a portal to get here from the Demon Wastes. This was a powerful portal. Whatever destroyed it took a tremendous amount of force.",
       "tags": [
@@ -4604,7 +4604,7 @@
         "Khyber",
         "Demons"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "whiskey-and-a-napkin",

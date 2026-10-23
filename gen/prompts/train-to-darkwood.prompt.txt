@@ -1,0 +1,24 @@
+{tone}
+This scene is three prisoners blinking awake as a prison train's carriage door is thrown open.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/prisoner-carriages}
+In this moment: the inside of a sealed, windowless prisoner carriage on the rail line, its heavy door just thrown open. Time and light: a blinding shaft of daylight floods in from the open door into the dark carriage.
+{maps:Dead Woods}
+
+THE MOMENT
+The train has lurched to a stop and the carriage door has just slid open. Blinding light floods in on the prisoners chained to the benches, all of them squinting and throwing up shackled hands against the glare. Lirael and Sazed sit side by side, waking, with the huge tattooed half-orc Leff and the wiry Rolick chained beside them. Silhouetted in the doorway, armed guards in Brelish uniforms wait to haul them out.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues, shackled.
+- {cast:Sazed} Here: in drab prison fatigues, shackled.
+- {cast:Leff} Here: in drab prison fatigues, shackled.
+- {cast:Rolick} Here: in drab prison fatigues, shackled.
+- Brand's portrait is attached for reference only; Brand is in the other carriage, not in this moment. Do not draw him.
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs, seen as silhouettes against the light.
+
+REFERENCES
+{references}
