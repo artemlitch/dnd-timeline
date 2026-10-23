@@ -944,8 +944,8 @@
         "Sentinels",
         "DarkWood"
       ],
-      "img": "img/halien-talks-with-elric.v3.jpg",
-      "img_version": 3
+      "img": "img/halien-talks-with-elric.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "lirael-plays-cromwell",
@@ -1154,8 +1154,8 @@
         "Faird",
         "Elarian"
       ],
-      "img": "img/sorenson-gets-the-tuba.jpg",
-      "img_version": 1
+      "img": "img/sorenson-gets-the-tuba.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "saving-elric-galen",
@@ -1176,8 +1176,8 @@
         "Byll",
         "DarkWood"
       ],
-      "img": "img/saving-elric-galen.jpg",
-      "img_version": 2
+      "img": "img/saving-elric-galen.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "zombie-bloodworth-in-the-pit",
@@ -1288,8 +1288,8 @@
         "Elric",
         "DarkWood"
       ],
-      "img": "img/talking-past-the-barricade.jpg",
-      "img_version": 2
+      "img": "img/talking-past-the-barricade.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "wardens-secret",
@@ -1706,8 +1706,8 @@
         "Rex",
         "Rolick"
       ],
-      "img": "img/mourning-the-fallen.jpg",
-      "img_version": 1
+      "img": "img/mourning-the-fallen.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "down-from-the-roof",
@@ -1916,8 +1916,8 @@
         "Kingsblade",
         "Mara'bor"
       ],
-      "img": "img/halien-stands-watch.jpg",
-      "img_version": 2
+      "img": "img/halien-stands-watch.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "wild-cart-ride",
@@ -1938,8 +1938,8 @@
         "Mara'bor",
         "Brand"
       ],
-      "img": "img/wild-cart-ride.jpg",
-      "img_version": 2
+      "img": "img/wild-cart-ride.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "elrics-supper",
@@ -1961,12 +1961,12 @@
         "Lirael",
         "Mara'bor"
       ],
-      "img": "img/elrics-supper.jpg",
-      "img_version": 2
+      "img": "img/elrics-supper.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "elric-reveals-sentinels",
-      "img": "img/elric-reveals-sentinels.v3.jpg",
+      "img": "img/elric-reveals-sentinels.v4.jpg",
       "title": "Elric Reveals the Sentinels",
       "year": 993,
       "month": 1,
@@ -1986,7 +1986,7 @@
         "Sentinels",
         "DarkWood"
       ],
-      "img_version": 3
+      "img_version": 4
     },
     {
       "id": "brand-and-the-old-king",
@@ -2052,8 +2052,8 @@
         "Lirael",
         "Mara'bor"
       ],
-      "img": "img/elric-throws-a-spoon.jpg",
-      "img_version": 2
+      "img": "img/elric-throws-a-spoon.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "verona-sharpes-tea",
@@ -2242,8 +2242,8 @@
         "Joerick",
         "Mara'bor"
       ],
-      "img": "img/gelf-in-the-closet.v3.jpg",
-      "img_version": 3
+      "img": "img/gelf-in-the-closet.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "gelf-tells-all",
@@ -2267,12 +2267,12 @@
         "Blazehelm",
         "Grimdells"
       ],
-      "img": "img/gelf-tells-all.v3.jpg",
-      "img_version": 3
+      "img": "img/gelf-tells-all.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "rotten-potatoes",
-      "img": "img/rotten-potatoes.v3.jpg",
+      "img": "img/rotten-potatoes.v4.jpg",
       "title": "Rotten Potatoes",
       "year": 993,
       "month": 1,
@@ -2293,7 +2293,7 @@
         "Elric",
         "Mara'bor"
       ],
-      "img_version": 3
+      "img_version": 4
     },
     {
       "id": "grails-brother-arrives",
@@ -2454,12 +2454,12 @@
         "Elric",
         "Kingsblade"
       ],
-      "img": "img/paxon-in-the-clearing.jpg",
-      "img_version": 2
+      "img": "img/paxon-in-the-clearing.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "the-kingsblade",
-      "img": "img/the-kingsblade.v3.jpg",
+      "img": "img/the-kingsblade.v4.jpg",
       "title": "The Kingsblade Revealed",
       "year": 993,
       "month": 1,
@@ -2479,7 +2479,7 @@
         "Gelf",
         "Elric"
       ],
-      "img_version": 3
+      "img_version": 4
     },
     {
       "id": "the-sentinels-explained",
@@ -2502,8 +2502,8 @@
         "King Ir'Wynarn",
         "Kingsblade"
       ],
-      "img": "img/the-sentinels-explained.jpg",
-      "img_version": 2
+      "img": "img/the-sentinels-explained.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "prison-was-a-sentinel-trial",
@@ -2526,8 +2526,8 @@
         "DarkWood Prison",
         "Sentinels"
       ],
-      "img": "img/prison-was-a-sentinel-trial.jpg",
-      "img_version": 2
+      "img": "img/prison-was-a-sentinel-trial.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "grimdells-and-house-thuranni",
@@ -2550,12 +2550,12 @@
         "Blazehelm",
         "Aundair"
       ],
-      "img": "img/grimdells-and-house-thuranni.jpg",
-      "img_version": 2
+      "img": "img/grimdells-and-house-thuranni.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "blazehelms-offers",
-      "img": "img/blazehelms-offers.jpg",
+      "img": "img/blazehelms-offers.v3.jpg",
       "title": "Blazehelm's Three Offers",
       "year": 993,
       "month": 1,
@@ -2576,7 +2576,7 @@
         "Shadow Mirror",
         "Silver Flame"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "maiden-voyage-feast",
@@ -2599,8 +2599,8 @@
         "Lirael",
         "Gnomes"
       ],
-      "img": "img/maiden-voyage-feast.jpg",
-      "img_version": 1
+      "img": "img/maiden-voyage-feast.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "tour-of-the-kingsblade",
@@ -2623,8 +2623,8 @@
         "Shuriken",
         "Brand"
       ],
-      "img": "img/tour-of-the-kingsblade.jpg",
-      "img_version": 2
+      "img": "img/tour-of-the-kingsblade.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "mission-against-killian-gavrin",
@@ -2648,8 +2648,8 @@
         "Broadaxe",
         "Aundair"
       ],
-      "img": "img/mission-against-killian-gavrin.jpg",
-      "img_version": 2
+      "img": "img/mission-against-killian-gavrin.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "sazed-confides-in-nedira",
@@ -2787,8 +2787,8 @@
         "Invisibility Potion",
         "Kingsblade"
       ],
-      "img": "img/blazehelms-whiskey.jpg",
-      "img_version": 2
+      "img": "img/blazehelms-whiskey.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "the-dying-aundairian",
@@ -2975,8 +2975,8 @@
         "Brand",
         "Waterfall"
       ],
-      "img": "img/crossing-the-river.jpg",
-      "img_version": 2
+      "img": "img/crossing-the-river.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "sazed-rides-the-rotor",
@@ -2999,12 +2999,12 @@
         "Invisibility Potion",
         "Harpies"
       ],
-      "img": "img/sazed-rides-the-rotor.jpg",
-      "img_version": 2
+      "img": "img/sazed-rides-the-rotor.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "broadsword-stolen",
-      "img": "img/broadsword-stolen.jpg",
+      "img": "img/broadsword-stolen.v3.jpg",
       "title": "Leap onto the Broadsword",
       "year": 993,
       "month": 1,
@@ -3025,7 +3025,7 @@
         "Waterfall",
         "Aundair"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "broadaxe-explodes",
@@ -3095,8 +3095,8 @@
         "Broadsword",
         "Aundair"
       ],
-      "img": "img/pilot-overboard.jpg",
-      "img_version": 2
+      "img": "img/pilot-overboard.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "hobgoblin-warlord-below-decks",
@@ -3119,8 +3119,8 @@
         "Sazed",
         "Lirael"
       ],
-      "img": "img/hobgoblin-warlord-below-decks.jpg",
-      "img_version": 2
+      "img": "img/hobgoblin-warlord-below-decks.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "kunai-to-the-rescue",
@@ -3168,8 +3168,8 @@
         "Book of Fire",
         "Hobgoblins"
       ],
-      "img": "img/spoils-of-the-broadsword.jpg",
-      "img_version": 2
+      "img": "img/spoils-of-the-broadsword.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "second-prison-erupts",
@@ -3217,8 +3217,8 @@
         "Elric",
         "House Thuranni"
       ],
-      "img": "img/three-weeks-of-training.jpg",
-      "img_version": 2
+      "img": "img/three-weeks-of-training.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "cromwells-coin-game",
@@ -3242,8 +3242,8 @@
         "Erald",
         "Chester"
       ],
-      "img": "img/cromwells-coin-game.jpg",
-      "img_version": 2
+      "img": "img/cromwells-coin-game.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "wroat-and-the-party",
@@ -3312,8 +3312,8 @@
         "Bloodworth",
         "Hobbstweedle"
       ],
-      "img": "img/blazehelms-mansion-feast.jpg",
-      "img_version": 2
+      "img": "img/blazehelms-mansion-feast.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "how-blazehelm-knows-lirael",
@@ -3336,8 +3336,8 @@
         "Magic Society",
         "Shadow Mirror"
       ],
-      "img": "img/how-blazehelm-knows-lirael.jpg",
-      "img_version": 2
+      "img": "img/how-blazehelm-knows-lirael.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "how-blazehelm-knows-brand",
@@ -3360,8 +3360,8 @@
         "King Ir'Wynarn",
         "Treason"
       ],
-      "img": "img/how-blazehelm-knows-brand.jpg",
-      "img_version": 2
+      "img": "img/how-blazehelm-knows-brand.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "how-blazehelm-knows-sazed",
@@ -3384,8 +3384,8 @@
         "Loreguards",
         "Shifters"
       ],
-      "img": "img/how-blazehelm-knows-sazed.jpg",
-      "img_version": 2
+      "img": "img/how-blazehelm-knows-sazed.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "the-beholder-illusion",
@@ -3432,8 +3432,8 @@
         "Gelf",
         "Elric"
       ],
-      "img": "img/the-quiet-room.v3.jpg",
-      "img_version": 3
+      "img": "img/the-quiet-room.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "music-room-and-xendrik",
@@ -3479,8 +3479,8 @@
         "Smildar Paxon",
         "Gnomes"
       ],
-      "img": "img/gnome-pranks.jpg",
-      "img_version": 1
+      "img": "img/gnome-pranks.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "quasit-in-the-closet",
@@ -3526,8 +3526,8 @@
         "Feldor Windrake",
         "Music"
       ],
-      "img": "img/sorensons-song.jpg",
-      "img_version": 1
+      "img": "img/sorensons-song.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-and-smarmy-joe",
@@ -3739,8 +3739,8 @@
         "Brand",
         "Sazed"
       ],
-      "img": "img/paxons-room-and-the-teleporter.jpg",
-      "img_version": 1
+      "img": "img/paxons-room-and-the-teleporter.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "flatulence-for-paxon",
@@ -3762,8 +3762,8 @@
         "Gnomes",
         "Potion of Flatulence"
       ],
-      "img": "img/flatulence-for-paxon.jpg",
-      "img_version": 1
+      "img": "img/flatulence-for-paxon.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "valhalla-eriksson-ball-bearings",
@@ -3856,8 +3856,8 @@
         "Lirael",
         "Halfling Pilots"
       ],
-      "img": "img/halfling-card-game.jpg",
-      "img_version": 2
+      "img": "img/halfling-card-game.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "blazehelm-and-the-sentinels-band",
@@ -3879,8 +3879,8 @@
         "Brand",
         "Music"
       ],
-      "img": "img/blazehelm-and-the-sentinels-band.jpg",
-      "img_version": 2
+      "img": "img/blazehelm-and-the-sentinels-band.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "flooded-house",
@@ -4114,8 +4114,8 @@
         "Dyll Strickland",
         "Training"
       ],
-      "img": "img/the-five-mile-run.jpg",
-      "img_version": 2
+      "img": "img/the-five-mile-run.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "obstacle-course-begins",
@@ -4253,8 +4253,8 @@
         "Tauren",
         "Dyll Strickland"
       ],
-      "img": "img/brand-and-the-npcs-finish.jpg",
-      "img_version": 1
+      "img": "img/brand-and-the-npcs-finish.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "gnome-cleaning-argument",
@@ -4438,8 +4438,8 @@
         "Deckard D'Thuranni",
         "Pillar of Dawn"
       ],
-      "img": "img/gelfs-requisitions.v3.jpg",
-      "img_version": 3
+      "img": "img/gelfs-requisitions.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "invisible-over-the-demon-village",
@@ -4626,8 +4626,8 @@
         "Blazehelm",
         "Portal"
       ],
-      "img": "img/whiskey-and-a-napkin.v3.jpg",
-      "img_version": 3
+      "img": "img/whiskey-and-a-napkin.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "paxon-nerds-out",
@@ -4650,8 +4650,8 @@
         "Brand",
         "Sazed"
       ],
-      "img": "img/paxon-nerds-out.jpg",
-      "img_version": 2
+      "img": "img/paxon-nerds-out.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "coffee-geyser-bean",
@@ -4695,8 +4695,8 @@
         "Paxon",
         "High Marshalls"
       ],
-      "img": "img/erald-fart-debrief.jpg",
-      "img_version": 1
+      "img": "img/erald-fart-debrief.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "morkoth-in-the-workshop",
@@ -4865,8 +4865,8 @@
         "Gelf",
         "Elric"
       ],
-      "img": "img/stables-interrogation.v3.jpg",
-      "img_version": 3
+      "img": "img/stables-interrogation.v5.jpg",
+      "img_version": 5
     },
     {
       "id": "breakfast-at-gelfs",
@@ -4889,8 +4889,8 @@
         "Lirael",
         "Sorenson"
       ],
-      "img": "img/breakfast-at-gelfs.v3.jpg",
-      "img_version": 3
+      "img": "img/breakfast-at-gelfs.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "code-orange",
@@ -4913,8 +4913,8 @@
         "Eloria",
         "Paxon"
       ],
-      "img": "img/code-orange.v3.jpg",
-      "img_version": 3
+      "img": "img/code-orange.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "lug-murzog-revived",
@@ -4938,8 +4938,8 @@
         "Eloria",
         "Cromwell"
       ],
-      "img": "img/lug-murzog-revived.jpg",
-      "img_version": 1
+      "img": "img/lug-murzog-revived.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "dreamweaver-speaks",
@@ -4953,7 +4953,7 @@
       "session": 13,
       "kind": "revelation",
       "major": true,
-      "img": "img/dreamweaver-speaks.jpg",
+      "img": "img/dreamweaver-speaks.v3.jpg",
       "summary": "Behind an illusory two-way mirror, the interrogation collapses when the thing inside Sheldor and Charlie Trundle addresses everyone by name.",
       "detail": "Lirael uses minor illusion to make a two-way mirror in the war room office. Gelf and Elric play good cop and bad cop, and Gelf throws water to wake the prisoners. At the first question the Dreamweaver takes over the room, speaking through both men at once. It calls the men pawns and names each person behind the glass. When Brand says it will not get away with this, it says it already has. It tells them all to kill themselves because it will only get worse, and it keeps commenting on what they whisper behind the mirror. Nothing gets the interrogation back on track, and finally Gelf knocks both men out.",
       "tags": [
@@ -4964,7 +4964,7 @@
         "Elric",
         "Brand"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "back-to-training-as-normal",
@@ -4987,8 +4987,8 @@
         "Charlie Trundle",
         "Hobbstweedle"
       ],
-      "img": "img/back-to-training-as-normal.jpg",
-      "img_version": 2
+      "img": "img/back-to-training-as-normal.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "fathers-library-card",
@@ -5071,7 +5071,7 @@
       "session": 12.5,
       "kind": "intrigue",
       "major": true,
-      "img": "img/brand-possessed.jpg",
+      "img": "img/brand-possessed.v3.jpg",
       "summary": "At midnight the Dreamweaver walks Brand out of the house, screaming behind his own eyes, and he drags Elric into the bag first.",
       "detail": "The Dreamweaver steals four hours of sleep from Sheldor and Charlie Trundle and gives it to Brand, granting him the benefits of a long rest. Possessed, Brand slips out of the house unnoticed. Inside he is screaming, but he cannot stop himself. At Gelf, Elric and Screech's house he casts detect magic, then slips through Elric's window, grabs him and shoves him into the bag. Brand climbs in after him and grapples him away from the exit until Elric's mind gives way. Both men come out as slaves to the Dreamweaver.",
       "tags": [
@@ -5080,7 +5080,7 @@
         "Elric",
         "Bag of Devouring"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "screech-taken",
@@ -5103,8 +5103,8 @@
         "Imps",
         "Dreamweaver"
       ],
-      "img": "img/screech-taken.jpg",
-      "img_version": 2
+      "img": "img/screech-taken.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "gelf-fights-free",
@@ -5127,8 +5127,8 @@
         "Elric",
         "Screech"
       ],
-      "img": "img/gelf-fights-free.jpg",
-      "img_version": 2
+      "img": "img/gelf-fights-free.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "bellatrix-shot",
@@ -5151,8 +5151,8 @@
         "Gelf",
         "Clockwork"
       ],
-      "img": "img/bellatrix-shot.v3.jpg",
-      "img_version": 3
+      "img": "img/bellatrix-shot.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "gelf-into-the-astral-sea",
@@ -5174,8 +5174,8 @@
         "Astral Sea",
         "Bag of Devouring"
       ],
-      "img": "img/gelf-into-the-astral-sea.jpg",
-      "img_version": 2
+      "img": "img/gelf-into-the-astral-sea.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "hunky-dory",
@@ -5198,8 +5198,8 @@
         "Gelf",
         "Screech"
       ],
-      "img": "img/hunky-dory.jpg",
-      "img_version": 2
+      "img": "img/hunky-dory.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "house-burns-flight-to-airfield",
@@ -5222,8 +5222,8 @@
         "Screech",
         "Book of Fire"
       ],
-      "img": "img/house-burns-flight-to-airfield.jpg",
-      "img_version": 2
+      "img": "img/house-burns-flight-to-airfield.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "caught-at-the-village-gate",
@@ -5246,8 +5246,8 @@
         "Brand",
         "Clockwork"
       ],
-      "img": "img/caught-at-the-village-gate.jpg",
-      "img_version": 2
+      "img": "img/caught-at-the-village-gate.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "empty-jail-blood-trail",
@@ -5320,8 +5320,8 @@
         "Lug Murzog",
         "Blazehelm"
       ],
-      "img": "img/bellatrix-revived.jpg",
-      "img_version": 1
+      "img": "img/bellatrix-revived.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-dies-a-little",
@@ -5344,8 +5344,8 @@
         "Eloria",
         "Monty O'Brien"
       ],
-      "img": "img/brand-dies-a-little.jpg",
-      "img_version": 1
+      "img": "img/brand-dies-a-little.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "clockwork-lassos-gelf",
@@ -5368,8 +5368,8 @@
         "Kingsblade",
         "Citadel"
       ],
-      "img": "img/clockwork-lassos-gelf.jpg",
-      "img_version": 2
+      "img": "img/clockwork-lassos-gelf.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "into-the-dream-plane",
@@ -5391,8 +5391,8 @@
         "Dreamweaver",
         "Dream"
       ],
-      "img": "img/into-the-dream-plane.jpg",
-      "img_version": 1
+      "img": "img/into-the-dream-plane.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "dream-eater",
@@ -5439,8 +5439,8 @@
         "Gelf",
         "Dream"
       ],
-      "img": "img/brass-dragon-in-the-dream.jpg",
-      "img_version": 2
+      "img": "img/brass-dragon-in-the-dream.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "escape-the-collapsing-dream",
@@ -5488,8 +5488,8 @@
         "Sheldor",
         "Screech"
       ],
-      "img": "img/friends-come-back.jpg",
-      "img_version": 2
+      "img": "img/friends-come-back.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "blazehelms-personal-guard",
@@ -5513,8 +5513,8 @@
         "Tauren",
         "Bellatrix"
       ],
-      "img": "img/blazehelms-personal-guard.jpg",
-      "img_version": 2
+      "img": "img/blazehelms-personal-guard.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "mind-control-training",
@@ -5538,8 +5538,8 @@
         "Feldor",
         "Dyll Strickland"
       ],
-      "img": "img/mind-control-training.jpg",
-      "img_version": 1
+      "img": "img/mind-control-training.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "fireworks-speech",
@@ -5553,7 +5553,7 @@
       "session": 14,
       "kind": "intrigue",
       "major": true,
-      "img": "img/fireworks-speech.jpg",
+      "img": "img/fireworks-speech.v3.jpg",
       "summary": "Blazehelm finishes his speech, the fireworks go up, and behind the biggest explosion comes the familiar flash of detect good and evil.",
       "detail": "The Sentinels of Hobbstweedle gather around the circular podium while Clockwork's warforged make sure everyone attends. Blazehelm gives his speech. When he finishes, the fireworks go off. The party sees the familiar flash of light as he casts detect good and evil, timed perfectly with the biggest explosion. Nobody in the crowd notices.",
       "tags": [
@@ -5562,7 +5562,7 @@
         "Fireworks",
         "Clockwork"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "nobody-else-possessed",
@@ -5585,8 +5585,8 @@
         "Gelf",
         "Hobbstweedle"
       ],
-      "img": "img/nobody-else-possessed.v3.jpg",
-      "img_version": 3
+      "img": "img/nobody-else-possessed.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "screechs-model-broadsword",
@@ -5609,8 +5609,8 @@
         "Bellatrix",
         "Broadsword"
       ],
-      "img": "img/screechs-model-broadsword.v3.jpg",
-      "img_version": 3
+      "img": "img/screechs-model-broadsword.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "sazed-trance-research",
@@ -5654,8 +5654,8 @@
         "Screech",
         "Shuriken"
       ],
-      "img": "img/lirael-first-flight.jpg",
-      "img_version": 2
+      "img": "img/lirael-first-flight.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "lirael-learns-to-fly",
@@ -5669,7 +5669,7 @@
       "session": 14,
       "kind": "social",
       "major": true,
-      "img": "img/lirael-learns-to-fly.jpg",
+      "img": "img/lirael-learns-to-fly.v3.jpg",
       "summary": "In his first dogfight the drow out-turns his instructor and paints Screech's cockpit with paintballs.",
       "detail": "Using his sorcery and a little haste, Lirael manages to outmanoeuvre Screech. He brakes in front of him, drops speed to get below him and shoots. Screech gets wise to the trick, stays on his tail and hits him once. Lirael then spins the fighter while keeping his momentum and shoots Screech for the win, covering his cockpit in paintballs. Screech is shocked and impressed. He calls Lirael a natural and says he has lost a lot of money.",
       "tags": [
@@ -5678,7 +5678,7 @@
         "Shuriken",
         "Dogfight"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "clockwork-on-sentimentality",
@@ -5922,7 +5922,7 @@
       "session": 14,
       "kind": "revelation",
       "major": true,
-      "img": "img/the-even-hand-named.jpg",
+      "img": "img/the-even-hand-named.v2.jpg",
       "summary": "Lirael comes home to his friends getting high and making potions. Paxon recognises the mask: The Even Hand, an assassin no living person has met.",
       "detail": "Lirael returns home to find Sazed and Brand smoking and brewing potions, and tells them what happened. Unsure what to make of it, the party goes to Paxon. Paxon recognises the description: The Even Hand, an expensive and effective assassin who has appeared in the last few years. He is known to work with House Thuranni. No living person is known to have met him; there are only fleeting witness descriptions like the one Lirael got.",
       "tags": [
@@ -5931,7 +5931,7 @@
         "House Thuranni",
         "Lirael"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "royal-ardev-regiment",
@@ -5955,8 +5955,8 @@
         "Murphy Gravewood",
         "Ardev"
       ],
-      "img": "img/royal-ardev-regiment.jpg",
-      "img_version": 1
+      "img": "img/royal-ardev-regiment.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "nedira-signals-training",
@@ -5993,7 +5993,7 @@
       "session": 14,
       "kind": "loss",
       "major": false,
-      "img": "img/mercy-and-the-records.jpg",
+      "img": "img/mercy-and-the-records.v2.jpg",
       "summary": "Paxon turns up without the codeword: the Wroat military library's records room has burned down, and Mercy has been killed by an arrow.",
       "detail": "On the 15th of Zarantyr the party returns home from training and Paxon knocks on the door. Lirael asks for the codeword, but Paxon does not know it and just wants to be let in. He brings bad news. The military library in Wroat had a fire, and the records room burned down. The librarian Mercy was killed by an arrow. The party suspects The Even Hand and decides to investigate.",
       "tags": [
@@ -6002,7 +6002,7 @@
         "The Even Hand",
         "Wroat"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "eloria-speak-with-dead",
@@ -6024,8 +6024,8 @@
         "Leff",
         "Hobbstweedle"
       ],
-      "img": "img/eloria-speak-with-dead.jpg",
-      "img_version": 2
+      "img": "img/eloria-speak-with-dead.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "chief-torg",
@@ -6133,7 +6133,7 @@
       "session": 14,
       "kind": "battle",
       "major": true,
-      "img": "img/gauss-house-explodes.jpg",
+      "img": "img/gauss-house-explodes.v2.jpg",
       "summary": "Just as Sazed and the carriage converge on it, Gauss Hog's house erupts in a massive explosion, and Brand finally sees The Even Hand.",
       "detail": "As Sazed approaches Gauss Hog's house he sees Tauren, Leff, Lirael and Brand racing down the other street. Then the house blows up. The blast throws Sazed and the police officer sent to collect Gauss Hog to the ground. Brand sees a glint on a rooftop again, and this time sees him clearly: The Even Hand. The assassin runs off across the buildings towards Kal Valvier's house. Sazed sprints down the street, jumps into the carriage, and they race to beat him there.",
       "tags": [
@@ -6143,7 +6143,7 @@
         "Brand",
         "Wroat"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "standoff-at-kals-house",
@@ -6166,8 +6166,8 @@
         "Brand",
         "Lirael"
       ],
-      "img": "img/standoff-at-kals-house.jpg",
-      "img_version": 1
+      "img": "img/standoff-at-kals-house.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "kal-killed-on-the-street",
@@ -6190,8 +6190,8 @@
         "Brand",
         "Lirael"
       ],
-      "img": "img/kal-killed-on-the-street.jpg",
-      "img_version": 1
+      "img": "img/kal-killed-on-the-street.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "hunger-of-hadar-assassins",
@@ -6214,8 +6214,8 @@
         "Kal",
         "Hunger of Hadar"
       ],
-      "img": "img/hunger-of-hadar-assassins.jpg",
-      "img_version": 1
+      "img": "img/hunger-of-hadar-assassins.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "even-hand-unmasked",
@@ -6229,7 +6229,7 @@
       "session": 15,
       "kind": "loss",
       "major": true,
-      "img": "img/even-hand-unmasked.jpg",
+      "img": "img/even-hand-unmasked.v2.jpg",
       "summary": "The Even Hand finally takes Kal's head, and then Click Clack's axe splits him open to reveal a black metal warforged with red eyes.",
       "detail": "Sazed revives Kal again, and The Even Hand kills him again, this time cutting off his head. As he finishes, Click Clack drives his axe into his shoulder and splits his body, wounding him mortally. His insides show he is a warforged. His mask falls away to reveal a black metal face with glowing red eyes. He says something like 'You got lucky this time,' and the party sees something shift behind his eyes, as they have seen with Clockwork. Then the red eyes go out, his internals spark for a few seconds, and the machine is dead.",
       "tags": [
@@ -6239,7 +6239,7 @@
         "Warforged",
         "Sazed"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "obelisk-in-meriels-bag",
@@ -6357,8 +6357,8 @@
         "Blazehelm",
         "Portal"
       ],
-      "img": "img/gauss-hogs-story.jpg",
-      "img_version": 2
+      "img": "img/gauss-hogs-story.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "imps-firebomb-the-house",
@@ -6428,8 +6428,8 @@
         "Kal",
         "Paxon"
       ],
-      "img": "img/gentle-repose-form.jpg",
-      "img_version": 2
+      "img": "img/gentle-repose-form.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "ardev-song-on-the-piano",
@@ -6451,8 +6451,8 @@
         "Ardev",
         "Kal"
       ],
-      "img": "img/ardev-song-on-the-piano.jpg",
-      "img_version": 1
+      "img": "img/ardev-song-on-the-piano.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "obelisk-rune-dream",
@@ -6475,8 +6475,8 @@
         "Sazed",
         "Dreamweaver"
       ],
-      "img": "img/obelisk-rune-dream.jpg",
-      "img_version": 1
+      "img": "img/obelisk-rune-dream.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "rune-transmits",
@@ -6490,7 +6490,7 @@
       "session": 16,
       "kind": "revelation",
       "major": true,
-      "img": "img/rune-transmits.jpg",
+      "img": "img/rune-transmits.v2.jpg",
       "summary": "Clockwork finds The Even Hand's rune does not hold his mind; it broadcasts it. Three intact runes would let him triangulate the assassin.",
       "detail": "Clockwork examines The Even Hand's body. The rune inside him does not contain his 'soul'; it transmits it. If the party can recover three undamaged runes, Clockwork can triangulate The Even Hand's position. This one is broken. Clockwork is also struck by how advanced the warforged body is and how much they could learn from it.",
       "tags": [
@@ -6499,7 +6499,7 @@
         "Warforged",
         "Rune"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "circle-blast-marks",
@@ -6568,8 +6568,8 @@
         "Keys",
         "Sorenson"
       ],
-      "img": "img/brew-and-ale-farewell.v3.jpg",
-      "img_version": 3
+      "img": "img/brew-and-ale-farewell.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "dancing-with-eloria",
@@ -6592,8 +6592,8 @@
         "Gauss Hog",
         "Brand"
       ],
-      "img": "img/dancing-with-eloria.jpg",
-      "img_version": 1
+      "img": "img/dancing-with-eloria.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "rigged-chicken-races",
@@ -6615,8 +6615,8 @@
         "Keys",
         "Deep Gnomes"
       ],
-      "img": "img/rigged-chicken-races.jpg",
-      "img_version": 2
+      "img": "img/rigged-chicken-races.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "gelf-brand-rematch",
@@ -6637,8 +6637,8 @@
         "Brand",
         "Brew and Ale"
       ],
-      "img": "img/gelf-brand-rematch.jpg",
-      "img_version": 2
+      "img": "img/gelf-brand-rematch.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "brand-walks-eleanor-home",
@@ -6755,8 +6755,8 @@
         "Hobbstweedle",
         "Silence Arrow"
       ],
-      "img": "img/silence-arrow-in-the-door.jpg",
-      "img_version": 1
+      "img": "img/silence-arrow-in-the-door.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "tracks-into-the-sewers",
@@ -6778,8 +6778,8 @@
         "Leff",
         "Sewers"
       ],
-      "img": "img/tracks-into-the-sewers.jpg",
-      "img_version": 1
+      "img": "img/tracks-into-the-sewers.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sewer-map-stolen",
@@ -6802,8 +6802,8 @@
         "Sewers",
         "Hobbstweedle"
       ],
-      "img": "img/sewer-map-stolen.jpg",
-      "img_version": 1
+      "img": "img/sewer-map-stolen.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bellatrix-sent-home",
@@ -6892,8 +6892,8 @@
         "Paxon",
         "Sewers"
       ],
-      "img": "img/erald-delivers-the-map.jpg",
-      "img_version": 1
+      "img": "img/erald-delivers-the-map.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "paxon-painting-heist",
@@ -6907,7 +6907,7 @@
       "session": 17,
       "kind": "social",
       "major": true,
-      "img": "img/paxon-painting-heist.jpg",
+      "img": "img/paxon-painting-heist.v3.jpg",
       "summary": "Dyll says no pranks, so the party recruits Screech and three gnomes at Brew and Ale to copy Paxon's portrait, draw on it and hang it in the main hall.",
       "detail": "On the 17th the party finishes training and Dyll says no pranks, so they decide to pull one. At Brew and Ale they recruit Screech and the gnomes Spingus, Dandy and Fizbark. The plan is to duplicate Paxon's painting, draw on it and hang it in the main hall. Fizbark will distract Paxon at 8 when new supplies arrive so the painting can be copied. Spingus will get them into the mansion, and Dandy will distract the guards that night while they hang it.",
       "tags": [
@@ -6918,7 +6918,7 @@
         "Screech",
         "Gnomes"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "eloria-and-clockwork-join-prank",
@@ -6940,8 +6940,8 @@
         "Paxon",
         "Scroll of Facsimile"
       ],
-      "img": "img/eloria-and-clockwork-join-prank.jpg",
-      "img_version": 2
+      "img": "img/eloria-and-clockwork-join-prank.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "potion-room-amulet",
@@ -6978,7 +6978,7 @@
       "session": 18,
       "kind": "revelation",
       "major": true,
-      "img": "img/tomb-of-centarrel.jpg",
+      "img": "img/tomb-of-centarrel.v2.jpg",
       "summary": "With Paxon's painting duplicated, the party opens the hidden teleporter behind it and arrives in a tomb for the dragons of Centarrel and the soldiers who killed them.",
       "detail": "The party duplicates Paxon's painting, which hides the keyhole to an unmarked teleporter room, and goes through the portal. They arrive in the Tomb of Centarrel. It honours the Dragons of Centarrel and the soldiers who killed them. The graves are dated from the 8th to the 13th of Eyre 968, the Day the Walls Fell in Wroat.",
       "tags": [
@@ -6987,7 +6987,7 @@
         "Dragons",
         "Teleporter"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "graves-of-the-fathers",
@@ -7010,8 +7010,8 @@
         "Gelf",
         "Tomb of Centarrel"
       ],
-      "img": "img/graves-of-the-fathers.jpg",
-      "img_version": 2
+      "img": "img/graves-of-the-fathers.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "clockwork-wyrmlings",
@@ -7104,8 +7104,8 @@
         "Spingus",
         "Gnomes"
       ],
-      "img": "img/portrait-unveiled.jpg",
-      "img_version": 2
+      "img": "img/portrait-unveiled.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "bellatrix-is-dead",
@@ -7119,7 +7119,7 @@
       "session": 18,
       "kind": "loss",
       "major": true,
-      "img": "img/bellatrix-is-dead.jpg",
+      "img": "img/bellatrix-is-dead.v3.jpg",
       "summary": "Blazehelm comes to the house himself: Bellatrix and her roommate were killed overnight, and a note was left behind.",
       "detail": "Brand had asked to speak with Blazehelm before liftoff. Instead Blazehelm comes to the party's house in person. Bellatrix is dead. Her killers also murdered her roommate, and they left a note. She had been sent home only the day before, after complaining about being kept in town.",
       "tags": [
@@ -7128,7 +7128,7 @@
         "The Even Hand",
         "Gelf"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "why-blazehelm-trusts-paxon",
@@ -7149,8 +7149,8 @@
         "Paxon",
         "Brand"
       ],
-      "img": "img/why-blazehelm-trusts-paxon.jpg",
-      "img_version": 2
+      "img": "img/why-blazehelm-trusts-paxon.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "goodbyes-at-the-airfield",
@@ -7196,8 +7196,8 @@
         "Sorenson",
         "Erald"
       ],
-      "img": "img/moonwatch-crew-roles.jpg",
-      "img_version": 2
+      "img": "img/moonwatch-crew-roles.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "parting-gifts",
@@ -7236,7 +7236,7 @@
       "session": 18,
       "kind": "travel",
       "major": true,
-      "img": "img/moonwatch-departs.jpg",
+      "img": "img/moonwatch-departs.v3.jpg",
       "summary": "Blazehelm makes Screech a Master Chief and the party Petty Officers First Class, hands over 400 gold, and the Moonwatch lifts off.",
       "detail": "Blazehelm promotes Screech to Master Chief. He promotes the party to Petty Officer First Class, the same rank as Paxon. He also gives them 400gp. Then the party leaves Hobbstweedle aboard the Moonwatch, ending their time with the Sentinels.",
       "tags": [
@@ -7246,7 +7246,7 @@
         "Paxon",
         "Hobbstweedle"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "lift-off-for-ardev",
@@ -7344,8 +7344,8 @@
         "Sentinels",
         "Dreamweaver"
       ],
-      "img": "img/sorenson-confides.jpg",
-      "img_version": 1
+      "img": "img/sorenson-confides.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-fourth-look",
@@ -7482,8 +7482,8 @@
         "Beezel",
         "Moonwatch"
       ],
-      "img": "img/canuck-songs.jpg",
-      "img_version": 2
+      "img": "img/canuck-songs.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "the-cookie-feud",
@@ -7818,8 +7818,8 @@
         "Lirael",
         "Beware of Knowledge"
       ],
-      "img": "img/i-pray-the-worst-has-come.jpg",
-      "img_version": 1
+      "img": "img/i-pray-the-worst-has-come.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "hellsauce-recruits-sazed",
@@ -8673,8 +8673,8 @@
         "Barry Baritone",
         "Archimedes"
       ],
-      "img": "img/moonwatch-party.jpg",
-      "img_version": 2
+      "img": "img/moonwatch-party.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "stones-throw-in-ashes",
@@ -8916,8 +8916,8 @@
         "Moonwatch",
         "Mustang"
       ],
-      "img": "img/ellis-dead-in-the-street.jpg",
-      "img_version": 2
+      "img": "img/ellis-dead-in-the-street.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "carriage-chase",
@@ -9012,8 +9012,8 @@
         "The Even Hand",
         "Moonwatch"
       ],
-      "img": "img/leap-from-the-carriage.jpg",
-      "img_version": 1
+      "img": "img/leap-from-the-carriage.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "black-booked-train",
@@ -9027,7 +9027,7 @@
       "session": 26,
       "kind": "intrigue",
       "major": true,
-      "img": "img/black-booked-train.jpg",
+      "img": "img/black-booked-train.v2.jpg",
       "summary": "Paxon calls. Lirael and his mother are being arrested on bunk charges, and an unfinished lightning rail was switched on last night.",
       "detail": "If the party can get them out, the charges can be fought and won. Paxon found the train black-booked and will look into who turned the old line on. He advises against killing the plague soldiers, who are probably Brelish soldiers. He also found that Mustang had no record before Ardev. The train reaches the end of its unfinished track in six hours.",
       "tags": [
@@ -9037,7 +9037,7 @@
         "Felicia Sr",
         "Mustang"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "eloria-and-a-bear-army",
@@ -9060,8 +9060,8 @@
         "Mr. Beaks",
         "Felicia Jr"
       ],
-      "img": "img/eloria-and-a-bear-army.jpg",
-      "img_version": 1
+      "img": "img/eloria-and-a-bear-army.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brands-workshop",
@@ -9153,8 +9153,8 @@
         "Moonwatch",
         "Lightning Rail"
       ],
-      "img": "img/shadowing-the-train.jpg",
-      "img_version": 2
+      "img": "img/shadowing-the-train.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "jyo-the-spider",
@@ -9202,8 +9202,8 @@
         "The Even Hand",
         "Kal"
       ],
-      "img": "img/the-invisible-beholder.jpg",
-      "img_version": 1
+      "img": "img/the-invisible-beholder.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "xera-and-fey-lynn-die",
@@ -9251,8 +9251,8 @@
         "The Even Hand",
         "Beezel"
       ],
-      "img": "img/bears-and-a-barrel.jpg",
-      "img_version": 1
+      "img": "img/bears-and-a-barrel.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "mustang-wakes",
@@ -9274,8 +9274,8 @@
         "The Even Hand",
         "Sazed"
       ],
-      "img": "img/mustang-wakes.jpg",
-      "img_version": 1
+      "img": "img/mustang-wakes.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "counterspelled-by-lirael",
@@ -9299,8 +9299,8 @@
         "Jyo",
         "Astral Plane"
       ],
-      "img": "img/counterspelled-by-lirael.jpg",
-      "img_version": 1
+      "img": "img/counterspelled-by-lirael.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "even-hand-dies",
@@ -9314,7 +9314,7 @@
       "session": 28,
       "kind": "battle",
       "major": true,
-      "img": "img/even-hand-dies.jpg",
+      "img": "img/even-hand-dies.v2.jpg",
       "summary": "The bears Telos and Gruff enter the portal and are possessed. The Even Hand appears with Felicia Sr as a hostage, until Brand's lightning and Sazed's fists end him.",
       "detail": "Coming out of invisibility, The Even Hand tells everyone to stop. He means to wait until they are all possessed. In one swift move Brand reveals himself and hits him with lightning while Sazed pulls Felicia Sr clear. Sazed finishes off the assassin, then stuns the dreamwoven Lirael.",
       "tags": [
@@ -9325,7 +9325,7 @@
         "Telos",
         "Gruff"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "into-the-bag-of-holding",
@@ -9613,8 +9613,8 @@
         "Thaddeus Cannith",
         "Filgar"
       ],
-      "img": "img/barry-and-brokk-waiting.jpg",
-      "img_version": 1
+      "img": "img/barry-and-brokk-waiting.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "i-tag-ye-cosmic",
@@ -9807,8 +9807,8 @@
         "Grib Grimley",
         "Ardev Police"
       ],
-      "img": "img/jazz-hears-the-truth.jpg",
-      "img_version": 1
+      "img": "img/jazz-hears-the-truth.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "valvier-gold-in-evidence",
@@ -10021,8 +10021,8 @@
         "Beezel",
         "Moonwatch"
       ],
-      "img": "img/repair-race-bet.jpg",
-      "img_version": 2
+      "img": "img/repair-race-bet.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "eloria-arrives",
@@ -10045,8 +10045,8 @@
         "Felicia Sr",
         "Dreamweaver"
       ],
-      "img": "img/eloria-arrives.jpg",
-      "img_version": 1
+      "img": "img/eloria-arrives.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "dell-quickfoot-visit",
@@ -10093,8 +10093,8 @@
         "Screech",
         "Moonwatch"
       ],
-      "img": "img/skye-on-the-flight-deck.jpg",
-      "img_version": 1
+      "img": "img/skye-on-the-flight-deck.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "white-horn-wood-ruse",
@@ -10122,7 +10122,7 @@
     },
     {
       "id": "xera-returns",
-      "img": "img/xera-returns.jpg",
+      "img": "img/xera-returns.v2.jpg",
       "title": "Xera and Fey-Lynn Return",
       "year": 993,
       "month": 1,
@@ -10142,7 +10142,7 @@
         "Lirael",
         "Ring of Spell Storing"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "zenya-wakes-swinging",
@@ -10189,8 +10189,8 @@
         "Sazed",
         "Eloria"
       ],
-      "img": "img/lirael-asks-to-be-punched.jpg",
-      "img_version": 1
+      "img": "img/lirael-asks-to-be-punched.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "raven-call-illusion",
@@ -10457,8 +10457,8 @@
         "Eloria",
         "Raise Dead"
       ],
-      "img": "img/flock-changeling-questioned.jpg",
-      "img_version": 1
+      "img": "img/flock-changeling-questioned.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "xera-kisses-lirael",
@@ -10503,8 +10503,8 @@
         "Lightning Rail",
         "Railway Junction"
       ],
-      "img": "img/paxon-junction-call.jpg",
-      "img_version": 1
+      "img": "img/paxon-junction-call.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "griffith-guides-them-in",
@@ -11131,8 +11131,8 @@
         "Eloria",
         "Killian"
       ],
-      "img": "img/we-dont-die-banner.jpg",
-      "img_version": 1
+      "img": "img/we-dont-die-banner.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "felicia-too-powerful",
@@ -11455,7 +11455,7 @@
     },
     {
       "id": "kynds-takes-killian",
-      "img": "img/kynds-takes-killian.jpg",
+      "img": "img/kynds-takes-killian.v3.jpg",
       "title": "Kynds Takes Killian Back",
       "year": 993,
       "month": 1,
@@ -11476,7 +11476,7 @@
         "Aundair",
         "Moonwatch"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "eloria-tells-of-ashhaven",
@@ -11500,8 +11500,8 @@
         "Beezel",
         "Aundair"
       ],
-      "img": "img/eloria-tells-of-ashhaven.jpg",
-      "img_version": 1
+      "img": "img/eloria-tells-of-ashhaven.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "elfinas-room-elorias-kiss",
@@ -11524,8 +11524,8 @@
         "Sazed",
         "Moonwatch"
       ],
-      "img": "img/elfinas-room-elorias-kiss.jpg",
-      "img_version": 1
+      "img": "img/elfinas-room-elorias-kiss.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "emotional-damage-sempenator",
@@ -11570,8 +11570,8 @@
         "Sorenson",
         "House Cannith"
       ],
-      "img": "img/thaddeus-nightmare.jpg",
-      "img_version": 1
+      "img": "img/thaddeus-nightmare.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "lirael-morning-rounds",
@@ -11716,7 +11716,7 @@
     },
     {
       "id": "animal-messenger",
-      "img": "img/animal-messenger.jpg",
+      "img": "img/animal-messenger.v2.jpg",
       "title": "A Message for the Lighted One",
       "year": 993,
       "month": 1,
@@ -11737,7 +11737,7 @@
         "Eloria",
         "Stones Throw"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "screechs-bedtime-stories",
@@ -11759,8 +11759,8 @@
         "Canuck",
         "Moonwatch"
       ],
-      "img": "img/screechs-bedtime-stories.jpg",
-      "img_version": 2
+      "img": "img/screechs-bedtime-stories.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "fey-lynns-debrief",
@@ -11831,8 +11831,8 @@
         "Silver Flame",
         "Moonwatch"
       ],
-      "img": "img/wilford-mushroom-warning.jpg",
-      "img_version": 1
+      "img": "img/wilford-mushroom-warning.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "reconciliation-day",
@@ -11879,8 +11879,8 @@
         "Thaddeus Cannith",
         "Sorenson"
       ],
-      "img": "img/murderer-leaves-ardev.jpg",
-      "img_version": 1
+      "img": "img/murderer-leaves-ardev.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "dinner-on-the-empyrean",
@@ -11904,8 +11904,8 @@
         "Silvania",
         "The Empyrean"
       ],
-      "img": "img/dinner-on-the-empyrean.jpg",
-      "img_version": 1
+      "img": "img/dinner-on-the-empyrean.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "gorgis-family-dead",
@@ -11928,8 +11928,8 @@
         "Turckle and Churckle",
         "Dragons Claw"
       ],
-      "img": "img/gorgis-family-dead.jpg",
-      "img_version": 1
+      "img": "img/gorgis-family-dead.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "felicia-and-skye-spar",

@@ -197,7 +197,9 @@ def main():
             content.append({"type": "text", "text": closing()})
         image_config = {"aspect_ratio": "16:9", **({"image_size": arg("--size")} if "--size" in sys.argv else {})}
         resp = post("https://openrouter.ai/api/v1/chat/completions",
-                    {"model": model, "messages": [{"role": "user", "content": content}], "modalities": ["image", "text"], "image_config": image_config,
+                    # a low max_tokens keeps OpenRouter's up-front credit hold small (an image is ~1,120 tokens)
+                    {"model": model, "messages": [{"role": "user", "content": content}], "modalities": ["image", "text"],
+                     "image_config": image_config, "max_tokens": 4000,
                      **({"provider": {"order": [arg("--route")], "allow_fallbacks": False}} if "--route" in sys.argv else {})},
                     {"Authorization": "Bearer " + env("OPENROUTER_API_KEY")})
         print("usage", json.dumps(resp.get("usage", {})))

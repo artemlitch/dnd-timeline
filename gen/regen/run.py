@@ -3,9 +3,10 @@
 Skips events whose portraits are only the three player characters. Orders the rest by their most-mentioned NPC
 (event count in list.json's npc_roster, else in sources.json), then by the sum over all their NPCs. Each image is
 written as the event's next version by gen/image.py. Runs until the OpenRouter credit is gone; events already made
-from a gen/prompts/ file (per gen/regen/versions.json) are skipped, so a rerun picks up where it stopped.
+from a gen/prompts/ file (per gen/regen/versions.json) are skipped, so a rerun picks up where it stopped; --since
+<timestamp> skips only those made at or after it, to redo older ones.
 
-    python3 -I gen/regen/run.py [--limit N] [--dry]
+    python3 -I gen/regen/run.py [--since 2026-10-23T10:50] [--limit N] [--dry]
 """
 import concurrent.futures as cf
 import json
@@ -42,7 +43,9 @@ def order():
 
 def main():
     log = json.loads((HERE / 'versions.json').read_text())
-    done = {eid for eid, vs in log.items() if any((v.get('prompt') or '').startswith('gen/prompts/') for v in vs)}
+    since = arg('--since', '')
+    done = {eid for eid, vs in log.items()
+            if any((v.get('prompt') or '').startswith('gen/prompts/') and (v.get('at') or '') >= since for v in vs)}
     todo = [eid for eid in order() if eid not in done and (PROMPTS / f'{eid}.prompt.txt').exists()]
     if '--limit' in sys.argv:
         todo = todo[: int(arg('--limit'))]
@@ -57,13 +60,17 @@ def main():
     def run(eid):
         if out_of_credit.is_set():
             return eid, None
-        for attempt in range(3):
+        for attempt in range(8):
             r = subprocess.run([sys.executable, '-I', str(ROOT / 'gen/image.py'), eid, '--sources',
                                 '--prompt', f'gen/prompts/{eid}.prompt.txt'], capture_output=True, text=True)
             out = (r.stdout + r.stderr).strip()
             if r.returncode == 0:
                 tail = out.rsplit('cost=', 1)[1]
                 return eid, float(tail) if tail != 'None' else 0.0
+            if 'in_flight' in out:
+                # credit held for unsettled requests, not spent: wait for it to settle
+                time.sleep(30)
+                continue
             if 'HTTP 402' in out:
                 out_of_credit.set()
                 return eid, None
@@ -77,7 +84,7 @@ def main():
         return eid, None
 
     spent, ok = 0.0, 0
-    with cf.ThreadPoolExecutor(6) as pool:
+    with cf.ThreadPoolExecutor(int(arg('--threads', 3))) as pool:
         for n, (eid, cost) in enumerate(pool.map(run, todo), 1):
             if cost is not None:
                 ok += 1
