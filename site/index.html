@@ -87,12 +87,12 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
   box-shadow:0 0 8px var(--kc);border:1px solid rgba(255,255,255,.35);z-index:3;cursor:pointer}
 .mk.major{width:14px;height:14px;margin:-7px 0 0 -7px}
 .mk:hover,.mk.active{box-shadow:0 0 14px var(--kc),0 0 28px var(--kc)}
-.ln{position:absolute;width:1px;background:var(--kc);opacity:.45;z-index:2;pointer-events:none}
+.ln{position:absolute;width:1px;background:var(--kc);opacity:.45;z-index:3;pointer-events:none}
 .card{position:absolute;z-index:4;width:var(--w);height:var(--h);border-radius:5px;cursor:pointer;overflow:hidden;
   background:#000;border:1px solid var(--bronze);box-shadow:inset 0 0 0 1px rgba(240,212,138,.35),0 6px 16px rgba(0,0,0,.55)}
 .card,.mk,.ln,.cl{transition:top .42s cubic-bezier(.2,.7,.2,1),bottom .42s cubic-bezier(.2,.7,.2,1),height .42s cubic-bezier(.2,.7,.2,1),transform .42s cubic-bezier(.2,.7,.2,1),opacity .35s,filter .35s,box-shadow .15s}
 .card{transform-origin:50% 0}
-.card.ghost{transform:scale(.55);z-index:3;pointer-events:none;border-color:rgba(122,92,35,.4);box-shadow:none}
+.card.ghost{transform:scale(.55);z-index:2;pointer-events:none;border-color:rgba(122,92,35,.4);box-shadow:none}
 .card>*{transition:opacity .35s}
 .card.ghost>*{opacity:.2}
 .ln.ghost{opacity:.15}
