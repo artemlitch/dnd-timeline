@@ -1,0 +1,24 @@
+{tone}
+This scene is a breakfast before a mission, with a secret shown under the table.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:kingsblade/crew-quarters-and-mess}
+In this moment: a long mess table crowded with the party's friends from the prison, in new black Sentinel uniforms, eating a breakfast that gnome cooks keep bringing. Everyone looks rough after a night of drinking and nightmares. Time and light: early morning, lamplit, dawn light at the portholes.
+{maps:Kingsblade Crew Quarters}
+
+THE MOMENT
+Major Blazehelm stands at the head of the table and passes his personal whiskey down the line, one swig each before they head for the valley: Brand is mid-swig, Lirael is reaching for it next. In the foreground, at the end of the table, Screech has pulled Sazed aside and with a sly look opens his flight jacket a crack to show a small glass potion bottle hidden inside, an invisibility potion he stole.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Screech}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

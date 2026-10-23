@@ -1,0 +1,26 @@
+{tone}
+This scene is the last leg of a brutal military obstacle course.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the end of the course, at the flag tower, the obstacles behind muddy and battered from a morning of use. At the finish, a table is set with breakfast for whoever completes the course. Time and light: late morning, daylight.
+{maps:Obstacle Course}
+
+THE MOMENT
+Brand's squad finishes together. At the top of the tower, flags snatched in hand, Tauren and Leff have just leapt off the edge and hang in mid-air above the bushes, arms flailing. Right behind them on the tower's edge Brand, in his power armor, is bending his knees to jump, with Keys and Sorenson crowding at his shoulders ready to follow. Sorenson is mud-streaked and bruised from being knocked flat by the rolling spike log on the way. Below, Gunnery Sergeant Dyll Strickland stands at the foot of the tower bellowing insults up at them, red-faced, pointing, yet clearly approving. At the finish table nearby, Lirael and Sazed, who finished long ago, sit eating their breakfast and watching.
+
+CAST
+- {cast:Brand}
+- {cast:Tauren}
+- {cast:Leff}
+- {cast:Sorenson}
+- {cast:Keys}
+- {cast:Dyll Strickland}
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

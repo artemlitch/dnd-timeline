@@ -1,0 +1,23 @@
+{tone}
+This scene is an afternoon drink after a hard fight, puzzling over a drawing.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion}
+In this moment: a side room off the mansion's main hall, with a decanter of Blazehelm's private whiskey and glasses on a low table. The party still carries dirt and demon ichor from wiping out the demon village. Time and light: late afternoon, daylight through the windows.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Gelf has poured everyone a glass of Blazehelm's whiskey to toast the cleared village. Now he holds Lirael's napkin up to the light, staring blankly at it: a rough ink sketch of the broken teleportation circle, a ring of strange, unfamiliar markings. Lirael leans forward pointing at the drawing, waiting for an answer. Gelf has none. Brand and Sazed sip their whiskey, already realizing they will have to ask Paxon, and not happy about it.
+
+CAST
+- {cast:Gelf}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Blazehelm's portrait is attached for reference only; Blazehelm is not in this moment. Do not draw them.
+
+REFERENCES
+{references}

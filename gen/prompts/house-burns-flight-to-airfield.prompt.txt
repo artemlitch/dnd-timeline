@@ -1,0 +1,24 @@
+{tone}
+This scene is a house burning in the night while a fight spills out of it.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: seen from the lane outside, the shared Sentinel house is going up in flames, fire roaring out of the windows and through the roof; the back door has been smashed in. Neighbours' doors are opening along the lane. An alarm blares from the artificer's workshop nearby. Time and light: the dead of a night, lit only by the fire.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+Brand, possessed by the Dreamweaver, has just hurled the book of fire onto the floor inside, and now he dives headfirst out of a front window in a burst of glass and flame, landing outside and already scrambling to run. Clockwork, the warforged artificer, who cannot be possessed because he never sleeps, is right behind him, climbing out through the burning window frame after him. Screech bolts out of the front door with two battered warforged enforcers thundering after him. Through the blazing window, Elric is still inside, dodging between a hulking half-armoured clockwork defender construct and a warforged spellcaster, chopping at the defender with his mace while the room burns around them.
+
+CAST
+- {cast:Brand}
+- {cast:Clockwork}
+- {cast:Screech}
+- {cast:Elric}
+- The warforged enforcers: heavy constructs plated in metal and stone with crystal eyes, not fully repaired.
+- The clockwork defender: a hulking construct, half its armor plating missing mid-repair. The warforged spellcaster: a slimmer construct with glowing runes.
+
+REFERENCES
+{references}

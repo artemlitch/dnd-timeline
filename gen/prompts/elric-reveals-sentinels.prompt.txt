@@ -1,0 +1,23 @@
+{tone}
+This scene is a late-night confession over a home-cooked meal that ends with a thrown spoon.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/elrics-house}
+In this moment: Elric's kitchen, the table covered in empty plates from the hot meal he cooked for the escaped prisoners. Time and light: late at night, lamplight and the stove.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Elric sits at the head of the table, having just admitted that the prisoner Halien is really Gelf Ironhard, that both of them are Sentinels, and that they sent the party to DarkWood on purpose. In the same instant he realizes someone has been reading his thoughts, works out it is Lirael, and flings his spoon across the table at Lirael's head, scolding him. Lirael, still in grubby prison fatigues, recoils with a faint glow fading at his temples. Sazed, in the brand-new black covert ops uniform Elric just gave him, and Brand, in his power armor, sit stunned by the news.
+
+CAST
+- {cast:Elric}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- Gelf's portrait is attached for reference only; Gelf is not in this moment. Do not draw them.
+
+REFERENCES
+{references}

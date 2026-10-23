@@ -1,0 +1,23 @@
+{tone}
+This scene is a quiet moment at a library desk.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/wroat-military-library}
+In this moment: at the checkout desk. In an alcove nearby are the old shifter books, bound in bark and natural fibres with handmade paper. Time and light: evening after a day of training, lit by the library's lamps.
+{maps:Military Library}
+
+THE MOMENT
+The whole party is signing up for library cards. A prim older librarian slides a fresh card across the desk to each of them. Brand holds his up to the lamp, inspecting it like a piece of engineering; Lirael is signing his name. Sazed, still tight-jawed from finding the shifter books taken in the inquisition, holds a thick adventure novel against his chest, a gift he is borrowing for his friend Tauren. Nothing written on the cards or books is readable.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+- Tauren's portrait is attached for reference only; Tauren is not in this moment. Do not draw him.
+- The librarian: an older woman with grey hair in a bun, red-rimmed glasses, a green cardigan and a yellow collared blouse.
+
+REFERENCES
+{references}

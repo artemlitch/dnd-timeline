@@ -1,0 +1,27 @@
+{tone}
+This scene is a tense night-time meeting outside a forge.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/ardev-cannith-forge}
+In this moment: the street outside the forge. Its doors stand open, spilling firelight from the forge room onto the street. A pack of stray cats and dogs that has been following the party all night sits across the road. Time and light: late at night; the fire glow of the forge and the town's street lamps.
+{maps:Cannith Forge Ardev}
+
+THE MOMENT
+Barry Baritone, the singing construct, has led the party to the forge. In the doorway they meet The Right Hand, Merrix d'Cannith's emissary and bodyguard, on his way out, Archimedes, his brass warforged owl, perched on his shoulder. He pauses to warn Brand that the party has angered the Dragons Claw mercenaries. At that moment Jeff, the frog-man, finally arrives, staggering up the street out of breath and furious after running all the way across town to answer the ring's summons. Through the open forge doors, inside at the glowing forge, Brokk, Brand's nephew, looks up from his anvil and glares at his uncle.
+
+CAST
+- {cast:Brand}
+- Xera's portrait is attached for reference only; Xera is not in this moment. Do not draw her.
+- {cast:Brokk}
+- {cast:Jeff}
+- {cast:Barry Baritone}
+- {cast:Lirael}
+- {cast:Sazed}
+- The Right Hand: a tall, lean figure in close-fitting bronze armour, a wide-brimmed pointed hat, a long blue cloak, a round shield with glowing blue runes and a glowing blue blade.
+- Archimedes: a warforged owl made of brass and copper plates with glowing blue eyes.
+
+REFERENCES
+{references}

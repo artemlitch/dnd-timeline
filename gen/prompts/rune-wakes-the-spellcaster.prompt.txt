@@ -1,0 +1,21 @@
+{tone}
+This scene is a construct being brought back to life on a workshop table.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/clockworks-shop}
+In this moment: the workshop is busy and ordinary, no alarm, no speech or fireworks. The inert warforged spellcaster that the party fought and killed in their house lies on a heavy repair table among tools and cables, its chest plate swung open. Time and light: late morning, daylight through the workshop windows and lamps over the benches.
+{maps:Clockworks Shop}
+
+THE MOMENT
+Clockwork, the warforged artificer, presses a small carved rune into the open cavity in the spellcaster's chest. At that instant the construct comes back to life: the rune flares, light runs out through the seams of its body, its eyes snap on and its metal fingers curl, and it begins to sit up. Brand, in his power armor, stands at the end of the table holding the book of fire that Clockwork has just handed back to him in exchange for the rune, staring as he understands that the rune is what makes a warforged who it is.
+
+CAST
+- {cast:Clockwork}
+- {cast:Brand}
+- Warforged spellcaster: a construct with a metal skull-like face and glowing pale eyes, in a long blue robe with gold trim.
+
+REFERENCES
+{references}

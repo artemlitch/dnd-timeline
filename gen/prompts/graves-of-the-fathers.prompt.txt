@@ -1,0 +1,23 @@
+{tone}
+This scene is a quiet discovery among old war graves deep underground.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:tomb-of-centarrel/soldiers-graves}
+In this moment: among the soldiers' headstones around the dragon's skeleton. The headstones' inscriptions are worn and unreadable. Time and light: deep in the night, lit only by the light the party carries.
+{maps:Tomb of Centarrel 3}
+
+THE MOMENT
+Lirael, Brand and Sazed have stopped at two graves side by side. Lirael crouches and brushes dust from one headstone, the grave of a High Marshal who fought in the ranks, the father of their old prison enemy Thaldamir. Brand, in his power armor, stands at the next stone, the grave of Gelf's father, his helmet lowered. Sazed holds the light high over both, and behind them the great ribs and skull of the dead dragon rise into the dark.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Gelf's portrait is attached for reference only; Gelf is not in this moment. Do not draw them.
+- Thaldamir's portrait is attached for reference only; Thaldamir is not in this moment. Do not draw them.
+
+REFERENCES
+{references}

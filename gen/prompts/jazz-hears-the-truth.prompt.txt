@@ -1,0 +1,28 @@
+{tone}
+This scene is a quiet, devastating conversation in a small-town police station.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-police-station}
+In this moment: the front room of the station, a corkboard on the wall crowded with notices. Outside the window the town is under curfew, with checkpoints in the streets. Time and light: night, lit by the station's lamps.
+{maps:Ardev Police Station}
+
+THE MOMENT
+Jazz Chism, a young Ardev police officer, stands at the corkboard with a missing-person poster half pinned up: it shows only a drawn portrait of the reporter Grib Grimley, with no readable words. He has frozen with the pin still pressed between his fingers, turning toward the party as the news hits him: Xera, his ex, and Fey-Lynn Kel were murdered, Lirael's mother taken, and his own partner Mustang was a body of The Even Hand all along. His face is breaking. Lirael stands closest to him, speaking quietly; Brand and Sazed wait just behind.
+
+CAST
+- {cast:Jazz}
+- {cast:Grib Grimley} She is not in the room: she appears only as the drawn portrait on the missing-person poster.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The Even Hand's portrait is attached for reference only; The Even Hand is not in this moment. Do not draw him.
+- Mustang's portrait is attached for reference only; Mustang is not in this moment. Do not draw him.
+- Felicia Jr's portrait is attached for reference only; Felicia Jr is not in this moment. Do not draw her.
+- Xera's portrait is attached for reference only; Xera is not in this moment. Do not draw her.
+- Fey-Lynn's portrait is attached for reference only; Fey-Lynn is not in this moment. Do not draw her.
+
+REFERENCES
+{references}

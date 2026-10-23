@@ -1,0 +1,27 @@
+{tone}
+This scene is a training session that has turned into a rivalry.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/flight-deck}
+{setting:ardev/ardev-landing-field}
+In this moment: the Moonwatch sits parked on the Ardev landing field, and close beside it towers the Empyrean, Thaddeus Cannith's far larger, gaudy white-and-gold airship, which has taken the Moonwatch's usual spot. Time and light: daytime.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+On the open deck the party runs sparring practice, the two youngest members against the three of them, and the two girls are trying to outdo each other. Skye, the ten-year-old shifter girl, darts in low and fast at Sazed with a wooden practice stick, tail streaming behind her, glancing sideways to make sure Felicia is watching. Felicia Jr, the young drow sorceress, sends a crackling spark of lightning from her fingertips at Brand's armored chest, glaring back at Skye as if to say: beat that. Brand in his power armor blocks with a raised forearm, and Lirael, the girls' teacher of the moment, steps back between them with his hands up, half amused and half worried. At the top of the gangway, Baron Hellsauce has just arrived, chest puffed out, to announce that Morganth wishes to speak with them, and nobody is paying him any attention.
+
+CAST
+- {cast:Lirael}
+- {cast:Felicia Jr}
+- {cast:Skye}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Baron Hellsauce}
+- {cast:The Moonwatch}
+- {cast:The Empyrean}
+
+REFERENCES
+{references}

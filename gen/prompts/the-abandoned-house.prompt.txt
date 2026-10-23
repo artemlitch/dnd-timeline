@@ -1,0 +1,23 @@
+{tone}
+This scene is a tense search of a basement, at the door to something evil.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-abandoned-house}
+In this moment: the basement of the abandoned house. The walls are scorched and clawed, there are demon droppings and sulfur stains on the floor, and crates of bottles and kegs stolen from Turckle's bar are stacked in a corner. In one stone wall is a sealed passage, newly uncovered, leading down. Time and light: morning outside, but the basement is dark; the party's lantern is the only light.
+{maps:Abandoned House}
+
+THE MOMENT
+Brand, in his power armor, kneels at the sealed passage, carefully disarming the trap set across it: he is lifting out a curved claymore mine, its tripwire cut, holding it like something precious he means to keep. Behind him Lirael stands with Felicia's charm in his hand, just found on the floor: a small Blood of Vol charm, a blood-red teardrop set in dark metal on a broken cord, proof his sister was brought here. Sazed holds up the lantern and watches the stairs behind them, aware of the invisible mercenaries who have been trailing them through town.
+
+CAST
+- {cast:Brand}
+- Felicia Jr's portrait is attached for reference only; Felicia Jr is not in this moment. Do not draw her.
+- Turckle's portrait is attached for reference only; Turckle is not in this moment. Do not draw him.
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

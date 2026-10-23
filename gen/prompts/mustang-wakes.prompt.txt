@@ -1,0 +1,23 @@
+{tone}
+This scene is a sudden betrayal of a master by his own puppet, in the middle of a bloody fight on a train.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/train-car-interior}
+In this moment: the narrow car is wrecked, benches splintered. The headless bodies of the two murdered women lie in blood on the floor, and the huge carcass of Maisha, the lead war bear, lies slumped across the aisle with her throat cut. At one end the arcane safe stands open, its doorway a swirling silver void of the Astral Plane. Time and light: midday, daylight through the car windows and the lightning rail's crackling arcs flickering past.
+{maps:Inside Lightning Rail 1#2}
+
+THE MOMENT
+Sazed has been magically enlarged to giant size, hunched under the car's ceiling with his quarterstaff. Brand, braced in the aisle, fires his home-built ray at Mustang: a beam of crackling blue light strikes the warforged in the chest and his eyes flare bright as his own personality core switches back on. In the same instant Mustang wheels around and drives a fist into his master, The Even Hand, catching him completely by surprise, and shouts to the party to run, it is a trap. The Even Hand reels back, his beaked masked head cocked in cold curiosity. Two surviving brown war bears crowd the far end of the car, and Cromwell, a grey-haired ranger, draws his bow in the astral doorway.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Mustang}
+- {cast:The Even Hand}
+- {cast:Cromwell}
+
+REFERENCES
+{references}

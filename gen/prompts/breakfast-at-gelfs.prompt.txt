@@ -1,0 +1,24 @@
+{tone}
+This scene is a tense morning barge-in on three men at breakfast.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: the main room of the shared house, with a breakfast table set with eggs, bread and coffee. Time and light: about seven in the morning, daylight through the windows and the open front door.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+The front door is open. One of Gelf's conquests, an adult young woman in last night's dress, slips out past the doorframe with her shoes in her hand. Screech, a small halfling, still holds the door, cheerful and puzzled, as Lirael, Brand and Sazed push straight past him into the room. At the table, Gelf leans back in his chair with a coffee, smug and clearly remembering his night, and Elric sits with his brow furrowed, deep in concentration. Lirael stops at the end of the table and stares hard at Elric with a faint glow at his temples, quietly reading his mind with detect thoughts; Elric has just looked up and noticed.
+
+CAST
+- {cast:Lirael}
+- {cast:Gelf}
+- {cast:Elric}
+- {cast:Screech}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

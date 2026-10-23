@@ -1,0 +1,29 @@
+{tone}
+This scene is the grim discovery from the air of a brutal killing, at the start of a chase.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/ardev-cemetery}
+In this moment: seen from the deck of the Moonwatch flying low over the town, the road at the cemetery gate into upper Ardev. Black smoke still rises from the burned Xal'ri house in lower Ardev behind. Ahead, an armored carriage pulled by a galloping team races along the road out of town. Time and light: morning.
+{maps:Ardev Graveyard}
+
+THE MOMENT
+Screech flies the Moonwatch low over the road. The party crowds the rail and looks down: in the road at the cemetery gate lie Ellis, the mercenary captain who ambushed Lirael there, and his wizard, both brutally butchered, their bodies torn open in a spreading pool of blood on the ground. Ahead, the armored carriage carrying the kidnapped Lirael is fleeing, and on its roof stands The Even Hand in his beaked plague mask, waiting. At the rail Brand points after the carriage, Sazed is already climbing over the rail to jump, and beside them stand Mustang, the warforged police officer, with several arrows still stuck in his body, Felicia Jr, and Jyo.
+
+CAST
+- {cast:Ellis}
+- {cast:The Even Hand}
+- {cast:Screech}
+- Lirael's portrait is attached for reference only; Lirael is not in this moment (he is a prisoner inside the carriage). Do not draw him.
+- {cast:Brand}
+- {cast:Sazed}
+- Ellis's wizard: a gaunt mercenary spellcaster in a long dark robe over a leather harness; here dead.
+- Mustang: a warforged police officer, metal face with glowing blue eyes, brass and steel joints, navy blue peaked police cap and long navy double-breasted police greatcoat, red tie, brown boots, revolver in hand; arrows stick out of him.
+- Felicia Jr: a young female drow with dark grey-blue skin and messy short white hair tied up, wrapped hands, dark crop top, purple sash.
+- Jyo: a young human man with short tousled brown hair and stubble, a grey hooded cowl and a ragged brown coat over dark clothes.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

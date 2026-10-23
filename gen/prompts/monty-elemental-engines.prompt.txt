@@ -1,0 +1,23 @@
+{tone}
+This scene is a friendly invitation from a man who was killed the day before.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/clockworks-shop}
+In this moment: the workshop is busy and ordinary, no alarm, no speech or fireworks. Workbenches are covered in half-built warforged limbs and fresh sketches of mechanical limbs, and the reawakened warforged spellcaster stands in a corner. Time and light: early afternoon, daylight through the workshop windows and lamps over the benches.
+{maps:Clockworks Shop}
+
+THE MOMENT
+Monty O'Brien, the stocky dwarf chief of engineering of the Kingsblade, alive and well again after being killed and brought back, stands in the workshop doorway, grease on his hands and goggles up on his brow. He is grinning and jerking a thumb back toward the airfield, inviting Brand to come and learn about elemental engines while the dwarves rebuild the Kingsblade's. Brand, in his power armor, is already setting down his tools, eager to go, while Clockwork, the warforged artificer, looks up from the bench without expression.
+
+CAST
+- {cast:Monty O'Brien}
+- {cast:Brand}
+- {cast:Clockwork}
+- Warforged spellcaster: a construct with a metal skull-like face and glowing pale eyes, in a long blue robe with gold trim, holding a staff topped with a blue crystal.
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

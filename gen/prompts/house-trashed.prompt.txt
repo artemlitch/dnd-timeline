@@ -1,0 +1,24 @@
+{tone}
+This scene is a dread-filled discovery in a wrecked family home.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/xalri-house}
+In this moment: the downstairs of the Xal'ri house is torn apart: furniture smashed and overturned, the front door broken, deep claw gouges in the walls and floorboards, ashtrays and hoarded clutter scattered everywhere. Two wide smears of blood drag across the floor and out through the door, where something huge hauled two bodies away. In the doorway behind the party, a handful of stray cats and dogs that have been following them all night stand watching, and through the window an owl circles outside. Time and light: four in the morning, dark; the party's lantern and a single lamp.
+{maps:Xal'ri House}
+
+THE MOMENT
+In the middle of the wreckage, the party finds three things on the floor: Turckle's battered hip flask, Felicia's purse, its contents spilled, and the ring of unpredictable teleportation that Lirael slipped onto the demon Gynn earlier that night. Brand, in his power armor, kneels and holds the ring up, casting identify on it, a faint glow of magic around it as he learns it sent Gynn here. Lirael stands over the spilled purse, white with fear for his sister. Sazed, lantern raised, follows the drag marks to the door with his eyes.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Felicia Jr's portrait is attached for reference only; Felicia Jr is not in this moment (she has been taken). Do not draw her.
+- Turckle's portrait is attached for reference only; Turckle is not in this moment (he has been taken). Do not draw him.
+- Gynn's portrait is attached for reference only; Gynn is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

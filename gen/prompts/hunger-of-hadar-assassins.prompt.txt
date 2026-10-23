@@ -1,0 +1,23 @@
+{tone}
+This scene is a chaotic street fight against assassins.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:wroat/kal-valviers-house}
+In this moment: a crowded Wroat street outside Kal's house, its door broken in, onlookers scattering. Time and light: late afternoon, the street lamps lit.
+{maps:Wroat Street}
+
+THE MOMENT
+Lirael has cast hunger of hadar: a sphere of absolute, starless blackness has swallowed part of the street, and the assassin who ambushed them from the crowd is caught inside it, a dark-clad human half-visible in the void as unseen tentacles tear into him, bloody and screaming. At the corner of the house Click Clack, the elf police officer, hacks down the second assassin with his axe in a spray of blood. In the middle of the street The Even Hand hurls a smoke bomb at his own feet and is vanishing into the billowing smoke, slipping out of the party's ring. Down the street Kal Valvier, wounded and terrified, is running for his life.
+
+CAST
+- {cast:Lirael}
+- {cast:Click Clack}
+- {cast:The Even Hand}
+- {cast:Kal Valvier}
+- The assassins: human killers in dark, close-fitting leathers and hoods.
+
+REFERENCES
+{references}

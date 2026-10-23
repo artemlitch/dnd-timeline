@@ -1,0 +1,25 @@
+{tone}
+This scene is a grim regrouping after a defeat, with news arriving by sending stone.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the lower deck among the crates, the ship scorched and holed by the lightning rail's guns. In the middle of the floor stands a heavy arcane safe dragged off the road, its door open onto a swirling silver void of the Astral Plane. Beside it lies the body of a dead plague soldier, still in his long leather coat and beaked plague-doctor mask. Time and light: mid-afternoon, daylight through the holes in the hull and a swinging lantern.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Brand, bloodied and battered, only just healed back from unconsciousness by Sazed, holds up a glowing sending stone in his palm. Paxon is not physically there: he appears only as a small, faint, translucent apparition of his head and shoulders rising from the stone's glow, speaking urgently, telling them Lirael and his mother are being arrested on bogus charges and that the train runs on a black-booked line. Sazed kneels by the open safe, looking from the astral void to the stone. Felicia Jr sits hunched on a crate, white-knuckled and barely holding on, her mother and brother both taken.
+
+CAST
+- {cast:Paxon} Here he appears only as the faint apparition rising from the sending stone.
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Felicia Jr}
+- The dead plague soldier: a human soldier in a long dark leather coat and a beaked plague-doctor mask, dead on the deck.
+- Lirael's portrait is attached for reference only; Lirael is not in this moment. Do not draw him.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,26 @@
+{tone}
+This scene is a tense search where the hunters miss their quarry by inches.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:marabor/abandoned-house}
+{setting:marabor/grails-cellar}
+In this moment: the inside of the abandoned house, shown as a cutaway down through the floor. The cellar hatch in the floor stands open. Time and light: night, lit by the guards' lanterns.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Damron Pink, the guard captain, holds a lantern over the open hatch with his guards behind him. What they see is Lirael's illusion: a shallow, filthy crawl space heaped with rotten, sprouting potatoes. Fumble Figgins, a fat dwarf guard, kneels at the edge and reaches eagerly to grab a rotten potato to eat, and Damron catches his wrist and stops him. In the cutaway, just below the false floor of the illusion, the real cellar opens out: Grail's den, where Lirael, Brand and Sazed crouch silently in the dark, holding their breath, Lirael's fingers raised to hold the illusion.
+
+CAST
+- {cast:Damron Pink}
+- {cast:Fumble Figgins}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Gelf's portrait is attached for reference only; Gelf is not in this moment. Do not draw them.
+- Elric's portrait is attached for reference only; Elric is not in this moment. Do not draw them.
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is the discovery of a forgotten tomb at the end of a secret teleporter.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:tomb-of-centarrel/soldiers-graves}
+In this moment: the edge of the graves, beside the teleportation circle. The headstone inscriptions are worn and not legible. Time and light: midnight, underground, lit by the fading glow of the teleportation circle the party has just arrived on.
+{maps:Tomb of Centarrel 3}
+
+THE MOMENT
+Lirael, Brand and Sazed step off the glowing teleportation circle into the tomb, having duplicated Paxon's portrait to slip through his secret teleporter. They stand at the edge of the graves, staring out at the rows of soldiers' headstones circling the great dragon skeleton, the dead of the Dragons of Centarrel and the Brelish soldiers who killed them, all buried in the same week the walls of Wroat fell. Sazed crouches by one headstone, brushing dust off it; Brand raises a hand toward the dragon bones in awe.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

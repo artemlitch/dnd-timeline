@@ -1,0 +1,23 @@
+{tone}
+This scene is a killing in a dark village lane: a fleeing woman shot in the back.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: the lane outside the shared Sentinel house. The house's front door hangs open, light from the main room spilling out. A short way down the lane, the windows of Clockwork's workshop are just lighting up. Time and light: about three in the morning, lit only by the open doorway and the workshop windows.
+{maps:Gelf, Elric & Screechs House#3|Hobbstweedle Village}
+
+THE MOMENT
+Bellatrix Snaggletooth, an adult dragonborn woman, has just escaped from the bag. She was asleep in Gelf's bed minutes ago and wears only a bedsheet clutched around her. She runs barefoot down the lane, screaming, already badly cut up and bleeding from Elric's attacks. Screech, a small halfling, stands in the lane behind her with his sidearm raised and fires into her back: the shot hits between her shoulder blades in a burst of blood and she pitches forward, dying, her hand reaching toward the lit workshop. Elric runs out of the doorway behind Screech, blade drawn and bloody. Both men are possessed by the Dreamweaver: their faces are calm and empty, with no anger and no hurry. Far down the lane, Clockwork, a tall warforged, stands in his lit workshop doorway, turning toward the scream.
+
+CAST
+- {cast:Bellatrix}
+- {cast:Screech}
+- {cast:Elric}
+- {cast:Clockwork}
+- Gelf's portrait is attached for reference only; Gelf is not in this moment. Do not draw them.
+
+REFERENCES
+{references}

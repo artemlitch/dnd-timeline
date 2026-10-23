@@ -1,0 +1,22 @@
+{tone}
+This scene is a frank conversation between an old soldier and his commander, on a grim morning.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/dining-room}
+In this moment: the party's dining room. A hulking brass clockwork Defender construct stands guard by the door. The Major has just come to the house in person to tell them that Bellatrix, a woman they were protecting, was murdered in the night. Time and light: late morning, daylight through the windows.
+{maps:Home Base}
+
+THE MOMENT
+Brand, the old dwarf in his power armor, stands with his arms folded and tells Major Blazehelm plainly that he does not trust Paxon. Blazehelm, standing across the table from him, answers with a tired, rueful half-smile and a raised hand, telling how Paxon annoyed the military until it hired him, even landing in prison along the way: yes, Paxon is annoying, but he believes in them.
+
+CAST
+- {cast:Brand}
+- {cast:Blazehelm}
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+- Clockwork Defender: a hulking, round-bodied brass clockwork construct with a single glowing orange eye-core and heavy riveted plating.
+
+REFERENCES
+{references}

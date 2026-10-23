@@ -1,0 +1,24 @@
+{tone}
+This scene is a training obstacle course where one recruit has turned into a shark.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the rough-water section of the course, straw training dummies on posts sticking up out of the water. No party, crowd or music here, only recruits at training. Time and light: daytime.
+{maps:Obstacle Course}
+
+THE MOMENT
+Keys has turned himself into a shark: a big grey reef shark tearing up the channel, dorsal fin and back cutting through the surface in a long wake, leaving everyone behind. Behind him Brand, in his heavy brass-and-steel power armor, trudges chest-deep through the water, grim and tense, a dwarf who has just developed a fear of water, swinging an armored fist at a dummy as he wades. The other recruits wade after him and hack at the dummies as they go: the drow Sheldor, the red-bearded dwarf Sorenson, the huge tattooed half-orc Leff, and Tauren with his greataxe held over his head.
+
+CAST
+- {cast:Keys} In this moment he is NOT in his dwarf form: he is a big grey reef shark.
+- {cast:Brand}
+- Sheldor: a slender male drow with dark grey-blue skin and long straight white hair, in black leather armour.
+- Sorenson: a stout dwarf with a big red beard and red hair.
+- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
+- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
+
+REFERENCES
+{references}

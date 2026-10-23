@@ -1,0 +1,23 @@
+{tone}
+This scene is a hushed, painful conversation at dawn in a young woman's bedroom.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/kel-house}
+In this moment: Xera's second-floor bedroom in the Kel house. The window Lirael climbed in through stands open behind them. Time and light: dawn, the first light coming through the window.
+{maps:Kel Upstairs 2}
+
+THE MOMENT
+Lirael has just told Xera that Turckle is dead, and Neer and Elk with him, killed by demons who wanted to use his sister as a vessel for the Fury. Xera, hastily dressed after being woken at her window, stands stricken, one hand at her mouth. With the other she holds out her pendant necklace to Lirael, the one that came to her in an unaddressed letter a year ago, which he has told her is dangerous. Lirael, still in his coat and breathless from the climb, reaches for it, his face grave.
+
+CAST
+- {cast:Lirael}
+- {cast:Xera}
+- Turckle's portrait is attached for reference only; Turckle is not in this moment (he is dead). Do not draw him.
+- Neer's portrait is attached for reference only; Neer is not in this moment (she is dead). Do not draw her.
+- Elk's portrait is attached for reference only; Elk is not in this moment (he is dead). Do not draw him.
+
+REFERENCES
+{references}

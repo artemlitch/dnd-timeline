@@ -1,0 +1,22 @@
+{tone}
+This scene is a moment of discovery over an ancient artifact, amid petty hostility.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: a war room table cleared for study. Time and light: morning, daylight through the windows.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+On the table stands Lirael Sr's obelisk, a narrow statue of polished black stone small enough to carry in a book bag, carved all over with strange ancient runes. Lirael bends over it with a heavy old book Paxon gave him open beside it, one finger tracing a single carved rune as he decodes it: the rune for dream, glowing faintly under his touch (a symbol, not letters). Paxon stands at his shoulder with his arms crossed, thoroughly annoyed at being bothered. Brand glares at Paxon from the other side of the table, bristling at something he just said. In the background, unnoticed by Paxon, Sazed slips a thick regiment file inside his coat.
+
+CAST
+- {cast:Lirael}
+- {cast:Paxon}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

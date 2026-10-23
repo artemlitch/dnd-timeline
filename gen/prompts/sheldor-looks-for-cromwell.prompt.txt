@@ -1,0 +1,24 @@
+{tone}
+This scene is an awkward confession in front of a burning prison, with the undead still falling.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/gate-and-walls}
+In this moment: the prison has not exploded yet. Its entrance belches flame and black smoke, the cellblock behind it burning floor by floor, and destroyed zombies lie heaped on the ground. Near the gate the elf Thaldamir lies on his back with a broken leg, his face wet with spit. Freed survivors are drifting down off the smoking roof on a feather fall spell. Time and light: evening, dark, lit by the fire of the burning prison.
+{maps:Prison Gate}
+
+THE MOMENT
+Sheldor Higgins has just come charging out of the flaming prison entrance, cutting down the last zombies in his way, a ragged column of freed prisoners stumbling out of the smoke behind him. He stops short, scanning the faces, shouting for his friend Cromwell. Lirael steps up to him, sheepish, one hand raised, admitting it was him on the sending stone all along. Sheldor glares at him, unhappy and betrayed. Behind Lirael, Brand in his power armor and Sazed in torn prison fatigues watch, exhausted and filthy from the battle.
+
+CAST
+- {cast:Sheldor}
+- {cast:Lirael} Here he wears drab, filthy prison fatigues, not his Sentinel coat.
+- Brand: a 150-year-old male dwarf, short, stocky and broad, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit with a glowing holy core.
+- Sazed: a lean male shifter monk of about 45, very hairy but with an ordinary human face and normal human ears, wild swept-back dark reddish-brown hair, heavy sideburns and a rough beard, small round spectacles; here in torn drab prison fatigues, holding a quarterstaff.
+- Thaldamir: a male elf gang leader with long hair, in prison fatigues, lying hurt on the ground.
+- Cromwell's portrait is attached for reference only; Cromwell is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

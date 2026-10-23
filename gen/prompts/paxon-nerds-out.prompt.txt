@@ -1,0 +1,23 @@
+{tone}
+This scene is an excited history lecture over whiskey, half the room won over and half not.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion}
+In this moment: a side room off the mansion's main hall, half-empty glasses of Blazehelm's whiskey on the low table next to Lirael's napkin sketch of the broken teleportation circle. Time and light: late afternoon going into dusk, lamps just lit.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Paxon stands at the table with a heavy old book on ancient teleportation spread open, its pages showing diagrams of ancient circles, one hand tapping the page and the other held up mid-lecture, flushed with excitement. Brand and Sazed lean in over the book, interested, starting to think he is actually kind of cool. Lirael and Gelf slump back on the couch side by side, Gelf rolling his eyes and Lirael with his head tipped back, plainly annoyed.
+
+CAST
+- {cast:Paxon}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Gelf}
+
+REFERENCES
+{references}

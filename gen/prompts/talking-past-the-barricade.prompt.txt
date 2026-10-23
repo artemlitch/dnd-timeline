@@ -1,0 +1,23 @@
+{tone}
+This scene is a bluff at a barricade, escaped convicts talking their way past frightened officers during a riot.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/officer-cafeteria-and-lounge}
+In this moment: the doorway of the officers' cafeteria is blocked by a barricade of overturned tables, chairs and benches piled to chest height. Behind it a handful of frightened young officers in Brelish uniforms crouch with crossbows and drawn swords, white-faced and shaking. The corridor outside is littered with the debris of the riot. Time and light: night, dim lamplight.
+{maps:Prison Level 1}
+
+THE MOMENT
+Lirael, a young drow in drab grey prison fatigues (not his usual black coat), stands in front of the barricade with his hands spread, speaking calmly and confidently, insisting that he and his companions are officers too. Elric, in his guard's helmet and tabard, stands beside him vouching for them. Behind them Brand and Sazed, also in prison fatigues, try to look like officers. The young officers peer over the tables, crossbows wavering, beginning to lower them.
+
+CAST
+- {cast:Lirael}
+- {cast:Elric}
+- Brand: a 150-year-old dwarf with a long grey-white beard and wild grey hair, short, stocky and broad; here in drab grey prison fatigues, without his armor.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles; here in drab grey prison fatigues.
+- Young officers: four or five frightened young human men and women in Brelish officers' uniforms.
+
+REFERENCES
+{references}

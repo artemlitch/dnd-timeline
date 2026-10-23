@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet, heavy revelation across a feast table in the middle of a party.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:blazehelms-mansion/main-hall}
+In this moment: the long feast table is crowded with the remains of a five-course dinner, empty plates, bottles and glasses, with a drink poured out on the floor for the party's dead friends. Behind them the hall is packed with drunk, celebrating Sentinels. Time and light: night, lit by the hall's lamps and candles on the table.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Major Blazehelm sits beside Brand at the feast table and tells him the truth about his treason conviction: the case against him fell apart, and the King, who knew Brand as a boy, sends his apologies. Brand, the old dwarf in his power armor, has gone completely still, a half-raised tankard forgotten in his armored hand, his eyes wet above his long grey-white beard after more than a hundred years of service and decades in prison. Blazehelm rests a steady hand on Brand's armored shoulder.
+
+CAST
+- {cast:Brand}
+- {cast:Blazehelm}
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

@@ -1,0 +1,24 @@
+{tone}
+This scene is an arrival: a ragtag crew walking into their new home for the first time.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/hobbstweedle-airfield}
+{setting:party-house}
+In this moment: the party's newly renamed airship, the Moonwatch, large in the frame and drawn exactly as its cast line and reference describe (a wooden hull with batwing sails out to the sides like fins, blue elemental flame trailing from its stern ring), has just set down on its landing gear on the airfield, its gangway lowered. Sentinels in black uniforms and off-duty clothes drink in the village lanes. Time and light: evening, just after landing, the last daylight, lit windows in the village.
+{maps:Hobbstweedle Village}
+
+THE MOMENT
+Major Blazehelm, in full plate with his red cloak, leads the three new recruits down the gangway path from the Moonwatch into the village, one arm raised to point out their new house, its door open and lamplight inside, where a pouch of gold and fresh clothes for each of them are waiting. Brand clanks along in his power armor, Sazed walks warily at the back, still uneasy after the flight, and Lirael takes in the village with open curiosity. A couple of off-duty Sentinels raise their bottles to the newcomers.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

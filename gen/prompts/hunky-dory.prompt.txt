@@ -1,0 +1,23 @@
+{tone}
+This scene is a bluff collapsing at the front door as constructs smash through the back.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: the main room of the shared house, food and broken dishes strewn everywhere to look like an imp raid, Gelf's bedroom door standing open on an empty bed and an open window. Through the front windows an alarm light flashes from Clockwork's workshop down the lane. Time and light: about five in the morning, still dark outside, lamps on inside.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+At the front door stands Brand, magically disguised to look exactly like Gelf: draw this figure as Gelf, with only the faint shimmer of a disguise spell around him. He has just answered Clockwork's codeword wrong. Clockwork, a tall warforged, stands on the doorstep with two half-repaired warforged enforcers behind him, plates missing and wiring showing. Something has shifted behind Clockwork's eyes. At that exact instant the back door of the house explodes inward in splinters as a hulking clockwork defender, half its armor still unfitted, and a warforged spellcaster burst into the room. Screech, a small halfling, and Elric, both possessed and blank-eyed, spin toward the back door.
+
+CAST
+- {cast:Brand} In this moment he is fully disguised as Gelf, so his own face and armor are not visible: draw him as Gelf.
+- {cast:Gelf} The disguised Brand at the door looks exactly like this; the real Gelf is not in this moment.
+- {cast:Clockwork}
+- {cast:Screech}
+- {cast:Elric}
+
+REFERENCES
+{references}

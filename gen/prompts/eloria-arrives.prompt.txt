@@ -1,0 +1,30 @@
+{tone}
+This scene is a nervous, happy reunion on a busy airfield.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/ardev-landing-field}
+In this moment: a grey Brelish military transport airship has just set down on the field, its gangway lowered. Beside it sits the Moonwatch, battle-damaged, with a repair race under way along both of its sides: crews hammering new armor plates onto the hull from stern toward bow, ladders, tools and stacks of steel plating on the ground. Time and light: midday, daylight.
+{maps:Ardev}
+
+THE MOMENT
+Eloria, the Sentinel cleric, has just stepped off the military transport, a travel bag over her shoulder. She is elated that everyone is more or less okay and has thrown her arms around Sazed in a hug. Sazed, who has been nervously preparing for her arrival all morning, stands stiff and flustered in her embrace, hands hovering, not sure where to put them. Next to them Felicia Jr, Lirael's sister, who was told to help Sazed get ready and had no idea how, hovers awkwardly, waiting to be introduced. Behind them along the Moonwatch's hull the repair race is in full swing: on one side Screech the halfling pilot, Beezel transformed into a huge gorilla hauling armor plates, and Jeff the frog-man; on the other side Brand, Sorenson and Jazz, with Brokk Broadhelm muscling in with his brass gauntlet to show his uncle how it is really done. Lirael leans on the Moonwatch's rail above, watching the reunion.
+
+CAST
+- {cast:Eloria}
+- {cast:Sazed}
+- {cast:Felicia Jr}
+- {cast:Lirael}
+- {cast:Screech}
+- {cast:Beezel} Here he has wild-shaped into a huge black-furred gorilla.
+- {cast:Jeff}
+- {cast:Brand}
+- {cast:Sorenson}
+- {cast:Jazz}
+- {cast:Brokk}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is a bitter family argument in a crowded tavern.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: the busy main room of the bar, tables full of townsfolk, Xera working alone behind the bar and run off her feet. Time and light: evening, lamplight.
+{maps:The Turckle and Churckle}
+
+THE MOMENT
+Lirael has finally tried to talk to his sister, and it has gone badly. Felicia Jr, in her barmaid's apron, has turned her back on him and is storming toward the door, her face streaked with angry tears, furious that he left her when she needed him. Lirael stands by a table, one hand half raised after her, stunned. Turckle, the dwarf barkeep, is hurrying after Felicia with an arm out to comfort her and take her home, throwing Lirael a sad look over his shoulder. Behind the bar, Xera watches it all, and Neebus, the parrot-folk cook, pokes his head out through the kitchen door to come and help her.
+
+CAST
+- {cast:Lirael}
+- {cast:Felicia Jr}
+- {cast:Turckle}
+- {cast:Xera}
+- {cast:Neebus}
+
+REFERENCES
+{references}

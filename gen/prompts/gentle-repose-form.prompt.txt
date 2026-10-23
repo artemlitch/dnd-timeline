@@ -1,0 +1,25 @@
+{tone}
+This scene is a quiet, conspiratorial morning conversation over coffee.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/elorias-house}
+In this moment: the main room of Eloria's house. A kitchen table is set with a pot of coffee, a pot of tea and mismatched cups for her guests. Against the far wall is her roommate's workbench, covered in the brass and steel parts of a half-assembled airship compressor. Time and light: early morning, dawn light through the windows and a lamp still lit on the table.
+{maps:Eloria and Eleanors House}
+
+THE MOMENT
+The party has come to ask how to save their friend Kal, who was beheaded by an assassin the day before. Eloria sits across the table from Lirael, Brand and Sazed with a cup of tea. There are no diamonds left for a resurrection, so she slides an official military form across the table to them with one finger, eyebrows raised, telling them it is a form they definitely "shouldn't" fill out and definitely "shouldn't" take over Paxon's head. Lirael, haggard and grieving, stares at the form; Brand frowns at it; Sazed sips his coffee. Behind them, Eleanor, her roommate, is bent over the compressor on her workbench with a wrench, goggles down, paying them almost no attention.
+
+CAST
+- {cast:Eloria}
+- {cast:Eleanor}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+- Kal Valvier's portrait is attached for reference only; Kal is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

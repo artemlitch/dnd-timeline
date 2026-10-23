@@ -1,0 +1,29 @@
+{tone}
+This scene is an awkward, angry welcome at the foot of an airship's gangway.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/ardev-landing-field}
+In this moment: the Moonwatch has just set down on the field, holed and scorched from the train battle, its gangway lowered. Mercenaries loiter at the edge of the field. Time and light: early evening at dusk, lanterns lit on the ship and on the field.
+{maps:Ardev}
+
+THE MOMENT
+The party staggers down the gangway after a day of horrors to find two people waiting with their arms crossed. Barry Baritone, a big brass construct whose body is built from brass instruments, and Brokk Broadhelm, a red-bearded Cannith dwarf with a crackling brass gauntlet, are furious: Sorenson missed his recording session with Barry for the opening of the House Cannith studio, and now Thaddeus Cannith has had to push his speech back a day. Brokk jabs a finger up at Sorenson; Barry looms, orange eyes glowing. Sorenson stands halfway down the gangway, sheepish, mandolin on his back, shaking his head: he cannot record now. Behind him Lirael, Brand and Sazed look on, worn out and bloodstained. At the same moment, at the side of the gangway, Brand plants a boot in the back of Filgar, a scruffy rat-man, and shoves him off the ship onto the ground, where he scrambles away toward town. Along the ship's rail above, a group of rescued shifter children peer down, with Skye among them.
+
+CAST
+- {cast:Barry Baritone}
+- {cast:Brokk}
+- {cast:Sorenson}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Filgar}
+- {cast:Skye}
+- The shifter children: young children of Skye's village, tan-skinned with wild hair, pointed ears and short tufted tails, in rough homespun clothes.
+- Thaddeus Cannith's portrait is attached for reference only; Thaddeus is not in this moment. Do not draw him.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

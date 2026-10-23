@@ -1,0 +1,22 @@
+{tone}
+This scene is a brutal street ambush.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/ardev-cemetery}
+In this moment: the bodies and snipers come later in the day. Right now a column of black smoke rises behind the cemetery from the house the plague-masked men just set alight.
+Time and light: early morning.
+
+THE MOMENT
+At the cemetery gate into upper Ardev, the mercenary captain Ellis springs his ambush. Lirael, a young male drow, was running with Xera when Ellis's wizard cast a hold-person spell on him: Lirael is frozen rigid mid-stride, wrapped in faint crackling magical bindings, unable to raise his hands or even flinch. Ellis is beating the helpless Lirael bloody with his fists. Show it brutally: Lirael's face split and swollen, blood streaming from his nose and mouth, spattered across Ellis's knuckles, the grass and the nearest headstone. Ellis grins as he swings, enjoying it. Ellis's wizard stands clearly in view a few paces behind him, the second most prominent figure after Ellis and Lirael: a gaunt mercenary spellcaster in a long dark robe over a Dragons Claw leather harness, one arm thrust out toward Lirael, fingers splayed, his hand blazing with the same magical light as the bindings, and a visible stream of that crackling energy running from his palm to the bindings around Lirael. His face is lit from below by the spell, strained with concentration. Xera, a young female drow, is seized from behind by a mercenary, screaming and struggling, reaching toward Lirael.
+
+CAST
+- Ellis: a grinning, weathered human mercenary captain of the Dragons Claw, stubbled beard, green wide-brimmed hat with a brass badge, green coat with leather straps.
+- {cast:Lirael}
+- Xera: a young female drow with dark grey skin, long wavy white hair, pale blue eyes, choker with a star pendant, cream blouse with dark flame patterns under a dark wrap dress.
+- The wizard (robed spellcaster, described above) and the mercenary holding Xera are unnamed Dragons Claw mercenaries.
+
+REFERENCES
+{references}

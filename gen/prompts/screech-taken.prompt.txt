@@ -1,0 +1,22 @@
+{tone}
+This scene is a silent abduction in a dark bedroom.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: Screech's small bedroom, the blankets torn off the bed. A magical silence fills the room: no sound at all. Through the open bedroom door, the main room and its kitchen are visible, where food is floating off the shelves and vanishing into the air, carried by four invisible imps that show only as faint shimmering, imp-shaped ripples in the air. Time and light: the middle of a night, lit only by a little moonlight through the window and a lamp left on in the main room.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+Brand and Elric, both possessed by the Dreamweaver, move with blank, slack, expressionless faces. Brand pins the struggling Screech, in his nightclothes, down on the floor with his full weight. Elric holds open the mouth of a plain sack, the bag of devouring, whose opening shows nothing inside but a black void, and is shoving Screech in head first. Screech's mouth is wide open, screaming, but no sound comes out.
+
+CAST
+- {cast:Brand}
+- {cast:Elric}
+- {cast:Screech}
+- The imps: small winged devils, invisible here, seen only as faint shimmering outlines stealing food.
+
+REFERENCES
+{references}

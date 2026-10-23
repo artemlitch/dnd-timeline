@@ -1,0 +1,22 @@
+{tone}
+This scene is a crew breakfast on an airship.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/galley}
+In this moment: the crew is crowded around the galley table for a late breakfast. On the counter stands Dandy's finished tea machine, a ridiculous contraption of copper pipes, gauges, cranks and a sputtering little combustion engine, pouring tea into cups. Time and light: morning daylight through the portholes and the ship's lamps.
+
+THE MOMENT
+Dandy, the gnome cook, stands beside his tea machine with his arms folded, triumphant, sure he has shown everyone what real culinary art is. Everyone who has drunk the tea is hearing squirrels insult them: show the voices as small, faint, ghostly squirrels perched on the rims of the cups and on people's shoulders, jeering and pointing. Brand freezes with his cup halfway down. Sazed sets his cup aside, looking patiently at Dandy. Skye, a ten-year-old shifter girl, has her face smeared with far too much garish, bright makeup, like a child who raided a dressing table, and the crew has just pointed it out; she is getting up from the table to go wash it off. Zenya sits beside her with a makeup brush still in hand.
+
+CAST
+- {cast:Dandy}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Skye}
+- {cast:Zenya}
+
+REFERENCES
+{references}

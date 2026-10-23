@@ -1,0 +1,25 @@
+{tone}
+This scene is a secret planning session in a war room, just after a rescue from a nightmare.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the upstairs war room, with couches along one side where people were put under shared dream spells. On them, the freed Sentinels are sitting up groggy and pale after their minds were won back from the Dreamweaver. Eloria, the cleric, is checking one of them over, and Sazed, an elegant stethoscope around his neck, double-checks her work. A map of Hobbstweedle lies on the table with a circle drawn at its centre for the podium. Personal guards stand at the door. Time and light: evening, lamplit.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+Major Blazehelm stands at the head of the table, having just made Lirael, Brand and Sazed his personal guard, answering to him alone; his finger rests on the circle in the middle of the village map where he will give his speech. Beside him Clockwork, the warforged artificer, gestures toward the door, where a hulking brass clockwork Defender stoops under the frame: the same construct the party once fought, its plating still dented and half-repaired, now handed over to guard their house while they sleep. Lirael and Brand look up at it warily.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Clockwork}
+- Clockwork Defender: a hulking, round-bodied brass clockwork construct with a single glowing orange eye-core and heavy riveted plating, dented and half-repaired.
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in a black Sentinel coat.
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- Eloria: a blue-skinned tiefling cleric with small curled horns, golden eyes, a golden sun mark on her forehead, long dark hair with a white streak, a thin tail, white-and-gold robes, a white fur mantle and a golden sun pendant.
+
+REFERENCES
+{references}

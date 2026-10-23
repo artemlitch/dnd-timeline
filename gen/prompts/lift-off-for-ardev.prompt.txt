@@ -1,0 +1,24 @@
+{tone}
+This scene is a terrible first attempt at flying an airship.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/flight-deck}
+{setting:hobbstweedle}
+In this moment: just after lift-off from Hobbstweedle, the village and its airfield tilting steeply below the rail. The deck is lurching hard to one side, loose crates sliding, ropes swinging. Time and light: afternoon.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Lirael has his first turn at the helm and is flying horribly: he wrenches the ship's wheel with both hands, eyes wide, and the Moonwatch banks and dips violently. Beezel, the small halfling helmsman, clings to the wheel post beside him, grimacing and reaching to grab the wheel back. Sazed braces against the rail with a sheaf of charts and a compass clutched to his chest, already set on plotting the course himself. Brand, in his power armor, has been thrown against the hatch to the engine below, gripping it with one armored hand, shouting up at Lirael.
+
+CAST
+- {cast:Lirael}
+- {cast:Beezel}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

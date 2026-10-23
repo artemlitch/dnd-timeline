@@ -1,0 +1,26 @@
+{tone}
+This scene is a massive explosion in a city street, the instant everything goes wrong.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:wroat/gauss-hogs-house}
+In this moment: the crossroads in front of Gauss Hog's house, carts and townsfolk in the road. Time and light: early afternoon, daylight and the fireball of the blast.
+{maps:Exploding House}
+
+THE MOMENT
+Gauss Hog's house blows apart in a huge explosion: a ball of fire and black smoke erupts through its roof and windows, beams, roof tiles, glass and burning furniture flying out across the street. The shockwave hurls Sazed off his feet in the road in front of it, together with the uniformed military police officer who was sent to bring Gauss Hog in, both of them thrown flat on the cobbles. Down the other street a carriage comes racing toward the blast: Tauren drives the horses, Leff rides shotgun beside him, Lirael leans out of the side, and Brand, in his power armor, stands up on the carriage roof. Brand is staring up at a rooftop across the street, where for the first time he clearly sees The Even Hand: the masked assassin stands at the roof's edge, watching the blast, already turning to run off across the rooftops.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:The Even Hand}
+- Gauss Hog's portrait is attached for reference only; Gauss Hog is not in this moment (he is not home). Do not draw him.
+- {cast:Tauren}
+- {cast:Leff}
+- The police officer is an unnamed Wroat military police beat cop in uniform.
+
+REFERENCES
+{references}

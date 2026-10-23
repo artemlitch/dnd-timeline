@@ -1,0 +1,24 @@
+{tone}
+This scene is a joyful homecoming in a hidden village.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hearthsfire/hearthsfire-entrance}
+In this moment: just inside the hidden village. Villagers have come out of their homes to watch. Time and light: late at night, lit by the village's hearth fires.
+{maps:Hearthsfire}
+
+THE MOMENT
+The eight small orphans of Stones Throw, two to five years old, are running and throwing themselves at Fang, the shifter guard, who has dropped to his knees to catch them all in his arms, near tears. He never expected to see them again. Sazed stands a little behind, having brought them here, with Skye beside him, watchful and guarded. Falken, the village elder, hurries up, overjoyed, reaching for Sazed. The watching villagers' suspicion is giving way to cautious hope.
+
+CAST
+- {cast:Sazed}
+- {cast:Skye}
+- {cast:Falken}
+- Carrk's portrait is attached for reference only; Carrk is not in this moment. Do not draw him.
+- Fang: a muscular young shifter man with long, wild dark brown hair with two braids, thick brows and amber eyes, a sleeveless sage-green tunic tied with a sash, dark trousers, white fur leg wraps and bronze bracers.
+- The children: eight small shifter children aged two to five, with tousled hair, slightly pointed ears and big amber eyes, in ragged, dirty clothes.
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is a group of escaped prisoners splitting up at a guarded mine entrance.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:marabor/mine-entrance}
+In this moment: the mine entrance, with the horses and carriages taken from the prison standing outside. Inside the entrance a mine cart waits at the top of its track. Two village guards stand aside, fooled into letting them in. Time and light: afternoon.
+{maps:Mine Entrance to Mara'bor}
+
+THE MOMENT
+Halien, an escaped prisoner in drab prison fatigues, plants himself at the mine entrance with a weapon, taking up guard. Elric, in his guard's uniform, waves Lirael, Brand and Sazed into the mine cart; Lirael and Sazed are still in drab prison fatigues, Brand in his power armor. Behind them, down the road, the rest of the freed prisoners walk away where Halien sent them: a muscular young man with a pompadour, a huge grey tattooed brute in striped shorts, a red-bearded dwarf one-man band, a black-bearded dwarf with braids, a nervous record keeper clutching papers, and a wooden chest that walks along on its own, a mimic.
+
+CAST
+- {cast:Gelf} Here he is undercover as the prisoner Halien, in drab prison fatigues.
+- {cast:Elric}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

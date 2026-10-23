@@ -1,0 +1,23 @@
+{tone}
+This scene is a wounded spy found hiding in a ransacked house, collecting on a bet.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/elrics-house}
+In this moment: Elric's house has been ransacked, drawers pulled out, furniture tossed, papers on the floor. In the bedroom closet the back wall stands open as a secret door onto a small hidden space. Time and light: night, about nine, one lamp.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Gelf sits slumped in the hidden space behind the closet, hurt: his clothes are eaten away in patches and his skin is raw and blistered with acid burns from a gelatinous cube. He is laughing at Elric with his palm held out, and Elric, sheepish, counts coins into his hand to pay off their bet that Elric would spill the secret. Behind them, Lirael, Brand and Sazed carry in what looks like a large wooden crate; it is Lirael's illusion, and a guard's boot pokes through one flickering side, because the crate is really two sleeping, bound prison guards.
+
+CAST
+- {cast:Gelf}
+- {cast:Elric}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

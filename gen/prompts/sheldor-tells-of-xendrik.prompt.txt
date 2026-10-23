@@ -1,0 +1,24 @@
+{tone}
+This scene is a warm supper-table conversation between a drow and a shifter.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/dining-room}
+In this moment: the trap test is over and the house is back in order, the gnome cleaners just finished. The table is crowded with housemates, bowls of stew, bread and mugs of ale. Time and light: evening, lamps and candles on the table.
+{maps:Home Base}
+
+THE MOMENT
+At supper Sheldor, the drow, sits across the table from Sazed and leans in, telling him about Xen'drik, the wild jungle continent of giant ruins across the sea, his hands shaping the scale of it in the air. Sazed has his fork forgotten halfway to his mouth, listening closely, quietly thinking he might like it there. Around them the rest of the housemates eat and talk: the huge tattooed half-orc Leff in earnest conversation with Brand, the old dwarf in his power armor, Tauren and the red-bearded dwarf Sorenson.
+
+CAST
+- {cast:Sheldor}
+- {cast:Sazed}
+- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
+- Brand: a 150-year-old male dwarf, short, stocky and broad, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit.
+- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
+- Sorenson: a stout dwarf with a big red beard and red hair.
+
+REFERENCES
+{references}

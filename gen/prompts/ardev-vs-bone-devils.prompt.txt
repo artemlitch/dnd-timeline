@@ -1,0 +1,33 @@
+{tone}
+This scene is a huge, chaotic town-wide battle: a whole town rising together against a monster.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:ardev/ardev-abandoned-house}
+In this moment: the abandoned house has just been torn apart from below, timbers and stone flying, a crater where it stood. The streets around it are packed with fighters and the rooftops with onlookers. Time and light: daytime.
+{maps:Ardev}
+
+THE MOMENT
+The whole of Ardev has come to fight the bone devil, enemies included, under a truce for one day. The bone devil, a towering, gaunt, skeletal fiend with bat-like wings and a barbed scorpion tail, has just burst up through the abandoned house, destroying it, and summoned a second bone devil beside it. Around them, from every side, the town attacks:
+- The Bloodsinger has turned into a huge triceratops and charges the first devil head-on, horns lowered.
+- Auntie Bees flies overhead, and a vast swirling cloud of a million bees pours from her down onto the devils like a golden storm.
+- Two weresharks, half-shark brutes, tear at the second devil.
+- The town police, led by their warforged officer, fire from behind an overturned cart; the Dragons Claw mercenaries charge in a wedge led by their dragonborn commander Morganth and the dwarf Brokk with his crackling Cannith gauntlet; druids in hides and antlers cast vines and lightning.
+- The party is at the heart of it: Brand in his glowing power armor in the front line, Sazed leaping at a devil's tail with his quarterstaff, Lirael hurling dark magic from a rooftop.
+- At the edge of the crowd, two reporters scribble notes.
+Blood, splinters and bees fill the air.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- Brokk: a stocky dwarf with a big red beard and swept-up red hair, leather and brass workshop armor, a huge glowing brass Cannith gauntlet on one arm.
+- Morganth: a red-scaled dragonborn mercenary commander with horns, in heavy plate armor and a blue cloak, wielding a great axe.
+- The Bloodsinger: a wild druid in furs with an antlered fur headdress; here mostly seen transformed into the triceratops.
+- Auntie Bees: an eccentric plump woman in a frilled yellow-and-white honeycomb dress, wide beekeeper's hat with a veil and a bee on top, round glasses, conducting golden swirls of bees.
+- Everyone else is unnamed townsfolk, police, mercenaries and druids.
+
+REFERENCES
+{references}

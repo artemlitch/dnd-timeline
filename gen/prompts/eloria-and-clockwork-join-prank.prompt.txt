@@ -1,0 +1,24 @@
+{tone}
+This scene is a conspiratorial evening recruitment for a prank.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/clockworks-shop}
+In this moment: a repaired clockwork defender stands idle in the corner. One bench has been cleared for the plan: blank official forms, ink, quills and a wax seal laid out beside a rolled scroll. No crowds and no fireworks tonight. Time and light: evening, lit by the shop's work lamps and the glow of a forge.
+{maps:Clockworks Shop}
+
+THE MOMENT
+The party is recruiting help to humiliate Paxon, the fussy chief petty officer everyone on base is tired of: they will copy his big self-portrait, draw all over the copy and hang it in the mansion's main hall. Eloria, the base's senior cleric, has just been asked to forge the paperwork and supply a scroll of facsimile, and she is thrilled to be included: grinning, leaning over the bench, already filling in a forged form with a flourish while holding up the rolled scroll of facsimile in her other hand. Beside her, Clockwork, the warforged artificer, holds out a large pot of industrial glue with a brush standing in it, his skull-like face impassive but his posture pleased and upright, a willing accomplice. Lirael and Brand lean in across the bench, and Sazed keeps watch at the shop door.
+
+CAST
+- {cast:Eloria}
+- {cast:Clockwork}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

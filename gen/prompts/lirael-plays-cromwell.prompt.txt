@@ -1,0 +1,23 @@
+{tone}
+This scene is a quiet, tense con job whispered into a hidden stone in a prison cell.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: Lirael's cell. The riot has not started yet; the cellblock is quiet and intact. A loose rock has been pulled out of the cell wall, and in the small cavity it left a crumpled little picture of a face is stuck to the stone: a bearded man in glasses with his mouth gaping wide open in exaggerated excitement. Time and light: the middle of the night, dim lamplight from the corridor falling through the bars.
+{maps:Prison Level 1}
+
+THE MOMENT
+Lirael, in drab prison fatigues, sits hunched on the lower bunk holding the loose rock from the wall up close to his mouth: the rough little stone is a sending stone, and a stranger's voice is coming through it. He has just been asked for someone called Cromwell, and he is pretending to be him: chin tucked, face screwed up as he puts on a deeper, gruffer voice, one eye on the cell door. His bunkmates Tauren and the elf Elarian lean in from the bunk above and the shadows, wide-eyed, trying not to laugh or make a sound.
+
+CAST
+- {cast:Lirael} Here he wears drab prison fatigues, not his Sentinel coat.
+- Tauren: a broad-shouldered human ex-soldier with a dark slicked-back pompadour and long sideburns, in drab prison fatigues.
+- Elarian: a slender male elf with long straight black hair, pale skin and green eyes, in drab prison fatigues.
+- Cromwell's portrait is attached for reference only; Cromwell is not in this moment. Do not draw him.
+- Sheldor's portrait is attached for reference only; Sheldor is only a voice on the far end of the stone and is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

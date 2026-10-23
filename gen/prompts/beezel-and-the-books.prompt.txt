@@ -1,0 +1,21 @@
+{tone}
+This scene is a man losing his temper at a chipmunk in his cabin aboard an airship.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: Sazed's small cabin below deck, a narrow bunk and a shelf and desk stacked with his carefully kept collection of old, well-worn books. Time and light: evening in flight, a lamp swinging gently on its hook.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Beezel, the halfling druid, has wild-shaped into a chipmunk and is scrambling through Sazed's precious books for fun, an old volume knocked open and pages crumpled under his tiny claws. Sazed, genuinely angry for once, his face hard and his spectacles askew, sweeps the chipmunk off the stack with the flat of his hand, sending it tumbling across the desk.
+
+CAST
+- {cast:Sazed}
+- {cast:Beezel} In this moment he is NOT in his halfling form: he is a small brown striped chipmunk.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,26 @@
+{tone}
+This scene is a desperate, bloody fight on a speeding train.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/train-roof-and-underside}
+In this moment: the view is from beside the speeding car, showing both its narrow roof and, through its smashed side windows, the inside of the car. Ahead, down the track, a gigantic turtle-shaped mobile fortress of stone towers looms over the line, coming closer. Overhead the Moonwatch, a sail-winged airship, is taking fire from the train's anti-airship guns. Time and light: morning daylight, the lightning of the rail crackling along the conductor stones.
+{maps:Mobile Fortress}
+
+THE MOMENT
+Inside the car, two huge brown bears, possessed, their eyes gone blank and black, have burst out of the silver astral portal in the open arcane safe and are tearing Jyo apart: one has his torso in its jaws, the other is ripping at his legs, blood sprayed across the walls and benches, Jyo's body already broken. Behind them, a beholder of the Dreamweaver is floating out of the portal. Brand fights the bears, too late. On the roof above, Cromwell lies downed and bloody while two masked agents of the Flock drag him toward the edge to push him off the speeding train. Sazed is vaulting up onto the roof toward Cromwell, hand already reaching to heal him.
+
+CAST
+- {cast:Jyo} Here: being killed by the bears.
+- {cast:Cromwell} Here: downed on the roof.
+- {cast:Sazed}
+- {cast:Brand}
+- The Flock: changeling agents disguised as plague doctors, in beaked plague masks, wide-brimmed black hats, dark capes and long coats, white gloves.
+- The bears: two huge brown bears, possessed, with blank black eyes.
+- The beholder: a floating orb-shaped aberration with one great central eye, a fanged mouth and a crown of writhing eyestalks.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

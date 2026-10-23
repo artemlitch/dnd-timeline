@@ -1,0 +1,27 @@
+{tone}
+This scene is a tense argument in a stable right after a fight, one friend acting not quite like himself.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/kitchen-and-stables}
+In this moment: the stables, with a rope-and-pulley rig hung from a beam over the Bag of Devouring, an ordinary-looking cloth sack whose open mouth swirls with a glowing blue portal. The straw floor is soaked with water, and four dead baby morkoths lie sprawled in it: purple octopus-like creatures the size of large dogs, with tentacles, fanged mouths and yellow eyes, freshly hacked and bleeding. Time and light: late at night, lanterns hanging in the stable.
+{maps:Home Base}
+
+THE MOMENT
+Sheldor, the drow, with the rescue rope still knotted round his waist, stands over the open bag and jabs a finger down into it, adamant that he is going back in for the rest of the loot. His eyes are a little too bright and reckless. Across from him Leff, Keys and Tauren, still roped, shake their heads and step back from the bag, having felt a dark presence inside it. Lirael stands slightly apart, arms folded, studying Sheldor's face closely. Brand, in his power armor, plants himself between Sheldor and the bag. A drunk Cromwell leans in the stable doorway, and the red-bearded dwarf Sorenson holds the rope with a scruffy grey dog at his feet.
+
+CAST
+- {cast:Sheldor}
+- {cast:Lirael}
+- {cast:Brand}
+- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
+- Keys: a stocky dwarf with brown skin and long black hair and beard in braids.
+- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
+- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, swaying drunk.
+- Sorenson: a stout dwarf with a big red beard and red hair.
+- Scruffy: a scruffy, skinny, shaggy grey dog.
+
+REFERENCES
+{references}

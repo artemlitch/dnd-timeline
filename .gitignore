@@ -3,8 +3,8 @@ gen/key.txt
 .wrangler/
 .DS_Store
 gen/split/
-gen/test/*
-!gen/test/*.prompt.txt
+gen/test/
+__pycache__/
 gen/regen/refcache/
 gen/world/campaign.txt
 gen/world/recap_quotes.json

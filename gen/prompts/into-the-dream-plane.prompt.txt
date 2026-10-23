@@ -1,0 +1,29 @@
+{tone}
+This scene is a spell ritual: a team being put to sleep to fight inside other people's dreams.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the war room under lockdown, maps and papers pushed aside, couches dragged into a row in the middle of the floor. Along the wall, the possessed Sentinels lie bound with rope, unconscious and bruised. The major's personal guards stand at the door. Time and light: early afternoon, daylight through the windows, lamps lit.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+Lirael, Brand, Sazed and Cromwell lie stretched out on the couches, about to go into the dreams of their possessed friends to free them. Feldor Windrake, the airship captain, and Eloria, the base cleric, stand over them with hands outstretched: their sleep spell has just taken hold and the four are slipping under, eyelids falling, Brand still gripping the arm of his couch. Now the two casters weave the dream spell, and thin threads of pale light run from the foreheads of the sleepers to the foreheads of the bound, unconscious friends against the wall, Screech, Elric, Sheldor, Charlie Trundle and Gelf, linking all their dreams together. On the sleepers' faces a shadow of dread is just beginning to show as they feel the darkness of the Dreamweaver waiting below.
+
+CAST
+- {cast:Feldor Windrake}
+- {cast:Eloria}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Cromwell}
+- {cast:Screech} Here he is unconscious and tied up.
+- {cast:Elric} Here he is unconscious and tied up.
+- {cast:Sheldor} Here he is unconscious and tied up.
+- {cast:Charlie Trundle} Here he is unconscious and tied up.
+- {cast:Gelf} Here he is unconscious and tied up.
+
+REFERENCES
+{references}

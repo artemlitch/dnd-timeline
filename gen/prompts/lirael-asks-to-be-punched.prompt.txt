@@ -1,0 +1,23 @@
+{tone}
+This scene is a man getting punched in the face on purpose, inside an airship in flight.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/galley}
+In this moment: the ship's galley and mess, a table crowded with mugs. The ship is in flight. Time and light: evening, oil lamps swinging overhead.
+
+THE MOMENT
+Lirael has asked someone, anyone, to hit him. Felicia Jr, his sister, has just obliged with a punch that did nothing at all, and she stands to one side shaking out her bandaged hand, scowling. Now it is Brand's turn, and he does not hold back: in his brass-and-steel power armor he drives an armored fist square into Lirael's face with full force. Show the instant of impact: Lirael's head snapping back, his feet leaving the floor, blood spraying from his nose and split lip, mugs flying off the table behind him. At the far end of the table, Zenya, the drow woman who has not stopped talking since she woke up, keeps chattering away, waving her hands, oblivious. In the galley doorway, Sazed and Eloria have just come back carrying trays with a teapot and cups for everyone, and both freeze, staring.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Felicia Jr}
+- {cast:Sazed}
+- {cast:Eloria}
+- {cast:Zenya}
+
+REFERENCES
+{references}

@@ -1,0 +1,26 @@
+{tone}
+This scene is a night fight between friends at a village gate.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/village-entrance-and-alleys}
+In this moment: the road into the village, at the mouth of an alley. Sentinels in nightclothes peer out of doorways and windows. Behind the rooftops a house is burning, a column of flame and smoke rising, and an alarm blares from the artificer's shop. Time and light: before dawn, lit by the glow of the burning house and a few lamps in the windows.
+{maps:Hobbstweedle Village}
+
+THE MOMENT
+Brand, possessed and exhausted, beaten and bleeding, has just healed himself and is running for the mouth of the alley. Lirael, in the middle of the road, throws out a hand with a sleep spell, and Brand is collapsing mid-stride, his eyes rolling shut, about to hit the ground face first in his power armor. Behind Lirael, Elric and Screech lie knocked out on the road, Elric's helmet off. Clockwork, the warforged artificer, kneels over them jabbing a syringe into Elric to stabilise him, while his two warforged enforcers, battered and only half repaired, stand guard. Sazed stands over the unconscious Screech with his quarterstaff. Cromwell has an arrow nocked, aimed at the alley.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Elric}
+- {cast:Screech}
+- {cast:Cromwell}
+- {cast:Clockwork}
+- The warforged enforcers: heavy constructs plated in metal and stone with crystal eyes, dented and missing plates from earlier fights.
+
+REFERENCES
+{references}

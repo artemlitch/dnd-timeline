@@ -1,0 +1,28 @@
+{tone}
+This scene is a street confrontation with the police outside a bar.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: the street outside the bar, its windows glowing and its door open. A crowd of worried townsfolk has gathered. Time and light: evening, lit by the bar's windows and the street lamps.
+{maps:Ardev Streets Night}
+
+THE MOMENT
+The Dragons Claw mercenaries are humiliated on the cobbles: their trousers are pulled down around their ankles, Ellis in white underpants covered in little hearts, and, crawling with ants they are obeying, they are down on all fours licking a spilled drink off the street. One lies knocked out cold. Lirael stands on a crate addressing the crowd about liberty, but the townsfolk look worried, not moved. Jazz has arrived and is casting detect magic, a faint glow around his hand and eyes as he sees the spell on the mercenaries, frowning hard at Lirael, who is playing innocent. Mustang stands beside Jazz, one metal hand on his shoulder, calming him down. Sazed and Brand stand near Lirael. Xera and Felicia Jr watch from the bar's doorway, and at the edge of the crowd, the reporter Grib Grimley scribbles notes, glaring.
+
+CAST
+- {cast:Lirael}
+- {cast:Jazz}
+- {cast:Mustang}
+- {cast:Ellis}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Xera}
+- {cast:Felicia Jr}
+- {cast:Grib Grimley}
+- Dragons Claw mercenaries: rough humans and half-orcs in green coats and leather armor with brass badges; here trousers down, on all fours, covered in ants.
+
+REFERENCES
+{references}

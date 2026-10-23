@@ -1,0 +1,23 @@
+{tone}
+This scene is a frantic escape out of a ransacked bedroom window.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/paxons-room-and-teleporter}
+In this moment: Paxon's fussy bedroom has been torn apart: bedding shredded, feathers drifting, papers and clothes strewn everywhere, furniture overturned. His large portrait of himself hangs swung aside on its hinge, revealing a small hidden keyhole in the wall behind, and beyond it a narrow secret doorway stands open onto a bare, unmarked room with a glowing teleportation circle on its floor. Time and light: about four in the morning, the party still going below, warm light from the mansion windows and the courtyard.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+The dead quasit, a tiny horned, bat-winged demon, dangles limp in the middle of the wrecked room from a ghostly floating spectral hand, the mage hand that Lirael used to puppet its corpse into trashing the room. Through the bedroom door Paxon is just coming down the hall. The party is already going out the window: Sazed leaps through the open casement, Brand in his heavy armor right behind him, and Lirael, half out on the sill, has cast feather fall, so the three of them drift down gently into the night towards the guests in the courtyard below.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Paxon}
+- The quasit: a tiny demon with mottled green-grey skin, small horns, bat wings and claws; here dead and limp.
+
+REFERENCES
+{references}

@@ -1,0 +1,20 @@
+{tone}
+This scene is a desperate fight to the death at the edge of an endless void.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:bag-of-devouring}
+In this moment: the ledge over the Astral Sea, by the portal back out through the mouth of the bag. Time and light: no day or night here; the glow of the portal behind them.
+{maps:Morkoth Lair}
+
+THE MOMENT
+Gelf and Brand have fought a knock-down, drag-out brawl inside the bag, and Gelf has been winning. Brand is badly hurt, his face bloody, his armor dented. Brand is possessed by the Dreamweaver: his eyes are dead and blank, his face slack, while inside he screams. In one last desperate lunge Brand throws his whole weight forward and shoves Gelf off the edge of the ledge. Gelf, barefoot and half-dressed from the bed he was dragged out of, bloodied, tumbles backwards off the rock into the void, already starting to drift weightlessly away, one hand still reaching back and his face twisted in fury, roaring that he will kick Brand's ass.
+
+CAST
+- {cast:Brand}
+- {cast:Gelf}
+
+REFERENCES
+{references}

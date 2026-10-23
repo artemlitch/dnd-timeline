@@ -1,0 +1,3602 @@
+{
+ "wizard-and-the-raven": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "train-to-darkwood": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "fresh-fish-at-the-gates": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bloodworth-takes-their-treasures": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sending-stone-in-the-wall": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "thaldamir-snaps-his-fingers": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sazed-tortured-by-bloodworth": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "halien-talks-with-elric": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:48"
+  },
+  {
+   "version": 3,
+   "file": "site/img/halien-talks-with-elric.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/halien-talks-with-elric.prompt.txt",
+   "cost": 0.034704,
+   "at": "2026-10-23T09:55:36"
+  }
+ ],
+ "lirael-plays-cromwell": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "newbie-night": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "initiation-night": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-alarm-is-pulled": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "snatched-off-the-ledge": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sazed-breaks-out-swinging": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "shmem-gorgis-dies": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "byll-and-cyriel-spared": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sorenson-gets-the-tuba": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "saving-elric-galen": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:07"
+  }
+ ],
+ "zombie-bloodworth-in-the-pit": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "rex-and-thaldamir-gang-war": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "cutting-the-pit-elevator": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "lirael-plays-both-sides": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "talking-past-the-barricade": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:10"
+  }
+ ],
+ "wardens-secret": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "erald-names-the-necromancer": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "thaldamir-begs-for-his-life": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-suits-up": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "nightmares-in-the-mirror": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "chester-the-mimic": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-cafeteria-rescue": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "out-through-the-broken-wall": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "grail-rises": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-horde-overwhelms-brand": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-kills-grail": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "grails-final-form": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "grails-meat-shield": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "lirael-pleads-with-damron": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bloodworth-dies-a-third-time": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "grails-lieutenants-fall": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "grail-falls": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mourning-the-fallen": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "down-from-the-roof": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sheldor-looks-for-cromwell": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "grails-necklace": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ddt-note": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "darkwood-explodes": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "damrons-ultimatum": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sheldor-and-the-snel-katar": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bluffing-the-mine-guards": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "halien-stands-watch": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:46"
+  }
+ ],
+ "wild-cart-ride": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:10"
+  }
+ ],
+ "elrics-supper": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:09"
+  }
+ ],
+ "elric-reveals-sentinels": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:42"
+  },
+  {
+   "version": 3,
+   "file": "site/img/elric-reveals-sentinels.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/elric-reveals-sentinels.prompt.txt",
+   "cost": 0.03560575,
+   "at": "2026-10-23T09:55:36"
+  }
+ ],
+ "brand-and-the-old-king": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ddt-and-the-dragonmarks": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "elric-throws-a-spoon": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:08"
+  }
+ ],
+ "verona-sharpes-tea": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "spying-on-damron": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "luring-spingel-and-joerick": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ambush-at-the-abandoned-house": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "grails-cellar": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "calling-grails-brother": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bag-of-devouring": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gelf-in-the-closet": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:42"
+  },
+  {
+   "version": 3,
+   "file": "site/img/gelf-in-the-closet.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/gelf-in-the-closet.prompt.txt",
+   "cost": 0.03561475,
+   "at": "2026-10-23T09:55:31"
+  }
+ ],
+ "gelf-tells-all": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:45"
+  },
+  {
+   "version": 3,
+   "file": "site/img/gelf-tells-all.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/gelf-tells-all.prompt.txt",
+   "cost": 0.03560625,
+   "at": "2026-10-23T09:55:35"
+  }
+ ],
+ "rotten-potatoes": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:29"
+  },
+  {
+   "version": 3,
+   "file": "site/img/rotten-potatoes.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/rotten-potatoes.prompt.txt",
+   "cost": 0.036192,
+   "at": "2026-10-23T09:55:08"
+  }
+ ],
+ "grails-brother-arrives": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "kicked-down-the-hatch": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-brother-dies-to-rise": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gelion-into-the-bag": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "marabor-abandoned": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "something-in-the-clouds": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "paxon-in-the-clearing": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:55"
+  }
+ ],
+ "the-kingsblade": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:41"
+  },
+  {
+   "version": 3,
+   "file": "site/img/the-kingsblade.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-kingsblade.prompt.txt",
+   "cost": 0.035897,
+   "at": "2026-10-23T09:55:23"
+  }
+ ],
+ "the-sentinels-explained": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:03"
+  }
+ ],
+ "prison-was-a-sentinel-trial": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:03"
+  }
+ ],
+ "grimdells-and-house-thuranni": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:59"
+  }
+ ],
+ "blazehelms-offers": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:05"
+  }
+ ],
+ "maiden-voyage-feast": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "tour-of-the-kingsblade": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:27"
+  }
+ ],
+ "mission-against-killian-gavrin": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:12"
+  }
+ ],
+ "sazed-confides-in-nedira": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sazeds-nightmare": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "liraels-nightmare": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brands-nightmare": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "found-you": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "blazehelms-whiskey": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:08"
+  }
+ ],
+ "the-dying-aundairian": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-stray-dog": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "tripwire-and-red-flare": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "harpy-on-the-cliff": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "eeeee-the-dwarf-in-a-can": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "eeeee-slain": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-owlbear-pit": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "crossing-the-river": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:38"
+  }
+ ],
+ "sazed-rides-the-rotor": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:45"
+  }
+ ],
+ "broadsword-stolen": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:41"
+  }
+ ],
+ "broadaxe-explodes": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "chicken-in-the-landing-gear": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "pilot-overboard": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:42"
+  }
+ ],
+ "hobgoblin-warlord-below-decks": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:42"
+  }
+ ],
+ "kunai-to-the-rescue": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/kunai-to-the-rescue.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.035428,
+   "at": "2026-10-23T09:48:56"
+  },
+  {
+   "version": 3,
+   "file": "site/img/kunai-to-the-rescue.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.0366005,
+   "at": "2026-10-23T10:00:18"
+  },
+  {
+   "version": 4,
+   "file": "site/img/kunai-to-the-rescue.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03662425,
+   "at": "2026-10-23T10:20:45"
+  },
+  {
+   "version": 5,
+   "file": "site/img/kunai-to-the-rescue.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.0366375,
+   "at": "2026-10-23T10:23:13"
+  },
+  {
+   "version": 6,
+   "file": "site/img/kunai-to-the-rescue.v6.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03677325,
+   "at": "2026-10-23T10:27:31"
+  },
+  {
+   "version": 7,
+   "file": "site/img/kunai-to-the-rescue.v7.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03677825,
+   "at": "2026-10-23T10:28:06"
+  },
+  {
+   "version": 8,
+   "file": "site/img/kunai-to-the-rescue.v8.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.0367825,
+   "at": "2026-10-23T10:35:45"
+  },
+  {
+   "version": 9,
+   "file": "site/img/kunai-to-the-rescue.v9.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03678675,
+   "at": "2026-10-23T10:36:58"
+  },
+  {
+   "version": 10,
+   "file": "site/img/kunai-to-the-rescue.v10.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03682425,
+   "at": "2026-10-23T10:39:05"
+  },
+  {
+   "version": 11,
+   "file": "site/img/kunai-to-the-rescue.v11.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03682125,
+   "at": "2026-10-23T10:41:45"
+  },
+  {
+   "version": 12,
+   "file": "site/img/kunai-to-the-rescue.v12.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.036451,
+   "at": "2026-10-23T10:52:27"
+  },
+  {
+   "version": 13,
+   "file": "site/img/kunai-to-the-rescue.v13.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.0368655,
+   "at": "2026-10-23T10:55:05"
+  }
+ ],
+ "spoils-of-the-broadsword": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:47"
+  }
+ ],
+ "second-prison-erupts": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "three-weeks-of-training": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:04"
+  }
+ ],
+ "cromwells-coin-game": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:31"
+  }
+ ],
+ "wroat-and-the-party": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "hobbstweedle-and-the-moonwatch": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/hobbstweedle-and-the-moonwatch.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/hobbstweedle-and-the-moonwatch.prompt.txt",
+   "cost": 0.03562225,
+   "at": "2026-10-23T09:49:11"
+  },
+  {
+   "version": 3,
+   "file": "site/img/hobbstweedle-and-the-moonwatch.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/hobbstweedle-and-the-moonwatch.prompt.txt",
+   "cost": 0.03566925,
+   "at": "2026-10-23T10:00:29"
+  },
+  {
+   "version": 4,
+   "file": "site/img/hobbstweedle-and-the-moonwatch.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/hobbstweedle-and-the-moonwatch.prompt.txt",
+   "cost": 0.0356825,
+   "at": "2026-10-23T10:21:03"
+  }
+ ],
+ "blazehelms-mansion-feast": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:54"
+  }
+ ],
+ "how-blazehelm-knows-lirael": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:53"
+  }
+ ],
+ "how-blazehelm-knows-brand": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:47"
+  }
+ ],
+ "how-blazehelm-knows-sazed": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:59"
+  }
+ ],
+ "the-beholder-illusion": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-quiet-room": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:31"
+  },
+  {
+   "version": 3,
+   "file": "site/img/the-quiet-room.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-quiet-room.prompt.txt",
+   "cost": 0.0362195,
+   "at": "2026-10-23T09:55:10"
+  }
+ ],
+ "music-room-and-xendrik": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gnome-pranks": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "quasit-in-the-closet": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sorensons-song": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-and-smarmy-joe": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sazed-and-nedira-prowlstone": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-gnome-kitchen": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "dwarven-roulette": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "quasits-in-the-storage-room": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "spingus-dumbwaiter-deal": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-puppet-quasit-chase": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-potion-room": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "paxons-room-and-the-teleporter": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "flatulence-for-paxon": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "valhalla-eriksson-ball-bearings": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "tauren-finds-faith": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sauna-with-dyll-strickland": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "halfling-card-game": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:22"
+  }
+ ],
+ "blazehelm-and-the-sentinels-band": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:59"
+  }
+ ],
+ "flooded-house": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "locked-in-by-metal-plates": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "warforged-in-the-dining-room": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "polar-bear-in-the-ceiling": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-mirrored-door": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-stables-timer": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-four-potions": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-strange-rooms": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "dyll-strickland-dressing-down": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-five-mile-run": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:59"
+  }
+ ],
+ "obstacle-course-begins": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "liraels-rod-and-chicken": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "liraels-first-flag": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "keys-the-shark": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sazed-throws-the-keys": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-and-the-npcs-finish": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gnome-cleaning-argument": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "quasit-thieves": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sheldor-tells-of-xendrik": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "leff-skullcrusher": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "herbalist-kit-retcon": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "tauren-cannot-read": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "quasit-village-found": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gelfs-requisitions": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:38"
+  },
+  {
+   "version": 3,
+   "file": "site/img/gelfs-requisitions.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/gelfs-requisitions.prompt.txt",
+   "cost": 0.03557875,
+   "at": "2026-10-23T09:55:26"
+  }
+ ],
+ "invisible-over-the-demon-village": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "invisible-approach-demon-village": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-greets-a-quasit": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "demon-village": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "cambion-confession": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bells-beans-and-sentinel-gear": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "broken-portal": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "whiskey-and-a-napkin": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:43"
+  },
+  {
+   "version": 3,
+   "file": "site/img/whiskey-and-a-napkin.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/whiskey-and-a-napkin.prompt.txt",
+   "cost": 0.03558775,
+   "at": "2026-10-23T09:55:35"
+  }
+ ],
+ "paxon-nerds-out": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:59"
+  }
+ ],
+ "coffee-geyser-bean": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "erald-fart-debrief": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "morkoth-in-the-workshop": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "morkoth-rope-expedition": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sheldor-wants-back-in": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sheldor-and-the-bag": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "horn-of-silent-alarm": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "keys-mauls-the-spellcaster": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "stables-interrogation": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:38"
+  },
+  {
+   "version": 3,
+   "file": "site/img/stables-interrogation.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/stables-interrogation.prompt.txt",
+   "cost": 0.036183,
+   "at": "2026-10-23T09:55:19"
+  }
+ ],
+ "breakfast-at-gelfs": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:37"
+  },
+  {
+   "version": 3,
+   "file": "site/img/breakfast-at-gelfs.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/breakfast-at-gelfs.prompt.txt",
+   "cost": 0.03592425,
+   "at": "2026-10-23T09:55:15"
+  }
+ ],
+ "code-orange": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:36"
+  },
+  {
+   "version": 3,
+   "file": "site/img/code-orange.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/code-orange.prompt.txt",
+   "cost": 0.03560225,
+   "at": "2026-10-23T09:55:20"
+  }
+ ],
+ "lug-murzog-revived": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "dreamweaver-speaks": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:57"
+  }
+ ],
+ "back-to-training-as-normal": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:55"
+  }
+ ],
+ "fathers-library-card": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "stolen-shifter-books": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "library-cards-for-everyone": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-possessed": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:03"
+  }
+ ],
+ "screech-taken": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:19"
+  }
+ ],
+ "gelf-fights-free": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:58"
+  }
+ ],
+ "bellatrix-shot": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:34"
+  },
+  {
+   "version": 3,
+   "file": "site/img/bellatrix-shot.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/bellatrix-shot.prompt.txt",
+   "cost": 0.03590625,
+   "at": "2026-10-23T09:55:20"
+  }
+ ],
+ "gelf-into-the-astral-sea": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:03"
+  }
+ ],
+ "hunky-dory": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:53"
+  }
+ ],
+ "house-burns-flight-to-airfield": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:15"
+  }
+ ],
+ "caught-at-the-village-gate": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:12"
+  }
+ ],
+ "empty-jail-blood-trail": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "kingsblade-hijack": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bellatrix-revived": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-dies-a-little": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "clockwork-lassos-gelf": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:52"
+  }
+ ],
+ "into-the-dream-plane": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "dream-eater": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brass-dragon-in-the-dream": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:02"
+  }
+ ],
+ "escape-the-collapsing-dream": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "friends-come-back": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:56"
+  }
+ ],
+ "blazehelms-personal-guard": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:53"
+  }
+ ],
+ "mind-control-training": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "fireworks-speech": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:05"
+  }
+ ],
+ "nobody-else-possessed": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:34"
+  },
+  {
+   "version": 3,
+   "file": "site/img/nobody-else-possessed.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/nobody-else-possessed.prompt.txt",
+   "cost": 0.03679775,
+   "at": "2026-10-23T09:55:29"
+  }
+ ],
+ "screechs-model-broadsword": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:43"
+  },
+  {
+   "version": 3,
+   "file": "site/img/screechs-model-broadsword.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/screechs-model-broadsword.prompt.txt",
+   "cost": 0.035592,
+   "at": "2026-10-23T09:55:14"
+  }
+ ],
+ "sazed-trance-research": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "lirael-first-flight": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:38"
+  }
+ ],
+ "lirael-learns-to-fly": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:38"
+  }
+ ],
+ "clockwork-on-sentimentality": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "rune-wakes-the-spellcaster": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "limbs-for-faird": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "monty-elemental-engines": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "letter-from-meriel": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "plants-have-souls": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "larkleaf-grow-op": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "meriel-on-the-bridge": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "wait-im-a-sentinel": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mercy-at-the-library": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-even-hand-named": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "royal-ardev-regiment": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "nedira-signals-training": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mercy-and-the-records": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "eloria-speak-with-dead": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:46"
+  }
+ ],
+ "chief-torg": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "meriel-speaks-from-the-morgue": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "murphys-house": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "binocular-glint-chase": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gauss-house-explodes": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "standoff-at-kals-house": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "kal-killed-on-the-street": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "hunger-of-hadar-assassins": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "even-hand-unmasked": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "obelisk-in-meriels-bag": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "click-clack-resigns": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-master-key": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gauss-hog-survives": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gauss-hogs-story": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:44"
+  }
+ ],
+ "imps-firebomb-the-house": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "rolicks-dust": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gentle-repose-form": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:15"
+  }
+ ],
+ "ardev-song-on-the-piano": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "obelisk-rune-dream": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "rune-transmits": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "circle-blast-marks": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-old-imp": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brew-and-ale-farewell": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:51:29"
+  },
+  {
+   "version": 3,
+   "file": "site/img/brew-and-ale-farewell.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brew-and-ale-farewell.prompt.txt",
+   "cost": 0.0368145,
+   "at": "2026-10-23T09:55:15"
+  }
+ ],
+ "dancing-with-eloria": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "rigged-chicken-races": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:20"
+  }
+ ],
+ "gelf-brand-rematch": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:03"
+  }
+ ],
+ "brand-walks-eleanor-home": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "prison-nightmare-brass-dragon": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "hangover-and-dyll": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "fighting-shadow-selves": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "silence-arrow-in-the-door": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "tracks-into-the-sewers": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sewer-map-stolen": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bellatrix-sent-home": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sasquatch-bucket-prank": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brands-church-service": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "erald-delivers-the-map": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "paxon-painting-heist": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:16"
+  }
+ ],
+ "eloria-and-clockwork-join-prank": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:53:12"
+  }
+ ],
+ "potion-room-amulet": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "tomb-of-centarrel": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "graves-of-the-fathers": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:00"
+  }
+ ],
+ "clockwork-wyrmlings": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "after-the-walls-fell": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "beholder-illusion": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "portrait-unveiled": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:50"
+  }
+ ],
+ "bellatrix-is-dead": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:50"
+  }
+ ],
+ "why-blazehelm-trusts-paxon": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:59"
+  }
+ ],
+ "goodbyes-at-the-airfield": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "moonwatch-crew-roles": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:31"
+  }
+ ],
+ "parting-gifts": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "moonwatch-departs": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:19"
+  }
+ ],
+ "lift-off-for-ardev": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "evil-in-the-mirrors": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "detour-over-yedani-prison": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sorenson-confides": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-fourth-look": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "cromwell-the-stowaway": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mirrors-overboard": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "beezel-and-the-books": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "dandys-dinner": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "canuck-songs": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:30"
+  }
+ ],
+ "the-cookie-feud": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "steve-the-skycracker": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "a-cold-welcome-to-ardev": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "farks-bargain-whores": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-murderers-home": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "fathers-den": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "runes-on-the-obelisk": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-last-poem": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-mad-library-puzzle": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "slaad-dad": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "chimney-ambush": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-secret-office": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mother-under-suggestion": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "i-pray-the-worst-has-come": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "hellsauce-recruits-sazed": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-ardev-library": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "barry-baritone": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "xera-harassed": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ants-and-birds": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "jazz-smells-magic": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "felicia-storms-off": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bird-potion": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "imps-and-the-quasit": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "forge-and-the-right-hand": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gynn-at-the-forge": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brokk-takes-refuge": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "filgar-the-wererat": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-interview": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "house-trashed": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-druid-cat": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-white-stag": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "stealing-the-hit-piece": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-candle-test": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-abandoned-house": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mausoleum-of-ardev": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "sazed-kicks-five-imps": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "weresharks-and-a-mimic": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "shrimp-diggery": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "voices-in-the-dark": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-fury-ritual": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-fury-ritual.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03695125,
+   "at": "2026-10-23T10:30:46"
+  },
+  {
+   "version": 3,
+   "file": "site/img/the-fury-ritual.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03672325,
+   "at": "2026-10-23T10:52:33"
+  },
+  {
+   "version": 4,
+   "file": "site/img/the-fury-ritual.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.0369955,
+   "at": "2026-10-23T10:55:05"
+  }
+ ],
+ "the-chicken-gambit": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "felicias-fire": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bone-devil-river-chase": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "rallying-ardev": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ardev-vs-bone-devils": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "oberoth-the-guardian": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "calm-in-the-square": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "fey-lynns-society": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "moonwatch-party": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:38"
+  }
+ ],
+ "stones-throw-in-ashes": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "children-in-the-well": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "archimedes-shot-down": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-gate-dream": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "xeras-window": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "phase-two": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ellis-ambush": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "new prompt test, gen/test",
+   "at": null
+  }
+ ],
+ "jyo-falls-into-ardev": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mustang-full-of-arrows": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ellis-dead-in-the-street": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:26"
+  }
+ ],
+ "carriage-chase": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/carriage-chase.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/carriage-chase.prompt.txt",
+   "cost": 0.035545,
+   "at": "2026-10-23T10:52:22"
+  },
+  {
+   "version": 3,
+   "file": "site/img/carriage-chase.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/carriage-chase.prompt.txt",
+   "cost": 0.03579525,
+   "at": "2026-10-23T10:54:59"
+  }
+ ],
+ "ball-bearings-and-the-safe": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-even-hand-on-the-roof": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "leap-from-the-carriage": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "black-booked-train": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "eloria-and-a-bear-army": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brands-workshop": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "a-call-from-lirael": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "skye-feels-abandoned": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "shadowing-the-train": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:42"
+  }
+ ],
+ "jyo-the-spider": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-invisible-beholder": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "xera-and-fey-lynn-die": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "new prompt test, gen/test",
+   "at": null
+  },
+  {
+   "version": 3,
+   "file": "site/img/xera-and-fey-lynn-die.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "cost": 0.03539575,
+   "at": "2026-10-23T10:31:00"
+  },
+  {
+   "version": 4,
+   "file": "site/img/xera-and-fey-lynn-die.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "cost": 0.03526625,
+   "at": "2026-10-23T10:52:28"
+  },
+  {
+   "version": 5,
+   "file": "site/img/xera-and-fey-lynn-die.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "cost": 0.03544175,
+   "at": "2026-10-23T10:55:31"
+  }
+ ],
+ "bears-and-a-barrel": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mustang-wakes": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "counterspelled-by-lirael": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "even-hand-dies": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "into-the-bag-of-holding": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-dream-prison": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "jyo-torn-apart": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "protection-and-pattern": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "skull-knight-arrives": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "skull-knight-turtle-fortress": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "felicias-reunion": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "skull-knights-judgment": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "the-true-name": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "mr-beaks-returns": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "skye-reunion": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "barry-and-brokk-waiting": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "i-tag-ye-cosmic": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "lilya-the-guide": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "curfew-in-ardev": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bimble-repents": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "wilford-and-the-stranger-evil": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "wilford-doubts-the-watch": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "valvier-house-ransacked": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "jazz-hears-the-truth": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "valvier-gold-in-evidence": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "jazz-joins-the-fold": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "flowers-coerced": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "right-hand-wakes-daedalus": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brokks-armor-plating": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "body-count-twenty-six": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "turckle-and-churckle-overrun": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brokks-last-diamonds": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "repair-race-bet": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:18"
+  }
+ ],
+ "eloria-arrives": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "dell-quickfoot-visit": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "skye-on-the-flight-deck": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "white-horn-wood-ruse": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "xera-returns": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "zenya-wakes-swinging": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "lirael-asks-to-be-punched": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "raven-call-illusion": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "hearthsfire": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "carrk-on-trial": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "carrk-at-moon-stones": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "stones-throw-children-home": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "spring-at-garfan": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bear-warns-of-carrk": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "falkens-exile-story": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "skye-becomes-initiate": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-and-sazed-on-industry": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "flock-changeling-questioned": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "xera-kisses-lirael": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "paxon-junction-call": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "griffith-guides-them-in": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "paladins-draw-steel": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "truth-amulet-eptf": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "eptf-blind-spot": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "elfina": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "watchers-of-the-gate-explained": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "elfina-postpones-despair": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "bulwark-broadhelm": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "arkhan-military-library": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gelards-books": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "young-dwarf-recruit": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ember-reunion": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "broadhelm-family-bad-news": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "ring-of-cure-racism": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "embers-suit": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "embers-joke-potions": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "aundairians-race": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brands-rooftop-detour": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "immovable-rod-and-elwood": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/immovable-rod-and-elwood.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/immovable-rod-and-elwood.prompt.txt",
+   "cost": 0.035699,
+   "at": "2026-10-23T10:25:47"
+  },
+  {
+   "version": 3,
+   "file": "site/img/immovable-rod-and-elwood.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/immovable-rod-and-elwood.prompt.txt",
+   "cost": 0.03573125,
+   "at": "2026-10-23T10:27:47"
+  },
+  {
+   "version": 4,
+   "file": "site/img/immovable-rod-and-elwood.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/immovable-rod-and-elwood.prompt.txt",
+   "cost": 0.0357805,
+   "at": "2026-10-23T10:55:37"
+  }
+ ],
+ "aundairians-in-the-alley": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "kynds-slips-away": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "darvok-shouts-for-aundair": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "killian-outs-the-sentinels": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "red-dragon-divination": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-fixes-the-roof": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "we-dont-die-banner": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "felicia-too-powerful": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "cloak-of-connect-mind": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "into-the-junction-in-a-bag": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "cleared-track-and-chaton": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "catnip-bomb": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "unabombers-at-the-forge": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gorgon-slain": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "captain-dane-incensed": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "horses-from-first-tower": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "hooligan-saxophone": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "freeing-elfina": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "witches-waltz": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "lirael-in-the-cart": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "kynds-takes-killian": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:15"
+  }
+ ],
+ "eloria-tells-of-ashhaven": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "elfinas-room-elorias-kiss": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "emotional-damage-sempenator": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "thaddeus-nightmare": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "lirael-morning-rounds": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "felicia-confronts-elfina": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "dragons-lost-sons": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "empyrean-in-their-spot": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "squirrels-in-the-tea": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "brand-goes-purple": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "animal-messenger": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "screechs-bedtime-stories": [
+  {
+   "version": 1,
+   "note": "first batch"
+  },
+  {
+   "version": 2,
+   "note": "old fire-ring style, gen/regen/run.py",
+   "at": "2026-10-22T21:52:26"
+  }
+ ],
+ "fey-lynns-debrief": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "skye-asks-about-stones-throw": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "wilford-mushroom-warning": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "reconciliation-day": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "murderer-leaves-ardev": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "dinner-on-the-empyrean": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "gorgis-family-dead": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "felicia-and-skye-spar": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "thaddeus-comes-to-town": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "flowers-black-order": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ],
+ "morganth-sending-stone": [
+  {
+   "version": 1,
+   "note": "first batch"
+  }
+ ]
+}

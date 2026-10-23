@@ -1,0 +1,23 @@
+{tone}
+This scene is a secret resurrection in a locked-down war room.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the upstairs war room during the mansion's lockdown, the major's personal guards outside the door. A body has been laid on the long war room table among the maps. Time and light: mid-morning, daylight through the windows.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+Lug Murzog, the Sentinel spellcaster mauled to death by a bear the night before, has just come back to life on the war room table: he jerks upright with a ragged gasp, the deep claw wounds across his chest and shoulder knitting closed, his tunic shredded and stiff with dried blood, the precious diamond spent for him crumbled to glittering dust on his chest. Lirael leans over him with two fingers pressed to his temple and his eyes glowing faintly, reading his thoughts to see whether the Dreamweaver still holds him: he is clean. Brand steps forward, sheepish, holding out a gauntleted hand to apologise, and Keys, the druid who was the bear that mauled him, hovers awkwardly behind. In the corner, Paxon hunches at a writing desk over a tall stack of record books, quill scratching furiously, already falsifying six months of paperwork to hide the diamond.
+
+CAST
+- {cast:Lug Murzog}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Keys}
+- {cast:Paxon}
+
+REFERENCES
+{references}

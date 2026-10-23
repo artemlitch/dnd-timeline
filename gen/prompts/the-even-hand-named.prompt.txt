@@ -1,0 +1,23 @@
+{tone}
+This scene is a late-night briefing where an assassin gets a name.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the war room table is buried in Paxon's files and record books. Time and light: night, lamplight on the table.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Paxon, the fussy elf records officer, stands at the war room table with one finger stabbing down on a rough charcoal sketch of what the witnesses saw: a figure in a black suit with a long-nosed, beaked mask. Paxon's face is grave and certain as he names him: The Even Hand, an assassin no living person has met. Lirael stands across the table, tense, still damp from diving into the river after the killer. Beside him Sazed and Brand are plainly high: red, heavy-lidded eyes, slow grins fading as the news sinks in, Brand still holding the crude stone pipe he carved, and the herb stains of potion brewing on their hands.
+
+CAST
+- {cast:Paxon}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:The Even Hand} He is not in the room: he appears only as the figure in the charcoal sketch on the table.
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is a breakneck mine-cart plunge down into a hidden mountain village.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:marabor/mine-cart-ride}
+In this moment: the steepest drop of the mine track, the tunnel opening ahead onto the cave of the hidden village far below. Time and light: late afternoon outside, but in here near darkness, lit by a lantern swinging from the cart and sparks screaming off the wheels.
+{maps:Collapsed Mine}
+
+THE MOMENT
+The overloaded cart is mid-plunge down the steepest drop, two wheels off the rail on a bend, sparks pouring from the brake. Elric, the guard who knows the way, is at the front hauling on the brake lever. Brand, the old dwarf in his heavy brass-and-steel power armor, is wedged in the middle, his weight dragging the whole cart down faster, gripping the sides with both gauntlets. Lirael and Sazed, both still in drab grey prison fatigues, cling on behind him, hair streaming back.
+
+CAST
+- {cast:Brand}
+- {cast:Elric}
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair; here in drab grey prison fatigues.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles; here still in drab grey prison fatigues, not his black suit.
+
+REFERENCES
+{references}

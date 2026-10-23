@@ -1,0 +1,25 @@
+{tone}
+This scene is a frantic escape from a monster through an underground river.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:mausoleum-of-alton-ardev/underground-river-and-cave}
+In this moment: the underground river, near where it runs out to the lake. Two carved stone statues of Elk and Neer, the drow couple who advised the town's founder, stand at the water's edge. Time and light: underground and pitch dark but for the glow of Brand's armor core.
+{maps:Mausoleum of Ardev}
+
+THE MOMENT
+The party is swimming for their lives down the river. Behind them comes the bone devil, made enormous by Brand's own enlarge spell, a towering, gaunt, skeletal fiend with bat-like wings and a barbed scorpion tail, flying at them low over the water. It has just smashed straight through the statues of Elk and Neer: their stone heads and arms burst apart and crash into the river around it. Its claws are reaching for the swimmers when Brand's web spell catches it: thick sticky strands spring across the cave wall to wall and snare the devil mid-flight, wrapping its wings and arms. Brand, in his power armor, badly hurt, his armor dented and his face bloody from taking a savage beating moments before, wades chest-deep with one hand thrown back toward the web. Lirael swims beside him, holding up Felicia Jr, who is wrapped in a soaked blanket and only now coming to her senses. Ahead of them, two weresharks, Topek and Wylon, cut through the water leading the way out, and Sazed swims hard behind them.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Felicia Jr}
+- {cast:Sazed}
+- {cast:Topek}
+- {cast:Wylon}
+- The bone devil: a huge, emaciated, bone-white devil with skin stretched over a skeletal frame, a skull-like head with long fangs, ragged bat wings, long clawed arms and a long barbed scorpion tail.
+
+REFERENCES
+{references}

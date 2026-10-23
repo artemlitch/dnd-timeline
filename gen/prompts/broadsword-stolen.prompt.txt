@@ -1,0 +1,25 @@
+{tone}
+This scene is a mad leap onto an enemy airship.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:yedani-mountains/river-and-waterfall}
+In this moment: the lip of the waterfall. Below, in the Aundairian camp, sit two airships: the lighter Broadsword, its elemental ring flaring as it prepares to lift, close below the falls, and the heavy, cannon-studded Broadaxe beside it, its big rotor turning. Aundairian soldiers and hobgoblins run about the camp, and harpies circle overhead. Time and light: midday.
+{maps:Yedani Valley Airship Sabotage}
+
+THE MOMENT
+Brand has jumped off the cliff for the Broadsword and fires the boosters in his power armor, jets of fire blasting from his legs as he arcs across the gap to slam down on its deck. Screech, the small halfling pilot, has taken a nimble running leap off the very lip of the waterfall and is in mid-air, arms out, about to land on the deck just behind him. Lirael was not so lucky: he tried to swing on a short iron rod fixed in mid-air, fumbled it, and is falling past the side of the ship toward the Aundairian camp below, arms flailing. A harpy perched on a rock near the falls sings its luring song at them, ignored. The Broadsword's crew turns to meet the boarders. On the rotor housing of the Broadaxe a smokepowder charge sits with its fuse fizzing, planted by an invisible hand.
+
+CAST
+- {cast:Brand}
+- {cast:Screech}
+- {cast:Lirael}
+- Sazed's portrait is attached for reference only; Sazed is invisible at this moment, planting the charge on the Broadaxe. Do not draw him.
+- The harpy: a winged woman with a vulture's legs and talons, ragged feathered wings, wild hair.
+- {cast:The Moonwatch}
+- {cast:The Broadaxe}
+
+REFERENCES
+{references}

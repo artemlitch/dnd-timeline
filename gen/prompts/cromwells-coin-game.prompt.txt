@@ -1,0 +1,26 @@
+{tone}
+This scene is a betting game over lunch in a warship's mess.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:kingsblade/crew-quarters-and-mess}
+In this moment: a mess table covered in plates of food brought by gnome cooks. Time and light: midday in flight, lamplit, daylight at the portholes.
+{maps:Kingsblade Crew Quarters}
+
+THE MOMENT
+Cromwell, very much alive after everyone thought he died in the prison, sits at the head of the table running a betting game with a single coin, flipping it high off his thumb. Lirael, Brand and Screech are betting against him. In front of Lirael sits a pile of winnings, and half of it is not real: those coins shimmer faintly, an illusion he conjured. Screech scoops up his own winnings, delighted. At the end of the table, Sheldor, a drow, and Erald, an old dwarf, stare at Cromwell in shock. Chester, Erald's pet mimic, a wooden treasure chest with a single eye, fangs and a long tongue, sidles up to Cromwell on stubby legs, nudging him and pushing its keyhole at him, begging to be lockpicked; Cromwell ignores it.
+
+CAST
+- {cast:Cromwell}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Screech}
+- Sheldor: a drow with dark grey skin, long straight white hair, tattooed arms, dark leather armor and cloak.
+- Erald: an elderly, short and stout dwarf scribe with grey hair, a big grey beard and moustache and a monocle, in a blue robe with orange trim, loaded with a backpack of scrolls and ledgers.
+- Chester: a living treasure chest, a mimic, with a big single eye in its lid, rows of fangs, a long red tongue and four stubby grey legs.
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

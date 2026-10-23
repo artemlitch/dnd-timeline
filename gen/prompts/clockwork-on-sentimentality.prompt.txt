@@ -1,0 +1,20 @@
+{tone}
+This scene is a quiet lesson at a workbench that turns into an uneasy realisation.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/clockworks-shop}
+In this moment: the workshop is busy and ordinary, no alarm, no speech or fireworks. Tools, rivets, cables and loose armour plates are spread across the main bench. Time and light: mid-morning, daylight through the workshop windows and lamps over the benches.
+{maps:Clockworks Shop}
+
+THE MOMENT
+On the bench lies the half-built arm of a new warforged, its outer plates opened up to show the cords of fibrous muscle, steel bones and stone joints inside. Clockwork, the warforged artificer, holds the arm's wrist in one hand and points into its workings with a slim tool, explaining how warforged are built, his narrow metal face completely flat. Brand, in his power armor, has stopped looking at the arm and is looking up at Clockwork instead, frowning, troubled, having just heard Clockwork say he has no use for anything sentimental, nothing that does not serve a function.
+
+CAST
+- {cast:Clockwork}
+- {cast:Brand}
+
+REFERENCES
+{references}

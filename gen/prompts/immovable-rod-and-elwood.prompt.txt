@@ -1,0 +1,23 @@
+{tone}
+This scene is a frantic, bloody street fight.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: an alley just off the square. Overturned tables from the square lie behind. Townsfolk lean out of windows. Time and light: night, lit by street lamps and the glow of fire magic.
+{maps:Starilaskur}
+
+THE MOMENT
+The Aundairian spies' carriage, loaded with newly bought weapons and armor, is stuck dead in the alley: a short iron rod hangs fixed in mid-air against its back, immovable, and the horses strain uselessly. Lirael's hypnotic pattern still blazes over the alley, and it is a central, prominent part of the image: a shimmering, glowing illusion of a whole troupe of dwarves in lingerie, dancing in a swirling kaleidoscope of light above and around the carriage. The other Aundairian spies stand frozen beneath it, charmed and slack-jawed, staring up at the dancing dwarves. The dwarf EEEEE lies dead on the cobbles beside his brass can, killed by Sazed a moment ago. Now Captain Killian leaps down from the carriage and swings his brand-new battle axe into Sazed: the blade bites deep into Sazed's side and shoulder in a spray of blood, half his strength gone in a single cleave, Sazed staggering but still fighting. Lirael stands further back in the alley hurling a bolt of fire at Killian. And bounding into the alley comes Jeff, a huge frog-man, mouth gaping impossibly wide, about to swallow one of the Aundairians whole.
+
+CAST
+- Captain Killian Gavrin: a swaggering human officer with long brown hair tied back, a big moustache and goatee, a scar over one eye, brown long coat with gold buttons, yellow waistcoat and red sash, plate leg armor; here wielding a heavy new battle axe.
+- {cast:Sazed}
+- {cast:Lirael}
+- Jeff: a large, heavy frog-man druid with yellow eyes, a snail sitting on his head, a robe of moss and leaves, green bead necklaces and a gnarled staff topped with mushrooms.
+- EEEEE: a dwarf with a big red nose, white beard and long brown floppy cap, yellow tunic; here dead.
+
+REFERENCES
+{references}

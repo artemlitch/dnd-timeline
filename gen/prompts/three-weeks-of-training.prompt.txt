@@ -1,0 +1,25 @@
+{tone}
+This scene is a briefing in an airship war room where new orders land badly.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:kingsblade/war-room}
+{setting:yedani-mountains}
+In this moment: maps and scouting reports are spread across the war room's map table. Through the windows, behind the ship as it runs at full speed for the first time, smoke rises from a second prison under the mountain that has just exploded. Time and light: late afternoon, daylight through the windows and lamps over the table.
+{maps:Kingsblade War Room}
+
+THE MOMENT
+The party has just come back from stealing the Broadsword, battered and bloodied, and want to go straight to Lirael's hometown to search his father's office for the Shadow Mirror and the Dreamweaver. Major Blazehelm stands at the map table, calm and immovable, holding up three fingers: three weeks of training first. Brand, the old dwarf in his dented power armor, has both armored fists planted on the table and is leaning across it at the Major, furious. Lirael stands beside him, impatient, and Sazed watches from the wall.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Brand}
+- {cast:Lirael}
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- {cast:The Moonwatch}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

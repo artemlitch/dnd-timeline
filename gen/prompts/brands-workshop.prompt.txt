@@ -1,0 +1,25 @@
+{tone}
+This scene is a tinkerer racing to build tools for a rescue.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: crates are pushed aside to make a workbench, covered in tools, bolts and train blueprints. The captured arcane safe stands against the hull, its door ajar on a silver swirl of the astral void. Time and light: early evening, lit by the ship's lamps.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Brand, goggles down and sparks flying, is finishing his inventions on the workbench: a clamp-and-scissor-arm machine built to cut the hinges off a safe, two chunky train decouplers, and a ray gun with a glowing coil, made to blast a warforged's brain and switch its personality back on. Erald has just come down the stairs and is handing Sazed a pair of sending stones and a roll of train blueprints. Mr. Beaks the pigeon sits on a crate with a tracking charm tied to his leg, ready to fly it away from the ship.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Erald}
+- {cast:Mr. Beaks}
+- Lirael's portrait is attached for reference only; Lirael is not in this moment. Do not draw him.
+- Mustang's portrait is attached for reference only; Mustang is not in this moment. Do not draw him.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

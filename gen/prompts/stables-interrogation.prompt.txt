@@ -1,0 +1,25 @@
+{tone}
+This scene is a tense pre-dawn interrogation of a bound prisoner in a stable.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/kitchen-and-stables}
+In this moment: the stables behind the house, reached through a smashed-open kitchen fireplace. A rope-and-pulley rig still hangs from the rafters, and the dead bodies of several baby morkoths, tentacled creatures killed here earlier in the night, lie in a puddle of water on the straw. Time and light: about five in the morning, still dark, lit by a single lantern.
+{maps:Home Base}
+
+THE MOMENT
+Charlie Trundle, a captured Sentinel, sits tied to a post, bruised from the fight. He talks smoothly, playing along with Lirael's lie. Lirael crouches in front of him and stares into his eyes, reading his mind, and his face has gone cold: inside the man's head he can hear a second voice, not the man's own, feeding him what to say. At this instant Charlie's mouth forms the names "Gelf and Elric". Brand, in his power armor, and Sazed stand behind Lirael with their weapons ready, watching the prisoner.
+
+CAST
+- {cast:Lirael}
+- {cast:Charlie Trundle} Here he is bound and bruised, his smile gone.
+- {cast:Brand}
+- {cast:Sazed}
+- Gelf's portrait is attached for reference only; Gelf is not in this moment. Do not draw them.
+- Elric's portrait is attached for reference only; Elric is not in this moment. Do not draw them.
+- Sorenson's portrait is attached for reference only; Sorenson is not in this moment. Do not draw them.
+
+REFERENCES
+{references}

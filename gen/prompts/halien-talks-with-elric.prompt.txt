@@ -1,0 +1,20 @@
+{tone}
+This scene is a quiet, secret conversation through prison bars at night.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: Halien's cell, prisoners asleep on the bunks behind. Time and light: about eleven at night on the party's first night in DarkWood, lit by the guard's lantern.
+{maps:Prison Level 2}
+
+THE MOMENT
+Halien, a prisoner in drab fatigues, stands close against the iron bars of his cell, speaking low. Outside the bars Elric Galen, one of the prison guards, leans in with his lantern held down so it lights only their two faces, listening and glancing down the corridor to check no one is watching. Neither looks like a prisoner and a guard; they look like two men sharing a secret.
+
+CAST
+- {cast:Gelf} Here he is undercover as the prisoner Halien Habberschmidt, in drab prison fatigues.
+- {cast:Elric}
+
+REFERENCES
+{references}

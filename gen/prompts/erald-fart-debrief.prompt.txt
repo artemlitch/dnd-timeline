@@ -1,0 +1,23 @@
+{tone}
+This scene is a chance meeting on a path home, with gossip from high command.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/woods-out-back}
+In this moment: the path back toward the party's house, its lit windows ahead. Time and light: early evening after dark, the glow of the house's windows.
+
+THE MOMENT
+Lirael, Brand and Sazed are drenched head to toe in coffee from the magic bean that just erupted into a coffee geyser: hair plastered down, clothes soaked brown and dripping, coffee dripping from Brand's beard and armor, their waterskins bulging and sloshing with it. They meet Erald coming the other way on the path, his pet mimic Chester trotting at his heels in the shape of a small wooden chest. Erald eyes their soaked clothes with suspicion, then launches into his report: he pinches his nose and waves a hand in front of his face, miming the stench Paxon gave off for the entire ride and the entire meeting with the High Marshals.
+
+CAST
+- {cast:Erald}
+- {cast:Chester}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

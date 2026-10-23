@@ -1,0 +1,24 @@
+{tone}
+This scene is a desperate last-second rescue in a prison corridor during a riot.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a corridor between the cells, the riot alarm sounding, dead guards and prisoners lying where they fell, cell doors hanging open. Time and light: late afternoon, dim lamplight.
+{maps:Prison Level 1}
+
+THE MOMENT
+Elric Galen, a decent guard, is down on his back on the stone floor with blood on his face, his mace knocked out of reach, while another guard kneels on his chest and raises a short sword to drive it into his throat. In that instant the escaped prisoners arrive: Sazed, in grey prison fatigues, swings his quarterstaff into the side of the attacker's head, the skull cracking and blood spraying, the blade flying from his hand. Lirael, a young drow also in prison fatigues, has a hand raised, mid-spell. Brand, a stocky old dwarf in prison fatigues with no armor yet, charges in behind. Byll, a captured guard with his hands bound, hangs back against the bars, watching.
+
+CAST
+- {cast:Elric}
+- Attacking guard: a Brelish prison guard in uniform with a short sword.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles; here in drab grey prison fatigues, swinging a quarterstaff.
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair; here in drab grey prison fatigues.
+- Brand: a 150-year-old dwarf with a long grey-white beard and wild grey hair, short, stocky and broad; here in drab grey prison fatigues, without his armor.
+- Byll: a nervous young human prison guard in a rumpled uniform, wrists tied.
+
+REFERENCES
+{references}

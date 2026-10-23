@@ -1,0 +1,23 @@
+{tone}
+This scene is an urgent secret briefing as a mansion goes into lockdown.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the downstairs war room, maps and papers spread on the table. Through the open door, Blazehelm's personal guards are taking over the posts of the usual mansion guards. Time and light: about nine in the morning, daylight from the windows and lamps.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Gelf has just called a code orange, a possible infiltration of the Sentinels, and Major Blazehelm has heard the whole story. He stands at the war table with both fists on it, grave, telling everyone this stays secret, even from the High Marshalls, until they know who is possessed. Gelf stands at his shoulder, for once completely serious. Lirael, Brand and Sazed stand across the table, each being handed a pass by an aide.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Gelf}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

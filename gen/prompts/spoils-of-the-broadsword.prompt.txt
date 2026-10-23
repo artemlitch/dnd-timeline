@@ -1,0 +1,26 @@
+{tone}
+This scene is the search of a captured airship and the terrifying of a prisoner found asleep below deck.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the lower deck of the captured Aundairian Broadsword, crates broken open and searched, the bodies of Aundairian soldiers from the fight still lying by the stairs. Through the portholes the huge Kingsblade hangs alongside, its docking cables pulled taut to the Broadsword's hull. Time and light: about four in the afternoon, daylight through the portholes and a swinging lantern.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+A hobgoblin soldier, just woken from his bunk, is pinned against the hull, eyes wide with terror, as Brand in his power armor looms over him, Sazed holds a quarterstaff at his throat and Lirael leans in close with a menacing smile, interrogating him. His wrists and ankles are locked in heavy velociraptor shackles, oversized restraints built for a dinosaur. On a crate beside them lie their finds: a map tracking the Kingsblade's route, a potion bottle and a red, leather-bound book with flame designs on the cover, the Book of Fire. Coming down the stairs to take over are Gelf and Elric with a halfling pilot.
+
+CAST
+- {cast:Gelf}
+- {cast:Elric}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- Hobgoblin prisoner: a burly hobgoblin with orange-red skin and a flat face, in a rumpled Aundairian soldier's uniform.
+- {cast:The Moonwatch}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

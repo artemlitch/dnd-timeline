@@ -1,0 +1,25 @@
+{tone}
+This scene is a desperate charge across another plane of existence.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/astral-safe-portal}
+In this moment: behind the party, the open door of the arcane safe, the way they came in from the Moonwatch. Ahead, the glowing portal, and through it, like looking through a window, is the dim inside of a speeding lightning rail car. Time and light: no day or night here; the glow of the portal.
+{maps:Astral Prison}
+
+THE MOMENT
+The party runs across the astral realm toward the portal, and an invisible beholder floats right in their path, guarding the crossing. Sazed has leapt at it and landed a stunning strike with the end of his quarterstaff: where the blow connects, the beholder flickers half into view, a huge floating orb of a body, a gaping toothed mouth, one great central eye and a crown of writhing eyestalks, its outline rippling like heat haze, its eyes rolled and dazed. Brand, in his power armor, and Jyo sprint past beneath it toward the portal, together with several huge brown bears from Beezel's bear army. Through the portal, inside the train car, The Even Hand and Mustang turn toward the sound, each holding a woman hostage with a blade at her throat.
+
+CAST
+- {cast:Sazed}
+- {cast:The Even Hand}
+- {cast:Jyo}
+- {cast:Brand}
+- {cast:Mustang}
+- The two hostages, small and seen only through the portal: Xera, a young drow woman with long silver-white hair, and Fey-Lynn, a drow woman with very long straight white hair and a gold circlet.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

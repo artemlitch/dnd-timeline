@@ -1,0 +1,22 @@
+{tone}
+This scene is a flight through a hometown street as the enemy's plan springs into motion.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/lower-ardev}
+In this moment: a street in lower Ardev. Further down the street, the Xal'ri house, Lirael's family home, is catching fire. Time and light: dawn, and the orange light of the fire.
+{maps:Lower Ardev}
+
+THE MOMENT
+Lirael has just read Fey-Lynn's mind and found her possessed by the Dreamweaver and carrying out its phase two, taking his mother out for tea. Another mind was reading his in return, and he has fled the Kel house with Xera. Now the two of them run down the street hand in hand and pull up short: ahead, men in long-beaked plague masks are setting fire to his family's house, flames bursting from the downstairs windows, one man still tossing a torch through a window, and the others climbing into a heavy armored carriage that is already pulling away, its horses rearing. Lirael stares at his burning home in horror; Xera clutches his arm.
+
+CAST
+- {cast:Lirael}
+- {cast:Xera}
+- Fey-Lynn's portrait is attached for reference only; Fey-Lynn is not in this moment. Do not draw her.
+- The plague-masked men: soldiers in white long-beaked plague-doctor masks, wide-brimmed black hats and long dark leather coats.
+
+REFERENCES
+{references}

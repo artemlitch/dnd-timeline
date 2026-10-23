@@ -1,0 +1,25 @@
+{tone}
+This scene is an execution in mid-air on the deck of a climbing airship.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/pilot-controls}
+{setting:yedani-mountains/aundairian-valley-base}
+In this moment: the ship is still the Aundairian Broadsword, climbing steeply away from the mountain valley. Far below, the heavy Broadaxe has crashed onto the valley floor after its elemental cell exploded, and a huge, furious smoke elemental, a towering shape of black churning smoke, rages out of the wreck over the Aundairian camp. Time and light: midday.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Sazed, just out of invisibility, has dragged the Aundairian pilot away from the controls, and the ship has dipped for a second before Screech jumped in and took the wheel; Screech now steers hard, eyes forward. At the rail, Brand holds the pilot, a young human airman in an Aundairian blue flight uniform, by the collar. The pilot has refused to join them and sworn loyalty to Aundair. Brand has told him he shall die for Aundair and to tell people of him, and now he shoves him off the ship: the pilot is falling backwards over the rail into the empty air, arms flung out, the ground thousands of feet below. Sazed watches from beside the controls.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Screech}
+- The pilot: a young human airman in an Aundairian blue flight uniform and goggles.
+- {cast:The Moonwatch}
+- {cast:The Broadaxe}
+
+REFERENCES
+{references}

@@ -1,0 +1,27 @@
+{tone}
+This scene is a conspiracy hatched over drinks in a corner of a bar.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/brew-and-ale}
+In this moment: the quieter corner of the bar, a round table crowded with mugs, away from the dance floor. Time and light: early evening after training, the bar lit by lamps and the hearth.
+{maps:Brew & Ale}
+
+THE MOMENT
+The drill sergeant has told them no pranks, so they are planning one. Lirael, Brand and Sazed lean in over the table with Screech and three gnome cooks from the mansion, heads close together, voices low. Spingus, the gnome head chef, counts off the plan on his fingers: copy Paxon's prized portrait, draw all over the copy and hang it in the mansion's main hall. Dandy, the moustached gnome cook, grins wickedly; Fizbark, the third gnome, peers over his shoulder at the door to make sure no officer is listening. Screech is grinning into his mug.
+
+CAST
+- {cast:Screech}
+- {cast:Spingus Dillguard}
+- {cast:Dandy}
+- Fizbark: a small, wiry gnome cook in a stained apron with a pointed nose and messy hair.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+- Dyll Strickland's portrait is attached for reference only; Dyll Strickland is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

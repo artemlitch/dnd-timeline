@@ -1,0 +1,24 @@
+{tone}
+This scene is a startled discovery aboard an airship.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: a below-deck passage outside the cabins, with mirrors of different sizes hanging on the walls. Time and light: evening, lit by the ship's lamps.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Lirael lies passed out on the floor in front of a mirror, after looking into it one time too many. Sazed kneels over him, one arm out to keep Beezel back from helping. Brand stands with a hand raised, sensing evil coming from the mirrors. Then they all turn around, and there is Cromwell, standing right behind them as if from nowhere: rumpled, unshaven and bleary, hair sticking up, an empty bottle in one hand, blinking at them. He passed out drunk aboard the night before the ship left, and nobody knew he was here.
+
+CAST
+- {cast:Cromwell}
+- {cast:Lirael} Here: unconscious on the floor.
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Beezel}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

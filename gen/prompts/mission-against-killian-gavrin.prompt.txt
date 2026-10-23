@@ -1,0 +1,27 @@
+{tone}
+This scene is a mission briefing in a warship's war room.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:kingsblade/war-room}
+In this moment: the party stands around the big round map table in the middle of the room, a painted map of the Yedani Mountains spread across it with small carved models of two airships set down in a valley. Time and light: night, lamplit.
+{maps:Kingsblade War Room}
+
+THE MOMENT
+Major Blazehelm leans over the map table, one finger on the valley where the two Aundairian ships sit, explaining that the officer hunting them, Captain Killian Gavrin, thinks Blazehelm is his archrival, and that taking or wrecking both ships is now their job. Screech, still in his flight helmet and goggles, windblown from his scouting flight in his Shuriken, points out the staging area he spotted. On the table in front of Brand lie two heavy canvas satchels of smokepowder with fuses coiled on top, and Brand is lifting one, weighing it with interest. Lirael and Sazed study the two models: the light, fast Broadsword and the heavy, cannon-studded Broadaxe.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Screech}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:The Moonwatch}
+- {cast:Shuriken fighter}
+- {cast:The Kingsblade}
+- {cast:The Broadaxe}
+
+REFERENCES
+{references}

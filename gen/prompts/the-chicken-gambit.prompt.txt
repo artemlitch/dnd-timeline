@@ -1,0 +1,25 @@
+{tone}
+This scene is a desperate rescue in the middle of a demonic ritual.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:mausoleum-of-alton-ardev/mausoleum-main-chamber}
+In this moment: the dead hang around the walls on ropes and hooks and blood runs down the carved murals into the blue fountain. In the floor the demon portal blazes, a ring of runes boiling with red light. The stone table above it is empty now. Time and light: underground; the blue glow of the fountain against the red light of the portal.
+{maps:Mausoleum of Ardev|Mausoleum of Ardev#2}
+
+THE MOMENT
+The succubus Fark is dead and the portal has swallowed her, but it has spat out two demon women and the Fury still rises above it, a towering spectral woman of fire and smoke reaching down for her vessel. That vessel, Felicia Jr, cannot leave the portal's bounds in any form, so Lirael has turned her into a chicken. Now Lirael clutches the chicken, a plump, terrified brown hen flapping wildly in his arms, and misty-steps: he is half gone in a burst of silvery mist at the edge of the portal, the hen still in his arms, the Fury's huge hand closing on empty air. At that exact instant a blinding white flash is starting to bloom out of the mist. Around them, Brand in his power armor and Sazed with his quarterstaff fight Gynn, the huge four-armed glabrezu, while the two demon women raise their hands to cast.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Felicia Jr's portrait is attached for reference only; in this moment she has been turned into the chicken in Lirael's arms. Do not draw her in her own form.
+- {cast:Gynn}
+- The two demon women: slim, beautiful fiends with grey-red skin, small horns, bat wings and thin tails, in scraps of red silk.
+- The Fury: a goddess of rage and madness, a towering, half-transparent spectral woman made of fire and smoke.
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is a late supper for escaped prisoners in a guard's home, with a spy at the table.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/elrics-house}
+In this moment: Elric's kitchen table, pots on the stove, bowls of hot food and bread set out for everyone. Time and light: evening, lamplit.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Elric, in his guard's clothes with a cooking apron over them, stands by the table having served everyone. With a grudging look he hands Sazed a folded black covert ops uniform, Sazed still wearing his drab prison fatigues and reaching to take it. Brand, the old dwarf in his power armor, leans over his bowl firing questions at Elric. At the end of the table Lirael sits quietly with a spoon in one hand, his other hand resting under the table, fingertips faintly glowing as he secretly casts detect thoughts on their host.
+Lirael and Sazed both wear drab grey prison fatigues here, not their usual black clothes; Sazed holds the new black uniform but is not wearing it yet.
+
+CAST
+- {cast:Elric}
+- {cast:Sazed}
+- {cast:Lirael}
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+
+REFERENCES
+{references}

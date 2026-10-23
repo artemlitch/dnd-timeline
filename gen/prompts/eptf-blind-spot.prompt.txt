@@ -1,0 +1,25 @@
+{tone}
+This scene is a tense meeting with a paladin captain.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/eptf-headquarters}
+In this moment: the paladins have just stood down and lowered their weapons. At the back, captured Watchers of the Gate cultists sit behind the bars of the holding cells. On the wall hangs a large framed portrait of a warforged hero. Time and light: late morning, daylight through the windows.
+{maps:EPTK Holding Cells}
+
+THE MOMENT
+Captain Dane stands with her arms folded, grimly admitting that the Task Force never took the Dreamweaver seriously, and now has no choice. Lirael faces her, holding up the glowing truth amulet that has just proved his story. A few paladins in silver plate stand around them, weapons lowered but wary. Brand stands slightly apart, not listening: his eyes are fixed on the portrait on the wall, of the warforged Bulwark Broadhelm, and he says nothing.
+
+CAST
+- {cast:Captain Dane}
+- {cast:Lirael}
+- {cast:Brand}
+- Lirael Sr's portrait is attached for reference only; Lirael Sr is not in this moment. Do not draw him.
+- {cast:Bulwark Broadhelm} Here he appears only as the painted portrait on the wall.
+- EPTF paladins: knights in polished silver plate armor with tabards, some aasimar with faintly glowing eyes.
+- Watchers of the Gate cultists: ragged warlocks in dark robes, behind bars.
+
+REFERENCES
+{references}

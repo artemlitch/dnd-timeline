@@ -1,0 +1,23 @@
+{tone}
+This scene is a trail going cold at a riverbank.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/river-and-sewers}
+In this moment: the riverbank at the edge of the village. A line of footprints runs straight down the bank into the water and stops. A little way along the bank, the sewer outflow opens into the river behind a grate. A cow grazes across the path. Time and light: midday.
+
+THE MOMENT
+Sazed kneels at the water's edge where the footprints end, then looks along the bank to the sewer outflow, realising the assassin is using the sewers. Lirael and Brand stand behind him staring at the grate. Clockwork, the warforged artificer, is already sketching on a notepad the design of a small mechanical sewer crawler on segmented legs (a drawing, no writing). And Leff, who has just announced he wants to eat a cow, has turned away from all of it to stare intently at the cow.
+
+CAST
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Clockwork}
+- {cast:Leff}
+- The Even Hand's portrait is attached for reference only; The Even Hand is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

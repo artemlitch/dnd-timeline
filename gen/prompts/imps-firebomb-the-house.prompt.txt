@@ -1,0 +1,27 @@
+{tone}
+This scene is a night battle against flying arsonists around a burning house.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:party-house}
+In this moment: the outside of the party's house. One whole side is burning, liquid alchemist's fire splashed up the walls and blazing on the roof, while the other side is drenched and steaming where the fire has just been put out. Time and light: late at night, lit by the flames of the burning house.
+{maps:Home Base}
+
+THE MOMENT
+A swarm of imps, small red winged devils with horns, barbed tails and clawed hands, wearing stolen black Sentinel uniform jackets and helmets far too big for them, flit around the house hurling clay flasks of alchemist's fire that burst into sticky flame against the walls. Brand, in his power armor, blasts a roaring beam of frost across the burning wall, the flames dying into a cloud of steam and hanging icicles, and the imps simply flap around to the other side of the house and keep throwing. Sazed leaps up and swats an imp out of the air with his quarterstaff, dead imps already scattered on the lawn. Through the open front door Leff and Tauren run out with sloshing buckets of water. Click Clack, a dim-witted elf ex-policeman, swings his axe wildly at the sky. Lirael hurls fire at an imp diving overhead. At the door stands the house's guard, the hulking Clockwork Defender, its single eye flashing as Sazed calls through it for warforged firefighters, and an alarm wails across the village from the artificer's shop.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- Lirael: a 23-year-old male drow sorcerer, slender, dark grey-blue skin, short white hair, black Sentinel coat.
+- Click Clack: a male wood elf with long wild auburn hair and a brown leather outfit, swinging a big axe.
+- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
+- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
+- Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
+- Imps: small red devils with bat wings, horns and barbed scorpion-like tails, here in oversized stolen black Sentinel uniforms.
+- Clockwork's portrait is attached for reference only; Clockwork, the warforged artificer, is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

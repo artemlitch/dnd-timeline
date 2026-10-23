@@ -1,0 +1,23 @@
+{tone}
+This scene is a rooftop assassination in a busy city street.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:wroat/kal-valviers-house}
+In this moment: Kal's house with its door broken in, a crowd in the street, thick smoke from a smoke bomb drifting over the rooftop. Time and light: mid-afternoon.
+{maps:Wroat Street}
+
+THE MOMENT
+On the cobbles out front Kal Valvier, a young Ardev man, lies propped in Sazed's arms, a crossbow bolt through his body and blood soaking his shirt, just brought back from death by Sazed and pointing up at the roof with a shaking hand. Up on the roof edge The Even Hand crouches with his crossbow in the drifting smoke, and at that moment Brand's thorn whip, a long vine bristling with thorns, lashes around him and rips him off the roof. Lirael appears on the rooftop in a puff of silvery mist from his misty step, a second too late to grab him.
+
+CAST
+- {cast:Kal Valvier}
+- {cast:Sazed}
+- {cast:The Even Hand}
+- {cast:Brand}
+- {cast:Lirael}
+
+REFERENCES
+{references}

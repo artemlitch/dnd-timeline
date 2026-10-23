@@ -1,0 +1,20 @@
+{tone}
+This scene is a quiet, emotional reunion.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:shifter-hideout}
+In this moment: Skye and the children have been sheltering here since Sazed left them. Time and light: late afternoon.
+
+THE MOMENT
+Sazed, battered and travel-worn from the train battle, has just arrived at the hideout. Skye, a ten-year-old shifter girl, has come out of the entrance and stopped dead, stunned: she was sure he had gone off to die. Her anger is cracking into relief. Behind her the small shifter children peek out of the hideout.
+
+CAST
+- {cast:Sazed}
+- {cast:Skye}
+- The children: small shifter children aged two to five, with tousled hair, slightly pointed ears and big amber eyes.
+
+REFERENCES
+{references}

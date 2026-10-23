@@ -1,0 +1,25 @@
+{tone}
+This scene is a drinking session in a tavern cellar with the strangest new friend in town.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: the cellar under the bar, among the kegs, at the foot of the stairs up to the bar. Time and light: deep in the night; a couple of lanterns on the barrels.
+{maps:Turckle Basement}
+
+THE MOMENT
+Sent down for a keg, Brand has instead settled in to get drunk with Filgar the wererat, a huge, scruffy rat-man who turns out to be completely relaxed. Brand sits on an upturned barrel in his power armor, red-faced, roaring with laughter, a tankard in his fist, his arm around Filgar's shoulders like an old friend. Filgar lounges on a keg beside him, tail curled, mug in his clawed hand. Screech, sent down after Brand, has given up on the keg too and is pouring himself a drink straight from the tap, and Sazed, the third one sent down, sits cross-legged passing round a smoking pipe of Larkleaf. On the stairs, Lirael is the only one still on task, hauling a keg up on his shoulder and ignoring their cheerful shouts to stay.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Xera's portrait is attached for reference only; Xera is not in this moment (she is upstairs in the bar). Do not draw her.
+- {cast:Filgar}
+- The Rat Man's portrait is attached for reference only; The Rat Man is not in this moment (he never shows up). Do not draw him.
+- {cast:Screech}
+
+REFERENCES
+{references}

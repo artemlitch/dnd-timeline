@@ -1,0 +1,22 @@
+{tone}
+This scene is a grand feast and victory celebration in a lavish hall.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/main-hall}
+In this moment: long feast tables run the length of the main hall, set for a five-course dinner with bottles and glasses everywhere, gnome cooks and butlers carrying in dishes. The hall is packed wall to wall with Sentinels in black uniforms and party clothes: humans, gnomes, deep gnomes, duergar, dwarves, dragonborn, halfling pilots and orcs. Bodyguards stand at the foot of the stairs to the upper floor. Time and light: evening, lit by the hall's chandeliers and candles.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Major Blazehelm stands at the head of the hall, glass raised high, finishing a speech so rousing that the whole crowd is on its feet roaring back at him, glasses raised; a faint golden glow of vigor shimmers over everyone in the hall. At a table near the front, the three new recruits, already half drunk, pour their drinks out onto the floor for their dead friends from the prison.
+
+CAST
+- {cast:Blazehelm}
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in black clothes.
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+
+REFERENCES
+{references}

@@ -1,0 +1,25 @@
+{tone}
+This scene is a desperate leap from a speeding carriage and a bitter defeat.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/armored-carriage}
+In this moment: on the road. Ahead, the armed lightning rail waits at the end of the road, bristling with ballistas and anti-airship cannons, lightning crackling along its conductor stones. The armored two-storey carriage races on toward it, its upper floor blackened and smoking from a fireball, flanked by riders in plague-doctor masks. One plague soldier lies dead on the road where he fell from his horse. High above and far back, the Moonwatch hangs in the sky, unable to come closer under the train's guns. Time and light: early afternoon.
+{maps:Road Chase}
+
+THE MOMENT
+The party has just jumped clear of the carriage onto the road. The heavy arcane safe Sazed shoved out lies tumbled on its side in the dirt. Sazed is rolling to his feet beside it, and Felicia Jr is sprawled nearby, shaken. Further down the road The Even Hand, thrown off the carriage again, sprints away after it. From a side window of the carriage Mustang, the warforged police officer, leans out and fires a last volley from his revolver, and Brand, struck, is crashing to the ground unconscious in his armor, blood on the ground.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Felicia Jr}
+- {cast:The Even Hand}
+- {cast:Mustang}
+- The plague soldiers: riders in long dark leather coats and beaked plague-doctor masks.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

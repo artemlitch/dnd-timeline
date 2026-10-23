@@ -1,0 +1,22 @@
+{tone}
+This scene is a village-wide gathering for a speech, secretly a test of every person in the crowd.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:hobbstweedle/village-square-podium}
+In this moment: every Sentinel in Hobbstweedle stands packed in a ring around the circular podium in the centre of the village, in black uniforms and off-duty clothes: humans, gnomes, deep gnomes, duergar, dwarves, dragonborn, halfling pilots and orcs. Warforged enforcers with metal-and-stone bodies and crystal eyes stand at the edges of the crowd, watching that everyone attends. Time and light: evening, lit by the bursting fireworks and lanterns around the square.
+{maps:Amphitheatre Night#2|Hobbstweedle Village}
+
+THE MOMENT
+Major Blazehelm has just finished his speech and stands alone at the centre of the podium in his plate armor and red cloak as the fireworks go up. The biggest one bursts directly overhead, and in the same instant a pale flash of holy light pulses out from Blazehelm across the whole crowd as he secretly casts detect good and evil, hidden inside the explosion. Every face in the crowd is turned up at the fireworks; nobody notices the flash. At the front of the ring, Lirael, Brand and Sazed are the only ones watching Blazehelm instead of the sky.
+
+CAST
+- {cast:Blazehelm}
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in a black Sentinel coat.
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+
+REFERENCES
+{references}

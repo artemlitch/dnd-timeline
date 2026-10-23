@@ -1,0 +1,21 @@
+{tone}
+This scene is a late-night card game between rival pilots at a party.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion}
+In this moment: a side room off the party, a small round card table heaped with coins and empty glasses, surrounded by halfling pilots in loosened black Sentinel uniforms. Time and light: the small hours of a night, lamplit.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Beezel has spent the night mocking Screech for dreaming of captaining his own ship, and Screech beat him by cheating: a spare card is still tucked half out of Screech's sleeve. Now Lirael has sat down against the two of them, and he lays down his winning hand with a straight face. Screech and Beezel stare at the cards, stunned, as Lirael pulls the whole pot of coins across the table. The other halfling pilots crowd around, laughing at them both.
+
+CAST
+- {cast:Lirael}
+- {cast:Screech}
+- {cast:Beezel}
+
+REFERENCES
+{references}

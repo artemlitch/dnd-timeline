@@ -1,0 +1,28 @@
+{tone}
+This scene is a desperate deck fight on a stolen airship, turned at the last second by reinforcements dropping from the sky.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/flight-deck}
+{setting:yedani-mountains}
+In this moment: this is still the Aundairian Broadsword, minutes after the party stole it, not yet renamed. It is in flight, climbing hard and fast up the mountainside as close to the slopes as it can. Aundairian soldiers in blue and gold uniforms and armored hobgoblins swarm up the stairs from below deck. Time and light: mid-afternoon.
+
+THE MOMENT
+The party is overwhelmed: Screech, the halfling pilot, clings to the helm flying the ship as fast and as close to the mountain as he can, and Brand, just healed back from unconsciousness, staggers up beside him in his power armor with soldiers closing in on all sides, blades and crossbows raised. At that instant the Kunai, the Sentinels' small dropship, swoops in right alongside the Broadsword, its brass turbines roaring, almost scraping the rail beside the Broadsword's batwing sails. (The Broadsword is the ship listed as the Moonwatch in the cast, before it was renamed.) Its pilot Foehammer holds it steady at the wheel while the squad drops onto the deck mid-flight: Leff leaps down already swinging into the nearest soldier, Keys lands heavily with his sword drawn, Tauren drops behind him, Cromwell is nocking an arrow as he lands, and Sorenson tumbles onto the planks clutching his mandolin, the last one off. The soldiers turn in shock toward the new arrivals.
+
+CAST
+- {cast:Brand}
+- {cast:Leff}
+- {cast:Keys}
+- {cast:Sorenson}
+- {cast:Tauren}
+- {cast:Cromwell}
+- {cast:Screech}
+- Foehammer: the Kunai's pilot, a lean, grey-scaled female reptilian humanoid with a long snout, a short dark crest, a purple top under a dark blue cape, leather and steel armor on her legs and claws, in smoked flying goggles, a former dragon rider.
+- {cast:The Kunai}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is the last set of a wild all-night party, with the commanding officer on stage.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/music-room-and-stage}
+In this moment: the concert stage at the end of a long night, the floor in front of it packed with drunk, dancing Sentinels, deep gnomes and duergar among them, empty glasses everywhere and ball bearings still scattered underfoot among the dancers. Time and light: the small hours before dawn, lit by the stage lamps.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+The final act of the night is the Major's own band, Blazehelm and the Sentinels: Major Blazehelm in his plate armor and red cloak fronts the band at the edge of the stage, playing to the crowd. Down on the dance floor, Smarmy Joe, the bullywug bandleader, has one webbed arm slung around Brand's armored shoulders and presses a copy of his record into Brand's hand; the two are firmly drunk best friends now, both swaying. Lirael, just back from wandering the party, pushes through the dancers toward them.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Smarmy Joe}
+- {cast:Brand}
+- {cast:Lirael}
+
+REFERENCES
+{references}

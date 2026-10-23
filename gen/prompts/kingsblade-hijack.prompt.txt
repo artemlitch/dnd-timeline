@@ -1,0 +1,29 @@
+{tone}
+This scene is a desperate fight on the bridge of a warship that has just been hijacked into the air.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:kingsblade/bridge}
+{setting:hobbstweedle/hobbstweedle-airfield}
+In this moment: the bridge is a battlefield. Through the big forward windows the Hobbstweedle airfield lawn is visible only a short way below, the ship having just lifted off it. Time and light: dawn; inside, the bridge lamps and control panels are flickering out as the ship's power dies.
+{maps:Kingsblade Bridge|Air Field Hobbstweedle}
+
+THE MOMENT
+Charlie Trundle, possessed, stands at the helm controls where he has just started the Kingsblade's lift-off. At his feet lies Monty O'Brien, the dwarf head of engineering, dead, killed by Charlie a moment ago, blood pooling across the deck. At this exact instant every light and engine on the ship cuts out at once and the whole warship drops back toward the ground: everyone on the bridge is thrown off balance, loose gear flying. Sazed has just burst in with the Clockwork Defender and is lunging at Charlie to drag him off the controls, while Sheldor, also possessed, fights the shifter Nedira across the bridge.
+Through the forward windows, small on the lawn below, Cromwell stands with one arm thrust out at the ship, having just cast a spell to switch the entire Kingsblade off, and Lirael sprints across the grass toward the tall docking crane beside the hull.
+
+CAST
+- {cast:Charlie Trundle}
+- {cast:Monty O'Brien}
+- {cast:Sazed}
+- {cast:Sheldor}
+- {cast:Cromwell}
+- {cast:Lirael}
+- Nedira: a male shifter Sentinel, a very hairy man with a human face, long swept-back dark brown hair, a full beard, yellow eyes and a scarred brow, in leather armour with a fur collar.
+- Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

@@ -1,0 +1,25 @@
+{tone}
+This scene is the public unveiling of a prank in front of the whole base.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/main-hall}
+In this moment: a crowd of Sentinels in black uniforms fills the main hall for the morning unveiling, gnome cooks in white aprons among them. On the wall hangs a large, formal oil portrait of Chief Petty Officer Paxon in his blue officer's coat, a perfect copy of the one from his room, except that it has been crudely drawn all over: scribbled-on additions deface his face and uniform. It has no words on it. A cloth that covered it has just fallen to the floor. Time and light: eight in the morning, daylight through the windows.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+The whole hall bursts out laughing at the defaced portrait. Major Blazehelm, at the front, laughs openly with a hand over his chest. Paxon stands right beneath his own portrait, rigid and red-faced with humiliation, glaring at the crowd. Off to one side, Lirael, Brand and Sazed stand with straight, innocent faces. Gunnery Sergeant Dyll Strickland, beside them, is asking if they had anything to do with it, with a knowing half-smile that says he approves. Spingus, the head chef gnome, holds out his palm to Lirael, who is dropping a small coin purse into it.
+
+CAST
+- {cast:Paxon}
+- {cast:Blazehelm}
+- {cast:Lirael}
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- Dyll Strickland: a grizzled old human drill sergeant with close-cropped grey hair, in battered leather and steel armor, a sword at his hip.
+- Spingus Dillguard: an old gnome chef with big pointed ears, a bulbous red nose, a bushy white moustache and long white beard, a tall white chef's hat and a brown leather apron.
+
+REFERENCES
+{references}

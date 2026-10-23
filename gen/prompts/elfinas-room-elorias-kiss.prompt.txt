@@ -1,0 +1,23 @@
+{tone}
+This scene is two small, sweet moments in the corridor of an airship at night.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: the corridor outside the cabins. The Moonwatch has just lifted off from Starilaskur for Ardev. Time and light: one in the morning, the corridor lit by small lamps.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+In the foreground, outside Sazed's cabin door, Eloria has just kissed Sazed on the cheek after a cuddle before bed, and she is already turning to run away down the corridor, hand over her mouth, blushing furiously, her tail flicking behind her. Sazed stands frozen in the doorway, one hand rising to his cheek, too stunned to react. Further down the corridor, Lirael holds open the door of a tiny, plain cabin for Elfina, a former cultist they have just freed, and she stands in the doorway with her hands clasped, thrilled to have a room of her own, the rune paint of her old cult still on her face, while Lirael tells her flatly that this is as good as it gets.
+
+CAST
+- {cast:Eloria}
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Elfina}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is a lone runner arriving far ahead of the pack at a military training course.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the start of the obstacle course. Time and light: late morning.
+{maps:Obstacle Course}
+
+THE MOMENT
+Sazed runs in alone at the end of the five-mile run, barely winded, far ahead of everyone. Gelf leans against a post at the course entrance, waiting for them, and raises a hand in greeting. Far back down the road, the rest of the trainees come pounding up in a long, ragged line: Lirael, Brand clanking along in his power armor, and their prison friends, all red-faced and gasping, with drill instructor Dyll Strickland running beside them, bellowing insults.
+
+CAST
+- {cast:Sazed}
+- {cast:Gelf}
+- {cast:Dyll Strickland}
+- {cast:Lirael}
+- {cast:Brand}
+
+REFERENCES
+{references}

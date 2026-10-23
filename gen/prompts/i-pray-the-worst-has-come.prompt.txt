@@ -1,0 +1,26 @@
+{tone}
+This scene is a song among friends that suddenly turns uncanny for one listener.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/flight-deck}
+{setting:ardev/ardev-landing-field}
+In this moment: the Moonwatch is parked on the Ardev landing field, mercenaries lounging at the far edge of the field. The crew have gathered on the open deck around crates and a few chairs. Time and light: early afternoon.
+
+THE MOMENT
+Lirael's mother, Felicia Sr, has just come aboard and is bonding with the crew, sitting among them on a crate, a cigarette between her fingers and smoke curling around her. Sorenson stands before them with his mandolin, playing a new song that came to him in a dream. He has reached its opening line, a phrase Lirael's missing father always used to say, and Lirael has gone rigid, staring at Sorenson in shock, a coffee cup frozen halfway to his mouth. Felicia Sr has stopped mid-drag and turned to look at her son. Around them the rest of the crew listen happily, unaware: Screech the halfling pilot tapping his foot, Beezel grinning, Erald the old dwarf scribe nodding along.
+
+CAST
+- {cast:Lirael}
+- {cast:Sorenson}
+- {cast:Felicia Sr}
+- {cast:Screech}
+- {cast:Beezel}
+- {cast:Erald}
+- Lirael Sr's portrait is attached for reference only; Lirael Sr is not in this moment. Do not draw him.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

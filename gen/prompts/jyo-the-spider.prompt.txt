@@ -1,0 +1,24 @@
+{tone}
+This scene is a hostage stand-off inside a train car, against a spider.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:even-hand-train/train-car-interior}
+In this moment: the arcane safe stands at one end of the rocking car, its hinges cut away. A mechanical scissor arm, sliced clean through by an unseen ray, hangs out of the gap at the hinge side, and a thin sliver of the silver astral void glows through. Time and light: the car's lamps, with the lightning of the rail crackling past the windows.
+{maps:Inside Lightning Rail 1#2}
+
+THE MOMENT
+A small spider has just crawled out of the gap by the safe's missing hinges onto the floor. It is Jyo, in spider form. The captors are on full alert because of it: The Even Hand has Fey-Lynn by the hair with a blade at her throat, and Mustang holds Xera in front of him with his heavy blade at hers, both of them glaring down at the tiny spider on the floorboards and threatening it. The two women are terrified. The spider is scuttling toward the door at the end of the car, which leads out onto the roof.
+
+CAST
+- {cast:Jyo} Here he is only a small spider; draw him as a spider, not as a man.
+- {cast:Mustang}
+- Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw him.
+- The Even Hand: an assassin in a dark beaked plague-doctor mask and black tricorn hat, black and deep-red layered leather coat with a studded collar, armored forearms, a dagger in hand. His bodies are warforged constructs under the clothes.
+- {cast:Fey-Lynn}
+- {cast:Xera}
+
+REFERENCES
+{references}

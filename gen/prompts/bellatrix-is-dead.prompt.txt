@@ -1,0 +1,23 @@
+{tone}
+This scene is a commanding officer delivering news of a murder in person.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house}
+In this moment: the open front door of the party's house. Time and light: mid-morning, daylight.
+{maps:Home Base}
+
+THE MOMENT
+Major Blazehelm stands on the doorstep, having come to the house himself. His face is hard and set. In one gauntleted hand he holds the folded note the killers left behind. He has just told them: Bellatrix, the dragonborn woman they were protecting, was murdered in the night along with her roommate. Brand stands in the doorway facing him, stopped dead, and behind him Lirael and Sazed come into the hall.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Brand}
+- Bellatrix's portrait is attached for reference only; Bellatrix is dead and not in this moment. Do not draw her.
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in a black Sentinel coat.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+
+REFERENCES
+{references}

@@ -1,0 +1,24 @@
+{tone}
+This scene is a quiet, tender moment found in a small ship's cabin.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: Screech's small cabin below deck. Fey-Lynn has the bunk; on the floor beside it lies Screech's own bedroll, a thin blanket and a flattened pillow where he has been sleeping. The Moonwatch is parked on the Ardev landing field. Time and light: morning, daylight through a porthole and a small lamp still lit.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+The party, expecting the worst when Screech missed breakfast, has pushed open the cabin door, and finds this: Fey-Lynn, a drow woman, revived from death and still fragile, sits up in the bunk wrapped in a blanket, calmer than they have ever seen her, listening. Screech sits cross-legged on the floor beside her, arms spread wide, mid-way through telling her the story of how they stole the Moonwatch, one hand swooping like an airship leaping off a waterfall. In the doorway, Lirael, Brand and Sazed stop short.
+
+CAST
+- {cast:Screech}
+- {cast:Fey-Lynn}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

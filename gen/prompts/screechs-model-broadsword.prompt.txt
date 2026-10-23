@@ -1,0 +1,24 @@
+{tone}
+This scene is a cramped shared bedroom at night: a flight lesson being prepared over a lovers' quarrel.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: Screech's bedroom, now crowded with two beds since Gelf's room burned down; the scorched door frame and blackened hallway of the burned room show through the open door. Charts, flight manuals and checklists cover the desk. Time and light: about ten at night, lamplight.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+Screech, a small halfling pilot, holds up his nearly finished scale model of the Broadsword airship, beaming with pride, and shows it to Lirael, who sits at the desk with a stack of pre-flight checklists for tomorrow's first flight lesson. On the other side of the room Gelf and Bellatrix are in the middle of an argument, facing each other, Bellatrix jabbing a finger at Gelf's chest and Gelf throwing up his hands; neither wants to be stuck living together.
+
+CAST
+- {cast:Screech}
+- {cast:Lirael}
+- {cast:Gelf}
+- {cast:Bellatrix}
+- Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw them.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

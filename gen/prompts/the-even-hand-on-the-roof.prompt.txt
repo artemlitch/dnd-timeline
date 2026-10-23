@@ -1,0 +1,23 @@
+{tone}
+This scene is a fight on top of a speeding armored carriage, the moment the party is beaten.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/armored-carriage}
+In this moment: the carriage races along the road. Ahead, close now, a lightning rail train waits on its track, bristling with ballistas and anti-air cannons, all of them swinging up to aim at the party's airship, the Moonwatch, which flies above the road. Time and light: daytime.
+{maps:Road Chase}
+
+THE MOMENT
+On the swaying carriage roof, The Even Hand stands calmly and tells Brand they are out of their depth: they are not his mission right now, and they should jump off. Mustang, the warforged police officer who has turned out to be one of The Even Hand's bodies, has just shoved Brand off the roof; to do it he had to switch off his own personality core, and his blue eyes have gone flat and dead. Brand, in his power armor, is going over the edge, and mechanical leg struts shoot out of his armor's legs and slam into the carriage's side and the road below, just catching him. Jyo crouches further along the roof, staring at the train's guns.
+
+CAST
+- {cast:Brand}
+- {cast:The Even Hand}
+- {cast:Mustang}
+- {cast:Jyo}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

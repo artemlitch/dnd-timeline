@@ -1,0 +1,22 @@
+{tone}
+This scene is an argument in a war room during a party.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the downstairs war room on the night of the party, Paxon's desk heaped with papers and ledgers. Outside the doorway a snapped gnome tripwire dangles beside an overturned pie tin. Time and light: late at night, lamplight in the war room and the light of the party spilling in from the hall.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Lirael stands in the war room doorway with his whole face plastered in cream pie from a gnome tripwire trap, cream dripping from his chin and his white hair, blinking through it. In front of him Brand and Paxon are nose to nose over Paxon's desk, mid-argument: Brand jabbing a thick finger at him, Paxon on his feet, pen still in hand, livid at being disturbed at work. Behind Lirael, two small gnome cooks peek around the door frame, grinning at their handiwork.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Paxon}
+- The gnome pranksters: small gnome cooks in stained aprons, grinning.
+
+REFERENCES
+{references}

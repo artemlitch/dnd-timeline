@@ -1,0 +1,21 @@
+{tone}
+This scene is a hard, private conversation between a teacher and a child.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: a quiet spot among the crates below deck, away from the others. Time and light: after a late breakfast, early afternoon light through a porthole and a hanging lamp.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Skye, a ten-year-old shifter girl, sits on a crate facing Sazed, who has just told her that the Silver Flame wiped out her village. Her face is pure confusion: brows knotted, mouth half open, shaking her head. The Silver Flame church she knows in Ardev has only ever been kind to her family. Sazed sits across from her, leaning forward, steady and sorrowful.
+
+CAST
+- {cast:Skye}
+- {cast:Sazed}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,25 @@
+{tone}
+This scene is a cramped fight below deck on an airship that is being stolen.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the ship is still the Aundairian Broadsword, climbing hard. Below deck it is cramped and tilted, crates sliding, lamps swinging on their hooks. A stair leads up to an open hatch onto the top deck. Time and light: daytime, but below deck it is lit by swinging lamps and the daylight falling through the hatch.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+The hobgoblin warlord, a huge hobgoblin in heavy plate, sword in hand, has sent his soldiers swarming up the stair to kill the pilot, telling them he can handle the party himself. Now he turns on Lirael and Sazed between the crates. Lirael has just turned back from a chicken into himself, a few loose chicken feathers still drifting around him, and is casting at the warlord. Sazed swings his quarterstaff at the warlord's head. Up through the open hatch, the ship is banking hard and a hobgoblin soldier is being thrown off the top deck into the sky, while above, Screech is at the controls being overrun by soldiers and Brand charges in to help him.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Screech}
+- {cast:Brand}
+- The hobgoblin warlord: a towering hobgoblin with grey-orange skin, a heavy jaw and tusks, in black plate armor with Aundairian blue, a big sword.
+- The soldiers: hobgoblins and humans in Aundairian blue uniforms and breastplates.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

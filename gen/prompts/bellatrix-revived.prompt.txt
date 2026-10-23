@@ -1,0 +1,28 @@
+{tone}
+This scene is a resurrection that goes badly the instant the dead woman opens her eyes.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the upstairs war room under lockdown, maps and papers pushed aside on the big table, the major's personal guards at the door. Along one wall the possessed Sentinels lie bound with rope, unconscious and bloodied from the night's fighting. Time and light: mid-morning, daylight through the windows and lamps lit on the table.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+Eloria, the base cleric, has just brought Bellatrix back from the dead, a crushed diamond's dust still glittering on her hands. Bellatrix, a dragonborn woman killed in the night by possessed Sentinels, has jolted upright on the couch where her body was laid, wild-eyed, and at once she sees the men who killed her lying right there across the room: Brand, Elric and Screech, bound and unconscious against the wall. She is screaming and scrambling backward, tail lashing, one clawed hand pointing at them. Eloria has caught her by the shoulders and is trying to calm her, speaking softly. Beside them Paxon, just back with the diamond, clutches a thick stack of requisition paperwork and looks pained. Lug Murzog, himself revived the day before, stands awkwardly nearby, and Major Blazehelm watches grimly from the head of the table. Lirael and Sazed stand by the bound men.
+
+CAST
+- {cast:Bellatrix}
+- {cast:Eloria}
+- {cast:Paxon}
+- {cast:Lug Murzog}
+- {cast:Blazehelm}
+- {cast:Brand} Here he is unconscious and tied up.
+- {cast:Elric} Here he is unconscious and tied up.
+- {cast:Screech} Here he is unconscious and tied up.
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

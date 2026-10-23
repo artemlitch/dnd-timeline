@@ -1,0 +1,23 @@
+{tone}
+This scene is a nightmare: a prisoner inside his own mind, taunted by the thing that owns it.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:dreamweaver-dream/dream-prison}
+In this moment: Lirael's cage and the cages beside it. Time and light: no day or night inside the dream; dim lamps flicker in the cells.
+{maps:Dream Prison}
+
+THE MOMENT
+Lirael is locked in a rusted cage, possessed, and this prison is inside his own mind. Feeling a little of his magic come back to him, he crouches at the cage door picking the lock with a jagged scrap of rusted metal, his jaw set. In the cages beside his sit his mother Felicia Sr, Xera and Fey-Lynn, slumped and staring at nothing. Floating just outside the bars is a beholder of the Dreamweaver, a dark, many-eyed horror with writhing tentacle eyestalks, each ending in a pale glowing eye, and one great central eye. It taunts him, and in the surface of its central eye, like a moving picture, it shows him Ellis's brutal death: the mercenary captain lying torn open and bloody in an Ardev street.
+
+CAST
+- {cast:Lirael}
+- {cast:Felicia Sr}
+- {cast:Xera}
+- {cast:Fey-Lynn}
+- The Dreamweaver's beholder: a floating, dark purple-black aberration with a mass of long tentacles, each tipped with a pale glowing eye, a fanged maw and one great central eye.
+
+REFERENCES
+{references}

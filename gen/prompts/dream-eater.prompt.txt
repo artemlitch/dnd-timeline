@@ -1,0 +1,26 @@
+{tone}
+This scene is a nightmare battle inside a shared dream.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:dreamweaver-dream/dream-cage}
+In this moment: the cage holds the party's friends Screech, Elric, Sheldor and Charlie Trundle, sitting slumped and lifeless, staring at nothing. Time and light: no time of day; the only light is the floating orbs and the sparking fuse.
+
+THE MOMENT
+The instant before the blast. A smokepowder satchel lies at the feet of the Dream Eater, its short fuse fizzing and almost gone. Lirael, bloodied and nearly dead, is sprinting away from it across the rocks. Brand stands frozen mid-step nearby, paralysed. The Dream Eater, a towering monster of black swirling smoke and tendrils with a fanged skull-like head, looms over the satchel. Above it the floating light orbs have gathered into two huge staring eyes, and out of the mist below rises a vast featureless face, with those two orbs as its eyes. Sazed is leaping back from the monster with his quarterstaff. At the cage, Cromwell's glowing spectral mage hand has just picked the cage lock, but a heavy chain and padlock still hold the door shut.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand} Here: paralysed.
+- {cast:Sazed}
+- {cast:Cromwell}
+- The Dream Eater: a tall shape of black, swirling smoke and whipping tendrils, with a skull-like head full of jagged teeth and long clawed arms.
+- {cast:Screech} Here: caged and lifeless.
+- {cast:Elric} Here: caged and lifeless.
+- {cast:Sheldor} Here: caged and lifeless.
+- {cast:Charlie Trundle} Here: caged and lifeless.
+
+REFERENCES
+{references}

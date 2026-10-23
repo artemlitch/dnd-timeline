@@ -1,0 +1,19 @@
+{tone}
+This scene is a private confession between friends.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:party-house}
+In this moment: a quiet corner of the house after the day's training, the door pulled almost shut. Time and light: evening, lit by a single lamp.
+
+THE MOMENT
+Tauren, a hardened man who grew up on the street, then the army, then prison, sits hunched forward on a bench, big hands clasped, glancing at the door to make sure nobody is listening. He has just admitted to Sazed that he can't read, and asked him to teach him and to keep it secret. His face shows shame and stubborn hope. Sazed sits beside him, listening without judgement, one hand on his shoulder.
+
+CAST
+- {cast:Tauren}
+- {cast:Sazed}
+
+REFERENCES
+{references}

@@ -1,0 +1,29 @@
+{tone}
+This scene is a wild party on an airship brought to a halt by an angry lecture.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/flight-deck}
+{setting:ardev/ardev-landing-field}
+In this moment: the Moonwatch sits on the Ardev landing field, and its deck has been taken over by a huge party: spilled drinks, kegs, bottles everywhere, wererats lounging on crates and the rail, and several big brown bears among them, drunk, sprawled on the planks and pawing at a keg. Time and light: midnight, lit by the ship's lamps and lanterns strung along the rail.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+The band has just stopped mid-song: Barry Baritone, the brass construct, with his horn raised, Sorenson with his mandolin, and Screech behind a drum, all frozen. In the middle of the deck Brand stands with his hands on his hips, mid-lecture, glaring at everyone like a furious father, Sazed standing silently behind him. The wererats, humanoid rats in scruffy clothes with long naked tails, sneer at him and are already heading for the gangway, and Jeff the frog-man is leaving with them. At the gangway Lirael and The Rat Man, a hooded, cloaked ratcatcher with rats crawling over his shoulders, jab fingers at each other's faces, cursing each other out. Filgar, a skinny wererat in an apron, hangs back looking guilty.
+
+CAST
+- {cast:Brand}
+- {cast:Barry Baritone}
+- {cast:Screech}
+- {cast:Lirael}
+- {cast:Sazed}
+- Sorenson: a short, stout dwarf musician with swept red-ginger hair and a full bushy red beard, brown vest over a white shirt, baggy purple striped breeches, barefoot with leather leg wraps, mandolin in hand.
+- Jeff: a large, heavy frog-man druid with yellow eyes, a snail sitting on his head, a robe of moss and leaves, green bead necklaces.
+- The Rat Man: a wiry man with a long nose in a long brown hooded cloak over a red tunic, rats perched on his shoulders, a bone flute at his belt.
+- Filgar: a skinny, pale wererat in rat form, long whiskered snout and big ears, green shirt and trousers under a stained apron, a long naked tail.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

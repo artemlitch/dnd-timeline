@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet, important decision between a girl and her new teacher.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:hearthsfire/elders-meeting}
+In this moment: the elder's council place in the hidden shifter village. Time and light: the middle of the night, lit by a hearth fire.
+{maps:Hearthsfire}
+
+THE MOMENT
+Skye, a ten-year-old shifter girl, stands squarely in front of Sazed, chin up, having just told him that she will be his loreguard initiate. She is scared but determined. Behind her, the old elder Falken rests a hand on her shoulder, having talked it through with her. Sazed looks down at her, moved and suddenly aware of the weight of being responsible for a student.
+
+CAST
+- {cast:Skye}
+- {cast:Sazed}
+- {cast:Falken}
+
+REFERENCES
+{references}

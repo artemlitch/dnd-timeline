@@ -1,0 +1,24 @@
+{tone}
+This scene is the reveal of a hidden military camp: escaped prisoners stepping through an illusion into a secret world.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:yedani-mountains/hidden-clearing-camp}
+In this moment: the air ripples like a curtain of water where the massive illusion ends. On the near side the clearing looks empty; past the threshold, a humongous brand-new Brelish war airship, the Kingsblade, fills the clearing, its gangway lowered and rows of military tents pitched beneath its hull, with soldiers in black uniforms moving between them. Time and light: about one in the morning, lit by lanterns among the tents and lights along the ship's hull.
+{maps:Kingsblade Overview}
+
+THE MOMENT
+Lirael, Brand and Sazed step through the rippling edge of the illusion and stop short, staring up at the colossal airship that was invisible a moment ago. Behind them come a ragged line of freed prisoners in drab prison fatigues. At the foot of the gangway Major Renaud Blazehelm, in plate armor and a red cloak, stands waiting to welcome them, one arm open toward the nearest tent. Beside him stands Chief Petty Officer Smildar Paxon with a clipboard sheet, looking over the unexpected number of new arrivals with open irritation.
+
+CAST
+- {cast:Blazehelm}
+- Paxon: a thin, pale elf with silver-white hair tied back, a sour expression, in a long blue officer's coat with gold frogging and epaulettes, white cravat, grey trousers and steel greaves, a sabre at his hip.
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair.
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit, carrying a quarterstaff.
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

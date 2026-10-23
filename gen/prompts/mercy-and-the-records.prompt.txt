@@ -1,0 +1,23 @@
+{tone}
+This scene is a tense exchange at a locked front door, with bad news waiting outside.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house}
+In this moment: the party's front door, opened only a crack on its chain, the house locked down since the possessions. Time and light: afternoon after training.
+{maps:Home Base}
+
+THE MOMENT
+Paxon stands on the doorstep in his officer's coat, stiff and impatient, a folder of grim reports clutched under his arm, glaring through the gap. Inside, Lirael holds the door on its chain and leans close to the crack, one eye narrowed, demanding the house codeword. Paxon plainly does not know it, does not care, and just wants to be let in, because he has come to tell them that the records room of the Wroat military library has burned down and the librarian Mercy has been shot dead with an arrow. Brand and Sazed hover in the hall behind Lirael.
+
+CAST
+- {cast:Paxon}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Mercy's portrait is attached for reference only; Mercy is not in this moment. Do not draw her.
+
+REFERENCES
+{references}

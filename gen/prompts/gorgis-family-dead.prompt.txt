@@ -1,0 +1,23 @@
+{tone}
+This scene is a lonely discovery: a man standing in the wrecked home of a family that no longer exists.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev}
+In this moment: inside the Gorgis family's small house in Ardev. The rooms have been torn apart and left: furniture overturned, shelves stripped, wide dark bloodstains soaked into the floorboards and smeared across the table, dried and old. Nobody has cleaned up. Time and light: night under the town's curfew, the house dark except for the lantern Sorenson carries.
+{maps:Gorgis House}
+
+THE MOMENT
+Sorenson has come straight from a fancy dinner aboard the Empyrean to visit Shemette and Shmerly Gorgis, the elderly parents of his late friend and tuba player Shmem, who died in the prison riot. He has found them gone: both were taken and killed for the demon Fury's ritual, and with them the whole Gorgis family is dead. He stands in the middle of the wrecked room holding up his lantern, his face slack with grief. Its light falls on the one thing left hanging straight on the wall: a small painted family portrait of Shmem with his tuba, standing between his white-haired father in round spectacles and his grey-haired mother in a shawl.
+
+CAST
+- {cast:Sorenson}
+- {cast:Shmem Gorgis} Here he appears only in the painted family portrait on the wall.
+- Shemette Gorgis: an elderly man with long white hair, a white beard and round wire spectacles; seen only in the portrait.
+- Shmerly Gorgis: an elderly woman with grey hair pulled back, a worn kind face and a heavy knitted shawl; seen only in the portrait.
+- {cast:The Empyrean}
+
+REFERENCES
+{references}

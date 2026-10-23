@@ -1,0 +1,22 @@
+{tone}
+This scene is a late-night debrief where a shaken witness finally tells a classified story.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the downstairs war room, maps and papers spread over the table, personal guards at the door. Time and light: late at night, lit by lamps.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Gauss Hog, an old drow soldier and once Lirael's literature teacher in Ardev, sits at the war table on a guest pass, worn out on the day his house was blown up by an assassin. He is telling what the Royal Ardev Regiment really did: his hands are held apart over the table as if describing the blast, the moment their concussion bomb destroyed a demon circle just as a Balor was coming through. Major Blazehelm leans in across the table toward him, intent, already wanting to know more. Chief Petty Officer Paxon stands at his shoulder, frowning, taking notes on a sheet of paper. Behind Gauss Hog looms Click Clack, a big, dim-looking elf who quit the Wroat police today, his axe slung on his back.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Paxon}
+- {cast:Gauss Hog}
+- Click Clack: a tall, muscular elf with very long brown hair and a short beard, in a worn Wroat police coat, a large ornate axe on his back.
+
+REFERENCES
+{references}

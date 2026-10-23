@@ -1,0 +1,27 @@
+{tone}
+This scene is a reunion that turns to grief in a single breath.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/flight-deck}
+In this moment: the party has just climbed a rope up onto the deck from the wrecked train below. Far behind the ship, a column of black smoke rises from the train that blew up against the mobile fortress. Screech is at the controls turning the ship for home. Time and light: daytime.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Felicia Jr has thrown her arms around her brother Lirael, overjoyed that he is alive and himself again. Lirael, battered and exhausted, holds her. But over his shoulder her face is changing from joy to horror: she has just been told what happened to Xera and Fey-Lynn, and she is staring at the bag of holding that Brand holds in his armored hand, the plain sack that now carries their bodies, and Jyo's. Brand, in his power armor, and Sazed, both bloodied from the fight, stand by with grim faces; Cromwell slumps against the rail.
+
+CAST
+- {cast:Lirael}
+- {cast:Felicia Jr}
+- Xera's portrait is attached for reference only; Xera is not in this moment (her body is in the bag). Do not draw her.
+- Fey-Lynn's portrait is attached for reference only; Fey-Lynn is not in this moment (her body is in the bag). Do not draw her.
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Cromwell}
+- {cast:Screech}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

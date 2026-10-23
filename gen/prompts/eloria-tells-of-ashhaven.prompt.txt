@@ -1,0 +1,23 @@
+{tone}
+This scene is a tender late-night conversation between two people who have both lost their homes.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the lower deck among the crates, the ship still parked at Starilaskur. One crate lies kicked in, its side splintered and its contents spilled across the planks. Time and light: midnight, a single hanging lamp swaying gently.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Sazed sits on a crate beside the one he just kicked apart, his knuckles and boot scuffed, torn between his duty to the Sentinels, his old loyalties and his responsibility for Skye. Eloria has followed him down and sits close beside him. She has just finished telling him about Ashhaven, her home village, wiped out by an Aundairian invasion at the very start of the war, and her eyes are wet but her smile is warm. Now she leans into him, her head on his shoulder, and Sazed, surprised, puts an arm around her: a shy, awkward first cuddle in the lamplight, the splintered crate at their feet.
+
+CAST
+- {cast:Sazed}
+- {cast:Eloria}
+- Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw him.
+- Skye's portrait is attached for reference only; Skye is not in this moment. Do not draw her.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

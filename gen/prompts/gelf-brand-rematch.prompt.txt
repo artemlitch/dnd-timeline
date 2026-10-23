@@ -1,0 +1,23 @@
+{tone}
+This scene is a bare-knuckle bar fight with the whole bar betting on it.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/brew-and-ale}
+In this moment: the tables have been shoved back to clear a ring on the plank floor, and a crowd of off-duty Sentinels packs in around it: humans, gnome cooks, deep gnomes, halfling pilots, a dragonborn or two, many standing on chairs to see. Fists full of coins and betting slips are waved over heads. Time and light: late evening, the bar lit by its hanging lamps and the fire in the hearth.
+{maps:Brew & Ale}
+
+THE MOMENT
+The end of the rematch Gelf swore from the Astral Sea. Both fighters are battered, bloody-lipped and sweating, empty long rest potion bottles rolling on the floor at the edge of the ring where they gulped them down to start fresh. Brand, short and broad, lands the winning blow: a huge uppercut that snaps Gelf's head back, spit and blood flying, Gelf toppling backwards off his feet. The crowd erupts, half cheering, half groaning, coins changing hands. Screech stands on a table at the ringside, collecting the bets. Lirael and Sazed are in the front row of the crowd, Lirael shouting, Sazed wincing.
+
+CAST
+- {cast:Brand}
+- {cast:Gelf}
+- {cast:Lirael}
+- {cast:Sazed}
+- Screech: a halfling pilot with a handlebar moustache, brown leather flight helmet with goggles pushed up, shearling-collared brown leather flight jacket.
+
+REFERENCES
+{references}

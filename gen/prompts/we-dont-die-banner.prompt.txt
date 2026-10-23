@@ -1,0 +1,25 @@
+{tone}
+This scene is a proud art reveal in the cramped hold of an airship.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the ship is parked at Starilaskur. One corner of the lower deck has become an art studio: paint pots, brushes, scraps of pink satin, glue and loose rhinestones spread across the crates. A storage room door stands open at the back. Time and light: morning, daylight slanting down the stairs from the deck above and a hanging lamp lit below.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Zenya, a chatty drow woman who has decided to redecorate the ship, proudly unfurls the banner she has made for the crew: a big, garish, bubblegum-pink satin banner, carefully sewn, with the royal seal of Breland worked across its centre entirely in glittering rhinestones. Its bottom edge, where she stitched the slogan, is folded back over her arms. She holds it high and beams. Next to her stands Chester, the ship's mimic, who is currently shaped like a heavy iron safe: she has used him as her art caddy, and his open door is crammed with paint pots and brushes, splashes of pink paint on his iron sides and his long pink tongue lolling out. Sazed, Eloria and Skye stand in front of the banner: Sazed searching for something encouraging to say, Eloria clapping politely, Skye, Sazed's young apprentice, delighted, clutching a new stack of books he has just given her. Behind them, in the open storage room, Captain Killian, the captured Aundairian officer, sits roped to a chair, unconscious, his head slumped.
+
+CAST
+- {cast:Zenya}
+- {cast:Chester} Here he is in the form of a heavy iron safe, not a wooden chest, with the same eye, teeth and tongue.
+- {cast:Sazed}
+- {cast:Eloria}
+- {cast:Skye}
+- {cast:Killian} Here he is unconscious and tied to a chair.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

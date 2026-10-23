@@ -1,0 +1,21 @@
+{tone}
+This scene is a warm, flirtatious moment between two old friends.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: Lirael's small cabin aboard the Moonwatch, parked on the Ardev landing field. The bed is rumpled where Xera slept, and bundles of freshly printed newspapers, stolen from the newspaper office, are stacked on the floor. Time and light: early morning, daylight through the porthole.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Lirael has just dropped his invisibility, and Xera, shocked and impressed that he finally learned magic, has set him the test they used to do when they were young: she holds out an unlit candle for him to light. Lirael answered with a fire bolt. The candle in her hand is still unlit, and behind it a bulky wooden box camera on the bundled papers has just been blasted apart in a burst of flame, splinters, glass and smoke flying. Lirael stands with his hand still raised and smoking, sheepish. Xera is laughing, already stepping in to hug him.
+
+CAST
+- {cast:Lirael}
+- {cast:Xera}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,28 @@
+{tone}
+This scene is an indoor ambush fight against constructs.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:party-house/dining-room}
+In this moment: the dining table and chairs are overturned and smashed, and the floor is still wet from the bedroom that flooded an hour ago. A section of the wall has just been smashed open where a hidden door was, and through the ragged hole the bedroom next door is visible, where the party's friends are fighting the same kind of constructs. Time and light: early morning; every lamp in the room is lit, though the party left them off last night.
+{maps:Home Base}
+
+THE MOMENT
+The fight is won. Two Warforged Enforcers lie broken on the floor, and the hulking Clockwork Defender is down on one knee, sparking. Sazed stands over the Defender with one hand plunged into its open chest, ripping out a glowing carved rune, the construct's heart, trailing torn wires. He holds it up for Brand to see. Brand, in his power armor, plaster dust on his shoulders from bursting through the hidden door, stares at the rune and recognises the maker's work: this was built by Clockwork, the base's artificer, and the whole house is a test. Each fallen construct has a stabilizing syringe fitted into one hand. Behind them Lirael hurls a fire bolt at the Warforged Spellcaster, which has just flickered out of invisibility in a corner, half-transparent, raising its staff. Through the hole in the wall the friends fight on in the bedroom: Keys in the shape of a big black bear mauling another enforcer, Leff and Tauren punching at it.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- Clockwork's portrait is attached for reference only; Clockwork is not in this moment. Do not draw him.
+- Warforged Enforcers: tall steel warforged soldiers with brass trim, a crested metal head with small green glowing eyes, a ragged green tabard, a longsword and a spiked wooden shield; here broken on the floor.
+- Clockwork Defender: a hulking, barrel-bodied brass clockwork construct with a single round glowing orange eye and riveted plates; here sparking and down on one knee, its chest open.
+- Warforged Spellcaster: a stone-grey warforged with glowing white eyes and a rune on its brow, in a long dark blue robe with gold trim, holding a staff topped with a pale blue crystal; here half-visible.
+- {cast:Keys} Here: in the form of a big black bear.
+- {cast:Leff}
+- {cast:Tauren}
+
+REFERENCES
+{references}

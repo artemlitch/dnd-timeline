@@ -1,0 +1,24 @@
+{tone}
+This scene is a shaken council of war just after a failed interrogation.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the upstairs war room, its office section walled off by a two-way mirror that is really one of Lirael's illusions. On the far side of the glass, two possessed Sentinels sit tied to chairs, soaked from the water thrown to wake them, now knocked unconscious and slumped forward: Sheldor, a drow, and Charlie Trundle. The Major's personal guards stand ready to carry them off to the village jail. Time and light: midday, lamplit.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+On this side of the mirror the group has reconvened, rattled after the Dreamweaver spoke through both men at once, called each of them by name and told them to kill themselves. Brand, the old dwarf in his power armor, stands at the table arguing that they wait until tomorrow and test for possession first, one armored hand on his holy symbol. Major Blazehelm, grave, raises a hand to the room, ordering everyone present to keep this to themselves and go back to training as if nothing had happened. Lirael and Sazed stand by the mirror glancing back at the slumped prisoners.
+
+CAST
+- {cast:Brand}
+- {cast:Blazehelm}
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in a black Sentinel coat.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- Sheldor: an adult drow man with dark skin and white hair, in a Sentinel uniform; unconscious, wet and tied to a chair.
+- Charlie Trundle: an adult human Sentinel soldier in uniform; unconscious, wet and tied to a chair.
+
+REFERENCES
+{references}

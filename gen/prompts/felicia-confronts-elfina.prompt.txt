@@ -1,0 +1,22 @@
+{tone}
+This scene is a sudden, explosive confrontation in a cramped ship passage.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: the narrow passage between the cabins below deck. Something has just crashed: a shelf and its crates lie smashed across the floor. Time and light: early morning, the ship in flight; lamplight, now overwhelmed by the firelight pouring off Felicia.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Felicia Jr is enraged and wreathed in fire: flames ripple off her arms and shoulders and her hair lifts in the heat as she screams at Elfina, demanding to know why a woman covered in the runes of the Fury, the goddess that tried to take Felicia's body, is on this ship. Elfina cowers against the wall at the open door of her cabin, terrified, her face and arms painted all over with the Fury's runes and her face heavily made up. Lirael has just come running down the stairs and steps between them, arms spread wide, facing his sister, trying to explain that Elfina has no powers any more and is only here for information. His calming spell has just failed on Felicia.
+
+CAST
+- {cast:Lirael}
+- {cast:Felicia Jr}
+- {cast:Elfina}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

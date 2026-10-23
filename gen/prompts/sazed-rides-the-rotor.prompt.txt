@@ -1,0 +1,27 @@
+{tone}
+This scene is a sabotage raid on an enemy airship, seen from just above its rotor.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:broadaxe/broadaxe-rotor}
+{setting:yedani-mountains/aundairian-valley-base}
+In this moment: the Broadaxe sits in the Aundairian camp, its big rotor blades sweeping round at speed as it readies to lift off. The lighter Broadsword is parked beside it. Behind them is the waterfall. Harpies circle along the cliff face, and on the cliff top a hobgoblin captain points down, telling them where the intruders are. Aundairian soldiers and hobgoblins move about the camp below. Time and light: around midday.
+{maps:The Broadaxe|Yedani Valley Airship Sabotage}
+
+THE MOMENT
+Sazed, made invisible by the potion he drank, crouches on the rotor housing of the Broadaxe with the blades whipping past inches from his head. Show him as a faint, glassy shimmer in the air, his outline just visible like heat haze, the smokepowder satchel and its fuse visible in his ghostly hands as he plants the charge. Nobody on the ship has seen him.
+Behind him, on the lip of the waterfall, Screech, a small halfling pilot, launches himself off the edge in a huge leap toward the deck of the Broadsword, and Brand, a stocky armored dwarf, is mid-air beside him with flame bursting from the boosters on his power armor.
+
+CAST
+- {cast:Sazed}
+- {cast:Screech}
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core and boot boosters.
+- Hobgoblin captain: a tall, red-skinned hobgoblin with long black hair, yellow eyes and a hooked nose, in plate armor.
+- Harpies: winged women with bird talons and ragged feathered wings.
+- {cast:The Moonwatch}
+- {cast:The Broadaxe}
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is a silent night ambush in a bedroom: a man fighting off three attackers.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: Gelf's bedroom. A silence spell lies over the room, so the whole struggle makes no sound. The bedroom door hangs open, light from the main room cutting across the bed, and two small red winged imps with stolen trinkets in their claws flee out through the doorway. Time and light: about two in the morning, the only light the shaft through the open door.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+Gelf, just woken and half-dressed from bed, tears free of three men grappling him: Brand in his power armor, Elric, and Screech, a small halfling. All three attackers are possessed by the Dreamweaver, faces blank and calm. Gelf has wrenched one arm free and is diving for the open window, one boot on the sill. In the bed behind him Bellatrix Snaggletooth, an adult dragonborn woman, has sat up clutching the sheet around herself, unclothed beneath it, mouth open in a scream that makes no sound. On the floor by the bed lies an ordinary-looking bag, the bag of devouring, waiting.
+
+CAST
+- {cast:Gelf}
+- {cast:Brand}
+- {cast:Bellatrix}
+- {cast:Elric}
+- {cast:Screech}
+
+REFERENCES
+{references}

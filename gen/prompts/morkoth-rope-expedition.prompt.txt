@@ -1,0 +1,28 @@
+{tone}
+This scene is a chaotic night-time monster hunt in a stable.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:party-house/kitchen-and-stables}
+In this moment: the stables behind the house, a pulley rigged to a roof beam over the bag of devouring, a plain old sack lying open on the floor. Out of its mouth, which swirls with a dark, watery void, run four taut ropes. Time and light: night; lanterns hung from the beams.
+{maps:Home Base}
+
+THE MOMENT
+The household is hauling baby morkoths out of the bag. Sheldor and Leff, ropes tied round their waists, have just been dragged back out of the bag's mouth, each wrestling a young morkoth, a purple, dog-sized octopus-like creature with writhing tentacles, bulging yellow eyes and a gaping toothy mouth. Behind them a big black bear, Keys in bear form, is backing out of the bag with a third morkoth clamped in its jaws, and Tauren's rope is still being pulled taut from inside. Brand, in his power armor, Lirael and Sazed heave on the ropes at the pulley with Sorenson and the dog Scruffy, a scruffy mutt tugging on the rope's end with his teeth. And at that moment Cromwell staggers through the stable door, drunk, a bottle in one hand, looking for someone to party with, and is already reaching for his bow to join the fight.
+
+CAST
+- {cast:Brand}
+- {cast:Cromwell}
+- {cast:Sheldor}
+- {cast:Keys}
+- Keys is in his black bear form in this moment: draw him as a big black bear.
+- {cast:Leff}
+- {cast:Tauren}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Sorenson}
+
+REFERENCES
+{references}

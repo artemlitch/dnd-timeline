@@ -1,0 +1,20 @@
+{tone}
+This scene is a tense night watch at the helm of an airship, keeping just out of sight of an armed train.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/pilot-controls}
+{setting:skies-over-breland}
+In this moment: the Moonwatch flies low, its bound elemental ring glowing at the stern. The flight deck is empty except for the pilot; the rest of the crew are asleep below. Far behind the ship, right on the horizon, the black-booked lightning rail races along its unfinished track, a chain of cars floating over glowing conductor stones, lightning crackling around the lead cart, its ballistas and anti-airship cannons pointing at the sky. Time and light: night, lit by the train's lightning on the horizon and the glow of the elemental ring.
+
+THE MOMENT
+Screech, the small halfling ship captain, stands alone at the ship's-wheel helm, gripping it with both hands and looking back over his shoulder at the distant train, matching its speed exactly. He keeps the Moonwatch just over the horizon in front of it, so it stays out of sight and out of range of the guns, while the party sleeps below.
+
+CAST
+- {cast:Screech}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

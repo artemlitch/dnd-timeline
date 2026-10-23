@@ -1,0 +1,27 @@
+{tone}
+This scene is a crowded night out at the village bar, and a quiet talk at one table about where home is.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/brew-and-ale}
+In this moment: the bar is packed with Sentinels after training, the dance floor full. Along the bar top a row of live chickens race each other while deep gnomes crowd round and slap down coins. Time and light: evening going into night, lamps and the hearth fire.
+{maps:Brew & Ale}
+
+THE MOMENT
+At a corner table, the household has gone quiet over their drinks. Sheldor, a drow, stares into his mug, saying he wants to go home and does not know what he is doing here. Keys and Sorenson, two dwarves, sit beside him, both lost too but with no home to go back to. Across from them, Elric leans forward grinning, oddly excited about the mission he and Gelf leave on in the morning, while Gelf sits back with his drink, not excited at all. In the background at the bar, Screech, a small halfling pilot, cheers on a racing chicken with the deep gnomes, and Lirael quietly rigs the race. Sazed is pulled onto the dance floor by Eloria.
+
+CAST
+- {cast:Gelf}
+- {cast:Elric}
+- {cast:Screech}
+- {cast:Keys}
+- {cast:Sheldor}
+- {cast:Sorenson}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Eloria}
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is a crooked betting game in a crowded bar.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/brew-and-ale}
+In this moment: a long table has been cleared and turned into a racetrack, lanes chalked out on the boards, a crowd of drunk Sentinels jammed around it with coins in their fists. Time and light: evening, lamplight and the hearth.
+{maps:Brew & Ale}
+
+THE MOMENT
+Live chickens sprint flapping and squawking down the lanes of the table, feathers flying, one bursting over the finish line ahead of the rest. The deep gnomes, small grey-skinned bald gnomes, lean over the track howling at their birds, and Screech and Keys pound the table urging on chickens that are clearly going to lose. Lirael, who rigged the whole thing, sits at the end of the table calmly raking a large pile of gold coins toward himself, nobody suspecting a thing.
+
+CAST
+- {cast:Lirael}
+- {cast:Screech}
+- {cast:Keys}
+- The deep gnomes: small gnomes with grey stone-coloured skin and bald heads, in work clothes.
+
+REFERENCES
+{references}

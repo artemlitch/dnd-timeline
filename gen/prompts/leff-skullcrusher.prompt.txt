@@ -1,0 +1,20 @@
+{tone}
+This scene is a big warrior opening his heart to an old friend at the supper table.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:party-house/dining-room}
+In this moment: the trap test is over and the house is back in order. The end of a long wooden supper table with bowls of stew, bread and mugs of ale; housemates talking in the background. Time and light: evening, lamps and candles on the table.
+{maps:Home Base}
+
+THE MOMENT
+Leff, the huge tattooed half-orc, sits hunched over the table beside Brand, a mug lost in his massive hand, explaining with grave sincerity that in his warrior culture you must earn your last name in combat and be given it by a friend. He holds up one big fist and slowly closes it, the way he crushed a prison guard's skull. Brand, the old dwarf in his power armor, sits listening, moved, realising that the name he gave Leff in the prison, Skullcrusher, meant far more to him than Brand ever knew.
+
+CAST
+- {cast:Leff}
+- {cast:Brand}
+
+REFERENCES
+{references}

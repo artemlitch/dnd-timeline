@@ -1,0 +1,23 @@
+{tone}
+This scene is a drill sergeant tearing into three hungover recruits at morning training.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the start of the course. No crowd, speech or fireworks here, just the recruits and their sergeant. Time and light: early morning, the morning after a long night of drinking at the village bar.
+{maps:Obstacle Course}
+
+THE MOMENT
+Dyll Strickland, the old drill sergeant, stands nose to nose with three wrecked recruits and screams into their faces, spittle flying, veins standing out on his neck. Tauren, Leff and Sheldor are green-faced, sweating and bleary-eyed: Tauren squints and sways on his feet, the huge Leff is doubled over with his hands on his knees, and Sheldor, the drow, shields his eyes against the daylight. Just behind them Sazed jogs past in perfect form, upright and composed, showing no trace of the same night of drinking.
+
+CAST
+- {cast:Dyll Strickland}
+- {cast:Tauren}
+- {cast:Leff}
+- {cast:Sheldor}
+- {cast:Sazed}
+
+REFERENCES
+{references}

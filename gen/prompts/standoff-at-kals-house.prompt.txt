@@ -1,0 +1,25 @@
+{tone}
+This scene is a tense standoff in a city street, a heartbeat before a fight.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:wroat/kal-valviers-house}
+In this moment: the smoke bombs, the killing and the beheading all come later. Right now Kal's front door hangs splintered off its hinges where Brand broke it in, and the party has just stepped out with Kal into the street outside, townsfolk stopping to stare. Time and light: early afternoon.
+{maps:Wroat Street}
+
+THE MOMENT
+The party is leading Kal Valvier away from his house when The Even Hand blocks the street in front of them, flanked by two assassins with blades drawn. He stands calm and unhurried, one gloved hand raised, making his offer: hand over Kal and he will let them walk away, this one time. Kal stands dazed and pliant at Lirael's elbow, still under Lirael's suggestion spell, a faint glow of magic in his vacant eyes. Lirael keeps a hand on Kal's arm and stares down the masked assassin. Brand, in his power armor, plants himself between Kal and the killers, fists clenched, his core glowing. Sazed stands ready with his quarterstaff. And racing up the street behind the assassins comes Click Clack, the beat cop sent to fetch Kal, a big axe raised over his head, grinning, about to join the fight.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:The Even Hand}
+- {cast:Kal Valvier}
+- {cast:Sazed}
+- {cast:Click Clack}
+- The two assassins: lean human killers in black hooded leathers and cowls, faces hidden, long knives in hand.
+
+REFERENCES
+{references}

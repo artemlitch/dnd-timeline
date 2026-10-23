@@ -1,0 +1,24 @@
+{tone}
+This scene is a desperate struggle in a locked bedroom that is filling with water.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:party-house/bedrooms}
+In this moment: the shared bedroom is flooding. Water gushes from a spout low in one wall and already stands chest-high on the humans, bunks and furniture floating and bobbing. The door is locked fast, and more water seeps out around the edges of a hidden door in another wall. Time and light: early morning, light glowing under the door though everyone left the lights off.
+{maps:Home Base}
+
+THE MOMENT
+Brand, an old dwarf woken from sleep, out of his armor, the water up to his beard, wrestles the mouth of the Bag of Devouring, an ordinary-looking cloth sack, down over the gushing spout to plug it. Lirael hurls a bolt of fire at the locked door, bursting into steam against the wet wood, while Leff and Tauren pound on the door with their bare fists. Sazed points across the room at the water seeping through the outline of the secret door. Beside it Keys, wild-shaped into a black bear, rears up out of the water to smash at it.
+
+CAST
+- {cast:Brand} Here he is NOT in his power armor: he has just woken up, in his nightclothes.
+- {cast:Lirael}
+- {cast:Leff}
+- {cast:Tauren}
+- {cast:Sazed}
+- Keys: a dwarf druid, here wild-shaped into a big black bear.
+
+REFERENCES
+{references}

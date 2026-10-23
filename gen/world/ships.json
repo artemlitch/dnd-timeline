@@ -1,0 +1,38 @@
+{
+ "The Moonwatch": {
+  "file": "gen/refs/ships/the-moonwatch.jpg",
+  "look": "The party's airship, a captured Aundairian Broadsword: a long wooden sailing-ship hull of brown planks with a sharp pointed prow and a small blue flame at the bow tip, an open planked deck with hatches, and no masts. Instead, ribbed cream canvas batwing sails stick out sideways from the hull like fins: one large pair amidships and fans of smaller swept-back sails toward the stern on each side. A round brass elemental ring is set into the stern deck, and roaring blue elemental flame streams out behind the ship.",
+  "token": "gen/refs/roll20/characters/moonwatch.png",
+  "short": "the party's wooden airship, batwing sails out to the sides like fins, blue elemental flame at the stern"
+ },
+ "The Kunai": {
+  "file": "gen/refs/ships/the-kunai.jpg",
+  "look": "The Sentinels' small dropship: a compact arrowhead-shaped craft with a lacquered red hull trimmed in riveted brass, a blue glass canopy over the cockpit at the nose, flared swept-back wings, and four round brass turbine housings on its flanks.",
+  "token": "gen/refs/roll20/characters/kunai-dropship.png",
+  "short": "small red-and-brass Sentinel dropship with brass turbines and a glass cockpit"
+ },
+ "Shuriken fighter": {
+  "file": "gen/refs/ships/shuriken-fighter.jpg",
+  "look": "A small one-man fighter airship: a long brass lance-spike at the nose, a blue glass cockpit bubble, a riveted brass-and-tan hull, brass cannon barrels along both sides, and swept-back red batwing sails at the rear.",
+  "token": "gen/refs/roll20/characters/shuriken-fighter.png",
+  "short": "one-man brass fighter with a lance nose and red batwing sails"
+ },
+ "The Kingsblade": {
+  "file": "gen/refs/ships/the-kingsblade.jpg",
+  "look": "A huge Brelish Galifar-class warship: a long narrow hull with a pointed prow, grey and brass armour plating, decks of teal glass panels laced with pipework, rows of crystal-studded cannons glowing blue along both sides, and a broad red-and-brass stern with swept wings ending in large turbine wheels, blasting red and blue fire behind it.",
+  "token": "gen/refs/roll20/characters/the-kingsblade.png",
+  "short": "huge armoured Brelish warship with blue crystal cannons and fire at the stern"
+ },
+ "The Broadaxe": {
+  "file": "gen/refs/ships/the-broadaxe.jpg",
+  "look": "An airship with a long wooden sailing-ship hull and a pointed prow, four large red-and-white spoked paddle-wheel rotors on outriggers at its sides, a big black iron steam engine at the stern belching black smoke, and a long red-and-teal rudder bar across the stern.",
+  "token": "gen/refs/roll20/characters/broadaxe.png",
+  "short": "wooden airship with red paddle-wheel rotors and a smoking black steam engine"
+ },
+ "The Empyrean": {
+  "file": "gen/refs/ships/the-empyrean.jpg",
+  "look": "Thaddeus Cannith's massive, gaudy luxury airship: a long pointed hull of polished wood decks and pale stone walkways, a swimming pool at the bow, a glass-domed lounge, twin brass funnels, a great domed glass rotunda at the stern, blue-and-gold hull sides with gold filigree and small lifeboats, wrapped along both sides by two huge loops of crackling blue elemental energy.",
+  "token": "gen/refs/roll20/characters/the-empyrean.png",
+  "short": "huge gaudy luxury airship, blue-and-gold hull, glass domes, two loops of blue lightning"
+ }
+}

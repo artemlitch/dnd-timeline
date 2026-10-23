@@ -1,0 +1,26 @@
+{tone}
+This scene is a private drink with veteran soldiers at a big party.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/quiet-room}
+In this moment: a big bouncer stands at the door, holding back the party crowd while letting the three newcomers in. Inside the lounge, drinks are out on the tables. Time and light: late night, about ten, lamplight.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Gelf and Elric, drinks raised, introduce the party to three veteran Sentinels. The veterans are laughing at Gelf and Elric: Foehammer mimes a parachute drifting down with her hands, teasing them about how they joined the Sentinels by accidentally parachuting into a Sentinel base, and Elric covers his face. Eloria, the cleric, laughs into her glass. Clockwork, a tall warforged, stands by a lamp, motionless and unsmiling. Lirael, Brand and Sazed, already well drunk from the pregame and the feast, stand just inside the door in their new black Sentinel outfits.
+
+CAST
+- {cast:Gelf}
+- {cast:Elric}
+- {cast:Eloria}
+- {cast:Clockwork}
+- Foehammer: a weathered veteran woman pilot in a worn leather flight jacket, a dropship pilot who once flew dragons.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

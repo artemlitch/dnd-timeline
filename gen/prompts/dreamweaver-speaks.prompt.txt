@@ -1,0 +1,25 @@
+{tone}
+This scene is an interrogation that turns into a horror: two prisoners speaking as one voice.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the office section of the upstairs war room, split in two by a wall-sized two-way mirror that is really Lirael's illusion. On one side, a bare room with two chairs; on the other, the watchers in shadow. Time and light: late morning, lamps in the office and dimness behind the glass.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+Sheldor and Charlie Trundle are tied to chairs side by side, soaked and dripping from the bucket of water Gelf just threw to wake them. Gelf stands over them with the empty bucket, playing the bad cop, and Elric beside him as the good cop, but both have gone still. The two prisoners have turned their heads together, in perfect unison, to stare straight at the mirror they should not be able to see through, speaking the same words at the same time with one cold voice: the Dreamweaver is talking through both men, naming each person behind the glass. Behind the illusory mirror, Brand presses a fist against the glass, shouting that it will not get away with this. Lirael and Sazed stand frozen beside him, and Major Blazehelm, a cleric and a prim elf officer watch, shaken.
+
+CAST
+- {cast:Sheldor}
+- {cast:Charlie Trundle}
+- {cast:Gelf}
+- {cast:Elric}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

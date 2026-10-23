@@ -1,0 +1,25 @@
+{tone}
+This scene is a send-off and a promotion on an airfield.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/hobbstweedle-airfield}
+In this moment: the Moonwatch waits on the grass with its gangway down and its elemental ring glowing at the stern, ready to lift off; the huge Kingsblade sits beside it, also readying to leave. Friends and Sentinels stand on the lawn to see them off. Time and light: afternoon.
+{maps:Air Field Hobbstweedle}
+
+THE MOMENT
+At the foot of the Moonwatch's gangway, Major Blazehelm pins a Master Chief's insignia on Screech's chest. Screech stands stiffly at attention, chest puffed out, trying not to grin and failing. Lirael, Brand and Sazed stand in line beside him, just promoted to Petty Officer First Class; Blazehelm has handed Brand a heavy purse of 400 gold. Behind them, the Moonwatch's crew leans over the rail, ready to go.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Screech}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:The Moonwatch}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

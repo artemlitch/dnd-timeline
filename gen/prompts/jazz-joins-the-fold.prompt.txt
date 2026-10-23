@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet, grieving conversation in a back room of a police station.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-police-station}
+In this moment: a small back room of the station, a desk piled with paperwork. On the wall hangs a missing-persons poster with a drawing of a green-haired young woman, the reporter Grib Grimley. Time and light: late at night, under curfew; a single desk lamp.
+{maps:Ardev Police Station}
+
+THE MOMENT
+Lirael has slipped away from the police files to talk to Jazz and finds him alone at his desk, deeply upset over Xera, his ex-girlfriend: he sits slumped with his head in his hands, eyes red, the paperwork forgotten. Lirael pulls up a chair close beside him, leaning in and speaking low, telling him what the party is really trying to do. Jazz has just lifted his head and is looking at Lirael with a hard, knowing stare: before Lirael can avoid saying it, Jazz already knows the name of the Dreamweaver.
+
+CAST
+- {cast:Lirael}
+- Xera's portrait is attached for reference only; Xera is not in this moment. Do not draw her.
+- {cast:Jazz}
+
+REFERENCES
+{references}

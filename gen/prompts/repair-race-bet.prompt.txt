@@ -1,0 +1,27 @@
+{tone}
+This scene is a race between two repair crews on either side of a damaged airship.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch}
+{setting:ardev/ardev-landing-field}
+In this moment: the Moonwatch rests on its landing gear on the Ardev landing field, its hull holed and scorched by anti-airship guns, ladders and scaffolding propped against both sides, tools, planks and stacks of new dwarven armor plates on the ground. Time and light: late morning.
+
+THE MOMENT
+Brand and Screech have bet 100 gold on whose team finishes their side of the hull first, working from stern to bow. On the near side, Brand bolts the very last armor plate into place at the bow and throws his arms up, winning. Working beside him is his nephew Brokk, who came to collect Sorenson and decided to pitch in uninvited, riveting plates faster than anyone to show his uncle how it is really done. Sorenson hauls a plate up a ladder, and Jazz, the town police officer, holds a ladder steady. Barry Baritone, the brass musician construct who came along with Brokk, looks on. Around the bow, on the far side, Screech freezes on his scaffold, staring in disbelief, while his crew keeps working: Beezel, wild-shaped into a huge gorilla, carries a stack of planks on his shoulder, and Jeff, the frog-man, is hammering at a plate halfway down the hull.
+
+CAST
+- {cast:Brand}
+- {cast:Brokk}
+- {cast:Sorenson}
+- {cast:Screech}
+- Jazz: a lean human police officer with short brown hair and a thin moustache, navy ribbed sweater with leather shoulder straps, cream breeches, tall laced boots.
+- Barry Baritone: a large brass construct built out of brass instruments, a tuba-bell body, horn bells for shoulders, a domed brass head with glowing orange eyes.
+- Beezel: here a huge black gorilla (a halfling druid in wild shape).
+- Jeff: a large, heavy frog-man druid with yellow eyes, a snail sitting on his head, a robe of moss and leaves, green bead necklaces.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

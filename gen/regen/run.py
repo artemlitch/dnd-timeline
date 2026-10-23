@@ -1,9 +1,9 @@
-"""Regenerates event images with every character portrait attached, most important characters first.
+"""Regenerates event images from their prompt files in gen/prompts/, most important characters first.
 
 Skips events whose portraits are only the three player characters. Orders the rest by their most-mentioned NPC
-(event count in list.json's npc_roster, else in sources.json), then by the sum over all their NPCs. Runs until
-the OpenRouter credit is gone and logs each finished event to gen/regen/done.json, so a rerun picks up where it
-stopped.
+(event count in list.json's npc_roster, else in sources.json), then by the sum over all their NPCs. Each image is
+written as the event's next version by gen/image.py. Runs until the OpenRouter credit is gone; events already made
+from a gen/prompts/ file (per gen/regen/versions.json) are skipped, so a rerun picks up where it stopped.
 
     python3 -I gen/regen/run.py [--limit N] [--dry]
 """
@@ -18,61 +18,74 @@ from collections import Counter
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 HERE = ROOT / 'gen' / 'regen'
+PROMPTS = ROOT / 'gen' / 'prompts'
 PCS = {'Lirael', 'Brand', 'Sazed'}
 
-sources = json.loads((HERE / 'sources.json').read_text())
-roster = {r['name']: r['events'] for r in json.loads((HERE / 'list.json').read_text())['npc_roster']}
-seen = Counter(r['name'] for s in sources for r in s['refs'] if r['name'] not in PCS)
-weight = lambda n: roster.get(n, seen[n])
 
-done_path = HERE / 'done.json'
-done = json.loads(done_path.read_text()) if done_path.exists() else {}
-
-todo = []
-for s in sources:
-    npcs = [r['name'] for r in s['refs'] if r['name'] not in PCS]
-    if npcs and s['id'] not in done:
-        todo.append((max(weight(n) for n in npcs), sum(weight(n) for n in npcs), s['id'], npcs, len(s['refs'])))
-todo.sort(key=lambda t: (-t[0], -t[1], t[2]))
-if '--limit' in sys.argv:
-    todo = todo[: int(sys.argv[sys.argv.index('--limit') + 1])]
-print(f'{len(todo)} events to regenerate', flush=True)
-if '--dry' in sys.argv:
-    for t in todo[:40]:
-        print(t)
-    sys.exit()
-
-lock, out_of_credit = threading.Lock(), threading.Event()
+def arg(name, default=None):
+    return sys.argv[sys.argv.index(name) + 1] if name in sys.argv else default
 
 
-def run(item):
-    eid = item[2]
-    if out_of_credit.is_set():
-        return eid, None
-    for attempt in range(3):
-        r = subprocess.run([sys.executable, '-I', str(ROOT / 'gen/image.py'), eid, '--nojson', '--sources'],
-                           capture_output=True, text=True)
-        out = (r.stdout + r.stderr).strip()
-        if r.returncode == 0:
-            cost = float(out.rsplit('cost=', 1)[1]) if 'cost=' in out and out.rsplit('cost=', 1)[1] != 'None' else 0.0
-            with lock:
-                done[eid] = {'cost': cost, 'refs': item[4], 'at': time.strftime('%Y-%m-%dT%H:%M:%S')}
-                done_path.write_text(json.dumps(done, indent=1) + '\n')
-            return eid, cost
-        if 'HTTP 402' in out:
-            out_of_credit.set()
+def order():
+    """Event ids with NPC portraits, most important characters first."""
+    sources = json.loads((HERE / 'sources.json').read_text())
+    roster = {r['name']: r['events'] for r in json.loads((HERE / 'list.json').read_text())['npc_roster']}
+    seen = Counter(r['name'] for s in sources for r in s['refs'] if r['name'] not in PCS)
+    weight = lambda n: roster.get(n, seen[n])
+    ranked = []
+    for s in sources:
+        npcs = [r['name'] for r in s['refs'] if r['name'] not in PCS]
+        if npcs:
+            ranked.append((-max(weight(n) for n in npcs), -sum(weight(n) for n in npcs), s['id']))
+    return [eid for *_, eid in sorted(ranked)]
+
+
+def main():
+    log = json.loads((HERE / 'versions.json').read_text())
+    done = {eid for eid, vs in log.items() if any((v.get('prompt') or '').startswith('gen/prompts/') for v in vs)}
+    todo = [eid for eid in order() if eid not in done and (PROMPTS / f'{eid}.prompt.txt').exists()]
+    if '--limit' in sys.argv:
+        todo = todo[: int(arg('--limit'))]
+    print(f'{len(todo)} events to regenerate', flush=True)
+    if '--dry' in sys.argv:
+        print('\n'.join(todo[:40]))
+        return
+
+    lock, out_of_credit = threading.Lock(), threading.Event()
+    refused = []
+
+    def run(eid):
+        if out_of_credit.is_set():
             return eid, None
-        time.sleep(5 * (attempt + 1))
-    print(f'FAIL {eid}: {out[-300:]}', flush=True)
-    return eid, None
+        for attempt in range(3):
+            r = subprocess.run([sys.executable, '-I', str(ROOT / 'gen/image.py'), eid, '--sources',
+                                '--prompt', f'gen/prompts/{eid}.prompt.txt'], capture_output=True, text=True)
+            out = (r.stdout + r.stderr).strip()
+            if r.returncode == 0:
+                tail = out.rsplit('cost=', 1)[1]
+                return eid, float(tail) if tail != 'None' else 0.0
+            if 'HTTP 402' in out:
+                out_of_credit.set()
+                return eid, None
+            if 'content_filter' in out or 'IMAGE_SAFETY' in out:
+                with lock:
+                    refused.append(eid)
+                print(f'REFUSED {eid}', flush=True)
+                return eid, None
+            time.sleep(5 * (attempt + 1))
+        print(f'FAIL {eid}: {out[-300:]}', flush=True)
+        return eid, None
+
+    spent, ok = 0.0, 0
+    with cf.ThreadPoolExecutor(6) as pool:
+        for n, (eid, cost) in enumerate(pool.map(run, todo), 1):
+            if cost is not None:
+                ok += 1
+                spent += cost
+            if n % 10 == 0:
+                print(f'{n}/{len(todo)} processed, {ok} regenerated, ${spent:.2f}', flush=True)
+    print(f'FINISHED {ok} regenerated, ${spent:.2f}' + (' (stopped: out of credit)' if out_of_credit.is_set() else '')
+          + (f'; refused: {", ".join(refused)}' if refused else ''), flush=True)
 
 
-spent, ok = 0.0, 0
-with cf.ThreadPoolExecutor(6) as pool:
-    for n, (eid, cost) in enumerate(pool.map(run, todo), 1):
-        if cost is not None:
-            ok += 1
-            spent += cost
-        if n % 10 == 0:
-            print(f'{n}/{len(todo)} processed, {ok} regenerated, ${spent:.2f}', flush=True)
-print(f'FINISHED {ok} regenerated, ${spent:.2f}' + (' (stopped: out of credit)' if out_of_credit.is_set() else ''), flush=True)
+main()

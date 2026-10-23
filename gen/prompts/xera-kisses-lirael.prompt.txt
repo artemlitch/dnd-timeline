@@ -1,0 +1,23 @@
+{tone}
+This scene is a tender moment aboard an airship, with an audience.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: the narrow passage below deck outside Lirael's cabin, the ship in flight. Time and light: lamplight inside the ship.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Xera, only just brought back from the dead, is pale, exhausted and wrapped in a blanket. She has asked Lirael to confirm that her memories of what happened are true, and now she leans up and kisses him on the lips to thank him for reviving her. Lirael stands frozen in surprise, his hands hovering. Behind them Felicia Jr pulls a disgusted face and turns to walk away, while Eloria, the ship's cleric, watches with a delighted smile, hands pressed together.
+
+CAST
+- {cast:Lirael}
+- {cast:Xera}
+- {cast:Felicia Jr}
+- {cast:Eloria}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

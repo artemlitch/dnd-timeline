@@ -1,0 +1,23 @@
+{tone}
+This scene is a hostage standoff broken by a bolt of lightning, in the Astral Plane.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/astral-safe-portal}
+In this moment: beyond the arcane safe's door, in the Astral Plane, near the swirling portal back to the train car. Time and light: no day or night here.
+{maps:Astral Prison}
+
+THE MOMENT
+The Even Hand has just come out of invisibility holding Felicia Sr, Lirael's mother, as a hostage, blade at her throat; she is dreamwoven, eyes blank. In one swift move Brand reveals himself out of thin air and hits The Even Hand with a crackling bolt of lightning that lights up the void and burns through his coat, while Sazed lunges in and yanks Felicia Sr clear by the arm at the last instant. Behind them stands Lirael himself, possessed by the Dreamweaver, eyes empty and glowing, hands raised for a spell against his friends, and two huge brown war bears, Telos and Gruff, newly dreamwoven, turn on the party with the same empty eyes.
+
+CAST
+- {cast:The Even Hand}
+- {cast:Felicia Sr}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael} Here possessed: blank, glowing eyes, turned against his friends.
+
+REFERENCES
+{references}

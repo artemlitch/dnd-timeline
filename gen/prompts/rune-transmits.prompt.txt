@@ -1,0 +1,23 @@
+{tone}
+This scene is a forensic examination of a dead machine in an artificer's workshop.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/clockworks-shop}
+In this moment: The Even Hand's body is laid out on a workbench among half-built warforged limbs and tools. Time and light: morning, daylight from the workshop windows and the red glow of the forge.
+{maps:Clockworks Shop}
+
+THE MOMENT
+Clockwork, the Sentinels' warforged artificer, bends over the body of The Even Hand: a sleek black-metal warforged split open from shoulder to chest by an axe blow, its internals torn and scorched, its glowing red eyes now dark, its beaked plague-doctor mask lying beside its head. With fine tools Clockwork has lifted a small carved rune out of the chest cavity and holds it up to the light: it is cracked straight through. Lirael, Brand and Sazed lean in around the bench. Brand stares at the advanced mechanisms with professional hunger.
+
+CAST
+- {cast:Clockwork}
+- {cast:The Even Hand} Here only as the dead, split-open warforged body on the workbench.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

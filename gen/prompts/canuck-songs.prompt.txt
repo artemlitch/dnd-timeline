@@ -1,0 +1,29 @@
+{tone}
+This scene is a crew dancing on the deck of their airship at night.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/flight-deck}
+{setting:skies-over-breland}
+In this moment: the Moonwatch is in flight at night over Breland. The band is set up at one end of the deck. Time and light: night, lit by lanterns hung along the rail and the glow of the elemental ring at the stern.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+The ship's band plays traditional songs from Screech's home village of Canuck, from sheet music Screech brought: Screech, the new captain, pounds the drums, ecstatic, Sorenson plays his guitar and Dandy, the gnome cook, plays bass. The whole crew dances on the deck, arm in arm, stomping and spinning: Lirael, Brand and Sazed among them, Erald, the old dwarf scribe, and Cromwell, the stowaway, with a bottle. At the wheel behind them, Beezel, the halfling helmsman on the night shift, steers, tapping his foot.
+
+CAST
+- {cast:Screech}
+- Sorenson: a short, stout dwarf musician with swept red-ginger hair and a full bushy red beard, brown vest over a white shirt, baggy purple striped breeches, barefoot with leather leg wraps.
+- Dandy: a small male gnome cook with reddish-brown skin, long pointed ears and a huge bushy brown moustache, white shirt, black vest and red sash.
+- Beezel: a small, young halfling with a boyish grin and messy dark brown hair, in a rust-red shirt and grey vest.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Erald: an elderly, short and stout dwarf scribe with grey hair, a big grey beard and moustache, in a blue robe with orange trim.
+- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, grey leather armor.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

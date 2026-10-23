@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet, heavy revelation across a feast table in the middle of a party.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:blazehelms-mansion/main-hall}
+In this moment: the long feast table is crowded with the remains of a five-course dinner, empty plates, bottles and glasses. Behind them the hall is packed with drunk, celebrating Sentinels. Time and light: night, lit by the hall's lamps and candles on the table.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Major Blazehelm leans across the feast table toward Lirael and tells him how he knew Lirael was possessed when he killed the head of the magic society: a young wizard saw it and came to him, and Lirael's own father came to him before he vanished searching for the Shadow Mirror. Lirael, the young drow, grips the stem of his wine glass so hard his knuckles pale, his face caught between shock and hope at hearing his father spoken of, the noise of the party carrying on all around them.
+
+CAST
+- {cast:Lirael}
+- {cast:Blazehelm}
+- Gelard Greenly's portrait is attached for reference only; Gelard Greenly is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

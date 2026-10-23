@@ -1,0 +1,22 @@
+{tone}
+This scene is a quiet, chilling discovery: a threat left on the party's own front door.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house}
+In this moment: the front door of the party's house. Fresh boot tracks run from the doorstep around the side of the house. Time and light: late morning.
+{maps:Home Base}
+
+THE MOMENT
+The party has just opened their front door and found an arrow buried deep in the outside of it, pinning a folded note to the wood. It is a silence arrow, black-fletched, the same kind that killed the librarian Meriel on the bridge in Wroat, and a faint rune glows on its shaft. Lirael stands frozen in the doorway staring at it, Brand in his power armor behind him, reaching past to pull the note free, and Sazed crouches at the doorstep reading the tracks in the dirt. The Even Hand, the assassin they believed they had killed, is alive and knows where they live.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The Even Hand's portrait is attached for reference only; The Even Hand is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

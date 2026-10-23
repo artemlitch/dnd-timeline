@@ -1,0 +1,20 @@
+{tone}
+This scene is a quiet absolution across a feast table in the middle of a party.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:blazehelms-mansion/main-hall}
+In this moment: the long feast table is crowded with the remains of a five-course dinner, empty plates, bottles and glasses. Behind them the hall is packed with drunk, celebrating Sentinels. Time and light: night, lit by the hall's lamps and candles on the table.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Major Blazehelm faces Sazed across the corner of the feast table and tells him that the Battle of Eldritch Groves was lost before it began, and that the warning Sazed failed to send is not why Breland lost. Sazed, the guarded shifter who keeps to himself, sits rigid with his hands flat on the table, eyes lowered behind his small round spectacles, the guilt he has carried for years visibly breaking. Blazehelm holds his gaze, earnest and certain.
+
+CAST
+- {cast:Sazed}
+- {cast:Blazehelm}
+
+REFERENCES
+{references}

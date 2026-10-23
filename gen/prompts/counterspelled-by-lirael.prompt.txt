@@ -1,0 +1,23 @@
+{tone}
+This scene is a betrayal in the middle of a magic duel: a friend's power turned against the party.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/astral-safe-portal}
+In this moment: the party has come back through the portal from the train car into the astral realm. Behind them the portal shows the inside of the speeding train car. Time and light: no day or night here, only the endless silver light of the astral realm and the glow of the portal.
+{maps:Astral Prison}
+
+THE MOMENT
+Outnumbered on the train, The Even Hand has fled through the portal into the astral realm, and Brand has chased him through. Brand, in his power armor, has just fired a magic missile: a volley of glowing darts streaks from his hand toward The Even Hand, who runs away across the silver void. But the darts are unravelling into sparks in mid-air, cancelled by a counterspell. The counterspell comes from Lirael, who stands invisible to one side: draw him as a barely visible, glassy outline, like a heat shimmer in the shape of the young drow, one hand raised, his eyes the only clear thing about him, glowing blank and empty, because the Dreamweaver possesses him. Behind Brand, Sazed is just stepping through the portal after him with his quarterstaff, and through the portal Cromwell leans in from the train car, drawing his longbow.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:The Even Hand}
+- {cast:Cromwell}
+
+REFERENCES
+{references}

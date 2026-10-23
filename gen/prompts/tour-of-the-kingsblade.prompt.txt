@@ -1,0 +1,25 @@
+{tone}
+This scene is a first meeting in a warship's fighter hangar.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:kingsblade/lower-deck-hangar-and-armory}
+In this moment: a row of small one-pilot Shuriken fighters on their cradles, panels open, halfling pilots in goggles and black flight gear tinkering on them with wrenches. Time and light: night, lit by work lamps over the fighters.
+{maps:Kingsblade Lower Deck}
+
+THE MOMENT
+Major Blazehelm leads the party into the hangar, and Screech, a halfling pilot, hops down off the nose of his Shuriken, wiping grease off his hands, to meet them, grinning. Brand has already wandered off to the nearest fighter and is peering into its open engine panel, fascinated. Sazed hangs back, uneasy at being on a ship at all. Lirael shakes Screech's hand.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Screech}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Shuriken fighter}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is an invisible theft on a town street.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/ardev-watch-office}
+In this moment: the front step of the newspaper office and the street outside it. Time and light: just before eight in the morning.
+{maps:The Ardev Watch}
+
+THE MOMENT
+A tall stack of bundled, freshly printed newspapers, just left on the office step, is rising off the ground and floating away down the street at walking height, apparently by itself. It is carried by Lirael, who is invisible: only a faint, shimmering, see-through outline of a slender drow shows around the stack. Behind him, through the office window, the reporter Grib Grimley turns away from the door, having put the papers out as the forged note told her to. At the far end of the street, the paper boys who fled a monster's roar a minute ago, a roar that came from nowhere, peek out fearfully from behind a corner. No words on the papers are readable.
+
+CAST
+- {cast:Lirael} Here: invisible, only a faint outline.
+- {cast:Grib Grimley}
+- Mustang's portrait is attached for reference only; Mustang is not in this moment. Do not draw him.
+- The paper boys: a few boys of mixed races in caps and scarves with empty canvas paper bags.
+
+REFERENCES
+{references}

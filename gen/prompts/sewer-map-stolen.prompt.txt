@@ -1,0 +1,21 @@
+{tone}
+This scene is a sneaky break-in that turns out to be unnecessary.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the records side of the war room, its desks piled with ledgers, files and rolled maps. Time and light: early afternoon, daylight through the windows.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Lirael and Cromwell ease the war room door open, crouched low, creeping in to steal Paxon's copy of the sewer map, and freeze mid-step. Paxon is right there at his desk, already bent over a large sheet, carefully inking a fresh copy of the sewer map with a fine quill beside the original: a sprawling drawing of branching tunnels running beneath the village houses down to the river, with no words on it. He glances up at the two intruders over the top of the sheet, unimpressed and unsurprised, quill still in hand.
+
+CAST
+- {cast:Lirael}
+- {cast:Cromwell}
+- {cast:Paxon}
+
+REFERENCES
+{references}

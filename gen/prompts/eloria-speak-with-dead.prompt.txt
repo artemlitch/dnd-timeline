@@ -1,0 +1,25 @@
+{tone}
+This scene is a hurried stop at a friend's house on the way to a murder investigation.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/elorias-house}
+In this moment: the cleric's front room. Today the table is buried in stacks of papers and ledgers as she prepares to run Hobbstweedle while the Major is away. Through the front window a carriage waits in the lane: Tauren holds the reins and Leff rides shotgun beside him. Time and light: daytime.
+{maps:Eloria and Eleanors House}
+
+THE MOMENT
+Eloria, the Sentinels' veteran cleric, stands at the door of her house with a stack of command papers under one arm, too busy to come along. With her free hand she holds out two rolled scrolls of speak with dead to Lirael, Brand and Sazed, who stand on her doorstep. Lirael reaches to take them.
+
+CAST
+- {cast:Eloria}
+- Blazehelm's portrait is attached for reference only; Blazehelm is not in this moment. Do not draw him.
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in a black Sentinel coat.
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit, carrying a quarterstaff.
+- Tauren: a muscular young human man with a dark pompadour, white t-shirt and fur-collared leather jacket, a big double-bladed axe beside him.
+- Leff: a huge, grey-skinned, heavily tattooed half-orc brawler with small tusks, a goatee and a cloth bandana on his head.
+
+REFERENCES
+{references}

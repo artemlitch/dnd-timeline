@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet, sincere conversation about god in a shrine, in the middle of a wild party.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/worship-room}
+In this moment: the shrine to Dol Dorn, a stone altar holding a bare steel longsword, candles burning around it and a few wooden benches. The door stands ajar onto a hallway full of drunk Sentinels. Time and light: the dead of night near the end of the party, candlelight in the shrine.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Tauren, a tough ex-street kid, ex-soldier and ex-convict, sits alone on a bench in front of the altar with his elbows on his knees and his hands clasped, staring up at the steel sword, searching. Lirael, a little drunk, has just slipped in and sits down beside him, leaning in as he tells him about the Blood of Vol, and Tauren turns to listen, interested.
+
+CAST
+- {cast:Tauren}
+- {cast:Lirael}
+- Keys's portrait is attached for reference only; Keys is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

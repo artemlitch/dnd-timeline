@@ -1,0 +1,23 @@
+{tone}
+This scene is a casual handover of supplies and cigars between soldiers.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion}
+In this moment: a side room off the mansion's main hall, with a desk covered in requisition forms. Time and light: about four in the afternoon, daylight through the windows.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+With Blazehelm unavailable, Gelf helps the party instead. He slaps a signed requisition slip for invisibility potions into Brand's hand with one hand and holds out an open box of cigars to Lirael and Sazed with the other, a lit cigar already in his own mouth. He is in a hurry and grinning, telling them he is about to go undercover in House Thuranni, using a polymorph to pose as a captured Thuranni man.
+
+CAST
+- {cast:Gelf}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Blazehelm's portrait is attached for reference only; Blazehelm is not in this moment. Do not draw them.
+
+REFERENCES
+{references}

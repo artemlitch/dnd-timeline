@@ -1,0 +1,28 @@
+{tone}
+This scene is a new crew taking their stations on their own ship for the first time.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/flight-deck}
+{setting:hobbstweedle/hobbstweedle-airfield}
+In this moment: the Moonwatch is still parked on the Hobbstweedle airfield, the huge Kingsblade visible past the rail. Time and light: afternoon.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+The crew is lined up on the deck as the roles are handed out, each at or beside their new post. Screech, the new ship captain, stands in front of them all, hands behind his back, beaming with pride. Beezel, the helmsman, already has his hands on the ship's wheel, with Lirael, his co-helmsman, beside him at the controls. Brand, the ship's engineer, stands by the engine hatch with a toolbox. Sazed, communications and navigation officer, holds a rolled chart and a shuttered signal lamp. Behind them stand Sorenson, the red-bearded dwarf musician now head of security, and Erald, the elderly dwarf scribe now intelligence officer, clutching a stack of files.
+
+CAST
+- {cast:Screech}
+- {cast:Beezel}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Sorenson: a short, stout dwarf musician with swept red-ginger hair and a full bushy red beard, brown vest over a white shirt, baggy purple striped breeches, barefoot with leather leg wraps, a mandolin and a bass drum strapped to his back.
+- Erald: an elderly, short and stout dwarf scribe with grey hair, a big grey beard and moustache and a monocle, in a blue robe with orange trim, loaded with a backpack of scrolls and ledgers.
+- {cast:The Moonwatch}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

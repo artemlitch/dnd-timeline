@@ -1,0 +1,24 @@
+{tone}
+This scene is a lively night at the village bar: a dance, and someone hiding from it.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/brew-and-ale}
+In this moment: the bar is packed with off-duty Sentinels, gnomes, halfling pilots and clerics, the dance floor crowded, drinks everywhere, a band playing in the corner. There are no fireworks or crowds outside tonight; the party is all in here. Time and light: evening, lamplight and firelight.
+{maps:Brew & Ale}
+
+THE MOMENT
+In the middle of the dance floor, Sazed, who tried to flirt with Eloria, has been pulled out to dance by her: she leads, laughing, her tail swishing, while Sazed concentrates hard on his feet, stiff and flustered but smiling. At the edge of the floor, Eleanor, Eloria's engineer roommate, who has no interest in dancing or in being at the bar at all, has just been helped off the floor by Lirael and is now hiding behind Brand at the bar, crouched low behind the stocky dwarf, peering out over his shoulder; Brand stands with his tankard, unbothered, acting as her wall. In the doorway, Gauss Hog, an old drow soldier, has just arrived wearing a brand-new black Sentinel uniform, raising a hand in greeting.
+
+CAST
+- {cast:Sazed}
+- {cast:Eloria}
+- {cast:Eleanor}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Gauss Hog} Here he wears a new black Sentinel uniform instead of his armor.
+
+REFERENCES
+{references}

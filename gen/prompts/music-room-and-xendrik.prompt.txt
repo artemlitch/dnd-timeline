@@ -1,0 +1,26 @@
+{tone}
+This scene is a packed music room at a rowdy military party, with a frog band on stage.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/music-room-and-stage}
+In this moment: the room is crowded with drunk Sentinels, deep gnomes and duergar. Time and light: late at night, the stage lamps lit.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+On the stage a bullywug band, Smarmy Joe and the Wully Bugs, plays fifties rock and roll: a row of man-sized frog-men in matching sharp jackets and bow ties, one on upright bass, one on drums, Smarmy Joe at the microphone with his guitar, beer bottles at their webbed feet. Waiting at the side of the stage is the next act, a kobold soul band, Shimmy Fistor and the Squabble Crowd: small red scaly dragon-like kobolds in wide-lapelled seventies suits, flared trousers and gold chains.
+In the foreground Lirael sits at a table with Sheldor, the drow, who is leaning in and telling him about the far-off jungle continent of Xen'drik, hands sketching its size in the air. Grinning deep gnomes and duergar crowd the table, and one bald, white-bearded grey duergar is pressing a gift into Lirael's hands: a dark hood and face mask to shield a drow's eyes on sunny days. Sazed stands at the back of the room watching the band, a drink in hand.
+
+CAST
+- {cast:Lirael}
+- {cast:Sheldor}
+- {cast:Sazed}
+- Smarmy Joe: a bullywug, a man-sized green frog-man with big red eyes, in a blue vest, playing a purple guitar.
+- Deep gnomes: small grey-blue-skinned gnomes with big noses and long white beards or bald heads.
+- Duergar: stocky grey-skinned dwarves, bald, with bushy white beards.
+- Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

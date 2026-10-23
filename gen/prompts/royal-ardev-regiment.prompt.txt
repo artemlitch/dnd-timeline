@@ -1,0 +1,20 @@
+{tone}
+This scene is a quiet, chilling recognition over a classified file.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: a war room table under lamplight, a map of the Boranex forest spread beneath the file. Time and light: night, lamplight.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Lirael holds open the Royal Ardev Regiment file Paxon just handed him: a long roster of names and addresses, the writing not legible. His face goes pale and stricken as he runs a finger down the list and recognises nearly every name: his neighbours from Ardev, conscripted. Paxon leans over his shoulder in his blue officer's coat, pointing out three entries on the page, the three men still living in Wroat: the blacksmith, Lirael's old literature teacher, and his high school friend.
+
+CAST
+- {cast:Lirael}
+- {cast:Paxon}
+
+REFERENCES
+{references}

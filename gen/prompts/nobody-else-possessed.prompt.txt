@@ -1,0 +1,27 @@
+{tone}
+This scene is a secret meeting in a war room, relief on every face but two.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the war room with its map table, the doors shut and Blazehelm's personal guards outside. Time and light: about nine at night, lamplight.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Major Blazehelm stands at the head of the map table, having just told everyone that no one else in the village is possessed. Around the table the people in on the secret sag with relief: Lirael, Brand and Sazed, Eloria and Clockwork. Paxon, a prim elf officer, sets down a stack of forged records showing the diamonds were stolen by quasits. Then Blazehelm turns to Gelf and Bellatrix, who stand side by side at the end of the table, arms crossed, and tells them she must live with Gelf indefinitely to keep the secret: both of them are glaring at each other, neither thrilled.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Gelf}
+- {cast:Bellatrix}
+- {cast:Paxon}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Eloria}
+- {cast:Clockwork}
+
+REFERENCES
+{references}

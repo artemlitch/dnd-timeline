@@ -1,0 +1,23 @@
+{tone}
+This scene is a quiet moment of mourning: a duet at a piano.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:hobbstweedle/elorias-house}
+In this moment: the piano in Eloria's main room, half-empty coffee and tea cups left on its lid. No crowds or fireworks. Time and light: early morning, daylight through the windows.
+{maps:Eloria and Eleanors House}
+
+THE MOMENT
+In two days Lirael has lost the librarians Meriel and Mercy, the blacksmith Murphy Gravewood and his school friend Kal, both from his home village of Ardev. He sits at Eloria's piano playing a traditional Ardev mourning song, head bowed, eyes wet, his hands heavy on the keys. Eloria has sat down on the bench beside him and joined in on the upper keys without a word, her shoulder against his, watching him with quiet sympathy. Their hands share the keyboard in the foreground.
+
+CAST
+- {cast:Lirael}
+- {cast:Eloria}
+- Kal Valvier's portrait is attached for reference only; Kal is not in this moment. Do not draw him.
+- Meriel's portrait is attached for reference only; Meriel is not in this moment. Do not draw her.
+- Murphy Gravewood's portrait is attached for reference only; Murphy is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

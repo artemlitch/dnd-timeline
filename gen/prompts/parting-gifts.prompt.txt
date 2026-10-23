@@ -1,0 +1,27 @@
+{tone}
+This scene is a send-off on an airfield, friends handing over gifts before a first mission.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/hobbstweedle-airfield}
+In this moment: the Moonwatch, a sleek captured airship with a bound elemental ring glowing at its stern, waits on the grass with its gangway down, crates being carried aboard. Beside it the huge warship Kingsblade is readying to leave with the party's friends. Sentinels in black uniforms mill about saying goodbye. Time and light: afternoon.
+{maps:Air Field Hobbstweedle}
+
+THE MOMENT
+At the foot of the Moonwatch's gangway the party receives its parting gifts, all at once. Eleanor, the engineer, presses a thick, hand-typed manual of the ship's upgrades into Brand's armored hands, and Clockwork, the warforged artificer, holds out a compact all-purpose tool to him. Next to them Eloria, the cleric, holds Sazed's bared forearm and traces a freshly inked tattoo of three glowing claw marks, the Wildheart Claw, while Sazed looks down at it. And Sheldor, the drow, closes Lirael's hand around the Bloodwell Vial, a small crystal vial of dark red blood on a chain.
+
+CAST
+- {cast:Eleanor}
+- {cast:Brand}
+- {cast:Clockwork}
+- {cast:Sazed} Here his sleeve is pushed up for the tattoo.
+- {cast:Lirael}
+- Eloria: a female tiefling cleric with blue skin, golden eyes, a thin tail, long dark hair streaked with white pinned up, in white and gold robes with a white fur mantle.
+- Sheldor: a slender male drow with dark grey-blue skin and long straight white hair, in black leather armour under a dark cloak.
+- {cast:The Moonwatch}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

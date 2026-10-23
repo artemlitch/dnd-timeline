@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet, bitter moment reading the town paper.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:moonwatch/galley}
+In this moment: the galley table is cluttered with plates and mugs of tea. Time and light: late afternoon, light through a small porthole and a lamp over the table.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Lirael sits at the galley table holding the latest Ardev Watch open in both hands, a broadsheet newspaper with a huge headline and dense columns of print that are not legible. His jaw is tight, his eyes hard, as he reads that the town celebrates his leaving and calls for revolt if he ever returns. Sorenson, who brought the paper aboard, leans on the table beside him, watching his face with an awkward, sympathetic wince.
+
+CAST
+- {cast:Lirael}
+- {cast:Sorenson}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

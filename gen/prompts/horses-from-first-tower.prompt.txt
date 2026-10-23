@@ -1,0 +1,24 @@
+{tone}
+This scene is a police investigation in which the witnesses are horses.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/starilaskur-police-station}
+In this moment: the yard behind the military police station, where the bombers' carriage stands with its two horses still in harness. In the back of the carriage lies the dead changeling bomber in a Starilaskur Military Police uniform, its face a smooth, pale, half-formed blank. Above the rooftops the shimmering defensive barrier the paladins raised still arches over the town. Time and light: evening, dark, lit by the lanterns of the station yard.
+{maps:Starilaskur}
+
+THE MOMENT
+Beezel, a small halfling druid, stands on an upturned crate nose to nose with one of the carriage horses, speaking to it with animal magic and holding up an unfolded map of the region to its face, one finger on the route. The horse stares back blankly, chewing, plainly stupid. Sergeant Taggart, notebook in hand, leans in beside them, completely absorbed, working out from the horses' travel time where the bombers set out from. Lirael stands at Taggart's shoulder, watching the sergeant as much as the horse, while Brand in his power armor and Sazed wait by the carriage.
+
+CAST
+- {cast:Beezel}
+- {cast:Taggart}
+- {cast:Lirael}
+- Brand: a 150-year-old male dwarf, short, stocky and broad, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit.
+- Sazed: a lean male shifter monk of about 45, very hairy but with an ordinary human face and normal human ears, wild swept-back dark reddish-brown hair, heavy sideburns and a rough beard, small round spectacles, in a black covert ops suit.
+- The dead changeling: a thin humanoid with grey-white skin and a nearly featureless face, in a Starilaskur Military Police uniform.
+
+REFERENCES
+{references}

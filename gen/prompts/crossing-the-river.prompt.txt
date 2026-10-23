@@ -1,0 +1,23 @@
+{tone}
+This scene is a dangerous river crossing.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:yedani-mountains/river-and-waterfall}
+In this moment: the rope crossing, a few yards upstream of the lip of the falls. Time and light: midday.
+{maps:Yedani Valley Airship Sabotage}
+
+THE MOMENT
+Screech, the halfling pilot, who is scared of water, was crossing hand over hand along the rope when their stray dog panicked, and he has lost his grip: he is in the white water, being swept toward the edge of the falls, one arm reaching back for the rope. On the far bank Brand, soaking wet from walking across the riverbed underwater, braces in his power armor, holding the rope taut. Sazed, already across, stands on a rock at the bank. The dog, a scruffy stray, scrabbles on the near bank, barking. Lirael, dripping wet just after teleporting out of the river further upstream, throws out his hand and casts feather fall: a soft shimmer of light settles over each of the party, Screech included.
+
+CAST
+- {cast:Screech}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- The dog: a scruffy stray mutt.
+
+REFERENCES
+{references}

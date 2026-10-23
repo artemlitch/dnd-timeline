@@ -1,0 +1,22 @@
+{tone}
+This scene is an angry, hurt confrontation between a child and the adult she trusted.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: the cabin turned into a nursery for the rescued shifter children, bunks and blankets crowded together. Time and light: evening, lit by a lamp.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Skye, a ten-year-old shifter girl, stands in the middle of the cabin, fists clenched, eyes wet and furious, shouting at Sazed. She has just learned she will be left at a hideout while he goes off to fight, and to her he is one more adult abandoning her to go and die. Sazed crouches in front of her, his hand half-raised toward her, with no good answer. Behind her the small children watch from the bunks, frightened.
+
+CAST
+- {cast:Skye}
+- {cast:Sazed}
+- The children: small shifter children aged two to five, with tousled hair, slightly pointed ears and big amber eyes.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

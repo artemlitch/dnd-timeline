@@ -1,0 +1,25 @@
+{tone}
+This scene is a reveal: a gigantic hidden airship appears out of an empty clearing.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:yedani-mountains/hidden-clearing-camp}
+In this moment: the clearing looked empty a step ago. Now, past a shimmering edge in the air where the illusion ends, the Kingsblade fills the clearing: a humongous new Galifar-class warship resting low, military tents pitched beneath its hull. Its gangway is lowering to the ground. Time and light: about seven in the morning.
+{maps:Kingsblade Overview}
+
+THE MOMENT
+The party steps through the edge of the illusion, half of Brand's body still blurred by the shimmer behind him, and they stop dead, staring up. Gelf and Elric walk ahead of them, unbothered. At the foot of the lowered gangway stands Major Blazehelm in full plate and red cloak, welcoming them into the Sentinels. Lirael, still in grubby prison fatigues, and Sazed gape at the ship.
+
+CAST
+- {cast:Brand}
+- {cast:Gelf}
+- {cast:Blazehelm}
+- {cast:Elric}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

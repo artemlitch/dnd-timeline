@@ -1,0 +1,22 @@
+{tone}
+This scene is a host catching a guest reading his mind across the supper table.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/elrics-house}
+In this moment: Elric's kitchen in the small hours, the supper long finished, dirty bowls, bread crusts and mugs littering the table. Time and light: about three in the morning, lit by a low lamp.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Elric, mid-conversation, has suddenly realised someone has been inside his head all night and worked out it was Lirael. Half-risen from his chair, red-faced and scolding, he has just flung a spoon across the table: it is in mid-air, an instant from bouncing off Lirael's forehead. Lirael, caught, flinches back in his chair; he is still in drab grey prison fatigues, not his usual black coat. Sazed, now in his new black covert ops uniform, and Brand, in his power armor, look on from either side of the table.
+
+CAST
+- {cast:Elric}
+- {cast:Lirael}
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+
+REFERENCES
+{references}

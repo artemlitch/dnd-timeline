@@ -1,0 +1,22 @@
+{tone}
+This scene is a debrief in a field tent, where a commander reveals that a nightmare was a test.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:yedani-mountains/hidden-clearing-camp}
+In this moment: inside a canvas military tent pitched beneath the hull of the huge airship, a folding camp table between them, a lantern hanging from the ridge pole. Through the open flap the dark underside of the Kingsblade's hull is visible overhead. Time and light: about one in the morning, lit by the lantern.
+
+THE MOMENT
+Major Blazehelm stands at the head of the camp table, smiling, telling the three recruits that their imprisonment in DarkWood was arranged and that tearing the prison apart was their Sentinel trial all along; they did an amazing job. Lirael, Brand and Sazed, still filthy and battered from the prison and the escape, stare back at him across the table, realising it was all planned: even their fellow inmate and the one good guard were Sentinels placed there to watch over them.
+
+CAST
+- {cast:Blazehelm}
+- Lirael: a slender young male drow with dark grey-blue skin and short white hair.
+- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

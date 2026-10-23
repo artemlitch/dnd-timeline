@@ -1,0 +1,30 @@
+{tone}
+This scene is a savage night brawl in a bedroom, eight housemates against their possessed attackers.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:party-house/bedrooms}
+In this moment: Sazed's bedroom, wrecked. The bedclothes are torn off the bed, furniture is overturned, and on the floor lies the Bag of Devouring, an ordinary-looking cloth sack whose open mouth swirls with a glowing blue portal. Time and light: four in the morning, the room lit by a lamp knocked onto its side.
+{maps:Home Base}
+
+THE MOMENT
+Keys, wild-shaped into a huge black bear, has the Sentinel spellcaster Lug Murzog pinned on the floor and is mauling him to death, jaws clamped on his throat and shoulder, claws tearing through his black Sentinel uniform, blood spraying across the floorboards. Lirael has just burst through the doorway, one hand raised and glowing as he casts a spell on Sheldor. Sheldor, the possessed drow, stands at bay in the middle of the room with a blade drawn, his face blank and strange. Brand, just pulled back out of the bag and freshly clamped into his power armor, swings an armored fist at the second Sentinel, Charlie Trundle. Sazed, in nightclothes, fights barefoot beside him. Crowding in behind them, half-dressed from sleep, come their friends: the huge tattooed half-orc Leff, Tauren with his greataxe, the red-bearded dwarf Sorenson, a drunk Cromwell, and a scruffy skinny dog barking.
+
+CAST
+- {cast:Keys} In this moment he is NOT in his dwarf form: he is wild-shaped into a huge black bear.
+- {cast:Lirael}
+- {cast:Sheldor}
+- {cast:Brand}
+- Lug Murzog: a male half-orc Sentinel spellcaster with green skin, short dark hair and small tusks, in a black Sentinel uniform; here being mauled to death.
+- Charlie Trundle: a burly male half-elf Sentinel with long black hair tied back, a big black beard and moustache, in a black Sentinel uniform.
+- Sazed: a lean male shifter monk of about 45, very hairy but with an ordinary human face, wild swept-back dark reddish-brown hair, heavy sideburns and a rough beard, small round spectacles; here in dark nightclothes.
+- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
+- Tauren: a broad-shouldered human with a dark slicked-back pompadour, holding a greataxe.
+- Sorenson: a stout dwarf with a big red beard and red hair.
+- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, swaying drunk.
+- Scruffy: a scruffy, skinny, shaggy grey dog.
+
+REFERENCES
+{references}

@@ -1,0 +1,24 @@
+{tone}
+This scene is raw grief and rage after a massacre: a traumatised young woman turning on a dead demon.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:mausoleum-of-alton-ardev/mausoleum-main-chamber}
+In this moment: the ritual chamber after the fight. The demon portal in the floor has gone dead and dark. The murdered still hang around the walls on ropes and hooks: Turckle, the Gorgis couple, Elk and Neer and the draft dodgers they were hiding, mutilated by the ritual, the men castrated and the women's breasts cut away. Blood runs down the walls into the fountain. The charred, still-burning remains of two demon women smoke on the floor, killed a moment ago by Felicia's fireball. Time and light: underground; the blue glow of the fountain and the flames of the burning demons.
+{maps:Mausoleum of Ardev}
+
+THE MOMENT
+Gynn, the huge four-armed glabrezu, lies dead on the stone floor. Felicia Jr, an adult woman in her early twenties, freshly freed from the ritual table and still unclothed, is crouched on top of the demon's corpse, tearing and hacking at it, her arms soaked to the elbows in its dark blood, her face twisted with grief and fury. Her nudity is part of the story but must not be explicit: the demon's bulk, the blood, the smoke and the angle cover her. Sazed has stepped toward her holding out a blanket to cover her, and she has whipped round and shot a fire bolt at him: the bolt of flame streaks toward his chest. Behind them Lirael raises a hand, casting calm emotions on his sister.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Felicia Jr}
+- Felicia Jr is an adult and unclothed in this moment (see above): ignore the clothes in her description.
+- {cast:Gynn}
+- Gynn is dead in this moment.
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is a doorstep delivery from an exhausted clerk.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house}
+In this moment: the front door of the party's house. Time and light: dusk, lamplight spilling out of the open door.
+{maps:Home Base}
+
+THE MOMENT
+Erald stands on the doorstep, haggard and dishevelled, arms overloaded with bundles of files, a sack of sealed classified mail slung over his shoulder and ink on his fingers. He thrusts a rolled copy of the sewer map at Lirael with one hand while ranting, mouth open mid-complaint, about how Paxon has him doing records, investigations and the mail all at once. Lirael takes the map from him in the doorway, with Sazed behind him in the hall.
+
+CAST
+- {cast:Erald}
+- {cast:Lirael}
+- {cast:Sazed}
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

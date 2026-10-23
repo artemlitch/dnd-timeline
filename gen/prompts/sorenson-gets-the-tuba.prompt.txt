@@ -1,0 +1,27 @@
+{tone}
+This scene is a grim handover in the middle of a prison riot: bad news and a dead man's instrument.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a cell block corridor on the first level, the cell doors just unlocked and swinging open, freed prisoners in drab fatigues spilling out behind. At the end of the corridor the stone is scorched black where a fire was set and then doused with buckets from the kitchen: puddles of sooty water, overturned buckets, wet ash and smoke still hanging under the ceiling. Time and light: late afternoon, but the cell block is dim, lit by a few wall lanterns and the smoky glow from further down the corridor.
+{maps:Prison Level 1}
+
+THE MOMENT
+The party has just opened Sorenson's cell and told him that his friend Shmem is dead. Lirael holds out Shmem's big brass tuba to him, dented and smudged with soot, and Sorenson, a stout red-bearded dwarf, takes it in both arms, staring at it, devastated. Brand and Sazed stand with him, all three still in their grey prison fatigues, bruised and bloody from the fighting, Brand without his armor. Behind them, down the scorched corridor, Shmem's body lies on the wet stone under a smouldering blanket, where his hasty send-off nearly set the prison on fire. Off to the side, Elarian, a young elf, holds up a glowing sending stone from which Keys and Faird are calling for help, trapped in the cafeteria, and Tauren, Leff and Rolick are already turning to run to them.
+
+CAST
+- {cast:Sorenson} Here he wears drab grey prisoner fatigues and carries no instruments of his own.
+- {cast:Shmem Gorgis} Here he is dead, lying under a scorched blanket, only his red hair and one hand showing.
+- {cast:Lirael} Here in drab grey prisoner fatigues, not his coat.
+- {cast:Brand} Here in drab grey prisoner fatigues, with no armor.
+- {cast:Sazed} Here in drab grey prisoner fatigues, not his covert ops suit.
+- {cast:Elarian}
+- {cast:Tauren}
+- {cast:Leff}
+- {cast:Rolick}
+
+REFERENCES
+{references}

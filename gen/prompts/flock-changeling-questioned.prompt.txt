@@ -1,0 +1,24 @@
+{tone}
+This scene is a dead man raised and questioned in the belly of an airship.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the ship is in flight. A map of Breland is spread across a crate, weighted down at the corners. An open bag of holding lies on the deck beside the crate, the bag the body was pulled out of. Time and light: before dawn, lit by lanterns hanging from the beams.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Eloria, the Sentinels' cleric, stands over the corpse of a Flock changeling with the fading glow of a raise dead spell on her hands. The changeling has just come back: a lean figure in his true form, with smooth, pale grey skin, a nearly featureless face, colourless pale eyes and thin white hair, still bearing the wounds of the fight on the lightning rail. He sits up stiffly on the deck, dazed and frightened, and stretches one grey finger to the map, pressing it onto a spot near Ardev where his village of Bravewind stood. Lirael crouches opposite him, leaning in to question him; Brand and Sazed stand close behind, arms crossed, watching the prisoner.
+
+CAST
+- {cast:Eloria}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The Flock changeling: a male changeling in his true form, pale grey skin, smooth near-featureless face, colourless eyes, thin white hair, in a torn dark uniform; just raised from the dead.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

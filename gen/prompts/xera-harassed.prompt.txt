@@ -1,0 +1,24 @@
+{tone}
+This scene is a sly bit of revenge in a tense, crowded tavern.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: the main room of the bar, full of townsfolk. At a big table in the back sit a gang of Dragons Claw mercenaries, loud and drunk, coins piled on the table from the bets they have been making on the colour of Xera's underwear. Time and light: early evening, lamplight.
+{maps:The Turckle and Churckle}
+
+THE MOMENT
+Xera, upset and humiliated after the mercenaries flipped up her skirt, sets the next round of drinks down at their table, keeping well out of reach. At that moment every head in the room snaps around toward the far wall, where a glass seems to shatter loudly on the floor: it is Lirael's illusion, and there is nothing there. In the same instant Lirael, standing at the table behind the distracted mercenaries, tips a small vial of potion into their mugs. Ellis, the mercenary captain who flipped Xera's skirt, lounges at the head of the table with his boots up, smirking. Behind the bar, Turckle, the dwarf barkeep, watches the mercenaries with his arms folded and his jaw tight, and Felicia Jr glowers at her brother from the end of the bar.
+
+CAST
+- {cast:Lirael}
+- {cast:Xera}
+- {cast:Turckle}
+- {cast:Ellis}
+- {cast:Felicia Jr}
+- The other mercenaries are unnamed rough Dragons Claw men in leather and green.
+
+REFERENCES
+{references}

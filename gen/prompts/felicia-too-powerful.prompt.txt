@@ -1,0 +1,25 @@
+{tone}
+This scene is a quiet brother-and-sister talk aboard an airship.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: Felicia's small cabin below deck, with a bunk and a stack of new sorcery books. Through the open door, across the narrow passage, is the sickroom where their mother lies. Time and light: lamplight inside the ship.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Felicia Jr sits cross-legged on her bunk with a fat new book in her lap, the gift Lirael just gave her: a cosy self-help book for sorcerers with a steaming bowl of soup on its cover. A moment ago she was angry that Skye went out on patrol and she did not; now Lirael has told her it is the opposite, that she is too powerful and must learn control first, and she is calm and quietly pleased with herself. She is showing off: little sparkles, a tiny flame and a drifting puff of coloured light dance over her fingertips. She asks what the spell is called, and Lirael, standing by the door, shrugs with a sheepish smile: he does not know either. Through the open doorway behind him, Sazed and Eloria bend over Felicia Sr, who lies possessed and tied to her bed, hanging a bag of fluid and running an IV line into her arm so she can be fed.
+
+CAST
+- {cast:Lirael}
+- {cast:Felicia Jr}
+- {cast:Sazed}
+- Skye's portrait is attached for reference only; Skye is not in this moment. Do not draw her.
+- {cast:Eloria}
+- {cast:Felicia Sr}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,28 @@
+{tone}
+This scene is the grim discovery of a jailbreak in the middle of the night.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/hobbstweedle-jail}
+In this moment: the cell doors hang open and the cells are empty. Two of the major's personal guards lie dead on the floor in spreading blood, and bloody footprints lead out of the jail door. The village alarm is blaring. Time and light: the small hours before dawn, lamplight inside the jail.
+{maps:Hobbstweedle Jail}
+
+THE MOMENT
+The party has just arrived with their prisoners and found the cells empty. Sazed crouches over the bloody footprints at the doorway, studying the trail that leads out north into the night. Clockwork, the warforged artificer, stands among the bodies with one hand raised, having just switched the village alarm back on with a thought. Lirael holds his sending stone up to his mouth, waking Major Blazehelm with the news. Cromwell stands at the open cell doors with an arrow nocked. Behind them, two warforged enforcers carry the party's unconscious, possessed prisoners slung over their shoulders: Brand limp in his power armor, and the halfling pilot Screech. The hulking Clockwork Defender fills the doorway.
+
+CAST
+- {cast:Sazed}
+- {cast:Clockwork}
+- {cast:Lirael}
+- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, grey leather armor with pauldrons, longbow and quiver.
+- Brand: a 150-year-old male dwarf, stocky, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit; here unconscious and carried.
+- Screech: a male halfling pilot with a thin moustache, leather aviator cap and goggles, brown leather flight jacket; here unconscious and carried.
+- Warforged enforcers: tall constructs plated in steel and stone with crystal eyes, in green tabards.
+- Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
+- Sheldor's portrait is attached for reference only; Sheldor is not in this moment. Do not draw him.
+- Charlie Trundle's portrait is attached for reference only; Charlie Trundle is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

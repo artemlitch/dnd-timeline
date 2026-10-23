@@ -1,0 +1,28 @@
+{tone}
+This scene is a tense standoff on an airship deck at night: crossbows drawn, nobody wants to fire first.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/flight-deck}
+{setting:starilaskur/starilaskur-airfield}
+In this moment: the Moonwatch sits at the Starilaskur airfield. Beyond the rail, the town is ringed by a raised defensive barrier, a faint glowing dome powered by sigils. Time and light: near midnight, the deck lit by the ship's lamps and the glow of the barrier.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Kynds, a small halfling Aundairian officer, stands on the Moonwatch's own deck with a squad of Aundairian hobgoblin soldiers fanned out around him, their crossbows levelled at the party. Beside him stands Beezel, the ship's halfling helmsman, charmed: glassy-eyed, smiling vacantly, standing with the enemy. Facing Kynds at the head of the stairs, Sazed holds his hands open and empty, trying to talk him down. At the hatch behind Sazed, Eloria leads Captain Killian up onto the deck, a prisoner with his hands bound, bruised, smirking at his rescuer. Lirael stands at Sazed's shoulder, ready to cast, his eyes on Kynds, who watches him back too closely for any trick. Half hidden in the shadow of the stern cabins, Screech crouches with a weapon ready for an ambush that never comes.
+
+CAST
+- {cast:Kynds}
+- {cast:Killian}
+- {cast:Beezel}
+- {cast:Sazed}
+- {cast:Eloria}
+- {cast:Lirael}
+- {cast:Screech}
+- The hobgoblin soldiers: tall, grey-orange-skinned hobgoblins in Aundairian blue uniforms and breastplates, crossbows raised.
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,27 @@
+{tone}
+This scene is a crowded room of people waking from a shared dream and coming back to themselves.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the upstairs war room, couches pushed together where everyone lay down under the dream spell, blankets tumbled on the floor, a bag lying in one corner. Time and light: lamplight after a long night.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+The freed Sentinels are sitting up on the couches, themselves again. In the centre, Eloria the cleric examines them with careful, old-school skill; she has handed Sazed an elegant silver stethoscope, and Sazed, its earpieces in, listens to the chest of Screech, a small halfling pilot, double-checking her work while she watches, impressed; Screech fidgets under the stethoscope, desperate to go and fly. Beside them Gelf, still groggy, stabs a finger at Brand, insisting he would have won a fair fight, and Brand, back in his power armor, glares back. Elric stands between them with his hands up. Charlie Trundle, a black-bearded Sentinel, shakes Lirael's hand, introducing himself for the first time. Sheldor, a drow, is already pulling on his coat to leave for Xen'drik.
+
+CAST
+- {cast:Eloria}
+- {cast:Sazed}
+- {cast:Gelf}
+- {cast:Brand}
+- {cast:Elric}
+- {cast:Screech}
+- {cast:Charlie Trundle}
+- {cast:Sheldor}
+- {cast:Lirael}
+
+REFERENCES
+{references}

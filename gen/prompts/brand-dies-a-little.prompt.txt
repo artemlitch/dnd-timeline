@@ -1,0 +1,24 @@
+{tone}
+This scene is a deliberate killing among friends, and a bureaucrat arriving too late.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the war room under lockdown, crowded with Sentinels after a long night of fighting. Two bodies lie side by side on the war room table among scattered maps. Time and light: late in a sleepless night, lamplight.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+Brand lies dead on the war room table, still in his power armor, his face slack, killed a moment ago by Sazed so he can be revived free of the Dreamweaver's possession. Sazed stands over the body, hands still raised from the killing blow, calm and unrepentant. Beside Brand lies the corpse of Monty O'Brien, the dwarf head of engineering of the Kingsblade, bloodied from the fight on the bridge, waiting to be raised. Eloria stands at the head of the table ready to cast. And in the doorway Paxon has just burst in, out of breath, holding up a large diamond between finger and thumb, staring at Brand's body in shocked disbelief: could they not have waited?
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Monty O'Brien}
+- {cast:Eloria}
+- {cast:Paxon}
+- {cast:The Kingsblade}
+
+REFERENCES
+{references}

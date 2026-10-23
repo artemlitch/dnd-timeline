@@ -1,0 +1,25 @@
+{tone}
+This scene is a street brawl that has become a public humiliation.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: the street right outside the bar, townsfolk crowding the doorway and windows to watch. A spilled drink spreads in a puddle across the street. Time and light: evening, lamplight from the bar's windows and open door.
+{maps:Ardev Streets Night}
+
+THE MOMENT
+After Lirael beat Ellis in a battle of insults, everyone took the fight outside. Sazed found ants and Lirael threw them onto the mercenaries, who drank a potion of talk with ants earlier and now must obey them: three Dragons Claw mercenaries are down on their hands and knees, ants swarming over their arms and faces, licking the spilled drink off the street. Xera, emboldened, has just yanked Ellis's trousers down to his ankles, revealing white underpants printed with little red hearts, and Ellis stands frozen in shock. Behind them Sazed has just kicked another mercenary so hard that the man flies backward through the air, limp, nearly dead. Lirael stands over it all with a grin. In the crowd, Felicia Jr watches from the bar doorway, and Grib Grimley, an angry young reporter, scribbles notes in her notebook.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Xera}
+- {cast:Ellis}
+- {cast:Felicia Jr}
+- {cast:Grib Grimley}
+- The other mercenaries are unnamed rough Dragons Claw men in leather and green.
+
+REFERENCES
+{references}

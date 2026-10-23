@@ -1,0 +1,22 @@
+{tone}
+This scene is the bloody end of a street fight and a shocking revelation.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/kal-valviers-house}
+In this moment: the street outside Kal's house, its door broken in, the last of the smoke bombs drifting through. Townsfolk crowd back at the edges, horrified. Time and light: dusk, the continual-flame street lamps coming on.
+{maps:Wroat Street}
+
+THE MOMENT
+The Even Hand has just finished his work: Kal Valvier's headless body lies on the cobbles in a spreading pool of blood, his severed head a few feet away, the assassin's blade still dripping. In that same instant Click Clack, the elf police officer, has driven his axe down into The Even Hand's shoulder, splitting his body open to the chest. Instead of flesh the wound shows black metal, torn wiring and sparking warforged internals. The beaked mask is falling away from his face, revealing a smooth black metal warforged face with glowing red eyes, something shifting behind them as he speaks his last words. Sazed kneels just behind them by Kal's body, too late to save him a third time.
+
+CAST
+- {cast:The Even Hand}
+- {cast:Click Clack}
+- {cast:Kal Valvier} Here dead and beheaded.
+- {cast:Sazed}
+
+REFERENCES
+{references}

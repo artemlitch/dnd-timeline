@@ -1,0 +1,20 @@
+{tone}
+This scene is a midnight abduction by a possessed friend.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: Elric's small bedroom in the shared Sentinel house, the window pushed open onto the night, a bed with rumpled covers. Time and light: midnight, dark, lit only by moonlight through the open window.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+Brand, the old dwarf in his brass-and-steel power armor, has climbed in through Elric's window. He is possessed by the Dreamweaver: his body moves smoothly and without hesitation, but his eyes are wide, wet and desperate, as if he is screaming behind them and cannot stop himself. He has hauled Elric out of bed and is forcing him head-first into the mouth of a plain, worn cloth sack held open on the floor. The sack is a bag of devouring: its mouth stretches far wider than it should, and inside is a blackness with slick dark tendrils reaching up out of it to drag Elric in. Elric, half-asleep in his nightclothes, braces both arms against the rim and struggles.
+
+CAST
+- {cast:Brand}
+- {cast:Elric}
+
+REFERENCES
+{references}

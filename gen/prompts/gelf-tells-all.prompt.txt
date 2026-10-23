@@ -1,0 +1,23 @@
+{tone}
+This scene is a frank late-night briefing in a wrecked house, against orders.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/elrics-house}
+In this moment: the ransacked main room of Elric's house, a table set back on its legs among the mess. Through the open closet door at the back, two bound and gagged prison guards sit in the hidden space. Time and light: about ten at night, lamplight.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Gelf, bandaged over his acid burns, leans forward across the table, talking freely and jabbing the tabletop as he lays out why the Sentinels sent the party to DarkWood and who the Grimdells really work for. Elric stands beside him with a hand raised in protest, insisting they are not authorized to say this; Gelf ignores him completely. Lirael, Brand and Sazed sit across the table, arms folded and skeptical.
+
+CAST
+- {cast:Gelf}
+- {cast:Elric}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

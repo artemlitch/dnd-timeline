@@ -1,0 +1,23 @@
+{tone}
+This scene is a grim rescue in a burned village.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:stones-throw/stones-throw-well}
+In this moment: at the well. Nearby lies the heap of burned shifter corpses, men, women and elders, their flesh scorched by radiant fire. Time and light: about two in the morning, moonlight.
+{maps:Stones Throw}
+
+THE MOMENT
+Eldgrave, a huge treant, has just heaved the heavy rock off the well's mouth and holds it in his branch-hands. Brand, in his power armor, is levering the last nailed boards off the plug with a pry bar. Sazed kneels at the edge, leaning down into the dark. Looking up at him from the hiding place below is Skye, a ten-year-old shifter girl, filthy, thin and fierce, shielding eight small children, aged two to five, huddled behind her in the dark where they have hidden for a week. A rope lies coiled ready beside Sazed.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Skye}
+- Eldgrave: a huge treant, an ancient oak-like tree giant with a gnarled, scowling bark face, a long beard of mossy roots, thick knotted limbs and a crown of green leaves.
+- The children: eight small shifter children aged two to five, with tousled hair, slightly pointed ears and big amber eyes, in dirty, ragged clothes.
+
+REFERENCES
+{references}

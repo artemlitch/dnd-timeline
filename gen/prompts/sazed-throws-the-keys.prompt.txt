@@ -1,0 +1,23 @@
+{tone}
+This scene is a feat of athletics on a military obstacle course.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the far end of the course. A heavy log studded with iron spikes has just rolled past down its track, a tall spinning training dummy whirls its blades beside it, and beyond them stand a high barred wall and a line of locked doors. No party, crowd or music here, only recruits at training. Time and light: daytime.
+{maps:Obstacle Course}
+
+THE MOMENT
+Sazed has just dodged the rolling spike log and snatched every recruit's key off the top of the spinning blade dummy. Now, balanced mid-stride with the blades whirling past behind him, he flings the keys one by one over the barred wall, the little keys glinting in the air. On the far side Keys, back in his dwarf form and still dripping from the water, reaches up to catch his, while the drow Sheldor and the red-bearded dwarf Sorenson catch theirs. Up on the bank the old drill sergeant watches, arms folded.
+
+CAST
+- {cast:Sazed}
+- {cast:Keys} Here he is in his dwarf form, soaking wet.
+- Sheldor: a slender male drow with dark grey-blue skin and long straight white hair, in black leather armour.
+- Sorenson: a stout dwarf with a big red beard and red hair.
+- Dyll Strickland: an old, weathered human drill sergeant with short grey hair and a hard, lined face, in dark leather armour with steel pauldrons.
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is a drunken late-night break-in to spike an officer's tea.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/war-rooms}
+In this moment: the corridor outside the downstairs war room, deserted at this hour while the party roars on elsewhere in the mansion. Through the door the dark war room shows Paxon's tidy desk with a cold cup of tea on its saucer. Time and light: about four in the morning, lit by the hallway lamps.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Spingus Dillguard, the gnome head chef, kneels at the war room lock with a pair of lockpicks and swings the door open with a smug flourish, having done in a second what Lirael and Brand could not. Lirael and Brand stand behind him, drunk and flushed, each holding a bent, useless lockpick, staring. A crowd of kitchen gnomes in stained aprons pushes past them into the room, one holding up a small bottle of bubbling, sickly green potion of flatulence, already heading for Paxon's teacup.
+
+CAST
+- {cast:Spingus Dillguard}
+- {cast:Lirael}
+- {cast:Brand}
+- The kitchen gnomes: small gnome cooks in stained aprons and chef's caps, grinning and mischievous.
+- Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
+
+REFERENCES
+{references}
