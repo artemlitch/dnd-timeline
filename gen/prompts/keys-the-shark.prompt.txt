@@ -15,10 +15,10 @@ Keys has turned himself into a shark: a big grey reef shark tearing up the chann
 CAST
 - {cast:Keys} In this moment he is NOT in his dwarf form: he is a big grey reef shark.
 - {cast:Brand}
-- Sheldor: a slender male drow with dark grey-blue skin and long straight white hair, in black leather armour.
-- Sorenson: a stout dwarf with a big red beard and red hair.
-- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
-- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
+- {cast:Sheldor}
+- {cast:Sorenson}
+- {cast:Leff}
+- {cast:Tauren}
 
 REFERENCES
 {references}

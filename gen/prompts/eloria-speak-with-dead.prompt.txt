@@ -15,11 +15,11 @@ Eloria, the Sentinels' veteran cleric, stands at the door of her house with a st
 CAST
 - {cast:Eloria}
 - Blazehelm's portrait is attached for reference only; Blazehelm is not in this moment. Do not draw him.
-- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in a black Sentinel coat.
-- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit, carrying a quarterstaff.
-- Tauren: a muscular young human man with a dark pompadour, white t-shirt and fur-collared leather jacket, a big double-bladed axe beside him.
-- Leff: a huge, grey-skinned, heavily tattooed half-orc brawler with small tusks, a goatee and a cloth bandana on his head.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Tauren}
+- {cast:Leff}
 
 REFERENCES
 {references}

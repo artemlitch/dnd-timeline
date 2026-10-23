@@ -11,10 +11,10 @@ THE MOMENT
 The Even Hand and Mustang have been holding two women hostage, Xera and Fey-Lynn, and warned the party that if they took one step, they would kill them. Now they carry out the threat in front of the party. Show the exact instant: The Even Hand and Mustang each force a kneeling woman down and behead her. Their blades are through the women's necks, the heads coming away, blood fountaining in arcs across the car, drenching the floor, the walls, the windows and the killers' coats, spattering the faces of the onlookers. Make it horrifying and gory. In the foreground, seen from behind and in shadow at the edge of the frame, the party stands frozen in horror by the glowing portal, one reaching out too late. The Even Hand stays calm and contemptuous; Mustang is expressionless, a machine doing a job.
 
 CAST
-- The Even Hand: an assassin in a dark beaked plague-doctor mask and black tricorn hat, black and deep-red layered leather coat with a studded collar, armored forearms, a long blade. His bodies are warforged constructs under the clothes.
-- Mustang: a warforged police officer, metal face with glowing blue eyes, brass and steel joints, navy blue peaked police cap and long navy double-breasted police greatcoat, red tie, brown boots, a heavy blade in his metal hand.
-- Xera: a young female drow with dark grey skin, long wavy white hair, pale blue eyes, choker with a star pendant, cream blouse with dark flame patterns under a dark wrap dress.
-- Fey-Lynn: a female drow with lavender-grey skin, long straight white hair, violet eyes, a gold circlet, gold earrings and layered gold necklaces, dark purple gown.
+- {cast:The Even Hand} Here: a long blade in hand.
+- {cast:Mustang} Here: a heavy blade in his metal hand.
+- {cast:Xera}
+- {cast:Fey-Lynn}
 - Jyo's portrait is attached only for reference; Jyo is NOT visible in this moment (he is hidden beneath the train). Do not draw him.
 
 REFERENCES

@@ -16,7 +16,7 @@ CAST
 - {cast:Blazehelm}
 - {cast:Paxon}
 - {cast:Gauss Hog}
-- Click Clack: a tall, muscular elf with very long brown hair and a short beard, in a worn Wroat police coat, a large ornate axe on his back.
+- {cast:Click Clack} Here: in a worn Wroat police coat, his axe on his back.
 
 REFERENCES
 {references}

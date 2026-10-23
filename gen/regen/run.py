@@ -61,8 +61,7 @@ def main():
         if out_of_credit.is_set():
             return eid, None
         for attempt in range(8):
-            r = subprocess.run([sys.executable, '-I', str(ROOT / 'gen/image.py'), eid, '--sources',
-                                '--prompt', f'gen/prompts/{eid}.prompt.txt'], capture_output=True, text=True)
+            r = subprocess.run([sys.executable, '-I', str(ROOT / 'gen/image.py'), eid], capture_output=True, text=True)
             out = (r.stdout + r.stderr).strip()
             if r.returncode == 0:
                 tail = out.rsplit('cost=', 1)[1]

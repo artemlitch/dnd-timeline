@@ -14,9 +14,9 @@ Before the closed dragon skull stands a row of clockwork wyrmlings: small mechan
 
 CAST
 - Clockwork wyrmling: a small dragon built entirely of brass and bronze machinery, gears and pistons visible, metal wings, about the size of a large dog.
-- Lirael: a 23-year-old male drow sorcerer, slender, dark grey-blue skin, short white hair, black Sentinel coat.
-- Brand: a 150-year-old male dwarf, short, stocky and broad, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit with a glowing holy core.
-- Sazed: a lean male shifter monk of about 45, very hairy but with an ordinary human face and normal human ears, wild swept-back dark reddish-brown hair, heavy sideburns and a rough beard, small round spectacles, in a black covert ops suit, carrying a quarterstaff.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
 - Clockwork's portrait is attached for reference only; Clockwork, the warforged artificer, is not in this moment. Do not draw him. He is not one of the clockwork wyrmlings.
 
 REFERENCES

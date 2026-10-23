@@ -15,9 +15,9 @@ Sheldor Higgins has just come charging out of the flaming prison entrance, cutti
 CAST
 - {cast:Sheldor}
 - {cast:Lirael} Here he wears drab, filthy prison fatigues, not his Sentinel coat.
-- Brand: a 150-year-old male dwarf, short, stocky and broad, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit with a glowing holy core.
-- Sazed: a lean male shifter monk of about 45, very hairy but with an ordinary human face and normal human ears, wild swept-back dark reddish-brown hair, heavy sideburns and a rough beard, small round spectacles; here in torn drab prison fatigues, holding a quarterstaff.
-- Thaldamir: a male elf gang leader with long hair, in prison fatigues, lying hurt on the ground.
+- {cast:Brand}
+- {cast:Sazed} Here: in torn drab prison fatigues, holding a quarterstaff.
+- {cast:Thaldamir} Here: in prison fatigues, lying hurt on the ground.
 - Cromwell's portrait is attached for reference only; Cromwell is not in this moment. Do not draw him.
 
 REFERENCES

@@ -16,8 +16,8 @@ CAST
 - Captain Killian Gavrin: a swaggering human officer with long brown hair tied back, a big moustache and goatee, a scar over one eye, brown long coat with gold buttons, yellow waistcoat and red sash, plate leg armor; here wielding a heavy new battle axe.
 - {cast:Sazed}
 - {cast:Lirael}
-- Jeff: a large, heavy frog-man druid with yellow eyes, a snail sitting on his head, a robe of moss and leaves, green bead necklaces and a gnarled staff topped with mushrooms.
-- EEEEE: a dwarf with a big red nose, white beard and long brown floppy cap, yellow tunic; here dead.
+- {cast:Jeff}
+- {cast:EEEEE} Here: dead.
 
 REFERENCES
 {references}

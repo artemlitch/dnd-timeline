@@ -16,8 +16,8 @@ In the foreground, the potion has also caught Neebus, the bar's parrot-folk dish
 CAST
 - {cast:Lirael}
 - {cast:Sazed}
-- Ellis: a grinning, weathered human mercenary captain of the Dragons Claw, stubbled beard, green wide-brimmed hat with a brass badge, green coat with leather straps; here no longer grinning.
-- Neebus: a humanoid parrot, bright teal and green feathers, curved black beak, crest of feathers, wings for arms, in a blue coat with gold trim and a white cravat, worn under a dishwasher's apron. He is a bird person, not a human.
+- {cast:Ellis} Here: no longer grinning.
+- {cast:Neebus} Here: wearing a dishwasher's apron over his coat.
 - The other mercenaries are unnamed rough Dragons Claw men in leather and green.
 
 REFERENCES

@@ -411,6 +411,26 @@
    "prompt": "gen/prompts/elrics-supper.prompt.txt",
    "cost": 0.035451,
    "at": "2026-10-23T11:03:32"
+  },
+  {
+   "version": 4,
+   "file": "site/img/elrics-supper.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/elrics-supper.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Elric",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03460575,
+   "at": "2026-10-23T12:56:03",
+   "draft": "gen/drafts/elrics-supper/20261023-125603-908000.jpg"
   }
  ],
  "elric-reveals-sentinels": [
@@ -1102,6 +1122,62 @@
    "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
    "cost": 0.0368655,
    "at": "2026-10-23T10:55:05"
+  },
+  {
+   "version": 14,
+   "file": "site/img/kunai-to-the-rescue.v14.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.0367255,
+   "at": "2026-10-23T11:27:39"
+  },
+  {
+   "version": 15,
+   "file": "site/img/kunai-to-the-rescue.v15.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03678425,
+   "at": "2026-10-23T11:31:40"
+  },
+  {
+   "version": 16,
+   "file": "site/img/kunai-to-the-rescue.v16.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03678875,
+   "at": "2026-10-23T11:34:03"
+  },
+  {
+   "version": 17,
+   "file": "site/img/kunai-to-the-rescue.v17.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.035065,
+   "at": "2026-10-23T11:48:03"
+  },
+  {
+   "version": 18,
+   "file": "site/img/kunai-to-the-rescue.v18.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.03508,
+   "at": "2026-10-23T12:03:32"
+  },
+  {
+   "version": 19,
+   "file": "site/img/kunai-to-the-rescue.v19.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.035085,
+   "at": "2026-10-23T12:06:03"
+  },
+  {
+   "version": 20,
+   "file": "site/img/kunai-to-the-rescue.v20.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kunai-to-the-rescue.prompt.txt",
+   "cost": 0.035089,
+   "at": "2026-10-23T12:08:55"
   }
  ],
  "spoils-of-the-broadsword": [
@@ -1463,6 +1539,25 @@
    "prompt": "gen/prompts/halfling-card-game.prompt.txt",
    "cost": 0.0351405,
    "at": "2026-10-23T11:00:23"
+  },
+  {
+   "version": 4,
+   "file": "site/img/halfling-card-game.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/halfling-card-game.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Screech",
+    "Beezel"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.0345785,
+   "at": "2026-10-23T12:56:04",
+   "draft": "gen/drafts/halfling-card-game/20261023-125604-766000.jpg"
   }
  ],
  "blazehelm-and-the-sentinels-band": [
@@ -2229,6 +2324,14 @@
    "prompt": "gen/prompts/brass-dragon-in-the-dream.prompt.txt",
    "cost": 0.0366775,
    "at": "2026-10-23T10:59:50"
+  },
+  {
+   "version": 4,
+   "file": "site/img/brass-dragon-in-the-dream.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brass-dragon-in-the-dream.prompt.txt",
+   "cost": 0.03659,
+   "at": "2026-10-23T11:27:38"
   }
  ],
  "escape-the-collapsing-dream": [
@@ -2254,6 +2357,38 @@
    "prompt": "gen/prompts/friends-come-back.prompt.txt",
    "cost": 0.037042,
    "at": "2026-10-23T10:59:45"
+  },
+  {
+   "version": 4,
+   "file": "site/img/friends-come-back.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/friends-come-back.prompt.txt",
+   "cost": 0.03691125,
+   "at": "2026-10-23T11:31:21"
+  },
+  {
+   "version": 5,
+   "file": "site/img/friends-come-back.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/friends-come-back.prompt.txt",
+   "cost": 0.03697175,
+   "at": "2026-10-23T11:31:50"
+  },
+  {
+   "version": 6,
+   "file": "site/img/friends-come-back.v6.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/friends-come-back.prompt.txt",
+   "cost": 0.0369905,
+   "at": "2026-10-23T11:34:35"
+  },
+  {
+   "version": 7,
+   "file": "site/img/friends-come-back.v7.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/friends-come-back.prompt.txt",
+   "cost": 0.034684,
+   "at": "2026-10-23T11:38:06"
   }
  ],
  "blazehelms-personal-guard": [
@@ -2794,6 +2929,28 @@
    "prompt": "gen/prompts/dancing-with-eloria.prompt.txt",
    "cost": 0.03611825,
    "at": "2026-10-23T11:05:58"
+  },
+  {
+   "version": 3,
+   "file": "site/img/dancing-with-eloria.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/dancing-with-eloria.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Eloria",
+    "Gauss Hog",
+    "Eleanor"
+   ],
+   "refs": [
+    "Character lineup",
+    "Brew & Ale map"
+   ],
+   "cost": 0.03468675,
+   "at": "2026-10-23T12:56:03",
+   "draft": "gen/drafts/dancing-with-eloria/20261023-125603-872000.jpg"
   }
  ],
  "rigged-chicken-races": [
@@ -2988,6 +3145,30 @@
    "prompt": "gen/prompts/tomb-of-centarrel.prompt.txt",
    "cost": 0.035438,
    "at": "2026-10-23T11:08:08"
+  },
+  {
+   "version": 3,
+   "file": "site/img/tomb-of-centarrel.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/tomb-of-centarrel.prompt.txt",
+   "cost": 0.03538875,
+   "at": "2026-10-23T11:21:15"
+  },
+  {
+   "version": 4,
+   "file": "site/img/tomb-of-centarrel.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/tomb-of-centarrel.prompt.txt",
+   "cost": 0.03540125,
+   "at": "2026-10-23T11:23:06"
+  },
+  {
+   "version": 5,
+   "file": "site/img/tomb-of-centarrel.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/tomb-of-centarrel.prompt.txt",
+   "cost": 0.0353575,
+   "at": "2026-10-23T11:24:34"
   }
  ],
  "graves-of-the-fathers": [
@@ -3044,6 +3225,109 @@
    "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
    "cost": 0.03638675,
    "at": "2026-10-23T11:00:56"
+  },
+  {
+   "version": 4,
+   "file": "site/img/portrait-unveiled.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.03640625,
+   "at": "2026-10-23T11:20:27"
+  },
+  {
+   "version": 5,
+   "file": "site/img/portrait-unveiled.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.03634,
+   "at": "2026-10-23T11:21:24"
+  },
+  {
+   "version": 6,
+   "file": "site/img/portrait-unveiled.v6.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.0363525,
+   "at": "2026-10-23T11:23:20"
+  },
+  {
+   "version": 7,
+   "file": "site/img/portrait-unveiled.v7.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.03633025,
+   "at": "2026-10-23T11:24:36"
+  },
+  {
+   "version": 8,
+   "file": "site/img/portrait-unveiled.v8.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.0346745,
+   "at": "2026-10-23T11:50:51"
+  },
+  {
+   "version": 9,
+   "file": "site/img/portrait-unveiled.v9.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.03466175,
+   "at": "2026-10-23T11:54:51"
+  },
+  {
+   "version": 10,
+   "file": "site/img/portrait-unveiled.v10.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.03464875,
+   "at": "2026-10-23T11:57:28"
+  },
+  {
+   "version": 11,
+   "file": "site/img/portrait-unveiled.v11.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.0346575,
+   "at": "2026-10-23T11:58:49"
+  },
+  {
+   "version": 12,
+   "file": "site/img/portrait-unveiled.v12.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.0345495,
+   "at": "2026-10-23T12:00:19"
+  },
+  {
+   "version": 13,
+   "file": "site/img/portrait-unveiled.v13.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "cost": 0.03467175,
+   "at": "2026-10-23T12:01:47"
+  },
+  {
+   "version": 14,
+   "file": "site/img/portrait-unveiled.v14.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/portrait-unveiled.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Blazehelm",
+    "Paxon",
+    "Brand",
+    "Sazed",
+    "Dyll Strickland",
+    "Spingus Dillguard"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.03471625,
+   "at": "2026-10-23T12:54:33",
+   "draft": "gen/drafts/portrait-unveiled/20261023-125433-671000.jpg"
   }
  ],
  "bellatrix-is-dead": [
@@ -3164,6 +3448,26 @@
    "prompt": "gen/prompts/sorenson-confides.prompt.txt",
    "cost": 0.0355415,
    "at": "2026-10-23T11:04:41"
+  },
+  {
+   "version": 3,
+   "file": "site/img/sorenson-confides.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/sorenson-confides.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sorenson",
+    "Beezel",
+    "Erald"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Moonwatch"
+   ],
+   "cost": 0.03468625,
+   "at": "2026-10-23T12:56:05",
+   "draft": "gen/drafts/sorenson-confides/20261023-125605-135000.jpg"
   }
  ],
  "the-fourth-look": [
@@ -3485,6 +3789,178 @@
    "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
    "cost": 0.0369955,
    "at": "2026-10-23T10:55:05"
+  },
+  {
+   "version": 5,
+   "file": "site/img/the-fury-ritual.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03468225,
+   "at": "2026-10-23T11:50:54"
+  },
+  {
+   "version": 6,
+   "file": "site/img/the-fury-ritual.v6.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.034668,
+   "at": "2026-10-23T11:54:52"
+  },
+  {
+   "version": 7,
+   "file": "site/img/the-fury-ritual.v7.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03467075,
+   "at": "2026-10-23T12:05:30"
+  },
+  {
+   "version": 8,
+   "file": "site/img/the-fury-ritual.v8.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03467575,
+   "at": "2026-10-23T12:06:05"
+  },
+  {
+   "version": 9,
+   "file": "site/img/the-fury-ritual.v9.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.036,
+   "at": "2026-10-23T12:10:50",
+   "note": "3D-film style"
+  },
+  {
+   "version": 10,
+   "file": "site/img/the-fury-ritual.v10.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03467375,
+   "style": "Dungeons & Dragons Eberron fantasy art, like a page from an official sourcebook: heroic fantasy with magic and technology woven together, detailed costumes, armour and gear, and dramatic, atmospheric lighting.",
+   "final_instruction": true,
+   "lineup": true,
+   "at": "2026-10-23T12:20:05"
+  },
+  {
+   "version": 11,
+   "file": "site/img/the-fury-ritual.v11.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03467475,
+   "style": "heroic fantasy in the look of Dungeons & Dragons art: people, creatures and places drawn with rich detail in arms, armour, magic and machinery, natural colour and light, and a dramatic, adventurous mood.",
+   "final_instruction": true,
+   "lineup": true,
+   "at": "2026-10-23T12:20:10"
+  },
+  {
+   "version": 12,
+   "file": "site/img/the-fury-ritual.v12.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03467675,
+   "style": "Eberron pulp-noir fantasy: the look of Dungeons & Dragons heroic fantasy crossed with noir intrigue, with lamplit streets, airships and magical machinery, dramatic shadows and warm light, and an adventurous, slightly dangerous mood.",
+   "final_instruction": true,
+   "lineup": true,
+   "at": "2026-10-23T12:20:29"
+  },
+  {
+   "version": 13,
+   "file": "site/img/the-fury-ritual.v13.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03467125,
+   "style": "dark fantasy adventure in the Dungeons & Dragons tradition: detailed and atmospheric, with a moody palette, weathered gear and dangerous magic, where heroism and horror sit side by side.",
+   "final_instruction": true,
+   "lineup": true,
+   "at": "2026-10-23T12:20:35"
+  },
+  {
+   "version": 14,
+   "file": "site/img/the-fury-ritual.v14.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03467575,
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, natural light and a muted palette, with magic and machinery that feel solid and dangerous.",
+   "final_instruction": true,
+   "lineup": true,
+   "at": "2026-10-23T12:20:47"
+  },
+  {
+   "version": 15,
+   "file": "site/img/the-fury-ritual.v15.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.0346555,
+   "style": "Dungeons & Dragons Eberron fantasy art, like a page from an official sourcebook: heroic fantasy with magic and technology woven together, detailed costumes, armour and gear, and dramatic, atmospheric lighting.",
+   "final_instruction": false,
+   "lineup": true,
+   "at": "2026-10-23T12:20:52"
+  },
+  {
+   "version": 16,
+   "file": "site/img/the-fury-ritual.v16.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.034656,
+   "style": "heroic fantasy in the look of Dungeons & Dragons art: people, creatures and places drawn with rich detail in arms, armour, magic and machinery, natural colour and light, and a dramatic, adventurous mood.",
+   "final_instruction": false,
+   "lineup": true,
+   "at": "2026-10-23T12:20:57"
+  },
+  {
+   "version": 17,
+   "file": "site/img/the-fury-ritual.v17.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.034657,
+   "style": "Eberron pulp-noir fantasy: the look of Dungeons & Dragons heroic fantasy crossed with noir intrigue, with lamplit streets, airships and magical machinery, dramatic shadows and warm light, and an adventurous, slightly dangerous mood.",
+   "final_instruction": false,
+   "lineup": true,
+   "at": "2026-10-23T12:21:02"
+  },
+  {
+   "version": 18,
+   "file": "site/img/the-fury-ritual.v18.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.03465425,
+   "style": "dark fantasy adventure in the Dungeons & Dragons tradition: detailed and atmospheric, with a moody palette, weathered gear and dangerous magic, where heroism and horror sit side by side.",
+   "final_instruction": false,
+   "lineup": true,
+   "at": "2026-10-23T12:21:08"
+  },
+  {
+   "version": 19,
+   "file": "site/img/the-fury-ritual.v19.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-fury-ritual.prompt.txt",
+   "cost": 0.0346565,
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, natural light and a muted palette, with magic and machinery that feel solid and dangerous.",
+   "final_instruction": false,
+   "lineup": true,
+   "at": "2026-10-23T12:21:21"
+  },
+  {
+   "version": 20,
+   "file": "site/img/the-fury-ritual.v20.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/the-fury-ritual/variants/20261023-123159/D bare skin stated.prompt.txt",
+   "style": "Dungeons & Dragons Eberron fantasy art, like a page from an official sourcebook: heroic fantasy with magic and technology woven together, detailed costumes, armour and gear, and dramatic, atmospheric lighting. Crisp, clean edges and confident shapes, with every figure clearly readable against the background. A rich, balanced palette with jewel-toned magic glowing against warm neutrals.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Turckle",
+    "Gynn"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mausoleum of Ardev map"
+   ],
+   "cost": 0.03469525,
+   "at": "2026-10-23T12:32:09",
+   "draft": "gen/drafts/the-fury-ritual/20261023-123209-864000.jpg"
   }
  ],
  "the-chicken-gambit": [
@@ -3652,6 +4128,43 @@
    "prompt": "gen/prompts/carriage-chase.prompt.txt",
    "cost": 0.03579525,
    "at": "2026-10-23T10:54:59"
+  },
+  {
+   "version": 4,
+   "file": "site/img/carriage-chase.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/carriage-chase.prompt.txt",
+   "cost": 0.034631,
+   "at": "2026-10-23T11:50:54"
+  },
+  {
+   "version": 5,
+   "file": "site/img/carriage-chase.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/carriage-chase.prompt.txt",
+   "cost": 0.0346185,
+   "at": "2026-10-23T11:54:47"
+  },
+  {
+   "version": 6,
+   "file": "site/img/carriage-chase.v6.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/carriage-chase.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "The Even Hand",
+    "Felicia Jr",
+    "Mustang"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Moonwatch"
+   ],
+   "cost": 0.03466325,
+   "at": "2026-10-23T12:54:34",
+   "draft": "gen/drafts/carriage-chase/20261023-125434-367000.jpg"
   }
  ],
  "ball-bearings-and-the-safe": [
@@ -3798,6 +4311,65 @@
    "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
    "cost": 0.03544175,
    "at": "2026-10-23T10:55:31"
+  },
+  {
+   "version": 6,
+   "file": "site/img/xera-and-fey-lynn-die.v6.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "cost": 0.0342655,
+   "at": "2026-10-23T11:50:51"
+  },
+  {
+   "version": 7,
+   "file": "site/img/xera-and-fey-lynn-die.v7.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "cost": 0.03425375,
+   "at": "2026-10-23T11:54:53"
+  },
+  {
+   "version": 8,
+   "file": "site/img/xera-and-fey-lynn-die.v8.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "cost": 0.03426425,
+   "at": "2026-10-23T12:03:24"
+  },
+  {
+   "version": 9,
+   "file": "site/img/xera-and-fey-lynn-die.v9.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "cost": 0.03426925,
+   "at": "2026-10-23T12:05:58"
+  },
+  {
+   "version": 10,
+   "file": "site/img/xera-and-fey-lynn-die.v10.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "cost": 0.03427325,
+   "at": "2026-10-23T12:08:52"
+  },
+  {
+   "version": 11,
+   "file": "site/img/xera-and-fey-lynn-die.v11.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-and-fey-lynn-die.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "The Even Hand",
+    "Mustang",
+    "Xera",
+    "Fey-Lynn"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.03431925,
+   "at": "2026-10-23T12:54:31",
+   "draft": "gen/drafts/xera-and-fey-lynn-die/20261023-125431-467000.jpg"
   }
  ],
  "bears-and-a-barrel": [
@@ -3872,6 +4444,22 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/jyo-torn-apart.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/jyo-torn-apart.prompt.txt",
+   "cost": 0.0349495,
+   "at": "2026-10-23T11:50:57"
+  },
+  {
+   "version": 3,
+   "file": "site/img/jyo-torn-apart.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/jyo-torn-apart.prompt.txt",
+   "cost": 0.0349385,
+   "at": "2026-10-23T11:55:04"
   }
  ],
  "protection-and-pattern": [
@@ -4363,6 +4951,50 @@
    "prompt": "gen/prompts/immovable-rod-and-elwood.prompt.txt",
    "cost": 0.0357805,
    "at": "2026-10-23T10:55:37"
+  },
+  {
+   "version": 5,
+   "file": "site/img/immovable-rod-and-elwood.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/immovable-rod-and-elwood.prompt.txt",
+   "cost": 0.0346,
+   "at": "2026-10-23T12:03:26"
+  },
+  {
+   "version": 6,
+   "file": "site/img/immovable-rod-and-elwood.v6.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/immovable-rod-and-elwood.prompt.txt",
+   "cost": 0.03462975,
+   "at": "2026-10-23T12:06:16"
+  },
+  {
+   "version": 7,
+   "file": "site/img/immovable-rod-and-elwood.v7.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/immovable-rod-and-elwood.prompt.txt",
+   "cost": 0.03463375,
+   "at": "2026-10-23T12:08:52"
+  },
+  {
+   "version": 8,
+   "file": "site/img/immovable-rod-and-elwood.v8.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/immovable-rod-and-elwood.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Jeff",
+    "EEEEE"
+   ],
+   "refs": [
+    "Character lineup",
+    "Starilaskur map"
+   ],
+   "cost": 0.03467325,
+   "at": "2026-10-23T12:54:36",
+   "draft": "gen/drafts/immovable-rod-and-elwood/20261023-125436-954000.jpg"
   }
  ],
  "aundairians-in-the-alley": [

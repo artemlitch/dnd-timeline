@@ -13,9 +13,9 @@ On the camp table lies the painting the party took from the necromancer's cellar
 
 CAST
 - {cast:Blazehelm}
-- Lirael: a slender young male drow with dark grey-blue skin and short white hair.
-- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
 
 REFERENCES
 {references}

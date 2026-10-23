@@ -15,8 +15,8 @@ The overloaded cart is mid-plunge down the steepest drop, two wheels off the rai
 CAST
 - {cast:Brand}
 - {cast:Elric}
-- Lirael: a slender young male drow with dark grey-blue skin and short white hair; here in drab grey prison fatigues.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles; here still in drab grey prison fatigues, not his black suit.
+- {cast:Lirael} Here: in drab grey prison fatigues.
+- {cast:Sazed} Here: still in drab grey prison fatigues, not his usual outfit.
 
 REFERENCES
 {references}

@@ -17,10 +17,10 @@ CAST
 - {cast:Brokk}
 - {cast:Sorenson}
 - {cast:Screech}
-- Jazz: a lean human police officer with short brown hair and a thin moustache, navy ribbed sweater with leather shoulder straps, cream breeches, tall laced boots.
-- Barry Baritone: a large brass construct built out of brass instruments, a tuba-bell body, horn bells for shoulders, a domed brass head with glowing orange eyes.
-- Beezel: here a huge black gorilla (a halfling druid in wild shape).
-- Jeff: a large, heavy frog-man druid with yellow eyes, a snail sitting on his head, a robe of moss and leaves, green bead necklaces.
+- {cast:Jazz}
+- {cast:Barry Baritone}
+- {cast:Beezel} Here: wild-shaped into a huge black gorilla.
+- {cast:Jeff}
 - {cast:The Moonwatch}
 
 REFERENCES

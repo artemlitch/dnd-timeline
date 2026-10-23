@@ -14,8 +14,8 @@ Lirael, in drab prison fatigues, sits hunched on the lower bunk holding the loos
 
 CAST
 - {cast:Lirael} Here he wears drab prison fatigues, not his Sentinel coat.
-- Tauren: a broad-shouldered human ex-soldier with a dark slicked-back pompadour and long sideburns, in drab prison fatigues.
-- Elarian: a slender male elf with long straight black hair, pale skin and green eyes, in drab prison fatigues.
+- {cast:Tauren} Here: in drab prison fatigues.
+- {cast:Elarian} Here: in drab prison fatigues.
 - Cromwell's portrait is attached for reference only; Cromwell is not in this moment. Do not draw him.
 - Sheldor's portrait is attached for reference only; Sheldor is only a voice on the far end of the stone and is not in this moment. Do not draw him.
 

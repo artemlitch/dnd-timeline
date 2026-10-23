@@ -10,16 +10,16 @@ In this moment: a crowd of Sentinels in black uniforms fills the main hall for t
 {maps:Mansion Main Floor}
 
 THE MOMENT
-The whole hall bursts out laughing at the defaced portrait. Major Blazehelm, at the front, laughs openly with a hand over his chest. Paxon stands right beneath his own portrait, rigid and red-faced with humiliation, glaring at the crowd. Off to one side, Lirael, Brand and Sazed stand with straight, innocent faces. Gunnery Sergeant Dyll Strickland, beside them, is asking if they had anything to do with it, with a knowing half-smile that says he approves. Spingus, the head chef gnome, holds out his palm to Lirael, who is dropping a small coin purse into it.
+The whole hall bursts out laughing at the defaced portrait. Major Blazehelm, at the front, laughs openly with a hand over his chest. The real Paxon stands right beneath his own portrait, rigid, humiliated and glaring at the crowd; he looks exactly like his character art (a pale-skinned elf with silver-white hair in a low ponytail, clean-shaven, in his royal-blue officer's coat), not like the defaced painting above him. Apart from the painting, Paxon appears only once. Off to one side, Lirael, Brand and Sazed stand with straight, innocent faces. Gunnery Sergeant Dyll Strickland, beside them, eyes the three of them with a knowing, approving half-smile. Spingus, the head chef gnome, holds out his palm to Lirael, who is dropping a small coin purse into it.
 
 CAST
 - {cast:Paxon}
 - {cast:Blazehelm}
 - {cast:Lirael}
-- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
-- Dyll Strickland: a grizzled old human drill sergeant with close-cropped grey hair, in battered leather and steel armor, a sword at his hip.
-- Spingus Dillguard: an old gnome chef with big pointed ears, a bulbous red nose, a bushy white moustache and long white beard, a tall white chef's hat and a brown leather apron.
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Dyll Strickland}
+- {cast:Spingus Dillguard}
 
 REFERENCES
 {references}

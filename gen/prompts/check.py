@@ -27,8 +27,7 @@ for p in sorted((ROOT / "gen/prompts").glob("*.prompt.txt")):
             new = re.sub(rf"^- {re.escape(name)}: .*$", f"- {{cast:{name}}}", new, count=1, flags=re.M)
         p.write_text(new)
     eid = p.name.removesuffix(".prompt.txt")
-    r = subprocess.run([sys.executable, "-I", str(ROOT / "gen/image.py"), eid, "--sources", "--test", "--prompt",
-                        f"gen/prompts/{p.name}", "--print"], capture_output=True, text=True)
+    r = subprocess.run([sys.executable, "-I", str(ROOT / "gen/image.py"), eid, "--print"], capture_output=True, text=True)
     if r.returncode or re.search(r"\{(tone|setting|cast|maps|framing|references)[:}]", r.stdout):
         broken.append(f"{eid}: {(r.stderr or r.stdout).strip()[-200:]}")
 

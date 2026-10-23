@@ -16,9 +16,9 @@ CAST
 - {cast:Sazed}
 - {cast:Clockwork}
 - {cast:Lirael}
-- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, grey leather armor with pauldrons, longbow and quiver.
-- Brand: a 150-year-old male dwarf, stocky, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit; here unconscious and carried.
-- Screech: a male halfling pilot with a thin moustache, leather aviator cap and goggles, brown leather flight jacket; here unconscious and carried.
+- {cast:Cromwell}
+- {cast:Brand} Here: unconscious and carried.
+- {cast:Screech} Here: unconscious and carried.
 - Warforged enforcers: tall constructs plated in steel and stone with crystal eyes, in green tabards.
 - Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
 - Sheldor's portrait is attached for reference only; Sheldor is not in this moment. Do not draw him.

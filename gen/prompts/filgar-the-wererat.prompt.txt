@@ -10,7 +10,7 @@ In this moment: the cellar under the bar, among the kegs, at the foot of the sta
 {maps:Turckle Basement}
 
 THE MOMENT
-Sent down for a keg, Brand has instead settled in to get drunk with Filgar the wererat, a huge, scruffy rat-man who turns out to be completely relaxed. Brand sits on an upturned barrel in his power armor, red-faced, roaring with laughter, a tankard in his fist, his arm around Filgar's shoulders like an old friend. Filgar lounges on a keg beside him, tail curled, mug in his clawed hand. Screech, sent down after Brand, has given up on the keg too and is pouring himself a drink straight from the tap, and Sazed, the third one sent down, sits cross-legged passing round a smoking pipe of Larkleaf. On the stairs, Lirael is the only one still on task, hauling a keg up on his shoulder and ignoring their cheerful shouts to stay.
+Sent down for a keg, Brand has instead settled in to get drunk with Filgar the wererat, a huge, scruffy rat-man who turns out to be completely relaxed. Brand sits on an upturned barrel in his power armor, with flushed cheeks, roaring with laughter, a tankard in his fist, his arm around Filgar's shoulders like an old friend. Filgar lounges on a keg beside him, tail curled, mug in his clawed hand. Screech, sent down after Brand, has given up on the keg too and is pouring himself a drink straight from the tap, and Sazed, the third one sent down, sits cross-legged passing round a smoking pipe of Larkleaf. On the stairs, Lirael is the only one still on task, hauling a keg up on his shoulder and ignoring their cheerful shouts to stay.
 
 CAST
 - {cast:Lirael}

@@ -17,9 +17,9 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Screech}
-- Sheldor: a drow with dark grey skin, long straight white hair, tattooed arms, dark leather armor and cloak.
-- Erald: an elderly, short and stout dwarf scribe with grey hair, a big grey beard and moustache and a monocle, in a blue robe with orange trim, loaded with a backpack of scrolls and ledgers.
-- Chester: a living treasure chest, a mimic, with a big single eye in its lid, rows of fangs, a long red tongue and four stubby grey legs.
+- {cast:Sheldor}
+- {cast:Erald}
+- {cast:Chester}
 - {cast:The Kingsblade}
 
 REFERENCES

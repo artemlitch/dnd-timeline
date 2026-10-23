@@ -15,9 +15,9 @@ Sazed has just dodged the rolling spike log and snatched every recruit's key off
 CAST
 - {cast:Sazed}
 - {cast:Keys} Here he is in his dwarf form, soaking wet.
-- Sheldor: a slender male drow with dark grey-blue skin and long straight white hair, in black leather armour.
-- Sorenson: a stout dwarf with a big red beard and red hair.
-- Dyll Strickland: an old, weathered human drill sergeant with short grey hair and a hard, lined face, in dark leather armour with steel pauldrons.
+- {cast:Sheldor}
+- {cast:Sorenson}
+- {cast:Dyll Strickland}
 
 REFERENCES
 {references}

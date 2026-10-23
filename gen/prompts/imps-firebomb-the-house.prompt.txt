@@ -15,10 +15,10 @@ A swarm of imps, small red winged devils with horns, barbed tails and clawed han
 CAST
 - {cast:Brand}
 - {cast:Sazed}
-- Lirael: a 23-year-old male drow sorcerer, slender, dark grey-blue skin, short white hair, black Sentinel coat.
-- Click Clack: a male wood elf with long wild auburn hair and a brown leather outfit, swinging a big axe.
-- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
-- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
+- {cast:Lirael}
+- {cast:Click Clack}
+- {cast:Leff}
+- {cast:Tauren}
 - Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
 - Imps: small red devils with bat wings, horns and barbed scorpion-like tails, here in oversized stolen black Sentinel uniforms.
 - Clockwork's portrait is attached for reference only; Clockwork, the warforged artificer, is not in this moment. Do not draw him.

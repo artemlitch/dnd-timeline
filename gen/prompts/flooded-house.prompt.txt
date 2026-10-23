@@ -18,7 +18,7 @@ CAST
 - {cast:Leff}
 - {cast:Tauren}
 - {cast:Sazed}
-- Keys: a dwarf druid, here wild-shaped into a big black bear.
+- {cast:Keys} Here: wild-shaped into a big black bear.
 
 REFERENCES
 {references}

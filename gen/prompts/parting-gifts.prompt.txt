@@ -18,8 +18,8 @@ CAST
 - {cast:Clockwork}
 - {cast:Sazed} Here his sleeve is pushed up for the tattoo.
 - {cast:Lirael}
-- Eloria: a female tiefling cleric with blue skin, golden eyes, a thin tail, long dark hair streaked with white pinned up, in white and gold robes with a white fur mantle.
-- Sheldor: a slender male drow with dark grey-blue skin and long straight white hair, in black leather armour under a dark cloak.
+- {cast:Eloria}
+- {cast:Sheldor}
 - {cast:The Moonwatch}
 - {cast:The Kingsblade}
 

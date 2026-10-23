@@ -21,7 +21,7 @@ CAST
 - {cast:Lirael}
 - {cast:Sazed}
 - The Right Hand: a tall, lean figure in close-fitting bronze armour, a wide-brimmed pointed hat, a long blue cloak, a round shield with glowing blue runes and a glowing blue blade.
-- Archimedes: a warforged owl made of brass and copper plates with glowing blue eyes.
+- {cast:Archimedes}
 
 REFERENCES
 {references}

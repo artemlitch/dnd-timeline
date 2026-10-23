@@ -23,10 +23,10 @@ CAST
 - {cast:Brand}
 - {cast:Sazed}
 - {cast:Lirael}
-- Brokk: a stocky dwarf with a big red beard and swept-up red hair, leather and brass workshop armor, a huge glowing brass Cannith gauntlet on one arm.
-- Morganth: a red-scaled dragonborn mercenary commander with horns, in heavy plate armor and a blue cloak, wielding a great axe.
-- The Bloodsinger: a wild druid in furs with an antlered fur headdress; here mostly seen transformed into the triceratops.
-- Auntie Bees: an eccentric plump woman in a frilled yellow-and-white honeycomb dress, wide beekeeper's hat with a veil and a bee on top, round glasses, conducting golden swirls of bees.
+- {cast:Brokk}
+- {cast:Morganth}
+- {cast:The Bloodsinger} Here: transformed into a huge triceratops.
+- {cast:Auntie Bees}
 - Everyone else is unnamed townsfolk, police, mercenaries and druids.
 
 REFERENCES

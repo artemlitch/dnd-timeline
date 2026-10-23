@@ -1,6 +1,6 @@
 # Writing an event's image prompt
 
-One file per event: `gen/prompts/<event-id>.prompt.txt`. `gen/image.py --prompt` fills the `{...}` placeholders from
+One file per event: `gen/prompts/<event-id>.prompt.txt`. `gen/image.py` fills the `{...}` placeholders from
 shared files, so a prompt only carries what is specific to its moment. The eight files already in this folder are
 worked examples; `immovable-rod-and-elwood.prompt.txt` and `the-fury-ritual.prompt.txt` are the best ones to copy.
 
@@ -66,7 +66,12 @@ REFERENCES
    sources.json. Characters who appear but have no portrait get a one-line description (species, build, hair,
    clothes) from the recap. If a portrait character is in `refs` but not present at the chosen moment, write
    `- <Name>'s portrait is attached for reference only; <Name> is not in this moment. Do not draw them.`
-7. **No text in the scene.** Do not describe signs, banners, books or posters with readable words.
-8. **Check your file** with the free dry run, which prints the finished prompt and calls no API:
-   `python3 -I gen/image.py <event-id> --sources --test --prompt gen/prompts/<event-id>.prompt.txt --print`
+7. **Scene-specific outfits.** A {cast:Name} line and the character outline both show the usual outfit. When the
+   moment changes it (unclothed, disguised, prison fatigues), replace that character's {cast:} line with a hand-written
+   line that describes them without the usual outfit and says so explicitly.
+8. **No colour idioms.** The model draws them literally: "red-faced" gave Paxon a solid red face. Write "flushed
+   cheeks", "pale with shock" only for characters whose skin allows it, or describe the expression instead.
+9. **No text in the scene.** Do not describe signs, banners, books or posters with readable words.
+10. **Check your file** with the free dry run, which prints the finished prompt and calls no API:
+   `python3 -I gen/image.py <event-id> --print`
    Never run gen/image.py without `--print`: every real run costs money.

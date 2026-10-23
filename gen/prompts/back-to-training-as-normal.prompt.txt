@@ -15,10 +15,10 @@ On this side of the mirror the group has reconvened, rattled after the Dreamweav
 CAST
 - {cast:Brand}
 - {cast:Blazehelm}
-- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in a black Sentinel coat.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
-- Sheldor: an adult drow man with dark skin and white hair, in a Sentinel uniform; unconscious, wet and tied to a chair.
-- Charlie Trundle: an adult human Sentinel soldier in uniform; unconscious, wet and tied to a chair.
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Sheldor} Here: in a Sentinel uniform, unconscious, wet and tied to a chair.
+- {cast:Charlie Trundle} Here: in a Sentinel uniform, unconscious, wet and tied to a chair.
 
 REFERENCES
 {references}

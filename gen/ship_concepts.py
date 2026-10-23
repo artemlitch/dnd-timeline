@@ -14,7 +14,7 @@ import sys
 import tempfile
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from image import ROOT, env, post, small  # noqa: E402
+from image import ROOT, env, keep, post, small  # noqa: E402
 
 MODEL = "google/gemini-3.1-flash-lite-image"
 OUT = ROOT / "gen/refs/ships"
@@ -44,6 +44,7 @@ def concept(name, ship):
     if not imgs:
         return name, None, json.dumps(resp)[:300]
     out = OUT / (re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") + ".jpg")
+    keep(out)
     with tempfile.NamedTemporaryFile(suffix=".img") as tmp:
         tmp.write(base64.b64decode(imgs[0]["image_url"]["url"].split(",", 1)[1]))
         tmp.flush()

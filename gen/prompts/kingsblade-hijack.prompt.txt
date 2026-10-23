@@ -21,7 +21,7 @@ CAST
 - {cast:Sheldor}
 - {cast:Cromwell}
 - {cast:Lirael}
-- Nedira: a male shifter Sentinel, a very hairy man with a human face, long swept-back dark brown hair, a full beard, yellow eyes and a scarred brow, in leather armour with a fur collar.
+- {cast:Nedira}
 - Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
 - {cast:The Kingsblade}
 

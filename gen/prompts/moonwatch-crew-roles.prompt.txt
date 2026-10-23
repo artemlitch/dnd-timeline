@@ -19,8 +19,8 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
-- Sorenson: a short, stout dwarf musician with swept red-ginger hair and a full bushy red beard, brown vest over a white shirt, baggy purple striped breeches, barefoot with leather leg wraps, a mandolin and a bass drum strapped to his back.
-- Erald: an elderly, short and stout dwarf scribe with grey hair, a big grey beard and moustache and a monocle, in a blue robe with orange trim, loaded with a backpack of scrolls and ledgers.
+- {cast:Sorenson}
+- {cast:Erald}
 - {cast:The Moonwatch}
 - {cast:The Kingsblade}
 

@@ -16,11 +16,11 @@ CAST
 - {cast:Sheldor}
 - {cast:Lirael}
 - {cast:Brand}
-- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
-- Keys: a stocky dwarf with brown skin and long black hair and beard in braids.
-- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
-- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, swaying drunk.
-- Sorenson: a stout dwarf with a big red beard and red hair.
+- {cast:Leff}
+- {cast:Keys}
+- {cast:Tauren}
+- {cast:Cromwell} Here: swaying drunk.
+- {cast:Sorenson}
 - Scruffy: a scruffy, skinny, shaggy grey dog.
 
 REFERENCES

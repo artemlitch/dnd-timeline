@@ -16,11 +16,11 @@ CAST
 - {cast:Gelf}
 - {cast:Brand}
 - {cast:Sazed}
-- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, grey leather armor with pauldrons, longbow and quiver.
-- Screech: a halfling pilot with a handlebar moustache, brown leather flight helmet with goggles pushed up, shearling-collared brown leather flight jacket with brass gauges on the chest.
-- Elric: a stocky human soldier in a steel nasal helmet, mail, a green tabard trimmed with gold, a heavy mace.
-- Sheldor: a drow with dark grey skin, long straight white hair, tattooed arms, dark leather armor and cloak.
-- Charlie Trundle: a cheerful, burly half-elf with long black hair and a big black beard, in a leather jerkin.
+- {cast:Cromwell}
+- {cast:Screech}
+- {cast:Elric}
+- {cast:Sheldor}
+- {cast:Charlie Trundle}
 
 REFERENCES
 {references}

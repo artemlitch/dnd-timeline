@@ -15,10 +15,10 @@ Elric Galen, a decent guard, is down on his back on the stone floor with blood o
 CAST
 - {cast:Elric}
 - Attacking guard: a Brelish prison guard in uniform with a short sword.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles; here in drab grey prison fatigues, swinging a quarterstaff.
-- Lirael: a slender young male drow with dark grey-blue skin and short white hair; here in drab grey prison fatigues.
-- Brand: a 150-year-old dwarf with a long grey-white beard and wild grey hair, short, stocky and broad; here in drab grey prison fatigues, without his armor.
-- Byll: a nervous young human prison guard in a rumpled uniform, wrists tied.
+- {cast:Sazed} Here: in drab grey prison fatigues, swinging a quarterstaff.
+- {cast:Lirael} Here: in drab grey prison fatigues.
+- {cast:Brand} Here: in drab grey prison fatigues, without his armor.
+- {cast:Byll} Here: nervous, his wrists tied.
 
 REFERENCES
 {references}

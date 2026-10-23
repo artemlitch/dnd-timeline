@@ -17,7 +17,7 @@ CAST
 - {cast:Gelf}
 - {cast:Lirael}
 - {cast:Sazed}
-- Screech: a halfling pilot with a handlebar moustache, brown leather flight helmet with goggles pushed up, shearling-collared brown leather flight jacket.
+- {cast:Screech}
 
 REFERENCES
 {references}

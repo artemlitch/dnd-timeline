@@ -17,13 +17,13 @@ CAST
 - {cast:Lirael}
 - {cast:Sheldor}
 - {cast:Brand}
-- Lug Murzog: a male half-orc Sentinel spellcaster with green skin, short dark hair and small tusks, in a black Sentinel uniform; here being mauled to death.
-- Charlie Trundle: a burly male half-elf Sentinel with long black hair tied back, a big black beard and moustache, in a black Sentinel uniform.
-- Sazed: a lean male shifter monk of about 45, very hairy but with an ordinary human face, wild swept-back dark reddish-brown hair, heavy sideburns and a rough beard, small round spectacles; here in dark nightclothes.
-- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
-- Tauren: a broad-shouldered human with a dark slicked-back pompadour, holding a greataxe.
-- Sorenson: a stout dwarf with a big red beard and red hair.
-- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, swaying drunk.
+- {cast:Lug Murzog} Here: in a black Sentinel uniform, being mauled to death.
+- {cast:Charlie Trundle} Here: in a black Sentinel uniform.
+- {cast:Sazed} Here: in dark nightclothes.
+- {cast:Leff}
+- {cast:Tauren}
+- {cast:Sorenson}
+- {cast:Cromwell} Here: swaying drunk.
 - Scruffy: a scruffy, skinny, shaggy grey dog.
 
 REFERENCES

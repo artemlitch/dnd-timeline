@@ -16,10 +16,10 @@ CAST
 - {cast:Blazehelm}
 - {cast:Clockwork}
 - Clockwork Defender: a hulking, round-bodied brass clockwork construct with a single glowing orange eye-core and heavy riveted plating, dented and half-repaired.
-- Lirael: a slender young male drow with dark grey-blue skin and short white hair, in a black Sentinel coat.
-- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
-- Eloria: a blue-skinned tiefling cleric with small curled horns, golden eyes, a golden sun mark on her forehead, long dark hair with a white streak, a thin tail, white-and-gold robes, a white fur mantle and a golden sun pendant.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Eloria}
 
 REFERENCES
 {references}

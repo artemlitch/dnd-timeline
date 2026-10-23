@@ -17,8 +17,8 @@ CAST
 - {cast:Mr. Beaks}
 - Eloria's portrait is attached for reference only; Eloria is not in this moment. Do not draw her.
 - Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
-- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- {cast:Brand}
+- {cast:Sazed}
 - {cast:The Moonwatch}
 
 REFERENCES

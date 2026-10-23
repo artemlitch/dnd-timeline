@@ -1961,8 +1961,8 @@
         "Lirael",
         "Mara'bor"
       ],
-      "img": "img/elrics-supper.v3.jpg",
-      "img_version": 3
+      "img": "img/elrics-supper.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "elric-reveals-sentinels",
@@ -3144,8 +3144,8 @@
         "Sorenson",
         "Keys"
       ],
-      "img": "img/kunai-to-the-rescue.v13.jpg",
-      "img_version": 13
+      "img": "img/kunai-to-the-rescue.v20.jpg",
+      "img_version": 20
     },
     {
       "id": "spoils-of-the-broadsword",
@@ -3856,8 +3856,8 @@
         "Lirael",
         "Halfling Pilots"
       ],
-      "img": "img/halfling-card-game.v3.jpg",
-      "img_version": 3
+      "img": "img/halfling-card-game.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "blazehelm-and-the-sentinels-band",
@@ -5439,8 +5439,8 @@
         "Gelf",
         "Dream"
       ],
-      "img": "img/brass-dragon-in-the-dream.v3.jpg",
-      "img_version": 3
+      "img": "img/brass-dragon-in-the-dream.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "escape-the-collapsing-dream",
@@ -5488,8 +5488,8 @@
         "Sheldor",
         "Screech"
       ],
-      "img": "img/friends-come-back.v3.jpg",
-      "img_version": 3
+      "img": "img/friends-come-back.v7.jpg",
+      "img_version": 7
     },
     {
       "id": "blazehelms-personal-guard",
@@ -6592,8 +6592,8 @@
         "Gauss Hog",
         "Brand"
       ],
-      "img": "img/dancing-with-eloria.v2.jpg",
-      "img_version": 2
+      "img": "img/dancing-with-eloria.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "rigged-chicken-races",
@@ -6978,7 +6978,7 @@
       "session": 18,
       "kind": "revelation",
       "major": true,
-      "img": "img/tomb-of-centarrel.v2.jpg",
+      "img": "img/tomb-of-centarrel.v5.jpg",
       "summary": "With Paxon's painting duplicated, the party opens the hidden teleporter behind it and arrives in a tomb for the dragons of Centarrel and the soldiers who killed them.",
       "detail": "The party duplicates Paxon's painting, which hides the keyhole to an unmarked teleporter room, and goes through the portal. They arrive in the Tomb of Centarrel. It honours the Dragons of Centarrel and the soldiers who killed them. The graves are dated from the 8th to the 13th of Eyre 968, the Day the Walls Fell in Wroat.",
       "tags": [
@@ -6987,7 +6987,7 @@
         "Dragons",
         "Teleporter"
       ],
-      "img_version": 2
+      "img_version": 5
     },
     {
       "id": "graves-of-the-fathers",
@@ -7104,8 +7104,8 @@
         "Spingus",
         "Gnomes"
       ],
-      "img": "img/portrait-unveiled.v3.jpg",
-      "img_version": 3
+      "img": "img/portrait-unveiled.v14.jpg",
+      "img_version": 14
     },
     {
       "id": "bellatrix-is-dead",
@@ -7344,8 +7344,8 @@
         "Sentinels",
         "Dreamweaver"
       ],
-      "img": "img/sorenson-confides.v2.jpg",
-      "img_version": 2
+      "img": "img/sorenson-confides.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "the-fourth-look",
@@ -8439,7 +8439,7 @@
       "session": 24,
       "kind": "battle",
       "major": true,
-      "img": "img/the-fury-ritual.v4.jpg",
+      "img": "img/the-fury-ritual.v20.jpg",
       "summary": "Fark is a succubus. With Gynn she has murdered Turckle, the Gorgises, Neer and Elk, and bound Felicia above a portal as a vessel for the Fury.",
       "detail": "The victims, including the draft dodgers Neer and Elk had been hiding, hang mutilated around the room. Felicia lies bound and in a trance on a table above the demon portal. The party attacks and Fark activates the ritual. The Fury appears in spectral form, growing more solid by the moment. Gynn stuns Sazed, but Brand saves him with his luck. Lirael destroys the corpses of Shmerly Gorgis and Neer and breaks Felicia's trance. They kill Fark and she is absorbed into the portal, which spits out two lesser demons.",
       "tags": [
@@ -8450,7 +8450,7 @@
         "Turckle",
         "Lirael"
       ],
-      "img_version": 4
+      "img_version": 20
     },
     {
       "id": "the-chicken-gambit",
@@ -8931,7 +8931,7 @@
       "session": 26,
       "kind": "battle",
       "major": true,
-      "img": "img/carriage-chase.v3.jpg",
+      "img": "img/carriage-chase.v6.jpg",
       "summary": "On the roof of the fleeing carriage, Mustang turns on the party. He has been one of The Even Hand's bodies all along.",
       "detail": "The party lands on the roof with Mustang and Felicia Jr, and The Even Hand is waiting. Then Mustang turns on them. Felicia turns invisible and slips below to look for her mother and brother. The party knocks Mustang and The Even Hand off again and again, but they climb back on with grappling hooks. Sazed is thrown off, catches the side, and the top floor explodes in a fireball above him.",
       "tags": [
@@ -8941,7 +8941,7 @@
         "Sazed",
         "Felicia Jr"
       ],
-      "img_version": 3
+      "img_version": 6
     },
     {
       "id": "ball-bearings-and-the-safe",
@@ -9217,7 +9217,7 @@
       "session": 28,
       "kind": "loss",
       "major": true,
-      "img": "img/xera-and-fey-lynn-die.v5.jpg",
+      "img": "img/xera-and-fey-lynn-die.v11.jpg",
       "summary": "The Even Hand and Mustang carry out their threat and behead Xera and Fey-Lynn.",
       "detail": "The killings happen in front of the whole party. The Even Hand repeats that the party is out of its depth, and says the Flock will find Jyo. Jyo reaches the end of the car, turns back into himself and uses a decoupler to detach the train just as one of the Flock steps out. Their bodies are later carried off the train in the bag of holding.",
       "tags": [
@@ -9228,7 +9228,7 @@
         "Jyo",
         "The Flock"
       ],
-      "img_version": 5
+      "img_version": 11
     },
     {
       "id": "bears-and-a-barrel",
@@ -9389,7 +9389,7 @@
       "session": 29,
       "kind": "loss",
       "major": true,
-      "img": "img/jyo-torn-apart.jpg",
+      "img": "img/jyo-torn-apart.v3.jpg",
       "summary": "The train is racing toward a massive turtle-shaped mobile fortress. The possessed bears come out of the portal and tear Jyo to pieces.",
       "detail": "Cromwell is down and the Flock are pushing him off the train. The party kills the bears, a moment too late. With the beholder emerging from the portal, Cromwell down and Jyo dead, they are hopelessly outnumbered. Sazed races to the top of the car to heal Cromwell.",
       "tags": [
@@ -9399,7 +9399,7 @@
         "Beholder",
         "Turtle Fortress"
       ],
-      "img_version": 1
+      "img_version": 3
     },
     {
       "id": "protection-and-pattern",
@@ -10962,8 +10962,8 @@
         "Sazed",
         "Killian"
       ],
-      "img": "img/immovable-rod-and-elwood.v4.jpg",
-      "img_version": 4
+      "img": "img/immovable-rod-and-elwood.v8.jpg",
+      "img_version": 8
     },
     {
       "id": "aundairians-in-the-alley",

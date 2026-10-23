@@ -17,7 +17,7 @@ Behind him, on the lip of the waterfall, Screech, a small halfling pilot, launch
 CAST
 - {cast:Sazed}
 - {cast:Screech}
-- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core and boot boosters.
+- {cast:Brand} Here: with boot boosters on his power armor.
 - Hobgoblin captain: a tall, red-skinned hobgoblin with long black hair, yellow eyes and a hooked nose, in plate armor.
 - Harpies: winged women with bird talons and ragged feathered wings.
 - {cast:The Moonwatch}

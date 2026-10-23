@@ -14,13 +14,13 @@ Beside the carriages Lirael and Sheldor, two drow, stand face to face, and Sheld
 CAST
 - {cast:Lirael} Here he wears drab prison fatigues, not his Sentinel coat.
 - {cast:Sheldor}
-- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
-- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
-- Sorenson: a stout dwarf with a big red beard and red hair.
-- Keys: a stocky dwarf with brown skin and long black hair and beard in braids.
-- Faird: an old, broad man with grey hair and a short grey beard.
-- Erald: an old, grey-haired, bearded man with a pack full of scrolls and papers.
-- Chester: a mimic, a wooden treasure chest on stubby legs with one big eye, rows of fangs and a long pink tongue.
+- {cast:Leff}
+- {cast:Tauren}
+- {cast:Sorenson}
+- {cast:Keys}
+- {cast:Faird}
+- {cast:Erald}
+- {cast:Chester}
 
 REFERENCES
 {references}

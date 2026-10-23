@@ -17,7 +17,7 @@ CAST
 - {cast:Blazehelm}
 - {cast:Brand}
 - {cast:Lirael}
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit.
+- {cast:Sazed}
 - {cast:The Moonwatch}
 - {cast:The Kingsblade}
 

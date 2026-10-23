@@ -14,10 +14,10 @@ Lirael, Brand and Sazed step through the rippling edge of the illusion and stop 
 
 CAST
 - {cast:Blazehelm}
-- Paxon: a thin, pale elf with silver-white hair tied back, a sour expression, in a long blue officer's coat with gold frogging and epaulettes, white cravat, grey trousers and steel greaves, a sabre at his hip.
-- Lirael: a slender young male drow with dark grey-blue skin and short white hair.
-- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
-- Sazed: a lean, very hairy man of about 45 with swept-back dark reddish-brown hair, sideburns into a rough beard, small round spectacles, in a black covert ops suit, carrying a quarterstaff.
+- {cast:Paxon}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
 - {cast:The Kingsblade}
 
 REFERENCES

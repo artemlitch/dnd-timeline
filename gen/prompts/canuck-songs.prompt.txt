@@ -15,14 +15,14 @@ The ship's band plays traditional songs from Screech's home village of Canuck, f
 
 CAST
 - {cast:Screech}
-- Sorenson: a short, stout dwarf musician with swept red-ginger hair and a full bushy red beard, brown vest over a white shirt, baggy purple striped breeches, barefoot with leather leg wraps.
-- Dandy: a small male gnome cook with reddish-brown skin, long pointed ears and a huge bushy brown moustache, white shirt, black vest and red sash.
-- Beezel: a small, young halfling with a boyish grin and messy dark brown hair, in a rust-red shirt and grey vest.
+- {cast:Sorenson}
+- {cast:Dandy}
+- {cast:Beezel}
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
-- Erald: an elderly, short and stout dwarf scribe with grey hair, a big grey beard and moustache, in a blue robe with orange trim.
-- Cromwell: a weathered human ranger in his fifties with swept-back grey hair and a short grey beard, grey leather armor.
+- {cast:Erald}
+- {cast:Cromwell}
 - {cast:The Moonwatch}
 
 REFERENCES

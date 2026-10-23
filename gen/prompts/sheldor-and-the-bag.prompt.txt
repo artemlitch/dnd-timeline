@@ -15,8 +15,8 @@ Brand, an old dwarf woken from sleep, out of his armor and in his nightclothes, 
 CAST
 - {cast:Brand} Here he is NOT in his power armor: he is in nightclothes, his hair and beard wild from sleep.
 - {cast:Sheldor} Here his face is blank and strange: he is possessed.
-- Lug Murzog: a male half-orc Sentinel with green skin, short dark hair and small tusks, in a black Sentinel uniform.
-- Charlie Trundle: a burly male Sentinel with pointed ears, long black hair tied back and a big black beard and moustache, in a black Sentinel uniform.
+- {cast:Lug Murzog} Here: in a black Sentinel uniform.
+- {cast:Charlie Trundle} Here: in a black Sentinel uniform.
 
 REFERENCES
 {references}

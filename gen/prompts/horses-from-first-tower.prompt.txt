@@ -16,8 +16,8 @@ CAST
 - {cast:Beezel}
 - {cast:Taggart}
 - {cast:Lirael}
-- Brand: a 150-year-old male dwarf, short, stocky and broad, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit.
-- Sazed: a lean male shifter monk of about 45, very hairy but with an ordinary human face and normal human ears, wild swept-back dark reddish-brown hair, heavy sideburns and a rough beard, small round spectacles, in a black covert ops suit.
+- {cast:Brand}
+- {cast:Sazed}
 - The dead changeling: a thin humanoid with grey-white skin and a nearly featureless face, in a Starilaskur Military Police uniform.
 
 REFERENCES

@@ -4,6 +4,7 @@ gen/key.txt
 .DS_Store
 gen/split/
 gen/test/
+gen/drafts/
 __pycache__/
 gen/regen/refcache/
 gen/world/campaign.txt

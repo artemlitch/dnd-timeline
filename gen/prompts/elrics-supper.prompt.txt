@@ -17,7 +17,7 @@ CAST
 - {cast:Elric}
 - {cast:Sazed}
 - {cast:Lirael}
-- Brand: a 150-year-old dwarf with a long grey-white beard, short, stocky and broad, in a brass-and-steel power armor suit with a glowing core.
+- {cast:Brand}
 
 REFERENCES
 {references}

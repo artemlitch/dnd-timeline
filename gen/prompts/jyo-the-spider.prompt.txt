@@ -16,7 +16,7 @@ CAST
 - {cast:Jyo} Here he is only a small spider; draw him as a spider, not as a man.
 - {cast:Mustang}
 - Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw him.
-- The Even Hand: an assassin in a dark beaked plague-doctor mask and black tricorn hat, black and deep-red layered leather coat with a studded collar, armored forearms, a dagger in hand. His bodies are warforged constructs under the clothes.
+- {cast:The Even Hand}
 - {cast:Fey-Lynn}
 - {cast:Xera}
 

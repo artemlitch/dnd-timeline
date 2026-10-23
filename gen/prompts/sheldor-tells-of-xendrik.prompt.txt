@@ -15,10 +15,10 @@ At supper Sheldor, the drow, sits across the table from Sazed and leans in, tell
 CAST
 - {cast:Sheldor}
 - {cast:Sazed}
-- Leff: a huge, heavily muscled half-orc with grey-green skin covered in tattoos, bald.
-- Brand: a 150-year-old male dwarf, short, stocky and broad, long grey-white beard and wild grey hair, in a brass-and-steel power armor suit.
-- Tauren: a broad-shouldered human with a dark slicked-back pompadour and long sideburns.
-- Sorenson: a stout dwarf with a big red beard and red hair.
+- {cast:Leff}
+- {cast:Brand}
+- {cast:Tauren}
+- {cast:Sorenson}
 
 REFERENCES
 {references}

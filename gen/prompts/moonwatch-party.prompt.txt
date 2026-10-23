@@ -19,10 +19,10 @@ CAST
 - {cast:Screech}
 - {cast:Lirael}
 - {cast:Sazed}
-- Sorenson: a short, stout dwarf musician with swept red-ginger hair and a full bushy red beard, brown vest over a white shirt, baggy purple striped breeches, barefoot with leather leg wraps, mandolin in hand.
-- Jeff: a large, heavy frog-man druid with yellow eyes, a snail sitting on his head, a robe of moss and leaves, green bead necklaces.
-- The Rat Man: a wiry man with a long nose in a long brown hooded cloak over a red tunic, rats perched on his shoulders, a bone flute at his belt.
-- Filgar: a skinny, pale wererat in rat form, long whiskered snout and big ears, green shirt and trousers under a stained apron, a long naked tail.
+- {cast:Sorenson}
+- {cast:Jeff}
+- {cast:The Rat Man}
+- {cast:Filgar}
 - {cast:The Moonwatch}
 
 REFERENCES
