@@ -1,0 +1,22 @@
+{tone}
+This scene is a lone scout spying on a hidden village of demons.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:demon-village/quasit-village}
+Time and light: late afternoon.
+{maps:Demon Village}
+
+THE MOMENT
+Sazed lies flat in the undergrowth on a rise above the clearing, parting the branches to look down on the demons' village. Below him, among crude huts and piles of stolen Sentinel gear, quasits squabble over food, imps flit between the roofs, and a tall cambion stands at the centre giving orders. None of them has seen him.
+
+CAST
+- {cast:Sazed}
+- The quasits: small, wiry green demons with warty skin, little horns and clawed hands.
+- The imps: small red-skinned devils with bat wings, little horns and barbed stinger tails.
+- The cambion: a tall half-demon with ashen red skin, small curved horns, ragged bat wings and burning eyes.
+
+REFERENCES
+{references}

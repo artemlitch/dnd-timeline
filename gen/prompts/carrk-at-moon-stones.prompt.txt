@@ -1,0 +1,20 @@
+{tone}
+This scene is two old friends parting at a sacred circle of stones.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hearthsfire/moon-stones}
+Time and light: dusk.
+{maps:Hearthsfire}
+
+THE MOMENT
+At the Moon Stones, Carrk, grief-stricken over the village he could not save, drapes a cloak around Sazed's shoulders as a parting gift: a Cloak of Displacement, its dark fabric shimmering so that Sazed's outline seems to waver and slide a hand's breadth off where he really stands. Two cups of Sylvan wine sit on a stone beside them. Carrk grips Sazed's arm, eyes wet.
+
+CAST
+- {cast:Carrk}
+- {cast:Sazed}
+
+REFERENCES
+{references}

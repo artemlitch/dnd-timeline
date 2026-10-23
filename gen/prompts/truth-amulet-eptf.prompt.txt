@@ -1,0 +1,23 @@
+{tone}
+This scene is a standoff at a fortress door broken by a magic amulet.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/eptf-headquarters}
+In this moment: the headquarters entrance hall. Time and light: day.
+{maps:EPTK Holding Cells}
+
+THE MOMENT
+Paladins of the Extra Planar Task Force stand with swords half drawn, ready to fight. Captain Dane faces the party, stern and furious. Lirael wears the Amulet of Compulsive Truth, which glows softly at his throat, as he tells her the Dreamweaver possessed him. Brand, in his power armor, waits beside him for his own turn, and Sazed keeps his hands open and visible. Dane's hand is lifting from her sword hilt, about to order her paladins to stand down.
+
+CAST
+- {cast:Captain Dane}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The paladins: Brelish paladins in plate armor with tabards of the Extra Planar Task Force.
+
+REFERENCES
+{references}

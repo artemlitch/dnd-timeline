@@ -1,0 +1,23 @@
+{tone}
+This scene is a son discovering his missing father's trail in a library.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/wroat-military-library}
+In this moment: one long shelf stands completely empty, a gap among the packed military records. Time and light: afternoon, light through tall windows.
+{maps:Military Library}
+
+THE MOMENT
+At the checkout desk the librarian slides a copy of a loan card across to Lirael: every book on the Dreamweaver was borrowed by his father just before he vanished, and never returned. Lirael holds his Sentinel badge in one hand and stares at the card. Behind him Brand, in his power armor, and Sazed look at the empty shelf.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The librarian: a prim middle-aged human woman in a dark high-collared dress and spectacles.
+- Lirael Sr's portrait is attached for reference only; Lirael Sr is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

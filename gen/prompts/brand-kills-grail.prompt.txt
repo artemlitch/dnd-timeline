@@ -1,0 +1,23 @@
+{tone}
+This scene is the moment a necromancer dies and his army falls with him.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the burning prison yard, packed with zombies. Time and light: night, lit by the burning prison.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+Brand, in his power armor, has just burst up out of the heap of zombies that buried him and driven his armored fist clean through Grail Grimdell's chest. The necromancer hangs on his arm, mouth open, staff falling. In that same instant every zombie in the yard drops: the whole horde is collapsing at once, bodies folding to the ground all around them like puppets with their strings cut. Lirael and Sazed, mid-fight at the edge of the yard, stare as their attackers fall.
+
+CAST
+- {cast:Brand}
+- {cast:Grail Grimdell}
+- {cast:Lirael}
+- {cast:Sazed}
+- The zombies: grey, rotting dead prison guards and prisoners in torn uniforms and prison clothes.
+
+REFERENCES
+{references}

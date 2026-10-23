@@ -1,0 +1,21 @@
+{tone}
+This scene is a frightened cult heir learning who killed her father.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/eptf-headquarters}
+In this moment: the holding cells, iron bars and stone walls. Time and light: day, lantern light in the cells.
+{maps:EPTK Holding Cells}
+
+THE MOMENT
+Elfina, the captured Grand Witch, has backed into the far corner of her cell in panic: Lirael has just admitted he killed her father while he was dreamwoven. Lirael stands at the bars with his hands raised, open, trying to calm her. Captain Dane, arms folded, watches from beside the cell door.
+
+CAST
+- {cast:Elfina}
+- {cast:Lirael}
+- {cast:Captain Dane}
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is a dead necromancer rising again, worse than before.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the yard strewn with fallen zombies, the prison still burning. Time and light: night, firelight and the red glow of the necklace.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+Grail Grimdell's corpse has risen from the dirt: the blood-red gem of his necklace blazes, and he stands as an awakened zombie, grey and rotting, arms flung wide, laughing like a madman, declaring that they have only given him his final form. Around him every fallen zombie is clawing back up to its feet, their dead faces now full of the people they used to be, among them Rolick, a former friend, now a zombie. Lirael, Brand in his power armor and Sazed, exhausted, scramble back up to fight.
+
+CAST
+- {cast:Grail Grimdell} Here: an awakened zombie, grey and rotting, wild-eyed, the necklace blazing red.
+- {cast:Rolick} Here: risen as a zombie, grey and torn.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

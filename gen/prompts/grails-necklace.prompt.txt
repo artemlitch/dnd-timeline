@@ -1,0 +1,20 @@
+{tone}
+This scene is a cursed necklace taken from a dead necromancer.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the yard after the battle, fallen zombies everywhere. Time and light: night, firelight from the burning prison.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+Lirael crouches over Grail Grimdell's corpse and lifts the necromancer's necklace from his ruined body: a silver chain with a large blood-red gem, still pulsing faintly with a sickly inner light. He holds it up between two fingers, studying it warily in the firelight; whoever dies wearing it rises as Grail's zombie. Grail's grey, rotted hand lies open beside it.
+
+CAST
+- {cast:Lirael}
+- {cast:Grail Grimdell} Here: dead on the ground, an awakened zombie's grey, ruined body.
+
+REFERENCES
+{references}

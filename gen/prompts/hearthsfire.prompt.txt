@@ -1,0 +1,25 @@
+{tone}
+This scene is a joyful homecoming in a hidden village of shifters.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hearthsfire/elders-meeting}
+In this moment: villagers have gathered at a distance, watching the outsiders with suspicion. Time and light: afternoon.
+{maps:Hearthsfire}
+
+THE MOMENT
+Falken, the old shifter elder, has just seen Sazed and is crossing to him with arms open, overjoyed: he always believed Sazed had survived. Sazed, moved, steps into the embrace. Beside Falken stands The Bear, a burly Covenant warrior, sizing up Brand, in his power armor, with an approving grin. Lirael hangs back near the guard who led them in, aware of every suspicious stare from the villagers.
+
+CAST
+- {cast:Falken}
+- {cast:Sazed}
+- {cast:The Bear}
+- {cast:Brand}
+- {cast:Lirael}
+- The guard: Fang, a wiry young shifter with a spear.
+- The villagers: shifters of all ages in hide, wool and woven clothing.
+
+REFERENCES
+{references}

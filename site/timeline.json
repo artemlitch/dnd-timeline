@@ -1543,8 +1543,8 @@
         "Zombies",
         "DarkWood"
       ],
-      "img": "img/brand-kills-grail.jpg",
-      "img_version": 1
+      "img": "img/brand-kills-grail.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "grails-final-form",
@@ -1566,8 +1566,8 @@
         "Rolick",
         "Zombies"
       ],
-      "img": "img/grails-final-form.jpg",
-      "img_version": 1
+      "img": "img/grails-final-form.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "grails-meat-shield",
@@ -1776,8 +1776,8 @@
         "Grail Grimdell",
         "Lirael"
       ],
-      "img": "img/grails-necklace.jpg",
-      "img_version": 1
+      "img": "img/grails-necklace.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "ddt-note",
@@ -4414,8 +4414,8 @@
         "Cambions",
         "Demon Village"
       ],
-      "img": "img/quasit-village-found.jpg",
-      "img_version": 1
+      "img": "img/quasit-village-found.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "gelfs-requisitions",
@@ -5002,7 +5002,7 @@
       "session": 13,
       "kind": "revelation",
       "major": true,
-      "img": "img/fathers-library-card.jpg",
+      "img": "img/fathers-library-card.v2.jpg",
       "summary": "The military library's Dreamweaver shelf is empty. Every book was borrowed by Lirael's father just before he vanished, and never returned.",
       "detail": "After training the party goes into Wroat for magic items, then to the military library to research the Dreamweaver. Every relevant book was checked out by Lirael Sr shortly before he went missing, and the late fees have piled up. Lirael flashes his badge and the librarian gives him a copy of the credentials his father left. They list Lirael Sr as a general. On paper his discharge was honourable, but he was really pushed out for his conspiracy theories, worded that way to avoid scrutiny.",
       "tags": [
@@ -5011,7 +5011,7 @@
         "Wroat",
         "Dreamweaver"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "stolen-shifter-books",
@@ -10219,7 +10219,7 @@
     },
     {
       "id": "hearthsfire",
-      "img": "img/hearthsfire.jpg",
+      "img": "img/hearthsfire.v2.jpg",
       "title": "Hearthsfire Behind the Illusion",
       "year": 993,
       "month": 1,
@@ -10240,7 +10240,7 @@
         "The Bear",
         "Covenant of Emberfall"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "carrk-on-trial",
@@ -10288,8 +10288,8 @@
         "Cloak of Displacement",
         "Stones Throw"
       ],
-      "img": "img/carrk-at-moon-stones.jpg",
-      "img_version": 1
+      "img": "img/carrk-at-moon-stones.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "stones-throw-children-home",
@@ -10338,8 +10338,8 @@
         "Lirael",
         "Covenant of Emberfall"
       ],
-      "img": "img/spring-at-garfan.jpg",
-      "img_version": 1
+      "img": "img/spring-at-garfan.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bear-warns-of-carrk",
@@ -10555,7 +10555,7 @@
     },
     {
       "id": "truth-amulet-eptf",
-      "img": "img/truth-amulet-eptf.jpg",
+      "img": "img/truth-amulet-eptf.v2.jpg",
       "title": "The Truth Amulet at the EPTF",
       "year": 993,
       "month": 1,
@@ -10575,7 +10575,7 @@
         "Brand",
         "Amulet of Compulsive Truth"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "eptf-blind-spot",
@@ -10603,7 +10603,7 @@
     },
     {
       "id": "elfina",
-      "img": "img/elfina.jpg",
+      "img": "img/elfina.v2.jpg",
       "title": "Elfina Daelmourn",
       "year": 993,
       "month": 1,
@@ -10623,7 +10623,7 @@
         "Captain Dane",
         "Watchers of the Gate"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "watchers-of-the-gate-explained",

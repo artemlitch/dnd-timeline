@@ -549,12 +549,53 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/brand-kills-grail.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brand-kills-grail.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Grail Grimdell",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.03462625,
+   "at": "2026-10-23T15:59:37",
+   "draft": "gen/drafts/brand-kills-grail/20261023-155937-968000.jpg"
   }
  ],
  "grails-final-form": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/grails-final-form.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/grails-final-form.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Grail Grimdell",
+    "Rolick",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.0346525,
+   "at": "2026-10-23T15:59:36",
+   "draft": "gen/drafts/grails-final-form/20261023-155936-607000.jpg"
   }
  ],
  "grails-meat-shield": [
@@ -688,6 +729,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/grails-necklace.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/grails-necklace.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Grail Grimdell"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.03457025,
+   "at": "2026-10-23T15:59:36",
+   "draft": "gen/drafts/grails-necklace/20261023-155936-068000.jpg"
   }
  ],
  "ddt-note": [
@@ -2582,6 +2641,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/quasit-village-found.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/quasit-village-found.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Demon Village map"
+   ],
+   "cost": 0.03453425,
+   "at": "2026-10-23T15:59:35",
+   "draft": "gen/drafts/quasit-village-found/20261023-155935-435000.jpg"
   }
  ],
  "gelfs-requisitions": [
@@ -3137,6 +3213,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/fathers-library-card.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/fathers-library-card.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Military Library map"
+   ],
+   "cost": 0.034602,
+   "at": "2026-10-23T15:59:34",
+   "draft": "gen/drafts/fathers-library-card/20261023-155934-581000.jpg"
   }
  ],
  "stolen-shifter-books": [
@@ -7237,6 +7332,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/hearthsfire.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/hearthsfire.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Falken",
+    "The Bear"
+   ],
+   "refs": [
+    "Character lineup",
+    "Hearthsfire map"
+   ],
+   "cost": 0.0346295,
+   "at": "2026-10-23T15:59:35",
+   "draft": "gen/drafts/hearthsfire/20261023-155935-261000.jpg"
   }
  ],
  "carrk-on-trial": [
@@ -7249,6 +7365,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/carrk-at-moon-stones.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/carrk-at-moon-stones.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Carrk"
+   ],
+   "refs": [
+    "Character lineup",
+    "Hearthsfire map"
+   ],
+   "cost": 0.034543,
+   "at": "2026-10-23T15:59:34",
+   "draft": "gen/drafts/carrk-at-moon-stones/20261023-155934-343000.jpg"
   }
  ],
  "stones-throw-children-home": [
@@ -7261,6 +7395,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/spring-at-garfan.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/spring-at-garfan.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Lirael",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Hearthsfire map"
+   ],
+   "cost": 0.03457675,
+   "at": "2026-10-23T15:59:34",
+   "draft": "gen/drafts/spring-at-garfan/20261023-155934-370000.jpg"
   }
  ],
  "bear-warns-of-carrk": [
@@ -7355,6 +7508,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/truth-amulet-eptf.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/truth-amulet-eptf.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Captain Dane",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "EPTK Holding Cells map"
+   ],
+   "cost": 0.03461175,
+   "at": "2026-10-23T15:59:34",
+   "draft": "gen/drafts/truth-amulet-eptf/20261023-155934-153000.jpg"
   }
  ],
  "eptf-blind-spot": [
@@ -7386,6 +7559,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/elfina.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/elfina.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Elfina",
+    "Captain Dane"
+   ],
+   "refs": [
+    "Character lineup",
+    "EPTK Holding Cells map"
+   ],
+   "cost": 0.0345645,
+   "at": "2026-10-23T15:59:34",
+   "draft": "gen/drafts/elfina/20261023-155934-275000.jpg"
   }
  ],
  "watchers-of-the-gate-explained": [
