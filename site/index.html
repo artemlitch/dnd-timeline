@@ -182,6 +182,11 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 
 
 [hidden]{display:none!important}
+*{scrollbar-width:thin;scrollbar-color:var(--bronze) transparent}
+::-webkit-scrollbar{width:5px;height:5px}
+::-webkit-scrollbar-track,::-webkit-scrollbar-corner{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--bronze);border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:var(--brass)}
 /* every button, chip and pill centres its content the same way */
 .seg button,.jump,.chip,#drawer .nav button,#close{display:inline-flex;align-items:center;justify-content:center;line-height:1}
 .seg button,.jump,.chip{height:26px;padding-top:0;padding-bottom:0;box-sizing:border-box}
