@@ -442,34 +442,29 @@ function layoutEvents(){
   const topY=18;
   const w=mobile?150:264,laneH=mobile?80:112,gap=mobile?54:66;
   const rows=Math.max(1,Math.min(ROWS,Math.floor((H-gap)/laneH)));
-  const rowOf=e=>e.idx%rows;
   const margin=W*.5,lo=off-margin/P,hi=off+(W+margin)/P;
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
-  // every event hangs from the top in a fixed row (its index mod the row count), so a card is always drawn at the
-  // same height. Within a row, events get a fixed rank like a skip list (every 2nd, 4th, 8th event ranks higher). A
-  // card shows full size when it clears the nearest same-or-higher-rank event on each side: those are fixed
-  // events, so the distances only grow as the zoom goes in, a card that has appeared never hides again, high
-  // ranks spread evenly at coarse zoom, and two shown cards can never overlap
-  const slots={};for(const e of EV){const k=rowOf(e);(slots[k]=slots[k]||[]).push(e);}
-  const placed=new Set();
-  for(const k in slots){const list=slots[k];
-    const rank=list.map((_,i)=>{let n=i+1,r=0;while(!(n&1)){n>>=1;r++;}return r;});
-    for(let i=0;i<list.length;i++){const e=list[i];if(e.di<lo||e.di>hi)continue;
-      let ok=true;
-      for(let j=i-1;j>=0;j--)if(rank[j]>=rank[i]){ok=(list[i].di-list[j].di)*P>=w+10;break;}
-      if(ok)for(let j=i+1;j<list.length;j++)if(rank[j]>=rank[i]){ok=(list[j].di-list[i].di)*P>=w+10;break;}
-      if(ok)placed.add(e.id);}
+  // events claim rows in skip-list rank order (every 2nd, 4th, 8th event ranks higher), each taking the highest row
+  // where it clears every card already there, so cards float up as zooming in opens space above them. Placement runs
+  // over every event, not just the ones on screen, so panning never reshuffles rows
+  const rank=e=>{let n=e.idx+1,r=0;while(!(n&1)){n>>=1;r++;}return r;};
+  const order=EV.filter(visible).sort((a,b)=>rank(b)-rank(a)||a.idx-b.idx);
+  const rowX=Array.from({length:rows},()=>[]),placed=new Map(),need=(w+10)/P;
+  for(const e of order){
+    for(let r=0;r<rows;r++){if(rowX[r].every(d=>Math.abs(d-e.di)>=need)){rowX[r].push(e.di);placed.set(e.id,r);break;}}
   }
+  // a faded card sits in the row with the most room around it, top row on ties
+  const ghostRow=e=>{let best=0,room=-1;for(let r=0;r<rows;r++){const m=Math.min(Infinity,...rowX[r].map(d=>Math.abs(d-e.di)));if(m>room){room=m;best=r;}}return best;};
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
-  // a card whose slot is taken is still drawn there, shrunk and faded behind the others, and grows back when zooming in
-  // faded cards that would sit almost on top of the previous faded card in the same slot are skipped: a pile of
+  // a card with no free row is still drawn, shrunk and faded behind the others, and grows back when zooming in
+  // faded cards that would sit almost on top of the previous faded card in the same row are skipped: a pile of
   // them reads as one smear and costs a DOM node each
   const overflow=[],lastGhost={};
   for(const e of vis){
     const x=(e.di-off)*P,kc=KC[e.kind]||KC.history;
     const mk=take('mk',e.id,'mk'+(e.major?' major':'')+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=topY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
-    const ghost=!placed.has(e.id),lane=rowOf(e);if(ghost)overflow.push(e);
+    const ghost=!placed.has(e.id),lane=ghost?ghostRow(e):placed.get(e.id);if(ghost)overflow.push(e);
     if(ghost){if(lastGhost[lane]!==undefined&&x-lastGhost[lane]<w*.35)continue;lastGhost[lane]=x;}
     const card=take('card',e.id,'card major'+(ghost?' ghost':'')+(active&&active.id===e.id?' active':''));
     card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.left=(x-w/2)+'px';
