@@ -1477,7 +1477,7 @@
     },
     {
       "id": "grail-rises",
-      "img": "img/grail-rises.jpg",
+      "img": "img/grail-rises.v2.jpg",
       "title": "Grail Grimdell Raises the Dead",
       "year": 993,
       "month": 1,
@@ -1497,7 +1497,7 @@
         "Warden Sharpe",
         "DarkWood"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "the-horde-overwhelms-brand",
@@ -1805,7 +1805,7 @@
     },
     {
       "id": "darkwood-explodes",
-      "img": "img/darkwood-explodes.jpg",
+      "img": "img/darkwood-explodes.v2.jpg",
       "title": "Cool Guys Don't Look at Explosions",
       "year": 993,
       "month": 1,
@@ -1824,7 +1824,7 @@
         "Lirael",
         "Sazed"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "damrons-ultimatum",
@@ -2905,8 +2905,8 @@
         "Hobgoblins",
         "Dwarf in a Can"
       ],
-      "img": "img/eeeee-the-dwarf-in-a-can.jpg",
-      "img_version": 1
+      "img": "img/eeeee-the-dwarf-in-a-can.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "eeeee-slain",
@@ -3503,8 +3503,8 @@
         "Hat of Slight Disguise",
         "Ring of Random Language"
       ],
-      "img": "img/quasit-in-the-closet.jpg",
-      "img_version": 1
+      "img": "img/quasit-in-the-closet.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sorensons-song",
@@ -4524,7 +4524,7 @@
       "session": 12,
       "kind": "battle",
       "major": true,
-      "img": "img/demon-village.jpg",
+      "img": "img/demon-village.v2.jpg",
       "summary": "Lirael drops a thunderwave on the demons crowding Brand's shield and kills nearly every one of them in a single blast.",
       "detail": "The imps and quasits had bunched up around Brand, trying and failing to get through his defences. Lirael's thunderwave tears through the crowd and kills nearly all of them at once. The party mops up the survivors one by one. Two imps turn invisible and escape into the forest. Those two will turn up again, first stealing food in Gelf's house and later firebombing the party's home in revenge.",
       "tags": [
@@ -4534,7 +4534,7 @@
         "Quasits",
         "Boranex"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "cambion-confession",
@@ -6133,7 +6133,7 @@
       "session": 14,
       "kind": "battle",
       "major": true,
-      "img": "img/gauss-house-explodes.v2.jpg",
+      "img": "img/gauss-house-explodes.v3.jpg",
       "summary": "Just as Sazed and the carriage converge on it, Gauss Hog's house erupts in a massive explosion, and Brand finally sees The Even Hand.",
       "detail": "As Sazed approaches Gauss Hog's house he sees Tauren, Leff, Lirael and Brand racing down the other street. Then the house blows up. The blast throws Sazed and the police officer sent to collect Gauss Hog to the ground. Brand sees a glint on a rooftop again, and this time sees him clearly: The Even Hand. The assassin runs off across the buildings towards Kal Valvier's house. Sazed sprints down the street, jumps into the carriage, and they race to beat him there.",
       "tags": [
@@ -6143,7 +6143,7 @@
         "Brand",
         "Wroat"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "standoff-at-kals-house",

@@ -1,0 +1,22 @@
+{tone}
+This scene is a dwarf bursting out of a can in the middle of an enemy squad.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:yedani-mountains/cliff-and-open-field}
+In this moment: a felled log leans against the cliff face as a ramp. Time and light: day.
+
+THE MOMENT
+The brass can Brand just hurled has landed among a squad of hobgoblin soldiers, burst open, and out has sprung EEEEE, the dwarf in a can, arms flung wide, grinning madly, shouting that he loves to kill and asking who he should kill. The hobgoblins, startled, are already pointing past him at Brand, and their captain is snatching up the empty can and stuffing it into his pouch. Across the field Brand, in his power armor, stands at the foot of the log ramp, his throwing arm still outstretched, realising his mistake. Above him Sazed is halfway up the log, looking back. On a rise behind the hobgoblins an archer draws a green flare arrow.
+
+CAST
+- {cast:EEEEE}
+- {cast:Brand}
+- {cast:Sazed}
+- The hobgoblins: tall, muscular hobgoblin soldiers with grey-orange skin, in dark leather and chain armor, with swords, spears and bows; their captain is the biggest, in a plumed helm.
+- Lirael's portrait is attached for reference only; Lirael is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

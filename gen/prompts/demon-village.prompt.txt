@@ -1,0 +1,23 @@
+{tone}
+This scene is a swarm of small demons blasted apart by a spell.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:demon-village/quasit-village}
+In this moment: crude demon huts and stolen Sentinel gear. Time and light: day.
+{maps:Demon Village}
+
+THE MOMENT
+Brand stands in the middle of the demon village in his power armor, a shimmering magic shield around him, and over a dozen imps and quasits swarm him from every side, clawing, biting and stinging, unable to get through. At that instant Lirael's thunderwave hits the swarm: a booming ring of force bursts outward through them, flinging imps and quasits away in every direction, broken, torn and dying in mid-air. Lirael stands at the edge of the clearing with his hand thrust out where the spell left it. Sazed waits further off with his quarterstaff, ready to finish the survivors. Two imps at the forest's edge are fading out of sight, turning invisible as they flee.
+
+CAST
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+- The imps: small red-skinned devils with bat wings, little horns and barbed stinger tails.
+- The quasits: small, wiry green demons with warty skin, little horns and clawed hands.
+
+REFERENCES
+{references}

@@ -73,6 +73,13 @@
     return best;
   }
 
-  const api = { prepare, place, nearestShown, stepShown, ROWS: 2 };
+  // zoom (px per day) and centre day for clicking a bubble over a run of faded cards from day a to b: fit the run on
+  // screen, but always zoom in at least 2x, since a run can chain wider than the screen
+  function clusterZoom(a, b, p, width, zmax) {
+    const fit = (width - 300) / Math.max(b - a, 1 / 24);
+    return { p: Math.min(zmax, Math.max(fit, p * 2)), center: (a + b) / 2 };
+  }
+
+  const api = { prepare, place, nearestShown, stepShown, clusterZoom, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);

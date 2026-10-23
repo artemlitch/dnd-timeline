@@ -498,7 +498,7 @@ function layoutEvents(){
     el.classList.toggle('has-big',g.length>=10);
     const one=g.length===1;
     el.innerHTML=`<b class="${g.length>=10?'big':''}">${one?'+':g.length}</b>${show?`<span>${one?esc(g[0].title):clusterLabel(g)}</span>`:''}`;
-    el.onclick=ev=>{ev.stopPropagation();if(one)openEvent(g[0]);else zoomTo(g[0].di-.02,g[g.length-1].di+.02);};
+    el.onclick=ev=>{ev.stopPropagation();if(one)openEvent(g[0]);else{const z=Placement.clusterZoom(g[0].di-.02,g[g.length-1].di+.02,P,vw(),ZMAX);animateTo(z.p,z.center,520);}};
     el.title=one?g[0].title:`${g.length} faded moments, ${clusterLabel(g)}. Click to zoom in`;
   }
   trim();

@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place, nearestShown, stepShown, ROWS } = require('../site/placement.js');
+const { prepare, place, nearestShown, stepShown, clusterZoom, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
@@ -90,6 +90,22 @@ test('stepping from a faded event goes to the nearest full-size card in that dir
   const faded = events.find(e => !shown.has(e.id) && events.some(f => f.di > e.di && shown.has(f.id)));
   const next = stepShown(events, shown, faded, 1);
   assert.equal(next.id, events.find(f => f.di > faded.di && shown.has(f.id)).id);
+});
+
+test('clicking a bubble whose run is wider than the screen zooms in on it, never out', () => {
+  const { p, center } = clusterZoom(100, 2100, 1, 1200, 5000);
+  assert.ok(p >= 2, `zoom went from 1 to ${p} px/day`);
+  assert.equal(center, 1100);
+});
+
+test('clicking a bubble whose run fits on screen zooms in to fit it', () => {
+  const { p, center } = clusterZoom(100, 102, 1, 1200, 5000);
+  assert.equal(p, (1200 - 300) / 2);
+  assert.equal(center, 101);
+});
+
+test('clicking a bubble at the closest zoom keeps the zoom', () => {
+  assert.equal(clusterZoom(100, 2100, 5000, 1200, 5000).p, 5000);
 });
 
 test('stepping past the last full-size card gives nothing', () => {

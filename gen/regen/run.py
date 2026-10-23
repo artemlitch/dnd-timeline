@@ -56,7 +56,7 @@ def main():
                 return eid, None
             try:
                 return eid, generate_scene(eid)
-            except SystemExit as e:
+            except (SystemExit, OSError) as e:  # OSError covers network timeouts
                 err = str(e)
             if "in_flight" in err:
                 time.sleep(30)  # credit held for unsettled requests, not spent

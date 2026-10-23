@@ -1,0 +1,27 @@
+{tone}
+This scene is a necromancer raising an army of the dead in a burning prison yard.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the prison buildings behind are on fire, and a hole is blasted through the wall where the party just climbed down. Bodies lie across the yard. Time and light: night, lit by the burning prison.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+Grail Grimdell stands composed in the middle of the yard, staff raised, one hand open toward the party as if welcoming guests, thanking them for so many beautiful corpses. All around him the dead are rising: hands punch up through the dirt and bodies drag themselves to their feet, grey and torn, with the wounds that killed them. In front stand the dead the party knows best: Officer Bloodworth, Shmem Gorgis, Scud and Warden Sharpe, now zombies with dead eyes fixed on the party. Behind them rise guards in prison uniform and prisoners from the gangs, rank after rank. Facing them at the foot of the wall: Lirael, Brand in his power armor and Sazed, with Rex beside them, all realising that everyone they have killed is back.
+
+CAST
+- {cast:Grail Grimdell}
+- {cast:Bloodworth} Here: risen as a zombie, grey and torn, with the wounds that killed him.
+- {cast:Shmem Gorgis} Here: risen as a zombie, grey and torn, with the wounds that killed him.
+- {cast:Scud} Here: risen as a zombie, grey and torn, with the wounds that killed him.
+- {cast:Warden Sharpe} Here: risen as a zombie, grey and torn, with the wounds that killed him.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Rex}
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is opening a cupboard to find a small demon having dinner.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/janitors-closet}
+In this moment: mops, buckets and shelves of cleaning supplies crowd the closet. Time and light: evening, a single lamp in the closet and light from the hallway.
+
+THE MOMENT
+The closet door has just been pulled open. Inside, perched on an upturned bucket, sits a quasit wearing a cowboy hat, with a pot of spaghetti in its lap and a forkful halfway to its mouth, noodles hanging from its jaws. It has frozen, and with its free hand it is holding out its cowboy hat to them, offering it if they will leave it alone. Brand, in his power armor, already has his gauntlet raised and crackling, about to blast it. Beside him Lirael's face and hair are still smeared with cream from a pie that hit him in the face a few minutes ago, and both their boots are slick with grease. Sazed peers in over their shoulders.
+
+CAST
+- The quasit: a small, wiry green demon the size of a cat, with warty skin, little horns, a long thin tail and clawed hands, wearing a battered brown cowboy hat.
+- {cast:Brand}
+- {cast:Lirael} Here: his face and hair smeared with pie cream.
+- {cast:Sazed}
+
+REFERENCES
+{references}

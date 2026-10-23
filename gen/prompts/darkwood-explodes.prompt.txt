@@ -1,0 +1,25 @@
+{tone}
+This scene is a group walking away from a prison as it explodes behind them.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/gate-and-walls}
+In this moment: the prison gate stands open. Time and light: night, lit by the explosion.
+{maps:Prison Gate}
+
+THE MOMENT
+The fire has reached the armory and DarkWood Prison explodes behind them in a towering fireball, debris and flame bursting high into the sky. Walking out through the open gate toward us, side by side, are Brand in his power armor, Lirael and Sazed, and none of them looks back: calm, unhurried, the blast lighting them from behind. A few steps behind come their freed friends: Elric, Sorenson with his tuba, Sheldor, and Chester the mimic, a treasure chest scuttling along on stubby legs. For the first time in a long time, they are free.
+
+CAST
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Elric}
+- {cast:Sorenson}
+- {cast:Sheldor}
+- {cast:Chester}
+
+REFERENCES
+{references}

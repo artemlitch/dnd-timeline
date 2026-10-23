@@ -299,6 +299,30 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/grail-rises.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/grail-rises.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Bloodworth",
+    "Grail Grimdell",
+    "Shmem Gorgis",
+    "Scud",
+    "Warden Sharpe",
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Rex"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.03477425,
+   "at": "2026-10-23T13:47:02"
   }
  ],
  "the-horde-overwhelms-brand": [
@@ -411,6 +435,28 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/darkwood-explodes.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/darkwood-explodes.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Elric",
+    "Sorenson",
+    "Sheldor",
+    "Chester"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Gate map"
+   ],
+   "cost": 0.034677,
+   "at": "2026-10-23T13:47:02"
   }
  ],
  "damrons-ultimatum": [
@@ -1016,6 +1062,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/eeeee-the-dwarf-in-a-can.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/eeeee-the-dwarf-in-a-can.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "EEEEE",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.0343175,
+   "at": "2026-10-23T13:42:30"
   }
  ],
  "eeeee-slain": [
@@ -1546,6 +1609,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/quasit-in-the-closet.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/quasit-in-the-closet.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.03430425,
+   "at": "2026-10-23T13:42:07"
   }
  ],
  "sorensons-song": [
@@ -2058,6 +2138,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/demon-village.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/demon-village.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Demon Village map"
+   ],
+   "cost": 0.03458125,
+   "at": "2026-10-23T13:47:02"
   }
  ],
  "cambion-confession": [
@@ -3223,6 +3321,27 @@
    "prompt": "gen/prompts/gauss-house-explodes.prompt.txt",
    "cost": 0.03641425,
    "at": "2026-10-23T11:10:05"
+  },
+  {
+   "version": 3,
+   "file": "site/img/gauss-house-explodes.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/gauss-house-explodes.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "The Even Hand",
+    "Tauren",
+    "Leff"
+   ],
+   "refs": [
+    "Character lineup",
+    "Exploding House map"
+   ],
+   "cost": 0.03468875,
+   "at": "2026-10-23T13:46:50"
   }
  ],
  "standoff-at-kals-house": [
