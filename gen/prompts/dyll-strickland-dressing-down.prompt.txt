@@ -1,0 +1,25 @@
+{tone}
+This scene is a drill sergeant tearing into new recruits on their doorstep.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house}
+In this moment: the front door of the house has just been unlocked with the final key and stands open behind the party. Time and light: morning.
+{maps:Home Base}
+
+THE MOMENT
+The party has just stepped out of the front door, worn from the trapped house, and Drill Instructor Dyll Strickland is waiting: he is in Brand's face, nose to nose, bellowing insults and crude nicknames, spit flying. Brand stands rigid at attention, jaw clenched, taking it as part of the test. Beside him Sazed's fists are clenched and his eyes narrowed, the insults getting under his skin. Lirael bites back a grin. Behind Dyll wait Eloria with a bag of medical supplies, Clockwork with a box of tools, and a row of gnomes holding mops and buckets, ready to clean up.
+
+CAST
+- {cast:Dyll Strickland}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Eloria}
+- {cast:Clockwork}
+- The gnomes: small gnomes in work clothes with mops and buckets.
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is two warships opening fire on a flood of zombies from the air.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:yedani-mountains/exploding-mountain-prison}
+In this moment: the hidden prison under the mountain has just exploded, smoke and fire pouring from the mountainside. Time and light: day.
+
+THE MOMENT
+Seen from the deck of the Kingsblade high above: below, the second secret prison has blown open, and a flood of zombies pours out of the burning mountainside, thousands of them spilling down the slope, with no sign of guards, prisoners or a necromancer. A second great warship of the same class, the Pillar of Dawn, sweeps in from the side, and both ships open fire on the horde, cannon blasts tearing up the mountainside. At the Kingsblade's rail Major Blazehelm stands with Lirael, Brand and Sazed, watching grimly.
+
+CAST
+- {cast:Blazehelm}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:The Kingsblade}
+- The Pillar of Dawn: a second Galifar-class warship of the same design as the Kingsblade.
+
+REFERENCES
+{references}

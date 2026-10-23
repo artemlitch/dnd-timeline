@@ -2745,7 +2745,7 @@
     },
     {
       "id": "found-you",
-      "img": "img/found-you.jpg",
+      "img": "img/found-you.v2.jpg",
       "title": "Found You",
       "year": 993,
       "month": 1,
@@ -2765,7 +2765,7 @@
         "Brand",
         "Dreamweaver"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "blazehelms-whiskey",
@@ -3192,8 +3192,8 @@
         "Yedani Mountains",
         "Blazehelm"
       ],
-      "img": "img/second-prison-erupts.jpg",
-      "img_version": 1
+      "img": "img/second-prison-erupts.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "three-weeks-of-training",
@@ -3247,7 +3247,7 @@
     },
     {
       "id": "wroat-and-the-party",
-      "img": "img/wroat-and-the-party.jpg",
+      "img": "img/wroat-and-the-party.v2.jpg",
       "title": "The Approach to Wroat",
       "year": 993,
       "month": 1,
@@ -3267,7 +3267,7 @@
         "Citadel",
         "Boranex"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "hobbstweedle-and-the-moonwatch",
@@ -4091,8 +4091,8 @@
         "Training",
         "Gnomes"
       ],
-      "img": "img/dyll-strickland-dressing-down.jpg",
-      "img_version": 1
+      "img": "img/dyll-strickland-dressing-down.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-five-mile-run",
@@ -5853,7 +5853,7 @@
       "session": 14,
       "kind": "loss",
       "major": true,
-      "img": "img/meriel-on-the-bridge.jpg",
+      "img": "img/meriel-on-the-bridge.v2.jpg",
       "summary": "Meriel waves to Lirael from across the river with her bookbag, steps onto the bridge out of sight, and never reaches the Daily Grind.",
       "detail": "Lirael waits at the Daily Grind and sees Meriel across the river carrying a bookbag. She waves to him and walks up onto the bridge, out of sight. She never arrives. Lirael goes onto the bridge and finds her dead with an arrow through her throat. He shouts for help, but the arrow carries a silence spell and no sound comes out.",
       "tags": [
@@ -5862,7 +5862,7 @@
         "Wroat",
         "The Even Hand"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "wait-im-a-sentinel",

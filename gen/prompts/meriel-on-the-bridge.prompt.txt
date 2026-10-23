@@ -1,0 +1,20 @@
+{tone}
+This scene is a man finding a friend murdered on a city bridge.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/daily-grind-and-bridge}
+In this moment: the bridge over the river, near the cafe. Passers-by further along the bridge have not yet noticed. Time and light: evening.
+{maps:Daily Grind}
+
+THE MOMENT
+Lirael kneels on the bridge over Meriel's body. The librarian lies dead on the stones with an arrow through her throat, blood pooling under her, her bookbag fallen beside her. Lirael has thrown his head back and is screaming for help, but the arrow carries a silence spell: a faint shimmer of magical stillness hangs around them both, and no sound comes out. His hands are bloody where he tried to help her.
+
+CAST
+- {cast:Lirael}
+- {cast:Meriel} Here: dead, an arrow through her throat.
+
+REFERENCES
+{references}

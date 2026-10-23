@@ -1,0 +1,24 @@
+{tone}
+This scene is the first sight of a capital city from an airship's top deck.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:wroat/wall-and-guns}
+In this moment: the city seen from the air as the Kingsblade approaches. Time and light: afternoon.
+{maps:Wroat From The Air}
+
+THE MOMENT
+The party stands at the rail of the Kingsblade's top deck as Wroat, the Brelish capital, comes into view ahead: its great wall lined with the Guns of Wroat, Brokenblade Castle where the king lives, and the Citadel where the High Marshals direct the war. Lirael leans out over the rail, taking it in. Brand points out the guns. Sazed, still uncomfortable on the ship, grips the rail with both hands, keeping well back from the edge. Off the side they are passing an old warship, The Unstoppable, and Feldor Windrake, its former captain, stands beside them looking at it.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Feldor Windrake}
+- {cast:The Kingsblade}
+- The Unstoppable: an older, battle-scarred Brelish warship.
+
+REFERENCES
+{references}

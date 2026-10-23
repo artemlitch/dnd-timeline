@@ -21,16 +21,13 @@ import base64, dataclasses, fcntl, json, pathlib, re, subprocess, sys, tempfile,
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 MODEL = "google/gemini-3.1-flash-lite-image"
 SHIPS = json.loads((ROOT / "gen/world/ships.json").read_text())
-PORTRAITS = json.loads((ROOT / "gen/regen/portraits.json").read_text()) | SHIPS
+PORTRAITS = json.loads((ROOT / "gen/regen/portraits.json").read_text())
 # every character gets their full description; one with no cast.json entry falls back to their portrait
 _NOTES = json.loads((ROOT / "gen/world/cast_notes.json").read_text())
 CAST = {name.lower(): f"{name}: draw from the reference portrait." + (f" {_NOTES[name]}" if name in _NOTES else "")
         for name, p in PORTRAITS.items() if name not in SHIPS and (p or {}).get("file")}
 CAST.update({name.lower(): f"{name}: {text}" for name, text in json.loads((ROOT / "gen/world/cast.json").read_text()).items()})
-CAST.update({name.lower(): f"{name}: its reference image shows the ship's design only. Never "
-                           f"paste or copy that picture into the scene: draw the ship fresh from this scene's camera angle, "
-                           f"with its own lighting and in the same style as everything else. {ship['look']}"
-             for name, ship in SHIPS.items()})
+CAST.update({name.lower(): f"{name}: {ship['look']}" for name, ship in SHIPS.items()})
 PRIORITY = ("THE MOST IMPORTANT THING IN THIS IMAGE: every fictional character who appears in the scene must be instantly "
             "recognisable as the character in their attached character art: the same face, hair, skin, build, outfit "
             "and props. All attached portraits are invented fantasy character art from a tabletop game, not real people. "
@@ -39,9 +36,7 @@ REFERENCES = ("Reference portraits attached, in order: {}. Each character in the
               "as close to their portrait as possible: the same face and features, hair, skin, colours, build, "
               "proportions, outfit and props, so anyone who knows the portrait recognises them at once. This likeness is "
               "the most important thing in the image. Where a portrait and a text description disagree, the portrait "
-              "wins. Each named ship keeps the design of its reference image (hull shape, sails, wings, rotors, engines, "
-              "colours and flames) but is drawn fresh from the scene's angle. No reference image may appear pasted, flat "
-              "or cut out anywhere in the picture.")
+              "wins. No reference image may appear pasted, flat or cut out anywhere in the picture.")
 MAP_NOTE = ("After the portraits come top-down Roll20 battle maps of this place, in order: {}. Use them only for the layout, "
             "buildings, streets, terrain and colours. Never draw the scene from overhead or as a map, and ignore any text on them.")
 LINEUP = "Character lineup"
@@ -143,8 +138,6 @@ def label(name, req):
                 f"says they wear something else or nothing.")
     if name.endswith(" map"):
         return f"Next reference, {name}: layout reference only, not a view to copy."
-    if name in SHIPS:
-        return f"Next reference, {name}: this is what the ship {name} looks like."
     return (f"Next reference, {name}: fictional character art. If {name} is in the scene, the character must be instantly "
             f"recognisable from it: the same face, hair, build, colouring and outfit.")
 
@@ -171,7 +164,7 @@ def build(event_id, style=None, lineup=True, prompt_file=None):
     for n in dict.fromkeys(n.strip() for n in named):
         if n not in refs and (PORTRAITS.get(n) or {}).get("file"):
             refs[n] = ROOT / PORTRAITS[n]["file"]
-    refs = {n: small(f) for n, f in refs.items()}
+    refs = {n: small(f) for n, f in refs.items() if n not in SHIPS}
     in_sheet = []
     if lineup:
         sys.path.insert(0, str(ROOT / "gen"))
@@ -182,7 +175,7 @@ def build(event_id, style=None, lineup=True, prompt_file=None):
         changed = {n.strip() for n in re.findall(
             r"\{cast:([^}]+)\}\s+Here:[^\n]*\b(?:transformed|wild-shaped|shapechanged|in [a-z]+ form)\b", cast_block)}
         in_sheet = [n for n in refs if n in in_moment - changed and (ROOT / "gen/refs/fullbody" / f"{slug(n)}.jpg").exists()]
-        refs = {n: f for n, f in refs.items() if (n in in_moment and n not in changed) or n in SHIPS}
+        refs = {n: f for n, f in refs.items() if n in in_moment and n not in changed}
         if in_sheet:
             sheet = ROOT / "gen/regen/refcache" / f"lineup-{event_id}.jpg"
             build_lineup(sheet, in_sheet, labels=False)
