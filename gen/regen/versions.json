@@ -2108,6 +2108,28 @@
    ],
    "cost": 0.03462,
    "at": "2026-10-23T14:33:51"
+  },
+  {
+   "version": 3,
+   "file": "site/img/dyll-strickland-dressing-down.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/dyll-strickland-dressing-down/variants/20261023-143706/A reroll, same prompt.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "Dyll Strickland",
+    "Lirael",
+    "Eloria",
+    "Clockwork"
+   ],
+   "refs": [
+    "Character lineup",
+    "Home Base map"
+   ],
+   "cost": 0.03462,
+   "at": "2026-10-23T14:37:15",
+   "draft": "gen/drafts/dyll-strickland-dressing-down/20261023-143715-845000.jpg"
   }
  ],
  "the-five-mile-run": [
