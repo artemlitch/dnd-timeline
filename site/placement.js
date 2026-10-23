@@ -56,6 +56,6 @@
     return sim.layouts[s];
   }
 
-  const api = { prepare, place };
+  const api = { prepare, place, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);

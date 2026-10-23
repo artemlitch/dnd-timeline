@@ -1,10 +1,13 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place } = require('../site/placement.js');
+const { prepare, place, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
-const ROWS = 3;
+
+test('the timeline uses at most two rows of cards', () => {
+  assert.equal(ROWS, 2);
+});
 const CARD = 255;
 
 // zoom levels in px per day, from a whole century on screen to a few minutes per card
