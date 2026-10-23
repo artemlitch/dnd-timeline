@@ -1,0 +1,22 @@
+{tone}
+This scene is an old priest's quiet warning in his church.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/silver-flame-church}
+In this moment: the church after dark, the pews empty. Time and light: night, candles and the silver flame on the altar.
+{maps:Silver Flame Church}
+
+THE MOMENT
+Wilford Chism, the old priest of the Silver Flame, stands at the altar with his back half to the party, staring into the silver flame. He has just told them that the presence of the Fury he felt in Ardev vanished yesterday, and that something stranger has taken its place, growing. Lirael, Brand, in his power armor, and Sazed stand in the aisle, uneasy. The flame flickers, and the shadows in the corners of the church seem a little too deep.
+
+CAST
+- {cast:Wilford Chism}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

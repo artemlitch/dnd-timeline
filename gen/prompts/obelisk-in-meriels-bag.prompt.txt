@@ -1,0 +1,24 @@
+{tone}
+This scene is a grim discovery among a dead assassin's belongings.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/wroat-streets}
+In this moment: a narrow alley, the two dead assassins laid out on the cobbles beside a waiting carriage. Time and light: evening, street lamps.
+{maps:Wroat Street}
+
+THE MOMENT
+Lirael kneels over the dead assassins' things and has just pulled Meriel's book bag open. Inside lies a black obelisk the length of his forearm, carved all over with ancient runes: his father's obelisk. He holds it up, shaken, recognising it at last. Brand, in his power armor, leans in to look at the runes. Sazed keeps watch at the alley mouth. Click Clack, the gangly elf, grins down at them, pleased to have helped.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Click Clack}
+- Lirael Sr's portrait is attached for reference only; Lirael Sr is not in this moment. Do not draw him.
+- Meriel's portrait is attached for reference only; Meriel is not in this moment. Do not draw her.
+
+REFERENCES
+{references}

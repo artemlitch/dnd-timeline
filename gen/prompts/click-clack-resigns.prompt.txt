@@ -1,0 +1,23 @@
+{tone}
+This scene is a police chief screaming at the worst officer he has ever had.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/military-police-station}
+In this moment: the chief's cluttered office, desk buried under stacks of reports. Time and light: day.
+{maps:Wroat Military Police Station}
+
+THE MOMENT
+Chief Torg, furious, veins standing out on his neck, stands behind his desk holding up one of Click Clack's reports: a page covered in crude stick-figure drawings. He jabs a finger at a square shape in the drawing, demanding to know what it is. Click Clack, the gangly elf officer, stands before the desk utterly calm and pleased, about to explain that it is a head. Behind Click Clack, in the doorway, Lirael, Brand and Sazed watch, trying to keep straight faces.
+
+CAST
+- {cast:Chief Torg}
+- {cast:Click Clack}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

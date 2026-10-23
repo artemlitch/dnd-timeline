@@ -1,0 +1,20 @@
+{tone}
+This scene is an old wizard opening a prophecy in a vast, candlelit library.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:narrator-library}
+In this moment: the wizard's desk deep in the library, a single candle burning. Time and light: night, candlelight.
+{maps:Library}
+
+THE MOMENT
+A grizzled old human wizard in green robes sits slumped at his desk, a pipe drooping from his lips, a staff cradled in the crook of his arm. His raven has just pulled an ancient book from the shelves and laid it before him, and he is releasing its heavy clasp, a faint glint in his green eyes, about to read aloud. The raven has settled back on top of his staff. Behind him, in the dark between the shelves, a small floating scrying eye watches, and the wizard knows it is there.
+
+CAST
+- The wizard: a frail, grizzled old human wizard with a lined face, white stubble and sharp green eyes, in worn green robes, a long wooden staff and a pipe.
+- The raven: a large glossy black raven.
+
+REFERENCES
+{references}

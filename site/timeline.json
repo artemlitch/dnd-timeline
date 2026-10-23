@@ -776,8 +776,8 @@
         "Prophecy",
         "Khorvaire"
       ],
-      "img": "img/wizard-and-the-raven.jpg",
-      "img_version": 1
+      "img": "img/wizard-and-the-raven.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "train-to-darkwood",
@@ -2172,8 +2172,8 @@
         "Mara'bor",
         "Elric"
       ],
-      "img": "img/grails-cellar.jpg",
-      "img_version": 1
+      "img": "img/grails-cellar.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "calling-grails-brother",
@@ -3574,8 +3574,8 @@
         "Shifters",
         "Boranex"
       ],
-      "img": "img/sazed-and-nedira-prowlstone.jpg",
-      "img_version": 1
+      "img": "img/sazed-and-nedira-prowlstone.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-gnome-kitchen",
@@ -6262,8 +6262,8 @@
         "Meriel",
         "Click Clack"
       ],
-      "img": "img/obelisk-in-meriels-bag.jpg",
-      "img_version": 1
+      "img": "img/obelisk-in-meriels-bag.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "click-clack-resigns",
@@ -9735,8 +9735,8 @@
         "Magic Society",
         "Ardev"
       ],
-      "img": "img/wilford-and-the-stranger-evil.jpg",
-      "img_version": 1
+      "img": "img/wilford-and-the-stranger-evil.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "wilford-doubts-the-watch",

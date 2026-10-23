@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet, moving conversation between two old shifters.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/courtyard-and-fountain}
+In this moment: a card table set up in the courtyard where the bridge crew are playing. Time and light: evening, lanterns.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Nedira has left the card game to sit with Sazed on the edge of the fountain. He has just told Sazed that his warning saved the village of Prowlstone, and that a whole generation of shifter children exists because of him. Sazed, usually so composed, sits stunned, eyes bright behind his spectacles. Nedira rests a hand on his shoulder. Behind them the bridge crew play on at the card table, laughing.
+
+CAST
+- {cast:Sazed}
+- {cast:Nedira}
+- The bridge crew: off-duty Sentinel airship crew in shirtsleeves, playing cards.
+
+REFERENCES
+{references}

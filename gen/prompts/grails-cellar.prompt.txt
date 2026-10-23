@@ -1,0 +1,22 @@
+{tone}
+This scene is the discovery of a necromancer's hidden lair.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/grails-cellar}
+In this moment: the trap door above stands open, a ladder leading down. Time and light: lamplight.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+The party has just climbed down into Grail's hidden cellar: a cramped one-room lair in black and purple, crowded with necromantic things, candles, bones and jars. Lirael holds up a framed painting of the Grimdell family when they were younger, a gaunt dark-haired family in gothic black. Brand, in his power armor, studies a map of the mountains spread on a table, five prisons marked on it. Sazed lifts a small black sending stone, carved with a skull.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Grail Grimdell's portrait is attached for reference only; Grail Grimdell is not in this moment, though he appears as a young man in the family painting. Do not draw him otherwise.
+
+REFERENCES
+{references}
