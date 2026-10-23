@@ -1,0 +1,22 @@
+TONE
+{tone}
+This scene is full of motion and chaos in a dark street.
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: the scene is the street right outside the bar, its lit windows and open door spilling warm light onto the street, townsfolk crowding the doorway and windows to watch.
+Time and light: evening on a cold winter night, warm amber lamplight from the bar against the blue dark of the street, breath visible in the air.
+
+THE MOMENT
+The party has fed a gang of Dragons Claw mercenaries a potion of irresistibility to birds. Birds of every kind have come from all over town: pigeons, crows, gulls, chickens, ducks, a goose, songbirds. They mob the mercenaries in an amorous frenzy, strutting and puffing their chests, flapping all over them, piling onto their heads and backs, feathers flying everywhere. The mercenaries flail and stumble about in panic. Earlier in the night the party pulled the mercenaries' trousers down, so they wobble around with their trousers bunched at their ankles; Ellis, their captain, is in white underpants printed with little red hearts.
+In the foreground, the potion has also caught Neebus, the bar's parrot-folk dishwasher, who forgot to stay away: he is charging at Ellis with wings spread wide and a lovestruck, crazed look. Lirael has tackled Neebus and is pinning him to the ground, but Neebus is wriggling loose, beak straining toward Ellis's backside, while Sazed grabs him by the legs to drag him back. Ellis, horrified, swats at birds and tries to get away.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- Ellis: a grinning, weathered human mercenary captain of the Dragons Claw, stubbled beard, green wide-brimmed hat with a brass badge, green coat with leather straps; here no longer grinning.
+- Neebus: a humanoid parrot, bright teal and green feathers, curved black beak, crest of feathers, wings for arms, in a blue coat with gold trim and a white cravat, worn under a dishwasher's apron. He is a bird person, not a human.
+- The other mercenaries are unnamed rough Dragons Claw men in leather and green.
+
+REFERENCES
+{references}

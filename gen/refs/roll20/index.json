@@ -5,7 +5,7 @@
   "name": "Brand Broadhelm",
   "url": "https://s3.amazonaws.com/files.d20.io/images/364382318/jjTEbDdyDpwF8J5SFpyxKQ/med.png?1697981530",
   "slug": "brand-broadhelm",
-  "file": "gen/refs/roll20/characters/brand-broadhelm.png",
+  "file": "gen/refs/brand.png",
   "bytes": 553366,
   "fetched": "https://files.d20.io/images/364382318/jjTEbDdyDpwF8J5SFpyxKQ/original.png?1697981530"
  },
@@ -15,7 +15,7 @@
   "name": "Lirael Xal'ri Jr",
   "url": "https://s3.amazonaws.com/files.d20.io/images/438766282/bt2gGhMkFOjlXudMW1xBDA/med.png?1745798428",
   "slug": "lirael-xal-ri-jr",
-  "file": "gen/refs/roll20/characters/lirael-xal-ri-jr.png",
+  "file": "gen/refs/lirael.png",
   "bytes": 1938633,
   "fetched": "https://files.d20.io/images/438766282/bt2gGhMkFOjlXudMW1xBDA/original.png?1745798428"
  },
@@ -25,7 +25,7 @@
   "name": "Sazed Dengard",
   "url": "https://s3.amazonaws.com/files.d20.io/images/364388915/R1y_x-5bS3tBo3_ljq0aLA/med.png?1697984219",
   "slug": "sazed-dengard",
-  "file": "gen/refs/roll20/characters/sazed-dengard.png",
+  "file": "gen/refs/sazed.png",
   "bytes": 825840,
   "fetched": "https://files.d20.io/images/364388915/R1y_x-5bS3tBo3_ljq0aLA/original.png?1697984219"
  },
@@ -2178,46 +2178,6 @@
   "file": "gen/refs/roll20/characters/portal-purple.png",
   "bytes": 343069,
   "fetched": "https://files.d20.io/images/393643961/eo1L-kGojplnwSpdXxXqsA/original.png?1716187682"
- },
- {
-  "kind": "character",
-  "id": "-NyOjufTeR9sxjUL2VRP",
-  "name": "Shadow Brand Broadhelm",
-  "url": "https://s3.amazonaws.com/files.d20.io/images/364382318/jjTEbDdyDpwF8J5SFpyxKQ/med.png?1697981530",
-  "slug": "shadow-brand-broadhelm",
-  "file": "gen/refs/roll20/characters/shadow-brand-broadhelm.png",
-  "bytes": 553366,
-  "fetched": "https://files.d20.io/images/364382318/jjTEbDdyDpwF8J5SFpyxKQ/original.png?1697981530"
- },
- {
-  "kind": "character",
-  "id": "-NyOjwAYS8Jskygi9OYW",
-  "name": "Shadow Lirael Xal'ri Jr",
-  "url": "https://s3.amazonaws.com/files.d20.io/images/364452902/H7ZwLq7B6FX9ui-TJaC7Ng/med.png?1698004935",
-  "slug": "shadow-lirael-xal-ri-jr",
-  "file": "gen/refs/roll20/characters/shadow-lirael-xal-ri-jr.png",
-  "bytes": 577436,
-  "fetched": "https://files.d20.io/images/364452902/H7ZwLq7B6FX9ui-TJaC7Ng/original.png?1698004935"
- },
- {
-  "kind": "character",
-  "id": "-NyOjy5YDQ_hLx79rM-R",
-  "name": "Shadow Sazed Dengard",
-  "url": "https://s3.amazonaws.com/files.d20.io/images/364388915/R1y_x-5bS3tBo3_ljq0aLA/med.png?1697984219",
-  "slug": "shadow-sazed-dengard",
-  "file": "gen/refs/roll20/characters/shadow-sazed-dengard.png",
-  "bytes": 825840,
-  "fetched": "https://files.d20.io/images/364388915/R1y_x-5bS3tBo3_ljq0aLA/original.png?1697984219"
- },
- {
-  "kind": "character",
-  "id": "-NyOjzYABIAZPGK-PtwD",
-  "name": "Shadow Cromwell Thorne",
-  "url": "https://s3.amazonaws.com/files.d20.io/images/382731796/70XQ3i3LyFtFWTUHVOVvGA/med.webp?1709392828",
-  "slug": "shadow-cromwell-thorne",
-  "file": "gen/refs/roll20/characters/shadow-cromwell-thorne.webp",
-  "bytes": 81272,
-  "fetched": "https://files.d20.io/images/382731796/70XQ3i3LyFtFWTUHVOVvGA/original.webp?1709392828"
  },
  {
   "kind": "character",

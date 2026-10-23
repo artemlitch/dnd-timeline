@@ -1,0 +1,412 @@
+{
+ "rotten-potatoes": {
+  "cost": 0.03538075,
+  "refs": 6,
+  "at": "2026-10-22T21:51:29"
+ },
+ "brew-and-ale-farewell": {
+  "cost": 0.0347815,
+  "refs": 4,
+  "at": "2026-10-22T21:51:29"
+ },
+ "the-quiet-room": {
+  "cost": 0.0347875,
+  "refs": 4,
+  "at": "2026-10-22T21:51:31"
+ },
+ "nobody-else-possessed": {
+  "cost": 0.0345,
+  "refs": 3,
+  "at": "2026-10-22T21:51:34"
+ },
+ "bellatrix-shot": {
+  "cost": 0.035049,
+  "refs": 5,
+  "at": "2026-10-22T21:51:34"
+ },
+ "code-orange": {
+  "cost": 0.0342215,
+  "refs": 2,
+  "at": "2026-10-22T21:51:36"
+ },
+ "breakfast-at-gelfs": {
+  "cost": 0.0348055,
+  "refs": 4,
+  "at": "2026-10-22T21:51:37"
+ },
+ "gelfs-requisitions": {
+  "cost": 0.03421475,
+  "refs": 2,
+  "at": "2026-10-22T21:51:38"
+ },
+ "stables-interrogation": {
+  "cost": 0.034799,
+  "refs": 4,
+  "at": "2026-10-22T21:51:38"
+ },
+ "the-kingsblade": {
+  "cost": 0.03450725,
+  "refs": 3,
+  "at": "2026-10-22T21:51:41"
+ },
+ "elric-reveals-sentinels": {
+  "cost": 0.03421725,
+  "refs": 2,
+  "at": "2026-10-22T21:51:42"
+ },
+ "gelf-in-the-closet": {
+  "cost": 0.0342245,
+  "refs": 2,
+  "at": "2026-10-22T21:51:42"
+ },
+ "whiskey-and-a-napkin": {
+  "cost": 0.03451025,
+  "refs": 3,
+  "at": "2026-10-22T21:51:43"
+ },
+ "screechs-model-broadsword": {
+  "cost": 0.03507325,
+  "refs": 5,
+  "at": "2026-10-22T21:51:43"
+ },
+ "gelf-tells-all": {
+  "cost": 0.0342425,
+  "refs": 2,
+  "at": "2026-10-22T21:51:45"
+ },
+ "halien-stands-watch": {
+  "cost": 0.034209,
+  "refs": 2,
+  "at": "2026-10-22T21:51:46"
+ },
+ "spoils-of-the-broadsword": {
+  "cost": 0.034219,
+  "refs": 2,
+  "at": "2026-10-22T21:51:47"
+ },
+ "halien-talks-with-elric": {
+  "cost": 0.03421075,
+  "refs": 2,
+  "at": "2026-10-22T21:51:48"
+ },
+ "clockwork-lassos-gelf": {
+  "cost": 0.0345095,
+  "refs": 3,
+  "at": "2026-10-22T21:51:52"
+ },
+ "hunky-dory": {
+  "cost": 0.0345305,
+  "refs": 3,
+  "at": "2026-10-22T21:51:53"
+ },
+ "paxon-in-the-clearing": {
+  "cost": 0.034227,
+  "refs": 2,
+  "at": "2026-10-22T21:51:55"
+ },
+ "friends-come-back": {
+  "cost": 0.034806,
+  "refs": 4,
+  "at": "2026-10-22T21:51:56"
+ },
+ "dreamweaver-speaks": {
+  "cost": 0.0350875,
+  "refs": 5,
+  "at": "2026-10-22T21:51:57"
+ },
+ "gelf-fights-free": {
+  "cost": 0.03451675,
+  "refs": 3,
+  "at": "2026-10-22T21:51:58"
+ },
+ "the-five-mile-run": {
+  "cost": 0.034509,
+  "refs": 3,
+  "at": "2026-10-22T21:51:59"
+ },
+ "paxon-nerds-out": {
+  "cost": 0.0351015,
+  "refs": 5,
+  "at": "2026-10-22T21:51:59"
+ },
+ "graves-of-the-fathers": {
+  "cost": 0.0342095,
+  "refs": 2,
+  "at": "2026-10-22T21:52:00"
+ },
+ "brass-dragon-in-the-dream": {
+  "cost": 0.034224,
+  "refs": 2,
+  "at": "2026-10-22T21:52:02"
+ },
+ "gelf-brand-rematch": {
+  "cost": 0.0342135,
+  "refs": 2,
+  "at": "2026-10-22T21:52:03"
+ },
+ "gelf-into-the-astral-sea": {
+  "cost": 0.034227,
+  "refs": 2,
+  "at": "2026-10-22T21:52:03"
+ },
+ "blazehelms-whiskey": {
+  "cost": 0.03421025,
+  "refs": 2,
+  "at": "2026-10-22T21:52:08"
+ },
+ "caught-at-the-village-gate": {
+  "cost": 0.03566675,
+  "refs": 7,
+  "at": "2026-10-22T21:52:12"
+ },
+ "mission-against-killian-gavrin": {
+  "cost": 0.0342355,
+  "refs": 2,
+  "at": "2026-10-22T21:52:12"
+ },
+ "kynds-takes-killian": {
+  "cost": 0.0356585,
+  "refs": 7,
+  "at": "2026-10-22T21:52:15"
+ },
+ "house-burns-flight-to-airfield": {
+  "cost": 0.034797,
+  "refs": 4,
+  "at": "2026-10-22T21:52:15"
+ },
+ "paxon-painting-heist": {
+  "cost": 0.03506625,
+  "refs": 5,
+  "at": "2026-10-22T21:52:16"
+ },
+ "repair-race-bet": {
+  "cost": 0.034795,
+  "refs": 4,
+  "at": "2026-10-22T21:52:18"
+ },
+ "moonwatch-departs": {
+  "cost": 0.03420675,
+  "refs": 2,
+  "at": "2026-10-22T21:52:19"
+ },
+ "screech-taken": {
+  "cost": 0.03450575,
+  "refs": 3,
+  "at": "2026-10-22T21:52:19"
+ },
+ "rigged-chicken-races": {
+  "cost": 0.03449175,
+  "refs": 3,
+  "at": "2026-10-22T21:52:20"
+ },
+ "halfling-card-game": {
+  "cost": 0.0344955,
+  "refs": 3,
+  "at": "2026-10-22T21:52:22"
+ },
+ "ellis-dead-in-the-street": {
+  "cost": 0.0347755,
+  "refs": 4,
+  "at": "2026-10-22T21:52:26"
+ },
+ "screechs-bedtime-stories": {
+  "cost": 0.034208,
+  "refs": 2,
+  "at": "2026-10-22T21:52:26"
+ },
+ "tour-of-the-kingsblade": {
+  "cost": 0.03481075,
+  "refs": 4,
+  "at": "2026-10-22T21:52:27"
+ },
+ "canuck-songs": {
+  "cost": 0.03392825,
+  "refs": 1,
+  "at": "2026-10-22T21:52:30"
+ },
+ "moonwatch-crew-roles": {
+  "cost": 0.03508025,
+  "refs": 5,
+  "at": "2026-10-22T21:52:31"
+ },
+ "cromwells-coin-game": {
+  "cost": 0.0347995,
+  "refs": 4,
+  "at": "2026-10-22T21:52:31"
+ },
+ "moonwatch-party": {
+  "cost": 0.03479575,
+  "refs": 4,
+  "at": "2026-10-22T21:52:38"
+ },
+ "lirael-first-flight": {
+  "cost": 0.03422,
+  "refs": 2,
+  "at": "2026-10-22T21:52:38"
+ },
+ "crossing-the-river": {
+  "cost": 0.03481275,
+  "refs": 4,
+  "at": "2026-10-22T21:52:38"
+ },
+ "lirael-learns-to-fly": {
+  "cost": 0.0342265,
+  "refs": 2,
+  "at": "2026-10-22T21:52:38"
+ },
+ "broadsword-stolen": {
+  "cost": 0.034812,
+  "refs": 4,
+  "at": "2026-10-22T21:52:41"
+ },
+ "shadowing-the-train": {
+  "cost": 0.03392525,
+  "refs": 1,
+  "at": "2026-10-22T21:52:42"
+ },
+ "hobgoblin-warlord-below-decks": {
+  "cost": 0.03480975,
+  "refs": 4,
+  "at": "2026-10-22T21:52:42"
+ },
+ "pilot-overboard": {
+  "cost": 0.03452675,
+  "refs": 3,
+  "at": "2026-10-22T21:52:42"
+ },
+ "gauss-hogs-story": {
+  "cost": 0.034507,
+  "refs": 3,
+  "at": "2026-10-22T21:52:44"
+ },
+ "sazed-rides-the-rotor": {
+  "cost": 0.03422375,
+  "refs": 2,
+  "at": "2026-10-22T21:52:45"
+ },
+ "eloria-speak-with-dead": {
+  "cost": 0.03420875,
+  "refs": 2,
+  "at": "2026-10-22T21:52:46"
+ },
+ "how-blazehelm-knows-brand": {
+  "cost": 0.03452525,
+  "refs": 3,
+  "at": "2026-10-22T21:52:47"
+ },
+ "portrait-unveiled": {
+  "cost": 0.03450625,
+  "refs": 3,
+  "at": "2026-10-22T21:52:50"
+ },
+ "bellatrix-is-dead": {
+  "cost": 0.03449675,
+  "refs": 3,
+  "at": "2026-10-22T21:52:50"
+ },
+ "blazehelms-personal-guard": {
+  "cost": 0.034232,
+  "refs": 2,
+  "at": "2026-10-22T21:52:53"
+ },
+ "how-blazehelm-knows-lirael": {
+  "cost": 0.03451725,
+  "refs": 3,
+  "at": "2026-10-22T21:52:53"
+ },
+ "blazehelms-mansion-feast": {
+  "cost": 0.03393775,
+  "refs": 1,
+  "at": "2026-10-22T21:52:54"
+ },
+ "back-to-training-as-normal": {
+  "cost": 0.034226,
+  "refs": 2,
+  "at": "2026-10-22T21:52:55"
+ },
+ "how-blazehelm-knows-sazed": {
+  "cost": 0.03424575,
+  "refs": 2,
+  "at": "2026-10-22T21:52:59"
+ },
+ "grimdells-and-house-thuranni": {
+  "cost": 0.03394,
+  "refs": 1,
+  "at": "2026-10-22T21:52:59"
+ },
+ "why-blazehelm-trusts-paxon": {
+  "cost": 0.0344975,
+  "refs": 3,
+  "at": "2026-10-22T21:52:59"
+ },
+ "blazehelm-and-the-sentinels-band": {
+  "cost": 0.03478825,
+  "refs": 4,
+  "at": "2026-10-22T21:52:59"
+ },
+ "prison-was-a-sentinel-trial": {
+  "cost": 0.033936,
+  "refs": 1,
+  "at": "2026-10-22T21:53:03"
+ },
+ "the-sentinels-explained": {
+  "cost": 0.0339445,
+  "refs": 1,
+  "at": "2026-10-22T21:53:03"
+ },
+ "brand-possessed": {
+  "cost": 0.034233,
+  "refs": 2,
+  "at": "2026-10-22T21:53:03"
+ },
+ "three-weeks-of-training": {
+  "cost": 0.034517,
+  "refs": 3,
+  "at": "2026-10-22T21:53:04"
+ },
+ "fireworks-speech": {
+  "cost": 0.03392825,
+  "refs": 1,
+  "at": "2026-10-22T21:53:05"
+ },
+ "blazehelms-offers": {
+  "cost": 0.034834,
+  "refs": 4,
+  "at": "2026-10-22T21:53:05"
+ },
+ "saving-elric-galen": {
+  "cost": 0.03393075,
+  "refs": 1,
+  "at": "2026-10-22T21:53:07"
+ },
+ "elric-throws-a-spoon": {
+  "cost": 0.0342175,
+  "refs": 2,
+  "at": "2026-10-22T21:53:08"
+ },
+ "elrics-supper": {
+  "cost": 0.03451,
+  "refs": 3,
+  "at": "2026-10-22T21:53:09"
+ },
+ "wild-cart-ride": {
+  "cost": 0.034213,
+  "refs": 2,
+  "at": "2026-10-22T21:53:10"
+ },
+ "talking-past-the-barricade": {
+  "cost": 0.03421525,
+  "refs": 2,
+  "at": "2026-10-22T21:53:10"
+ },
+ "eloria-and-clockwork-join-prank": {
+  "cost": 0.03448725,
+  "refs": 3,
+  "at": "2026-10-22T21:53:12"
+ },
+ "gentle-repose-form": {
+  "cost": 0.0344965,
+  "refs": 3,
+  "at": "2026-10-22T21:53:15"
+ }
+}

@@ -1,0 +1,1653 @@
+[
+ {
+  "page": "Abandoned House",
+  "setting": "ardev",
+  "sublocation": "ardev-abandoned-house",
+  "confidence": "guess",
+  "files": [
+   "abandoned-house.png"
+  ]
+ },
+ {
+  "page": "Abandoned Train Station",
+  "setting": "starilaskur",
+  "sublocation": "railway-junction-underground-station",
+  "confidence": "guess",
+  "files": [
+   "abandoned-train-station.avif"
+  ]
+ },
+ {
+  "page": "Air Field Hobbstweedle",
+  "setting": "hobbstweedle",
+  "sublocation": "hobbstweedle-airfield",
+  "confidence": "name",
+  "files": [
+   "air-field-hobbstweedle.jpg"
+  ]
+ },
+ {
+  "page": "Amphitheatre Day",
+  "setting": "hobbstweedle",
+  "sublocation": "village-square-podium",
+  "confidence": "guess",
+  "files": [
+   "amphitheatre-day.jpg",
+   "amphitheatre-day-2.jpg",
+   "amphitheatre-day-3.jpg",
+   "amphitheatre-day-4.jpg",
+   "amphitheatre-day-5.jpg"
+  ]
+ },
+ {
+  "page": "Amphitheatre Night",
+  "setting": "hobbstweedle",
+  "sublocation": "village-square-podium",
+  "confidence": "guess",
+  "files": [
+   "amphitheatre-night.jpg",
+   "amphitheatre-night-2.jpg",
+   "amphitheatre-night-3.jpg",
+   "amphitheatre-night-4.jpg",
+   "amphitheatre-night-5.jpg"
+  ]
+ },
+ {
+  "page": "Ardev",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "ardev.jpg",
+   "ardev-2.png"
+  ]
+ },
+ {
+  "page": "Ardev Attack",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "ardev-attack.png",
+   "ardev-attack-2.png"
+  ]
+ },
+ {
+  "page": "Ardev Clocktower",
+  "setting": "ardev",
+  "sublocation": "ardev-clocktower",
+  "confidence": "name",
+  "files": [
+   "ardev-clocktower.jfif"
+  ]
+ },
+ {
+  "page": "Ardev Graveyard",
+  "setting": "ardev",
+  "sublocation": "ardev-cemetery",
+  "confidence": "name",
+  "files": [
+   "ardev-graveyard.jpg"
+  ]
+ },
+ {
+  "page": "Ardev Library",
+  "setting": "ardev",
+  "sublocation": "ardev-library",
+  "confidence": "name",
+  "files": [
+   "ardev-library.png"
+  ]
+ },
+ {
+  "page": "Ardev Plaza",
+  "setting": "ardev",
+  "sublocation": "ardev-square",
+  "confidence": "guess",
+  "files": [
+   "ardev-plaza.webp",
+   "ardev-plaza-2.webp",
+   "ardev-plaza-3.png"
+  ]
+ },
+ {
+  "page": "Ardev Plaza Attack",
+  "setting": "ardev",
+  "sublocation": "ardev-square",
+  "confidence": "guess",
+  "files": [
+   "ardev-plaza-attack.webp",
+   "ardev-plaza-attack-2.webp"
+  ]
+ },
+ {
+  "page": "Ardev Police Basement",
+  "setting": "ardev",
+  "sublocation": "ardev-police-station",
+  "confidence": "name",
+  "files": [
+   "ardev-police-basement.png"
+  ]
+ },
+ {
+  "page": "Ardev Police Station",
+  "setting": "ardev",
+  "sublocation": "ardev-police-station",
+  "confidence": "name",
+  "files": [
+   "ardev-police-station.png"
+  ]
+ },
+ {
+  "page": "Ardev Police Station Attack",
+  "setting": "ardev",
+  "sublocation": "ardev-police-station",
+  "confidence": "name",
+  "files": [
+   "ardev-police-station-attack.png",
+   "ardev-police-station-attack-2.png",
+   "ardev-police-station-attack-3.png",
+   "ardev-police-station-attack-4.png",
+   "ardev-police-station-attack-5.png",
+   "ardev-police-station-attack-6.png",
+   "ardev-police-station-attack-7.png",
+   "ardev-police-station-attack-8.png",
+   "ardev-police-station-attack-9.png",
+   "ardev-police-station-attack-10.png",
+   "ardev-police-station-attack-11.png",
+   "ardev-police-station-attack-12.png",
+   "ardev-police-station-attack-13.png"
+  ]
+ },
+ {
+  "page": "Ardev Square",
+  "setting": "ardev",
+  "sublocation": "ardev-square",
+  "confidence": "name",
+  "files": [
+   "ardev-square.webp",
+   "ardev-square-2.webp"
+  ]
+ },
+ {
+  "page": "Ardev Streets Day",
+  "setting": "ardev",
+  "sublocation": "lower-ardev",
+  "confidence": "guess",
+  "files": [
+   "ardev-streets-day.webp"
+  ]
+ },
+ {
+  "page": "Ardev Streets Night",
+  "setting": "ardev",
+  "sublocation": "lower-ardev",
+  "confidence": "guess",
+  "files": [
+   "ardev-streets-night.jpg"
+  ]
+ },
+ {
+  "page": "Ardev Streets Night Attack",
+  "setting": "ardev",
+  "sublocation": "lower-ardev",
+  "confidence": "guess",
+  "files": [
+   "ardev-streets-night-attack.jpg"
+  ]
+ },
+ {
+  "page": "Astral Prison",
+  "setting": "even-hand-train",
+  "sublocation": "astral-safe-portal",
+  "confidence": "guess",
+  "files": [
+   "astral-prison.avif"
+  ]
+ },
+ {
+  "page": "Below Deck Broadaxe",
+  "setting": "broadaxe",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "below-deck-broadaxe.png"
+  ]
+ },
+ {
+  "page": "Below Deck Moonwatch",
+  "setting": "moonwatch",
+  "sublocation": "lower-deck-and-storage",
+  "confidence": "name",
+  "files": [
+   "below-deck-moonwatch.png"
+  ]
+ },
+ {
+  "page": "Big Moonwatch",
+  "setting": "moonwatch",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "big-moonwatch.jpg"
+  ]
+ },
+ {
+  "page": "Big Moonwatch Attack",
+  "setting": "moonwatch",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "big-moonwatch-attack.jpg"
+  ]
+ },
+ {
+  "page": "Black Galifar Ship",
+  "setting": "kingsblade",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "black-galifar-ship.png"
+  ]
+ },
+ {
+  "page": "Boranex Forest Night",
+  "setting": "boranex-forest",
+  "sublocation": "night-training-ground",
+  "confidence": "name",
+  "files": [
+   "boranex-forest-night.jpg",
+   "boranex-forest-night-2.png"
+  ]
+ },
+ {
+  "page": "Brew & Ale",
+  "setting": "hobbstweedle",
+  "sublocation": "brew-and-ale",
+  "confidence": "name",
+  "files": [
+   "brew-ale.webp"
+  ]
+ },
+ {
+  "page": "Brew & Ale Top Floor",
+  "setting": "hobbstweedle",
+  "sublocation": "brew-and-ale",
+  "confidence": "name",
+  "files": [
+   "brew-ale-top-floor.webp"
+  ]
+ },
+ {
+  "page": "Broken Portal",
+  "setting": "demon-village",
+  "sublocation": "broken-circle",
+  "confidence": "guess",
+  "files": [
+   "broken-portal.jpg"
+  ]
+ },
+ {
+  "page": "Cannith Basement Recording",
+  "setting": "ardev",
+  "sublocation": "ardev-cannith-forge",
+  "confidence": "name",
+  "files": [
+   "cannith-basement-recording.webp"
+  ]
+ },
+ {
+  "page": "Cannith Forge Ardev",
+  "setting": "ardev",
+  "sublocation": "ardev-cannith-forge",
+  "confidence": "name",
+  "files": [
+   "cannith-forge-ardev.png",
+   "cannith-forge-ardev-2.webp"
+  ]
+ },
+ {
+  "page": "Cannith Forge Ardev Attack",
+  "setting": "ardev",
+  "sublocation": "ardev-cannith-forge",
+  "confidence": "name",
+  "files": [
+   "cannith-forge-ardev-attack.png",
+   "cannith-forge-ardev-attack-2.webp"
+  ]
+ },
+ {
+  "page": "Cannith Top Floor",
+  "setting": "ardev",
+  "sublocation": "ardev-cannith-forge",
+  "confidence": "name",
+  "files": [
+   "cannith-top-floor.webp"
+  ]
+ },
+ {
+  "page": "Castle Dungeon",
+  "setting": "ardev",
+  "sublocation": "ardev-castle",
+  "confidence": "guess",
+  "files": [
+   "castle-dungeon.jpg"
+  ]
+ },
+ {
+  "page": "Castle Top Floor",
+  "setting": "ardev",
+  "sublocation": "ardev-castle",
+  "confidence": "guess",
+  "files": [
+   "castle-top-floor.jpg"
+  ]
+ },
+ {
+  "page": "Church Basement",
+  "setting": "ardev",
+  "sublocation": "silver-flame-church",
+  "confidence": "guess",
+  "files": [
+   "church-basement.jpg"
+  ]
+ },
+ {
+  "page": "Church of Onatar",
+  "setting": "starilaskur",
+  "sublocation": "starilaskur-broadhelm-forge",
+  "confidence": "guess",
+  "files": [
+   "church-of-onatar.jpg",
+   "church-of-onatar-2.jpg"
+  ]
+ },
+ {
+  "page": "Clockworks Shop",
+  "setting": "hobbstweedle",
+  "sublocation": "clockworks-shop",
+  "confidence": "name",
+  "files": [
+   "clockworks-shop.webp"
+  ]
+ },
+ {
+  "page": "Collapsed Mine",
+  "setting": "marabor",
+  "sublocation": "mine-cart-ride",
+  "confidence": "guess",
+  "files": [
+   "collapsed-mine.webp"
+  ]
+ },
+ {
+  "page": "Crashed Moonwatch",
+  "setting": "moonwatch",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "crashed-moonwatch.webp"
+  ]
+ },
+ {
+  "page": "Crime Scene House",
+  "setting": "wroat",
+  "sublocation": "murphys-house",
+  "confidence": "guess",
+  "files": [
+   "crime-scene-house.jpg"
+  ]
+ },
+ {
+  "page": "Daily Grind",
+  "setting": "wroat",
+  "sublocation": "daily-grind-and-bridge",
+  "confidence": "name",
+  "files": [
+   "daily-grind.jpg"
+  ]
+ },
+ {
+  "page": "Dead Woods",
+  "setting": "darkwood-prison",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "dead-woods.jpg"
+  ]
+ },
+ {
+  "page": "Demon Village",
+  "setting": "demon-village",
+  "sublocation": "quasit-village",
+  "confidence": "name",
+  "files": [
+   "demon-village.png"
+  ]
+ },
+ {
+  "page": "Dogfight",
+  "setting": "skies-over-breland",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "dogfight.jpeg"
+  ]
+ },
+ {
+  "page": "Dream Office",
+  "setting": "dreamweaver-dream",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "dream-office.jpg"
+  ]
+ },
+ {
+  "page": "Dream Prison",
+  "setting": "dreamweaver-dream",
+  "sublocation": "dream-prison",
+  "confidence": "name",
+  "files": [
+   "dream-prison.jpg"
+  ]
+ },
+ {
+  "page": "Dream Training",
+  "setting": "dreamweaver-dream",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "dream-training.jpg"
+  ]
+ },
+ {
+  "page": "Dreamweaver Eye",
+  "setting": "dreamweaver-dream",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "dreamweaver-eye.jpg"
+  ]
+ },
+ {
+  "page": "EPTK Holding Cells",
+  "setting": "starilaskur",
+  "sublocation": "eptf-headquarters",
+  "confidence": "guess",
+  "files": [
+   "eptk-holding-cells.jpg"
+  ]
+ },
+ {
+  "page": "Eloria and Eleanors House",
+  "setting": "hobbstweedle",
+  "sublocation": "elorias-house",
+  "confidence": "name",
+  "files": [
+   "eloria-and-eleanors-house.jpg"
+  ]
+ },
+ {
+  "page": "Emberfall Secret Meeting",
+  "setting": "hearthsfire",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "emberfall-secret-meeting.jpg"
+  ]
+ },
+ {
+  "page": "Empyrean Dropship",
+  "setting": "empyrean",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "empyrean-dropship.jpg"
+  ]
+ },
+ {
+  "page": "Empyrean Lower Deck",
+  "setting": "empyrean",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "empyrean-lower-deck.webp"
+  ]
+ },
+ {
+  "page": "Empyrean Main Deck",
+  "setting": "empyrean",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "empyrean-main-deck.webp"
+  ]
+ },
+ {
+  "page": "Empyrean Tender Attack",
+  "setting": "empyrean",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "empyrean-tender-attack.jpg"
+  ]
+ },
+ {
+  "page": "Empyrean Top Deck",
+  "setting": "empyrean",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "empyrean-top-deck.jpg",
+   "empyrean-top-deck-2.png",
+   "empyrean-top-deck-3.png"
+  ]
+ },
+ {
+  "page": "Exploding House",
+  "setting": "wroat",
+  "sublocation": "gauss-hogs-house",
+  "confidence": "guess",
+  "files": [
+   "exploding-house.jpg"
+  ]
+ },
+ {
+  "page": "Fairgrounds",
+  "setting": "ardev",
+  "sublocation": "ardev-fair-grounds",
+  "confidence": "name",
+  "files": [
+   "fairgrounds.jpg"
+  ]
+ },
+ {
+  "page": "Farks Bargain Whores",
+  "setting": "ardev",
+  "sublocation": "farks-bargain-whores",
+  "confidence": "name",
+  "files": [
+   "farks-bargain-whores.jpg"
+  ]
+ },
+ {
+  "page": "Flowers Basement",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "flowers-basement.jpg"
+  ]
+ },
+ {
+  "page": "Flowers House",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "flowers-house.jpg"
+  ]
+ },
+ {
+  "page": "Flowers Top Floor",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "flowers-top-floor.jpg"
+  ]
+ },
+ {
+  "page": "Free Basement 1",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "free-basement-1.jpg"
+  ]
+ },
+ {
+  "page": "Free House",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "free-house.jpg"
+  ]
+ },
+ {
+  "page": "Gelf, Elric & Screechs House",
+  "setting": "hobbstweedle",
+  "sublocation": "gelf-elric-screech-house",
+  "confidence": "name",
+  "files": [
+   "gelf-elric-screechs-house.jpg",
+   "gelf-elric-screechs-house-2.jpg",
+   "gelf-elric-screechs-house-3.webp",
+   "gelf-elric-screechs-house-4.jpg"
+  ]
+ },
+ {
+  "page": "Gold Galifar Ship",
+  "setting": "kingsblade",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "gold-galifar-ship.png"
+  ]
+ },
+ {
+  "page": "Gorgis Basement",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "gorgis-basement.jpg"
+  ]
+ },
+ {
+  "page": "Gorgis House",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "gorgis-house.jpg"
+  ]
+ },
+ {
+  "page": "Grimley Basement",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "grimley-basement.webp"
+  ]
+ },
+ {
+  "page": "Grimley House",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "grimley-house.webp"
+  ]
+ },
+ {
+  "page": "Hearthsfire",
+  "setting": "hearthsfire",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "hearthsfire.jpg"
+  ]
+ },
+ {
+  "page": "Hearthsfire Forest",
+  "setting": "bears-wood",
+  "sublocation": "hearthsfire-illusion",
+  "confidence": "guess",
+  "files": [
+   "hearthsfire-forest.jpg"
+  ]
+ },
+ {
+  "page": "Hobbstweedle Cemetery",
+  "setting": "hobbstweedle",
+  "sublocation": "hobbstweedle-cemetery",
+  "confidence": "name",
+  "files": [
+   "hobbstweedle-cemetery.webp"
+  ]
+ },
+ {
+  "page": "Hobbstweedle Jail",
+  "setting": "hobbstweedle",
+  "sublocation": "hobbstweedle-jail",
+  "confidence": "name",
+  "files": [
+   "hobbstweedle-jail.jpg"
+  ]
+ },
+ {
+  "page": "Hobbstweedle Library",
+  "setting": "hobbstweedle",
+  "sublocation": "hobbstweedle-library",
+  "confidence": "name",
+  "files": [
+   "hobbstweedle-library.jpg"
+  ]
+ },
+ {
+  "page": "Hobbstweedle Village",
+  "setting": "hobbstweedle",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "hobbstweedle-village.jpg"
+  ]
+ },
+ {
+  "page": "Home Base",
+  "setting": "party-house",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "home-base.jpg",
+   "home-base-2.png"
+  ]
+ },
+ {
+  "page": "Imp Shack",
+  "setting": "demon-village",
+  "sublocation": "old-imps-hut",
+  "confidence": "guess",
+  "files": [
+   "imp-shack.jpg"
+  ]
+ },
+ {
+  "page": "Inside  Lightning Rail 3",
+  "setting": "even-hand-train",
+  "sublocation": "train-car-interior",
+  "confidence": "name",
+  "files": [
+   "inside-lightning-rail-3.jpg",
+   "inside-lightning-rail-3-2.png",
+   "inside-lightning-rail-3-3.png",
+   "inside-lightning-rail-3-4.png",
+   "inside-lightning-rail-3-5.png",
+   "inside-lightning-rail-3-6.png",
+   "inside-lightning-rail-3-7.png",
+   "inside-lightning-rail-3-8.png",
+   "inside-lightning-rail-3-9.png",
+   "inside-lightning-rail-3-10.png"
+  ]
+ },
+ {
+  "page": "Inside Lightning Rail 1",
+  "setting": "even-hand-train",
+  "sublocation": "train-car-interior",
+  "confidence": "name",
+  "files": [
+   "inside-lightning-rail-1.jpg",
+   "inside-lightning-rail-1-2.png",
+   "inside-lightning-rail-1-3.png",
+   "inside-lightning-rail-1-4.png",
+   "inside-lightning-rail-1-5.png",
+   "inside-lightning-rail-1-6.png",
+   "inside-lightning-rail-1-7.png",
+   "inside-lightning-rail-1-8.png",
+   "inside-lightning-rail-1-9.png"
+  ]
+ },
+ {
+  "page": "Inside Lightning Rail 2",
+  "setting": "even-hand-train",
+  "sublocation": "train-car-interior",
+  "confidence": "name",
+  "files": [
+   "inside-lightning-rail-2.jpg",
+   "inside-lightning-rail-2-2.png",
+   "inside-lightning-rail-2-3.png",
+   "inside-lightning-rail-2-4.png",
+   "inside-lightning-rail-2-5.png",
+   "inside-lightning-rail-2-6.png",
+   "inside-lightning-rail-2-7.png"
+  ]
+ },
+ {
+  "page": "Inside Lightning Rail 4",
+  "setting": "even-hand-train",
+  "sublocation": "train-car-interior",
+  "confidence": "name",
+  "files": [
+   "inside-lightning-rail-4.jpg",
+   "inside-lightning-rail-4-2.png",
+   "inside-lightning-rail-4-3.png",
+   "inside-lightning-rail-4-4.png",
+   "inside-lightning-rail-4-5.png",
+   "inside-lightning-rail-4-6.png",
+   "inside-lightning-rail-4-7.png",
+   "inside-lightning-rail-4-8.png",
+   "inside-lightning-rail-4-9.png"
+  ]
+ },
+ {
+  "page": "Inside Turtle Lightning Rail 4",
+  "setting": "even-hand-train",
+  "sublocation": "train-car-interior",
+  "confidence": "guess",
+  "files": [
+   "inside-turtle-lightning-rail-4.avif",
+   "inside-turtle-lightning-rail-4-2.png",
+   "inside-turtle-lightning-rail-4-3.png",
+   "inside-turtle-lightning-rail-4-4.png",
+   "inside-turtle-lightning-rail-4-5.png",
+   "inside-turtle-lightning-rail-4-6.png"
+  ]
+ },
+ {
+  "page": "Kel Basement",
+  "setting": "ardev",
+  "sublocation": "kel-house",
+  "confidence": "name",
+  "files": [
+   "kel-basement.jpg"
+  ]
+ },
+ {
+  "page": "Kel House",
+  "setting": "ardev",
+  "sublocation": "kel-house",
+  "confidence": "name",
+  "files": [
+   "kel-house.jpg"
+  ]
+ },
+ {
+  "page": "Kel Upstairs",
+  "setting": "ardev",
+  "sublocation": "kel-house",
+  "confidence": "name",
+  "files": [
+   "kel-upstairs.jpg"
+  ]
+ },
+ {
+  "page": "Kel Upstairs 2",
+  "setting": "ardev",
+  "sublocation": "kel-house",
+  "confidence": "name",
+  "files": [
+   "kel-upstairs-2.jpg"
+  ]
+ },
+ {
+  "page": "Kingsblade Bridge",
+  "setting": "kingsblade",
+  "sublocation": "bridge",
+  "confidence": "name",
+  "files": [
+   "kingsblade-bridge.webp"
+  ]
+ },
+ {
+  "page": "Kingsblade Crew Quarters",
+  "setting": "kingsblade",
+  "sublocation": "crew-quarters-and-mess",
+  "confidence": "name",
+  "files": [
+   "kingsblade-crew-quarters.webp"
+  ]
+ },
+ {
+  "page": "Kingsblade Hull",
+  "setting": "kingsblade",
+  "sublocation": "engine-hull",
+  "confidence": "name",
+  "files": [
+   "kingsblade-hull.webp"
+  ]
+ },
+ {
+  "page": "Kingsblade Lower Deck",
+  "setting": "kingsblade",
+  "sublocation": "lower-deck-hangar-and-armory",
+  "confidence": "name",
+  "files": [
+   "kingsblade-lower-deck.webp"
+  ]
+ },
+ {
+  "page": "Kingsblade Main Deck",
+  "setting": "kingsblade",
+  "sublocation": "main-deck",
+  "confidence": "name",
+  "files": [
+   "kingsblade-main-deck.webp"
+  ]
+ },
+ {
+  "page": "Kingsblade Overview",
+  "setting": "kingsblade",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "kingsblade-overview.webp"
+  ]
+ },
+ {
+  "page": "Kingsblade War Room",
+  "setting": "kingsblade",
+  "sublocation": "war-room",
+  "confidence": "name",
+  "files": [
+   "kingsblade-war-room.webp"
+  ]
+ },
+ {
+  "page": "Library",
+  "setting": "narrator-library",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "library.jpg"
+  ]
+ },
+ {
+  "page": "Lightning Rail 1",
+  "setting": "even-hand-train",
+  "sublocation": "train-roof-and-underside",
+  "confidence": "name",
+  "files": [
+   "lightning-rail-1.jpg",
+   "lightning-rail-1-2.png",
+   "lightning-rail-1-3.png",
+   "lightning-rail-1-4.png",
+   "lightning-rail-1-5.png",
+   "lightning-rail-1-6.png",
+   "lightning-rail-1-7.png",
+   "lightning-rail-1-8.png",
+   "lightning-rail-1-9.png",
+   "lightning-rail-1-10.png",
+   "lightning-rail-1-11.png",
+   "lightning-rail-1-12.png"
+  ]
+ },
+ {
+  "page": "Lightning Rail 2",
+  "setting": "even-hand-train",
+  "sublocation": "train-roof-and-underside",
+  "confidence": "name",
+  "files": [
+   "lightning-rail-2.jpg",
+   "lightning-rail-2-2.png",
+   "lightning-rail-2-3.png",
+   "lightning-rail-2-4.png",
+   "lightning-rail-2-5.png",
+   "lightning-rail-2-6.png",
+   "lightning-rail-2-7.png",
+   "lightning-rail-2-8.png"
+  ]
+ },
+ {
+  "page": "Lightning Rail 3",
+  "setting": "even-hand-train",
+  "sublocation": "train-roof-and-underside",
+  "confidence": "name",
+  "files": [
+   "lightning-rail-3.jpg",
+   "lightning-rail-3-2.png",
+   "lightning-rail-3-3.png",
+   "lightning-rail-3-4.png",
+   "lightning-rail-3-5.png",
+   "lightning-rail-3-6.png",
+   "lightning-rail-3-7.png",
+   "lightning-rail-3-8.png",
+   "lightning-rail-3-9.png",
+   "lightning-rail-3-10.png",
+   "lightning-rail-3-11.png",
+   "lightning-rail-3-12.png",
+   "lightning-rail-3-13.png",
+   "lightning-rail-3-14.png"
+  ]
+ },
+ {
+  "page": "Lightning Rail 4",
+  "setting": "even-hand-train",
+  "sublocation": "train-roof-and-underside",
+  "confidence": "name",
+  "files": [
+   "lightning-rail-4.jpg",
+   "lightning-rail-4-2.png",
+   "lightning-rail-4-3.png",
+   "lightning-rail-4-4.png",
+   "lightning-rail-4-5.png",
+   "lightning-rail-4-6.png",
+   "lightning-rail-4-7.png",
+   "lightning-rail-4-8.png",
+   "lightning-rail-4-9.png",
+   "lightning-rail-4-10.png",
+   "lightning-rail-4-11.png",
+   "lightning-rail-4-12.png"
+  ]
+ },
+ {
+  "page": "Lireal Sr Den/Basement",
+  "setting": "ardev",
+  "sublocation": "lirael-srs-den",
+  "confidence": "name",
+  "files": [
+   "lireal-sr-den-basement.jpg",
+   "lireal-sr-den-basement-2.jpg"
+  ]
+ },
+ {
+  "page": "Lireal Sr Secret Office",
+  "setting": "ardev",
+  "sublocation": "lirael-srs-den",
+  "confidence": "name",
+  "files": [
+   "lireal-sr-secret-office.webp",
+   "lireal-sr-secret-office-2.jpg"
+  ]
+ },
+ {
+  "page": "Lower Ardev",
+  "setting": "ardev",
+  "sublocation": "lower-ardev",
+  "confidence": "name",
+  "files": [
+   "lower-ardev.jpg"
+  ]
+ },
+ {
+  "page": "Lower Ardev Shifted",
+  "setting": "ardev",
+  "sublocation": "lower-ardev",
+  "confidence": "name",
+  "files": [
+   "lower-ardev-shifted.jpg"
+  ]
+ },
+ {
+  "page": "Main Deck Broadaxe",
+  "setting": "broadaxe",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "main-deck-broadaxe.png"
+  ]
+ },
+ {
+  "page": "Main Deck Moonwatch",
+  "setting": "moonwatch",
+  "sublocation": "flight-deck",
+  "confidence": "name",
+  "files": [
+   "main-deck-moonwatch.png"
+  ]
+ },
+ {
+  "page": "Mansion Main Floor",
+  "setting": "blazehelms-mansion",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "mansion-main-floor.jpg"
+  ]
+ },
+ {
+  "page": "Mansion Top Floor",
+  "setting": "blazehelms-mansion",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "mansion-top-floor.jpg"
+  ]
+ },
+ {
+  "page": "Mara'bor Inside",
+  "setting": "marabor",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "mara-bor-inside-2.webp"
+  ]
+ },
+ {
+  "page": "Mara'bor Outside",
+  "setting": "marabor",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "mara-bor-outside-2.webp"
+  ]
+ },
+ {
+  "page": "Mausoleum of Ardev",
+  "setting": "mausoleum-of-alton-ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "mausoleum-of-ardev.jpg",
+   "mausoleum-of-ardev-2.png"
+  ]
+ },
+ {
+  "page": "Mercenary Castle",
+  "setting": "ardev",
+  "sublocation": "ardev-castle",
+  "confidence": "guess",
+  "files": [
+   "mercenary-castle.jpg"
+  ]
+ },
+ {
+  "page": "Military Library",
+  "setting": "wroat",
+  "sublocation": "wroat-military-library",
+  "confidence": "guess",
+  "files": [
+   "military-library.jpg"
+  ]
+ },
+ {
+  "page": "Military Outpost",
+  "setting": "yedani-mountains",
+  "sublocation": "aundairian-valley-base",
+  "confidence": "guess",
+  "files": [
+   "military-outpost.png",
+   "military-outpost-2.png"
+  ]
+ },
+ {
+  "page": "Military Police Jail",
+  "setting": "starilaskur",
+  "sublocation": "starilaskur-police-station",
+  "confidence": "guess",
+  "files": [
+   "military-police-jail.jpg",
+   "military-police-jail-2.png",
+   "military-police-jail-3.png",
+   "military-police-jail-4.png",
+   "military-police-jail-5.png",
+   "military-police-jail-6.png"
+  ]
+ },
+ {
+  "page": "Military Railway Junction",
+  "setting": "starilaskur",
+  "sublocation": "railway-junction-underground-station",
+  "confidence": "name",
+  "files": [
+   "military-railway-junction.jpg",
+   "military-railway-junction-2.png",
+   "military-railway-junction-3.png",
+   "military-railway-junction-4.png",
+   "military-railway-junction-5.png",
+   "military-railway-junction-6.png",
+   "military-railway-junction-7.png",
+   "military-railway-junction-8.png",
+   "military-railway-junction-9.png",
+   "military-railway-junction-10.png"
+  ]
+ },
+ {
+  "page": "Mine Entrance to Mara'bor",
+  "setting": "marabor",
+  "sublocation": "mine-entrance",
+  "confidence": "name",
+  "files": [
+   "mine-entrance-to-mara-bor-2.png"
+  ]
+ },
+ {
+  "page": "Mobile Fortress",
+  "setting": "even-hand-train",
+  "sublocation": "turtle-fortress",
+  "confidence": "name",
+  "files": [
+   "mobile-fortress.jpg"
+  ]
+ },
+ {
+  "page": "Morkoth Lair",
+  "setting": "bag-of-devouring",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "morkoth-lair.jpg"
+  ]
+ },
+ {
+  "page": "Necromancy Mine",
+  "setting": "marabor",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "necromancy-mine.webp"
+  ]
+ },
+ {
+  "page": "Obstacle Course ",
+  "setting": "hobbstweedle",
+  "sublocation": "obstacle-course",
+  "confidence": "name",
+  "files": [
+   "obstacle-course.jpg"
+  ]
+ },
+ {
+  "page": "Owlbear Cave",
+  "setting": "yedani-mountains",
+  "sublocation": "owlbear-cave",
+  "confidence": "name",
+  "files": [
+   "owlbear-cave.jpg"
+  ]
+ },
+ {
+  "page": "Prison Basement",
+  "setting": "darkwood-prison",
+  "sublocation": "secret-inventory-room",
+  "confidence": "guess",
+  "files": [
+   "prison-basement.webp"
+  ]
+ },
+ {
+  "page": "Prison Exterior 10ft squares",
+  "setting": "darkwood-prison",
+  "sublocation": "prison-yard",
+  "confidence": "name",
+  "files": [
+   "prison-exterior-10ft-squares-2.webp"
+  ]
+ },
+ {
+  "page": "Prison Gate",
+  "setting": "darkwood-prison",
+  "sublocation": "gate-and-walls",
+  "confidence": "name",
+  "files": [
+   "prison-gate.webp"
+  ]
+ },
+ {
+  "page": "Prison Level 1",
+  "setting": "darkwood-prison",
+  "sublocation": "cells-and-bunks",
+  "confidence": "name",
+  "files": [
+   "prison-level-1.webp"
+  ]
+ },
+ {
+  "page": "Prison Level 2",
+  "setting": "darkwood-prison",
+  "sublocation": "cells-and-bunks",
+  "confidence": "name",
+  "files": [
+   "prison-level-2.webp"
+  ]
+ },
+ {
+  "page": "Prison Level 3",
+  "setting": "darkwood-prison",
+  "sublocation": "cells-and-bunks",
+  "confidence": "name",
+  "files": [
+   "prison-level-3.webp"
+  ]
+ },
+ {
+  "page": "Road Chase",
+  "setting": "even-hand-train",
+  "sublocation": "armored-carriage",
+  "confidence": "guess",
+  "files": [
+   "road-chase.jpg"
+  ]
+ },
+ {
+  "page": "Sayzia\u2019s Elixir Emporium",
+  "setting": "starilaskur",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "sayzia-s-elixir-emporium.jpg"
+  ]
+ },
+ {
+  "page": "Secret Well",
+  "setting": "stones-throw",
+  "sublocation": "stones-throw-well",
+  "confidence": "guess",
+  "files": [
+   "secret-well.jpg"
+  ]
+ },
+ {
+  "page": "Shadowmirror Cell ",
+  "setting": "mirror-nightmares",
+  "sublocation": null,
+  "confidence": "guess",
+  "files": [
+   "shadowmirror-cell.avif"
+  ]
+ },
+ {
+  "page": "Silver Flame Church",
+  "setting": "ardev",
+  "sublocation": "silver-flame-church",
+  "confidence": "name",
+  "files": [
+   "silver-flame-church.png"
+  ]
+ },
+ {
+  "page": "Silver Flame Church Attack",
+  "setting": "ardev",
+  "sublocation": "silver-flame-church",
+  "confidence": "name",
+  "files": [
+   "silver-flame-church-attack.png",
+   "silver-flame-church-attack-2.png"
+  ]
+ },
+ {
+  "page": "Small Below Deck Moonwatch",
+  "setting": "moonwatch",
+  "sublocation": "lower-deck-and-storage",
+  "confidence": "name",
+  "files": [
+   "small-below-deck-moonwatch.png"
+  ]
+ },
+ {
+  "page": "Small Brelish Ship",
+  "setting": "skies-over-breland",
+  "sublocation": "dagger-river-ambush",
+  "confidence": "guess",
+  "files": [
+   "small-brelish-ship.webp"
+  ]
+ },
+ {
+  "page": "Small Main Deck Moonwatch",
+  "setting": "moonwatch",
+  "sublocation": "flight-deck",
+  "confidence": "name",
+  "files": [
+   "small-main-deck-moonwatch.png"
+  ]
+ },
+ {
+  "page": "Starilaskur",
+  "setting": "starilaskur",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "starilaskur.jpg",
+   "starilaskur-2.png"
+  ]
+ },
+ {
+  "page": "Starilaskur Attack",
+  "setting": "starilaskur",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "starilaskur-attack.jpg",
+   "starilaskur-attack-2.png",
+   "starilaskur-attack-3.png"
+  ]
+ },
+ {
+  "page": "Stones Throw",
+  "setting": "stones-throw",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "stones-throw.jpg"
+  ]
+ },
+ {
+  "page": "The Ardev Watch",
+  "setting": "ardev",
+  "sublocation": "ardev-watch-office",
+  "confidence": "name",
+  "files": [
+   "the-ardev-watch.png"
+  ]
+ },
+ {
+  "page": "The Broadaxe",
+  "setting": "broadaxe",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "the-broadaxe-2.jpg"
+  ]
+ },
+ {
+  "page": "The Moonwatch",
+  "setting": "moonwatch",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "the-moonwatch.jpg"
+  ]
+ },
+ {
+  "page": "The Moonwatch Attack",
+  "setting": "moonwatch",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "the-moonwatch-attack.jpg"
+  ]
+ },
+ {
+  "page": "The Turckle and Churckle",
+  "setting": "ardev",
+  "sublocation": "turckle-and-churckle",
+  "confidence": "name",
+  "files": [
+   "the-turckle-and-churckle.jpg"
+  ]
+ },
+ {
+  "page": "The Witchs Waltz",
+  "setting": "starilaskur",
+  "sublocation": "witches-waltz",
+  "confidence": "name",
+  "files": [
+   "the-witchs-waltz.jpg"
+  ]
+ },
+ {
+  "page": "Threadwood Basement",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "threadwood-basement.png"
+  ]
+ },
+ {
+  "page": "Threadwood House",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "threadwood-house.webp"
+  ]
+ },
+ {
+  "page": "Tomb of Centarrel 1",
+  "setting": "tomb-of-centarrel",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "tomb-of-centarrel-1.webp"
+  ]
+ },
+ {
+  "page": "Tomb of Centarrel 2",
+  "setting": "tomb-of-centarrel",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "tomb-of-centarrel-2.jpg"
+  ]
+ },
+ {
+  "page": "Tomb of Centarrel 3",
+  "setting": "tomb-of-centarrel",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "tomb-of-centarrel-3.jpg"
+  ]
+ },
+ {
+  "page": "Tunnel Lightning Rail 1",
+  "setting": "starilaskur",
+  "sublocation": "railway-junction-underground-station",
+  "confidence": "guess",
+  "files": [
+   "tunnel-lightning-rail-1.png",
+   "tunnel-lightning-rail-1-2.png",
+   "tunnel-lightning-rail-1-3.png",
+   "tunnel-lightning-rail-1-4.png",
+   "tunnel-lightning-rail-1-5.png",
+   "tunnel-lightning-rail-1-6.png",
+   "tunnel-lightning-rail-1-7.png",
+   "tunnel-lightning-rail-1-8.png"
+  ]
+ },
+ {
+  "page": "Tunnel Lightning Rail 2",
+  "setting": "starilaskur",
+  "sublocation": "railway-junction-underground-station",
+  "confidence": "guess",
+  "files": [
+   "tunnel-lightning-rail-2.png",
+   "tunnel-lightning-rail-2-2.png",
+   "tunnel-lightning-rail-2-3.png",
+   "tunnel-lightning-rail-2-4.png",
+   "tunnel-lightning-rail-2-5.png",
+   "tunnel-lightning-rail-2-6.png",
+   "tunnel-lightning-rail-2-7.png",
+   "tunnel-lightning-rail-2-8.png",
+   "tunnel-lightning-rail-2-9.png"
+  ]
+ },
+ {
+  "page": "Tunnel Lightning Rail 3",
+  "setting": "starilaskur",
+  "sublocation": "railway-junction-underground-station",
+  "confidence": "guess",
+  "files": [
+   "tunnel-lightning-rail-3.png",
+   "tunnel-lightning-rail-3-2.png",
+   "tunnel-lightning-rail-3-3.png",
+   "tunnel-lightning-rail-3-4.png",
+   "tunnel-lightning-rail-3-5.png",
+   "tunnel-lightning-rail-3-6.png",
+   "tunnel-lightning-rail-3-7.png",
+   "tunnel-lightning-rail-3-8.png",
+   "tunnel-lightning-rail-3-9.png"
+  ]
+ },
+ {
+  "page": "Turckle Basement",
+  "setting": "ardev",
+  "sublocation": "turckle-and-churckle",
+  "confidence": "name",
+  "files": [
+   "turckle-basement.jpg"
+  ]
+ },
+ {
+  "page": "Turtle Lightning Rail 4",
+  "setting": "even-hand-train",
+  "sublocation": "train-head-elemental-ring",
+  "confidence": "guess",
+  "files": [
+   "turtle-lightning-rail-4.avif",
+   "turtle-lightning-rail-4-2.png",
+   "turtle-lightning-rail-4-3.png",
+   "turtle-lightning-rail-4-4.png",
+   "turtle-lightning-rail-4-5.png",
+   "turtle-lightning-rail-4-6.png",
+   "turtle-lightning-rail-4-7.png",
+   "turtle-lightning-rail-4-8.png"
+  ]
+ },
+ {
+  "page": "Unused Gorgis Basement",
+  "setting": "ardev",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "unused-gorgis-basement.png"
+  ]
+ },
+ {
+  "page": "Valvier Basement",
+  "setting": "ardev",
+  "sublocation": "valvier-house",
+  "confidence": "name",
+  "files": [
+   "valvier-basement.png"
+  ]
+ },
+ {
+  "page": "Valvier House",
+  "setting": "ardev",
+  "sublocation": "valvier-house",
+  "confidence": "name",
+  "files": [
+   "valvier-house.png"
+  ]
+ },
+ {
+  "page": "Wroat From The Air",
+  "setting": "wroat",
+  "sublocation": null,
+  "confidence": "name",
+  "files": [
+   "wroat-from-the-air.webp"
+  ]
+ },
+ {
+  "page": "Wroat Military Police Station",
+  "setting": "wroat",
+  "sublocation": "military-police-station",
+  "confidence": "name",
+  "files": [
+   "wroat-military-police-station.jpg"
+  ]
+ },
+ {
+  "page": "Wroat Street",
+  "setting": "wroat",
+  "sublocation": "wroat-streets",
+  "confidence": "name",
+  "files": [
+   "wroat-street.jpg"
+  ]
+ },
+ {
+  "page": "Xal'ri House",
+  "setting": "ardev",
+  "sublocation": "xalri-house",
+  "confidence": "name",
+  "files": [
+   "xal-ri-house.jfif"
+  ]
+ },
+ {
+  "page": "Xal'ri Upstairs",
+  "setting": "ardev",
+  "sublocation": "xalri-house",
+  "confidence": "name",
+  "files": [
+   "xal-ri-upstairs.jpg"
+  ]
+ },
+ {
+  "page": "Yedani Valley Airship Sabotage",
+  "setting": "yedani-mountains",
+  "sublocation": "aundairian-valley-base",
+  "confidence": "name",
+  "files": [
+   "yedani-valley-airship-sabotage.jpg"
+  ]
+ }
+]

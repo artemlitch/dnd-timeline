@@ -3,7 +3,10 @@ gen/key.txt
 .wrangler/
 .DS_Store
 gen/split/
-gen/test/
+gen/test/*
+!gen/test/*.prompt.txt
 gen/regen/refcache/
 gen/world/campaign.txt
 gen/world/recap_quotes.json
+gen/refs/roll20/maps/*
+!gen/refs/roll20/maps/index.json

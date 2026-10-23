@@ -1,0 +1,4188 @@
+[
+ {
+  "page": " Rail Line 053A",
+  "id": "-OPOAb5Vkzh0Z0zrsD8M",
+  "archived": false,
+  "maps": [
+   {
+    "file": "rail-line-053a.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 2800
+   },
+   {
+    "file": "rail-line-053a-2.png",
+    "layer": "map",
+    "w": 1037,
+    "h": 222
+   },
+   {
+    "file": "rail-line-053a-3.png",
+    "layer": "map",
+    "w": 1037,
+    "h": 222
+   },
+   {
+    "file": "rail-line-053a-4.png",
+    "layer": "map",
+    "w": 517,
+    "h": 221
+   }
+  ]
+ },
+ {
+  "page": "Abandoned House",
+  "id": "-O5fjLI1EDTXusOOWEbc",
+  "archived": false,
+  "maps": [
+   {
+    "file": "abandoned-house.png",
+    "layer": "map",
+    "w": 1750,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Abandoned Shack",
+  "id": "-NvoRfjafNWUY6HwtGRU",
+  "archived": false,
+  "maps": [
+   {
+    "file": "abandoned-shack.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Abandoned Train Station",
+  "id": "-OBO9R8LXMtrE5RgbCHN",
+  "archived": false,
+  "maps": [
+   {
+    "file": "abandoned-train-station.avif",
+    "layer": "map",
+    "w": 1820,
+    "h": 2520
+   }
+  ]
+ },
+ {
+  "page": "Abandoned town",
+  "id": "-Nk3jKFvRDzuKMp3GseH",
+  "archived": false,
+  "maps": [
+   {
+    "file": "abandoned-town.jpg",
+    "layer": "map",
+    "w": 2170,
+    "h": 2450
+   }
+  ]
+ },
+ {
+  "page": "Air Field Hobbstweedle",
+  "id": "-NsXbW5BEteq7OtekjWh",
+  "archived": false,
+  "maps": [
+   {
+    "file": "air-field-hobbstweedle.jpg",
+    "layer": "map",
+    "w": 4690,
+    "h": 3500
+   }
+  ]
+ },
+ {
+  "page": "Amphitheatre Day",
+  "id": "-P2LQhqUscU9trbC8Dmp",
+  "archived": false,
+  "maps": [
+   {
+    "file": "amphitheatre-day.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   },
+   {
+    "file": "amphitheatre-day-2.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   },
+   {
+    "file": "amphitheatre-day-3.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   },
+   {
+    "file": "amphitheatre-day-4.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   },
+   {
+    "file": "amphitheatre-day-5.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   }
+  ]
+ },
+ {
+  "page": "Amphitheatre Night",
+  "id": "-P2LQjRNEAZu8e8LQOtS",
+  "archived": false,
+  "maps": [
+   {
+    "file": "amphitheatre-night.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   },
+   {
+    "file": "amphitheatre-night-2.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   },
+   {
+    "file": "amphitheatre-night-3.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   },
+   {
+    "file": "amphitheatre-night-4.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   },
+   {
+    "file": "amphitheatre-night-5.jpg",
+    "layer": "map",
+    "w": 3780,
+    "h": 2940
+   }
+  ]
+ },
+ {
+  "page": "Arcane AA Gun",
+  "id": "-NurOjB_X0GhgV7mI868",
+  "archived": false,
+  "maps": [
+   {
+    "file": "arcane-aa-gun.jpg",
+    "layer": "map",
+    "w": 2660,
+    "h": 4200
+   }
+  ]
+ },
+ {
+  "page": "Arcane Gun Control Room",
+  "id": "-NurQVmw8Em-ycPQTdX2",
+  "archived": false,
+  "maps": [
+   {
+    "file": "arcane-gun-control-room.jpg",
+    "layer": "map",
+    "w": 2170,
+    "h": 2170
+   }
+  ]
+ },
+ {
+  "page": "Ardev",
+  "id": "-O398yPwvSTQjQTRT9oF",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev.jpg",
+    "layer": "map",
+    "w": 4410,
+    "h": 3430
+   },
+   {
+    "file": "ardev-2.png",
+    "layer": "map",
+    "w": 534,
+    "h": 1245
+   }
+  ]
+ },
+ {
+  "page": "Ardev Attack",
+  "id": "-P2UZ1KfPXnBWG8V9CnL",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-attack.png",
+    "layer": "map",
+    "w": 7664,
+    "h": 5979
+   },
+   {
+    "file": "ardev-attack-2.png",
+    "layer": "map",
+    "w": 7661,
+    "h": 5979
+   }
+  ]
+ },
+ {
+  "page": "Ardev Clocktower",
+  "id": "-O3oXftMk8zZe2K7YJRP",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-clocktower.jfif",
+    "layer": "map",
+    "w": 2450,
+    "h": 1890
+   }
+  ]
+ },
+ {
+  "page": "Ardev Graveyard",
+  "id": "-O3FpA036mnhOc-xyv4t",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-graveyard.jpg",
+    "layer": "map",
+    "w": 3850,
+    "h": 3850
+   }
+  ]
+ },
+ {
+  "page": "Ardev Library",
+  "id": "-O3FpkR_d3Kotr9AFTMN",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-library.png",
+    "layer": "map",
+    "w": 2800,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Ardev Plaza",
+  "id": "-P2P1PFisjFkp73D-7ki",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-plaza.webp",
+    "layer": "map",
+    "w": 1759,
+    "h": 2801
+   },
+   {
+    "file": "ardev-plaza-2.webp",
+    "layer": "map",
+    "w": 1749,
+    "h": 2794
+   },
+   {
+    "file": "ardev-plaza-3.png",
+    "layer": "map",
+    "w": 560,
+    "h": 560
+   }
+  ]
+ },
+ {
+  "page": "Ardev Plaza Attack",
+  "id": "-P2PT5iFQ3L2o6zZAE72",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-plaza-attack.webp",
+    "layer": "map",
+    "w": 1759,
+    "h": 2801
+   },
+   {
+    "file": "ardev-plaza-attack-2.webp",
+    "layer": "map",
+    "w": 1749,
+    "h": 2794
+   }
+  ]
+ },
+ {
+  "page": "Ardev Police Basement",
+  "id": "-O3FrgM0CgPQYqHmgyCv",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-police-basement.png",
+    "layer": "map",
+    "w": 1890,
+    "h": 1540
+   }
+  ]
+ },
+ {
+  "page": "Ardev Police Station",
+  "id": "-O3FrPcak1j7bX9yKkQ6",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-police-station.png",
+    "layer": "map",
+    "w": 1890,
+    "h": 1540
+   }
+  ]
+ },
+ {
+  "page": "Ardev Police Station Attack",
+  "id": "-P2sxcGHNnmcKHuplHFX",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-police-station-attack.png",
+    "layer": "map",
+    "w": 1890,
+    "h": 1540
+   },
+   {
+    "file": "ardev-police-station-attack-2.png",
+    "layer": "map",
+    "w": 630,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-3.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-4.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-5.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-6.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-7.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-8.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-9.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-10.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-11.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-12.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   },
+   {
+    "file": "ardev-police-station-attack-13.png",
+    "layer": "map",
+    "w": 490,
+    "h": 210
+   }
+  ]
+ },
+ {
+  "page": "Ardev Square",
+  "id": "-O3Fsm8J9ZFzRC5aXC-H",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-square.webp",
+    "layer": "map",
+    "w": 2520,
+    "h": 2100
+   },
+   {
+    "file": "ardev-square-2.webp",
+    "layer": "map",
+    "w": 2520,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Ardev Streets Day",
+  "id": "-P2P-QrJpRw9_y7VYbrk",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-streets-day.webp",
+    "layer": "map",
+    "w": 1050,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Ardev Streets Night",
+  "id": "-O3FsbupoI7_23z6varY",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-streets-night.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Ardev Streets Night Attack",
+  "id": "-P2PTDkr82ZEHdlFgaep",
+  "archived": false,
+  "maps": [
+   {
+    "file": "ardev-streets-night-attack.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Astral Prison",
+  "id": "-OBO7oZZgzkZRxQsY5f3",
+  "archived": false,
+  "maps": [
+   {
+    "file": "astral-prison.avif",
+    "layer": "map",
+    "w": 1540,
+    "h": 2590
+   }
+  ]
+ },
+ {
+  "page": "Below Deck Broadaxe",
+  "id": "-NqtaIb7F9e41OHS2oD_",
+  "archived": false,
+  "maps": [
+   {
+    "file": "below-deck-broadaxe.png",
+    "layer": "map",
+    "w": 980,
+    "h": 2730
+   }
+  ]
+ },
+ {
+  "page": "Below Deck Moonwatch",
+  "id": "-Nqp_RbDEdRfcRa7WsJS",
+  "archived": false,
+  "maps": [
+   {
+    "file": "below-deck-moonwatch.png",
+    "layer": "map",
+    "w": 980,
+    "h": 2730
+   }
+  ]
+ },
+ {
+  "page": "Big Moonwatch",
+  "id": "-P2LHmnPpE9u-8zZ2QOO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "big-moonwatch.jpg",
+    "layer": "map",
+    "w": 3710,
+    "h": 2660
+   }
+  ]
+ },
+ {
+  "page": "Big Moonwatch Attack",
+  "id": "-P2ejsz9YIgzj1SY_xXp",
+  "archived": false,
+  "maps": [
+   {
+    "file": "big-moonwatch-attack.jpg",
+    "layer": "map",
+    "w": 3710,
+    "h": 2660
+   }
+  ]
+ },
+ {
+  "page": "Black Galifar Ship",
+  "id": "-Owjh-VWFBPu1_c0NTVj",
+  "archived": false,
+  "maps": [
+   {
+    "file": "black-galifar-ship.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Boranex Forest Night",
+  "id": "-Nt5-fxp_5rsUNY3vYxf",
+  "archived": false,
+  "maps": [
+   {
+    "file": "boranex-forest-night.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 2100
+   },
+   {
+    "file": "boranex-forest-night-2.png",
+    "layer": "map",
+    "w": 70,
+    "h": 70
+   }
+  ]
+ },
+ {
+  "page": "Brew & Ale",
+  "id": "-NtZhaJMjzyme34tcJ-5",
+  "archived": false,
+  "maps": [
+   {
+    "file": "brew-ale.webp",
+    "layer": "map",
+    "w": 2450,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Brew & Ale Top Floor",
+  "id": "-NtZhcHDOkvf-xpxxGMw",
+  "archived": false,
+  "maps": [
+   {
+    "file": "brew-ale-top-floor.webp",
+    "layer": "map",
+    "w": 2450,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Bridge",
+  "id": "-Owp5yK9CQnt9rjOCPoX",
+  "archived": false,
+  "maps": [
+   {
+    "file": "bridge.webp",
+    "layer": "map",
+    "w": 1890,
+    "h": 1120
+   }
+  ]
+ },
+ {
+  "page": "Broken Portal",
+  "id": "-NtZhIlfVovgPSvqXtNE",
+  "archived": false,
+  "maps": [
+   {
+    "file": "broken-portal.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 1050
+   }
+  ]
+ },
+ {
+  "page": "Bulwarks Map",
+  "id": "-O642SzbG8VVoCKlTrJ2",
+  "archived": false,
+  "maps": [
+   {
+    "file": "bulwarks-map.jpg",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Cannith Basement Recording",
+  "id": "-O48X8KT0LulyT_efx0m",
+  "archived": false,
+  "maps": [
+   {
+    "file": "cannith-basement-recording.webp",
+    "layer": "map",
+    "w": 700,
+    "h": 700
+   }
+  ]
+ },
+ {
+  "page": "Cannith Forge Ardev",
+  "id": "-O3FoXluLFiKF9M3DR4X",
+  "archived": false,
+  "maps": [
+   {
+    "file": "cannith-forge-ardev.png",
+    "layer": "map",
+    "w": 1470,
+    "h": 1330
+   },
+   {
+    "file": "cannith-forge-ardev-2.webp",
+    "layer": "map",
+    "w": 1391,
+    "h": 1260
+   }
+  ]
+ },
+ {
+  "page": "Cannith Forge Ardev Attack",
+  "id": "-P2PTI2BHBlXGHx94zgi",
+  "archived": false,
+  "maps": [
+   {
+    "file": "cannith-forge-ardev-attack.png",
+    "layer": "map",
+    "w": 1470,
+    "h": 1330
+   },
+   {
+    "file": "cannith-forge-ardev-attack-2.webp",
+    "layer": "map",
+    "w": 1391,
+    "h": 1260
+   }
+  ]
+ },
+ {
+  "page": "Cannith Top Floor",
+  "id": "-O3FosccqKIg1FlV37mw",
+  "archived": false,
+  "maps": [
+   {
+    "file": "cannith-top-floor.webp",
+    "layer": "map",
+    "w": 1400,
+    "h": 1260
+   }
+  ]
+ },
+ {
+  "page": "Castle Dungeon",
+  "id": "-O3oYS0j8qrI4USAKgOj",
+  "archived": false,
+  "maps": [
+   {
+    "file": "castle-dungeon.jpg",
+    "layer": "map",
+    "w": 1470,
+    "h": 1190
+   }
+  ]
+ },
+ {
+  "page": "Castle Top Floor",
+  "id": "-O3oXJXfBsOY3FprQvpf",
+  "archived": false,
+  "maps": [
+   {
+    "file": "castle-top-floor.jpg",
+    "layer": "map",
+    "w": 3500,
+    "h": 3500
+   }
+  ]
+ },
+ {
+  "page": "Church Basement",
+  "id": "-O3G7Dp3cQhLD9CXA23T",
+  "archived": false,
+  "maps": [
+   {
+    "file": "church-basement.jpg",
+    "layer": "map",
+    "w": 840,
+    "h": 910
+   }
+  ]
+ },
+ {
+  "page": "Church of Onatar",
+  "id": "-Nt98T1W126hQLKQYYla",
+  "archived": false,
+  "maps": [
+   {
+    "file": "church-of-onatar.jpg",
+    "layer": "map",
+    "w": 4200,
+    "h": 3150
+   },
+   {
+    "file": "church-of-onatar-2.jpg",
+    "layer": "map",
+    "w": 4200,
+    "h": 3150
+   }
+  ]
+ },
+ {
+  "page": "Clockworks Shop",
+  "id": "-NsX_ThkgGv7CdKiajAL",
+  "archived": false,
+  "maps": [
+   {
+    "file": "clockworks-shop.webp",
+    "layer": "map",
+    "w": 2520,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Cobra Class",
+  "id": "-OwpPhEziL0Pd0ef5bId",
+  "archived": false,
+  "maps": [
+   {
+    "file": "cobra-class.png",
+    "layer": "map",
+    "w": 2380,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Collapsed Mine",
+  "id": "-NurSnqcratNR6LGDpZl",
+  "archived": false,
+  "maps": [
+   {
+    "file": "collapsed-mine.webp",
+    "layer": "map",
+    "w": 4200,
+    "h": 2380
+   }
+  ]
+ },
+ {
+  "page": "Crashed Moonwatch",
+  "id": "-O16FRYJHQbUm4yJOM1M",
+  "archived": false,
+  "maps": [
+   {
+    "file": "crashed-moonwatch.webp",
+    "layer": "map",
+    "w": 2590,
+    "h": 1890
+   }
+  ]
+ },
+ {
+  "page": "Crime Scene House",
+  "id": "-NyyGctEJq8Q25rVL4zO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "crime-scene-house.jpg",
+    "layer": "map",
+    "w": 2380,
+    "h": 1540
+   }
+  ]
+ },
+ {
+  "page": "Crypt Haven",
+  "id": "-O64NYLeVA-ERQDYXIv3",
+  "archived": false,
+  "maps": [
+   {
+    "file": "crypt-haven.jpg",
+    "layer": "map",
+    "w": 9750,
+    "h": 5750
+   }
+  ]
+ },
+ {
+  "page": "Dagolas Hell Mansion",
+  "id": "-NtZhPECjMNEOgd-V4VL",
+  "archived": false,
+  "maps": [
+   {
+    "file": "dagolas-hell-mansion.jpg",
+    "layer": "map",
+    "w": 3220,
+    "h": 6510
+   }
+  ]
+ },
+ {
+  "page": "Daily Grind",
+  "id": "-NyyF7rP7YnxM0OLAW4Q",
+  "archived": false,
+  "maps": [
+   {
+    "file": "daily-grind.jpg",
+    "layer": "map",
+    "w": 6020,
+    "h": 4550
+   }
+  ]
+ },
+ {
+  "page": "Dead Wood Clearing",
+  "id": "-NjzUcj5QCVHm59IHzqw",
+  "archived": false,
+  "maps": [
+   {
+    "file": "dead-wood-clearing-3.jpg",
+    "layer": "map",
+    "w": 4200,
+    "h": 2660
+   }
+  ]
+ },
+ {
+  "page": "Dead Woods",
+  "id": "-Nh0kt9xF9R4qerUq5iq",
+  "archived": false,
+  "maps": [
+   {
+    "file": "dead-woods.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 1330
+   }
+  ]
+ },
+ {
+  "page": "Demon Village",
+  "id": "-NtZhG2K4qNDFjLsuuu_",
+  "archived": false,
+  "maps": [
+   {
+    "file": "demon-village.png",
+    "layer": "map",
+    "w": 2100,
+    "h": 3150
+   }
+  ]
+ },
+ {
+  "page": "Dogfight",
+  "id": "-NzLzAH8hOO8TlGemn8I",
+  "archived": false,
+  "maps": [
+   {
+    "file": "dogfight.jpeg",
+    "layer": "objects",
+    "w": 1610,
+    "h": 1260
+   }
+  ]
+ },
+ {
+  "page": "Dream Office",
+  "id": "-Nsg9CXMKzm7Hglkau0N",
+  "archived": false,
+  "maps": [
+   {
+    "file": "dream-office.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Dream Prison",
+  "id": "-OCg4_DHj0VXNXFwy546",
+  "archived": false,
+  "maps": [
+   {
+    "file": "dream-prison.jpg",
+    "layer": "map",
+    "w": 2450,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Dream Training",
+  "id": "-NsXcVfoXwao9I7ehRWt",
+  "archived": false,
+  "maps": [
+   {
+    "file": "dream-training.jpg",
+    "layer": "map",
+    "w": 3150,
+    "h": 3150
+   }
+  ]
+ },
+ {
+  "page": "Dreamweaver Eye",
+  "id": "-OBX469aKWutJXh13OiE",
+  "archived": false,
+  "maps": [
+   {
+    "file": "dreamweaver-eye.jpg",
+    "layer": "objects",
+    "w": 1050,
+    "h": 1050
+   }
+  ]
+ },
+ {
+  "page": "Drinken-Hausen Tavern",
+  "id": "-NurMWregqmt0fZVvcLx",
+  "archived": false,
+  "maps": [
+   {
+    "file": "drinken-hausen-tavern.jpg",
+    "layer": "map",
+    "w": 2450,
+    "h": 2450
+   }
+  ]
+ },
+ {
+  "page": "EPTK Holding Cells",
+  "id": "-OS2HvW9Hj27U-pu7u-7",
+  "archived": false,
+  "maps": [
+   {
+    "file": "eptk-holding-cells.jpg",
+    "layer": "map",
+    "w": 1190,
+    "h": 1680
+   }
+  ]
+ },
+ {
+  "page": "Eloria and Eleanors House",
+  "id": "-NzpP1BQ6YwA_uSHNRgC",
+  "archived": false,
+  "maps": [
+   {
+    "file": "eloria-and-eleanors-house.jpg",
+    "layer": "map",
+    "w": 4550,
+    "h": 4550
+   }
+  ]
+ },
+ {
+  "page": "Emberfall Secret Meeting",
+  "id": "-O6-FyM4KSJkUVWe2cGB",
+  "archived": false,
+  "maps": [
+   {
+    "file": "emberfall-secret-meeting.jpg",
+    "layer": "map",
+    "w": 1610,
+    "h": 2030
+   }
+  ]
+ },
+ {
+  "page": "Empyrean Dropship",
+  "id": "-P2P7N2t00llC_Bu2KwK",
+  "archived": false,
+  "maps": [
+   {
+    "file": "empyrean-dropship.jpg",
+    "layer": "map",
+    "w": 1610,
+    "h": 1190
+   }
+  ]
+ },
+ {
+  "page": "Empyrean Lower Deck",
+  "id": "-OSlBf7UPM8evZ3opMLK",
+  "archived": false,
+  "maps": [
+   {
+    "file": "empyrean-lower-deck.webp",
+    "layer": "map",
+    "w": 4480,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Empyrean Main Deck",
+  "id": "-OSlBf5cx3enO0OcV-L-",
+  "archived": false,
+  "maps": [
+   {
+    "file": "empyrean-main-deck.webp",
+    "layer": "map",
+    "w": 4480,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Empyrean Tender Attack",
+  "id": "-P2kCcUl63WaIrWEYYmy",
+  "archived": false,
+  "maps": [
+   {
+    "file": "empyrean-tender-attack.jpg",
+    "layer": "map",
+    "w": 1610,
+    "h": 1190
+   }
+  ]
+ },
+ {
+  "page": "Empyrean Top Deck",
+  "id": "-OQ5UiQNk1Xm6DA-usCH",
+  "archived": false,
+  "maps": [
+   {
+    "file": "empyrean-top-deck.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 4900
+   },
+   {
+    "file": "empyrean-top-deck-2.png",
+    "layer": "map",
+    "w": 490,
+    "h": 1190
+   },
+   {
+    "file": "empyrean-top-deck-3.png",
+    "layer": "map",
+    "w": 490,
+    "h": 1190
+   }
+  ]
+ },
+ {
+  "page": "Exploding House",
+  "id": "-NyyGdNWm7dCQ2scTHSX",
+  "archived": false,
+  "maps": [
+   {
+    "file": "exploding-house.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Fairgrounds",
+  "id": "-O3FpOXzxFQxQsElhy4G",
+  "archived": false,
+  "maps": [
+   {
+    "file": "fairgrounds.jpg",
+    "layer": "map",
+    "w": 6860,
+    "h": 8190
+   }
+  ]
+ },
+ {
+  "page": "Farks Bargain Whores",
+  "id": "-O3FpfEXc-5iDHT7-iIc",
+  "archived": false,
+  "maps": [
+   {
+    "file": "farks-bargain-whores.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Flowers Basement",
+  "id": "-O3oW2yA5HMYdfFOdlKK",
+  "archived": false,
+  "maps": [
+   {
+    "file": "flowers-basement.jpg",
+    "layer": "map",
+    "w": 770,
+    "h": 770
+   }
+  ]
+ },
+ {
+  "page": "Flowers House",
+  "id": "-O3oW3A0VMoK_T1bD-G8",
+  "archived": false,
+  "maps": [
+   {
+    "file": "flowers-house.jpg",
+    "layer": "map",
+    "w": 1540,
+    "h": 2310
+   }
+  ]
+ },
+ {
+  "page": "Flowers Top Floor",
+  "id": "-O3oW3JJGRFfty3xFmNA",
+  "archived": false,
+  "maps": [
+   {
+    "file": "flowers-top-floor.jpg",
+    "layer": "map",
+    "w": 1540,
+    "h": 2310
+   }
+  ]
+ },
+ {
+  "page": "Forest Chase",
+  "id": "-NvoQFHzO6RcY_3sfuQK",
+  "archived": false,
+  "maps": [
+   {
+    "file": "forest-chase.webp",
+    "layer": "map",
+    "w": 3920,
+    "h": 2170
+   },
+   {
+    "file": "forest-chase-2.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "forest-chase-3.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "forest-chase-4.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "forest-chase-5.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "forest-chase-6.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "forest-chase-7.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "forest-chase-8.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "forest-chase-9.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "forest-chase-10.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   }
+  ]
+ },
+ {
+  "page": "Forest Chase (Unused)",
+  "id": "-Nlw2d7VYaEAjsTz-InW",
+  "archived": true,
+  "maps": [
+   {
+    "file": "forest-chase-unused-2.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 3500
+   }
+  ]
+ },
+ {
+  "page": "Free Basement 1",
+  "id": "-O3LMMWJh1fEuFbbBsRM",
+  "archived": false,
+  "maps": [
+   {
+    "file": "free-basement-1.jpg",
+    "layer": "map",
+    "w": 1190,
+    "h": 1540
+   }
+  ]
+ },
+ {
+  "page": "Free House",
+  "id": "-O3oXkwlehmhiioB4ICb",
+  "archived": false,
+  "maps": [
+   {
+    "file": "free-house.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 1120
+   }
+  ]
+ },
+ {
+  "page": "Galient Class",
+  "id": "-Owj_V34pKkUozNu0n_p",
+  "archived": false,
+  "maps": [
+   {
+    "file": "galient-class.png",
+    "layer": "map",
+    "w": 2520,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Gelf, Elric & Screechs House",
+  "id": "-NyMUhU4NouH1cae-7hr",
+  "archived": false,
+  "maps": [
+   {
+    "file": "gelf-elric-screechs-house.jpg",
+    "layer": "map",
+    "w": 2310,
+    "h": 2170
+   },
+   {
+    "file": "gelf-elric-screechs-house-2.jpg",
+    "layer": "map",
+    "w": 1960,
+    "h": 1890
+   },
+   {
+    "file": "gelf-elric-screechs-house-3.webp",
+    "layer": "map",
+    "w": 1999,
+    "h": 1839
+   },
+   {
+    "file": "gelf-elric-screechs-house-4.jpg",
+    "layer": "map",
+    "w": 350,
+    "h": 280
+   }
+  ]
+ },
+ {
+  "page": "Gol Ignis (The Lake of Fire)",
+  "id": "-OwK_oX-PYH6_MOAY5NA",
+  "archived": false,
+  "maps": [
+   {
+    "file": "gol-ignis-the-lake-of-fire.png",
+    "layer": "map",
+    "w": 25550,
+    "h": 20650
+   }
+  ]
+ },
+ {
+  "page": "Gold Galifar Ship",
+  "id": "-Owjh1-K14r463nqUncJ",
+  "archived": false,
+  "maps": [
+   {
+    "file": "gold-galifar-ship.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Gorgis Basement",
+  "id": "-O3LMMo3-g3A7Lv55eYb",
+  "archived": false,
+  "maps": [
+   {
+    "file": "gorgis-basement.jpg",
+    "layer": "map",
+    "w": 1120,
+    "h": 770
+   }
+  ]
+ },
+ {
+  "page": "Gorgis House",
+  "id": "-O3Frk6To_CeeNTf4Ns3",
+  "archived": false,
+  "maps": [
+   {
+    "file": "gorgis-house.jpg",
+    "layer": "map",
+    "w": 1260,
+    "h": 1190
+   }
+  ]
+ },
+ {
+  "page": "Grimley Basement",
+  "id": "-O3oX5H_fTlVfMX7y8ud",
+  "archived": false,
+  "maps": [
+   {
+    "file": "grimley-basement.webp",
+    "layer": "map",
+    "w": 1050,
+    "h": 630
+   }
+  ]
+ },
+ {
+  "page": "Grimley House",
+  "id": "-O3oWz7tnPr2ihHUR2L7",
+  "archived": false,
+  "maps": [
+   {
+    "file": "grimley-house.webp",
+    "layer": "map",
+    "w": 1750,
+    "h": 1260
+   }
+  ]
+ },
+ {
+  "page": "Hag Ambush",
+  "id": "-O7pbV4ykkt9_RcD--Ka",
+  "archived": false,
+  "maps": [
+   {
+    "file": "hag-ambush.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Hags Coven",
+  "id": "-O642T6ow7E--dobFike",
+  "archived": true,
+  "maps": [
+   {
+    "file": "hags-coven.jpg",
+    "layer": "map",
+    "w": 2450,
+    "h": 2450
+   }
+  ]
+ },
+ {
+  "page": "Hearthsfire",
+  "id": "-O9wFE-JycFNp4nHF-CH",
+  "archived": false,
+  "maps": [
+   {
+    "file": "hearthsfire.jpg",
+    "layer": "map",
+    "w": 5850,
+    "h": 8450
+   }
+  ]
+ },
+ {
+  "page": "Hearthsfire Forest",
+  "id": "-OCkjvXCWYP3kLIDXEGO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "hearthsfire-forest.jpg",
+    "layer": "map",
+    "w": 3850,
+    "h": 5950
+   }
+  ]
+ },
+ {
+  "page": "Hell",
+  "id": "-NtZhLdeZJ-_e7_gW6jn",
+  "archived": false,
+  "maps": [
+   {
+    "file": "hell.jpg",
+    "layer": "map",
+    "w": 3080,
+    "h": 4200
+   }
+  ]
+ },
+ {
+  "page": "Hobbstweedle Cemetery",
+  "id": "-Nt4g4sGgwKqYH4L8QzY",
+  "archived": false,
+  "maps": [
+   {
+    "file": "hobbstweedle-cemetery.webp",
+    "layer": "map",
+    "w": 2100,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Hobbstweedle Jail",
+  "id": "-NxzyEC0o7UiW1YFmnFW",
+  "archived": false,
+  "maps": [
+   {
+    "file": "hobbstweedle-jail.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 1470
+   }
+  ]
+ },
+ {
+  "page": "Hobbstweedle Library",
+  "id": "-O24ExQdchVqWwk5HeQO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "hobbstweedle-library.jpg",
+    "layer": "map",
+    "w": 2450,
+    "h": 3850
+   }
+  ]
+ },
+ {
+  "page": "Hobbstweedle Village",
+  "id": "-NyIHUADxlgiHPBlEBDe",
+  "archived": false,
+  "maps": [
+   {
+    "file": "hobbstweedle-village.jpg",
+    "layer": "map",
+    "w": 13300,
+    "h": 7630
+   }
+  ]
+ },
+ {
+  "page": "Home Base",
+  "id": "-NlwLa8OcKk6c3s411AY",
+  "archived": false,
+  "maps": [
+   {
+    "file": "home-base.jpg",
+    "layer": "map",
+    "w": 3220,
+    "h": 2380
+   },
+   {
+    "file": "home-base-2.png",
+    "layer": "map",
+    "w": 210,
+    "h": 280
+   }
+  ]
+ },
+ {
+  "page": "Imp Shack",
+  "id": "-Nyxi12QqZLpjEAcSs9W",
+  "archived": false,
+  "maps": [
+   {
+    "file": "imp-shack.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 1610
+   }
+  ]
+ },
+ {
+  "page": "Inside  Lightning Rail 3",
+  "id": "-OBh1te4YwNLqE1V5nyg",
+  "archived": false,
+  "maps": [
+   {
+    "file": "inside-lightning-rail-3.jpg",
+    "layer": "map",
+    "w": 3360,
+    "h": 1890
+   },
+   {
+    "file": "inside-lightning-rail-3-2.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-3-3.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-3-4.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-3-5.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-3-6.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-3-7.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-3-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-3-9.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-3-10.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Inside Lightning Rail 1",
+  "id": "-OBh1qtt6x7IOi1oMT55",
+  "archived": false,
+  "maps": [
+   {
+    "file": "inside-lightning-rail-1.jpg",
+    "layer": "map",
+    "w": 3360,
+    "h": 1890
+   },
+   {
+    "file": "inside-lightning-rail-1-2.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-1-3.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-1-4.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-1-5.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-1-6.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-1-7.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-1-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-1-9.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Inside Lightning Rail 2",
+  "id": "-OBh1sKfJOffz99w0FU7",
+  "archived": false,
+  "maps": [
+   {
+    "file": "inside-lightning-rail-2.jpg",
+    "layer": "map",
+    "w": 3360,
+    "h": 1890
+   },
+   {
+    "file": "inside-lightning-rail-2-2.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-2-3.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-2-4.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-2-5.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-2-6.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-2-7.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Inside Lightning Rail 4",
+  "id": "-OBh1ukZdeD0rmx0GuGO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "inside-lightning-rail-4.jpg",
+    "layer": "map",
+    "w": 3360,
+    "h": 1890
+   },
+   {
+    "file": "inside-lightning-rail-4-2.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-4-3.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-4-4.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-lightning-rail-4-5.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-4-6.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-4-7.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-4-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "inside-lightning-rail-4-9.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Inside Turtle Lightning Rail 4",
+  "id": "-OCf8dbNRZ1RUEsZrkrb",
+  "archived": false,
+  "maps": [
+   {
+    "file": "inside-turtle-lightning-rail-4.avif",
+    "layer": "map",
+    "w": 2870,
+    "h": 5600
+   },
+   {
+    "file": "inside-turtle-lightning-rail-4-2.png",
+    "layer": "map",
+    "w": 2870,
+    "h": 5600
+   },
+   {
+    "file": "inside-turtle-lightning-rail-4-3.png",
+    "layer": "map",
+    "w": 2870,
+    "h": 5600
+   },
+   {
+    "file": "inside-turtle-lightning-rail-4-4.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-turtle-lightning-rail-4-5.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "inside-turtle-lightning-rail-4-6.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   }
+  ]
+ },
+ {
+  "page": "Kel Basement",
+  "id": "-O3G-gADPJB_3w7Qxsa5",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kel-basement.jpg",
+    "layer": "map",
+    "w": 1330,
+    "h": 910
+   }
+  ]
+ },
+ {
+  "page": "Kel House",
+  "id": "-O3G-a-IB7Z2kH3NPA0p",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kel-house.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 2660
+   }
+  ]
+ },
+ {
+  "page": "Kel Upstairs",
+  "id": "-O3G-bZSKRHlXqRwWghm",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kel-upstairs.jpg",
+    "layer": "map",
+    "w": 1680,
+    "h": 1470
+   }
+  ]
+ },
+ {
+  "page": "Kel Upstairs 2",
+  "id": "-O3G6f7m7880KX77RaBr",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kel-upstairs-2.jpg",
+    "layer": "map",
+    "w": 630,
+    "h": 1330
+   }
+  ]
+ },
+ {
+  "page": "Khorvaire Climate Map",
+  "id": "-NskgLoa3K0D6GAYyFBb",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khorvaire-climate-map.webp",
+    "layer": "objects",
+    "w": 1750,
+    "h": 1470
+   }
+  ]
+ },
+ {
+  "page": "Khorvaire Map",
+  "id": "-Nh4NvZGw8ULdIyghmVr",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khorvaire-map.jpg",
+    "layer": "objects",
+    "w": 7069,
+    "h": 5040
+   }
+  ]
+ },
+ {
+  "page": "Khyber Cliffs",
+  "id": "-O7pbVB3CFvU3wV6mSsJ",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-cliffs.jpg",
+    "layer": "map",
+    "w": 3010,
+    "h": 2450
+   }
+  ]
+ },
+ {
+  "page": "Khyber Entrance",
+  "id": "-O642SscSDOt355aZXE0",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-entrance.jpg",
+    "layer": "map",
+    "w": 4096,
+    "h": 4030
+   }
+  ]
+ },
+ {
+  "page": "Khyber Minefield 1",
+  "id": "-O642Sl-5jzf03XxLH4A",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-minefield-1.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Khyber Minefield 2",
+  "id": "-O64M2I3xeVocvWygWmj",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-minefield-2.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Khyber Minefield 3",
+  "id": "-O64M3InUIAQCpDuxwX7",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-minefield-3.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Khyber Minefield 4",
+  "id": "-O64M43HptKlCeOhgWrX",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-minefield-4.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Khyber Minefield 5",
+  "id": "-O64MSRQD50Fet4FjzzU",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-minefield-5.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Khyber Minefield 6",
+  "id": "-O64MRljoYF91n_DfCRy",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-minefield-6.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Khyber Minefield 7",
+  "id": "-O64MQzZddAcVIBMBTgB",
+  "archived": false,
+  "maps": [
+   {
+    "file": "khyber-minefield-7.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Kingsblade Bridge",
+  "id": "-NjzXZSArRgNukl2Bpv9",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kingsblade-bridge.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Kingsblade Crew Quarters",
+  "id": "-NjzX_-D267rUESMRo5M",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kingsblade-crew-quarters.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Kingsblade Hull",
+  "id": "-NjzXZl3BnlPYFRI0nFI",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kingsblade-hull.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Kingsblade Lower Deck",
+  "id": "-NjzXZtSyAd1Xjicfo7z",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kingsblade-lower-deck.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Kingsblade Main Deck",
+  "id": "-NjzXZbaB8lz-xfRuU-m",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kingsblade-main-deck.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Kingsblade Overview",
+  "id": "-NjzXU5vn6gLDv8JonSW",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kingsblade-overview.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Kingsblade War Room",
+  "id": "-NjzUxt6Ru_REsIC1J8z",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kingsblade-war-room.webp",
+    "layer": "map",
+    "w": 840,
+    "h": 840
+   }
+  ]
+ },
+ {
+  "page": "Library",
+  "id": "-NgbUo067lrr7vzobQsM",
+  "archived": false,
+  "maps": [
+   {
+    "file": "library.jpg",
+    "layer": "objects",
+    "w": 2100,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Lightning Rail 1",
+  "id": "-OBOSQxdpaJ_XrT0cEms",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lightning-rail-1.jpg",
+    "layer": "map",
+    "w": 3360,
+    "h": 1890
+   },
+   {
+    "file": "lightning-rail-1-2.png",
+    "layer": "map",
+    "w": 1529,
+    "h": 783
+   },
+   {
+    "file": "lightning-rail-1-3.png",
+    "layer": "map",
+    "w": 1496,
+    "h": 770
+   },
+   {
+    "file": "lightning-rail-1-4.png",
+    "layer": "map",
+    "w": 1496,
+    "h": 770
+   },
+   {
+    "file": "lightning-rail-1-5.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-1-6.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-1-7.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-1-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-1-9.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-1-10.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-1-11.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-1-12.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Lightning Rail 2",
+  "id": "-OBOfrJ-q-nwqBCes3N2",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lightning-rail-2.jpg",
+    "layer": "map",
+    "w": 3360,
+    "h": 1890
+   },
+   {
+    "file": "lightning-rail-2-2.png",
+    "layer": "map",
+    "w": 1524,
+    "h": 778
+   },
+   {
+    "file": "lightning-rail-2-3.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-2-4.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-2-5.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-2-6.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-2-7.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-2-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Lightning Rail 3",
+  "id": "-OBOn83SnkbtQk8eXxS_",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lightning-rail-3.jpg",
+    "layer": "map",
+    "w": 3360,
+    "h": 1890
+   },
+   {
+    "file": "lightning-rail-3-2.png",
+    "layer": "map",
+    "w": 1529,
+    "h": 783
+   },
+   {
+    "file": "lightning-rail-3-3.png",
+    "layer": "map",
+    "w": 1512,
+    "h": 778
+   },
+   {
+    "file": "lightning-rail-3-4.png",
+    "layer": "map",
+    "w": 1512,
+    "h": 778
+   },
+   {
+    "file": "lightning-rail-3-5.png",
+    "layer": "map",
+    "w": 1499,
+    "h": 778
+   },
+   {
+    "file": "lightning-rail-3-6.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-3-7.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-3-8.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-3-9.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-3-10.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-3-11.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-3-12.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-3-13.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-3-14.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Lightning Rail 4",
+  "id": "-OBOoVakJOihUnDMmWMc",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lightning-rail-4.jpg",
+    "layer": "map",
+    "w": 3360,
+    "h": 1890
+   },
+   {
+    "file": "lightning-rail-4-2.png",
+    "layer": "map",
+    "w": 1512,
+    "h": 778
+   },
+   {
+    "file": "lightning-rail-4-3.png",
+    "layer": "map",
+    "w": 1512,
+    "h": 778
+   },
+   {
+    "file": "lightning-rail-4-4.png",
+    "layer": "map",
+    "w": 1470,
+    "h": 791
+   },
+   {
+    "file": "lightning-rail-4-5.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-4-6.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-4-7.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "lightning-rail-4-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-4-9.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-4-10.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-4-11.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "lightning-rail-4-12.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Lireal Sr Den/Basement",
+  "id": "-O3G7Y0e0PZgiCtAQ4Gh",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lireal-sr-den-basement.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 1750
+   },
+   {
+    "file": "lireal-sr-den-basement-2.jpg",
+    "layer": "map",
+    "w": 350,
+    "h": 280
+   }
+  ]
+ },
+ {
+  "page": "Lireal Sr Secret Office",
+  "id": "-O3G96bn8pBVXA6uNI5U",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lireal-sr-secret-office.webp",
+    "layer": "map",
+    "w": 840,
+    "h": 840
+   },
+   {
+    "file": "lireal-sr-secret-office-2.jpg",
+    "layer": "map",
+    "w": 350,
+    "h": 280
+   }
+  ]
+ },
+ {
+  "page": "Living Solider House",
+  "id": "-NyyGdolOey_fOLmlJwR",
+  "archived": false,
+  "maps": [
+   {
+    "file": "living-solider-house.jpg",
+    "layer": "map",
+    "w": 2310,
+    "h": 1470
+   }
+  ]
+ },
+ {
+  "page": "Lower Ardev",
+  "id": "-O3F5d_hl0HKZ7ooGG5_",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lower-ardev.jpg",
+    "layer": "map",
+    "w": 7000,
+    "h": 4480
+   }
+  ]
+ },
+ {
+  "page": "Lower Ardev Shifted",
+  "id": "-OCfA4T7H4pfC4r3fmlM",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lower-ardev-shifted.jpg",
+    "layer": "map",
+    "w": 7000,
+    "h": 4480
+   }
+  ]
+ },
+ {
+  "page": "Lower Deck",
+  "id": "-Owp5yUsuk_QTRCcc6oU",
+  "archived": false,
+  "maps": [
+   {
+    "file": "lower-deck.webp",
+    "layer": "map",
+    "w": 1890,
+    "h": 1120
+   }
+  ]
+ },
+ {
+  "page": "Magic Training",
+  "id": "-NsXc3JPFQ1NcYvIPbUx",
+  "archived": false,
+  "maps": [
+   {
+    "file": "magic-training.webp",
+    "layer": "map",
+    "w": 1750,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Main Deck",
+  "id": "-Owp5yOd97y04zhKEJCD",
+  "archived": false,
+  "maps": [
+   {
+    "file": "main-deck.webp",
+    "layer": "map",
+    "w": 1890,
+    "h": 1120
+   }
+  ]
+ },
+ {
+  "page": "Main Deck Broadaxe",
+  "id": "-Nqtag0TGiIBbm7rv7nh",
+  "archived": false,
+  "maps": [
+   {
+    "file": "main-deck-broadaxe.png",
+    "layer": "map",
+    "w": 980,
+    "h": 2730
+   }
+  ]
+ },
+ {
+  "page": "Main Deck Moonwatch",
+  "id": "-NqtaI0qcVpDMFa1NG1E",
+  "archived": false,
+  "maps": [
+   {
+    "file": "main-deck-moonwatch.png",
+    "layer": "map",
+    "w": 980,
+    "h": 2730
+   }
+  ]
+ },
+ {
+  "page": "Mansion Main Floor",
+  "id": "-Nr9QgB3Ky9WEHDhGZLb",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mansion-main-floor.jpg",
+    "layer": "map",
+    "w": 9360,
+    "h": 6720
+   }
+  ]
+ },
+ {
+  "page": "Mansion Top Floor",
+  "id": "-Nr9PUUOfeB7iPSMwxgB",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mansion-top-floor.jpg",
+    "layer": "map",
+    "w": 9380,
+    "h": 6720
+   }
+  ]
+ },
+ {
+  "page": "Mara'bor Inside",
+  "id": "-NlpkATO1F01ZjXgc9rP",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mara-bor-inside-2.webp",
+    "layer": "map",
+    "w": 3150,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Mara'bor Outside",
+  "id": "-NlpkA-6XVRjmHISwEky",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mara-bor-outside-2.webp",
+    "layer": "map",
+    "w": 3150,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Mausoleum of Ardev",
+  "id": "-O5fjVJnPJa5I7yfNewO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mausoleum-of-ardev.jpg",
+    "layer": "map",
+    "w": 1960,
+    "h": 6160
+   },
+   {
+    "file": "mausoleum-of-ardev-2.png",
+    "layer": "map",
+    "w": 420,
+    "h": 420
+   }
+  ]
+ },
+ {
+  "page": "Mercenary Castle",
+  "id": "-O3oXQyXjFT4wceqrFu9",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mercenary-castle.jpg",
+    "layer": "map",
+    "w": 3500,
+    "h": 3500
+   }
+  ]
+ },
+ {
+  "page": "Military Library",
+  "id": "-OP8JwBn1g9PbBapyMnd",
+  "archived": false,
+  "maps": [
+   {
+    "file": "military-library.jpg",
+    "layer": "map",
+    "w": 2310,
+    "h": 1400
+   }
+  ]
+ },
+ {
+  "page": "Military Outpost",
+  "id": "-NurMzP5BNobmVUIW2SV",
+  "archived": false,
+  "maps": [
+   {
+    "file": "military-outpost.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 2870
+   },
+   {
+    "file": "military-outpost-2.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 2870
+   }
+  ]
+ },
+ {
+  "page": "Military Police Jail",
+  "id": "-OS2Hf6O6peGEjA7bn5n",
+  "archived": false,
+  "maps": [
+   {
+    "file": "military-police-jail.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 1680
+   },
+   {
+    "file": "military-police-jail-2.png",
+    "layer": "map",
+    "w": 70,
+    "h": 70
+   },
+   {
+    "file": "military-police-jail-3.png",
+    "layer": "map",
+    "w": 70,
+    "h": 70
+   },
+   {
+    "file": "military-police-jail-4.png",
+    "layer": "map",
+    "w": 70,
+    "h": 70
+   },
+   {
+    "file": "military-police-jail-5.png",
+    "layer": "map",
+    "w": 70,
+    "h": 70
+   },
+   {
+    "file": "military-police-jail-6.png",
+    "layer": "map",
+    "w": 70,
+    "h": 70
+   }
+  ]
+ },
+ {
+  "page": "Military Railway Junction",
+  "id": "-OP8JwO0d8U7teA1MJhk",
+  "archived": false,
+  "maps": [
+   {
+    "file": "military-railway-junction.jpg",
+    "layer": "map",
+    "w": 3990,
+    "h": 2940
+   },
+   {
+    "file": "military-railway-junction-2.png",
+    "layer": "map",
+    "w": 3990,
+    "h": 2940
+   },
+   {
+    "file": "military-railway-junction-3.png",
+    "layer": "map",
+    "w": 1470,
+    "h": 791
+   },
+   {
+    "file": "military-railway-junction-4.png",
+    "layer": "map",
+    "w": 1470,
+    "h": 791
+   },
+   {
+    "file": "military-railway-junction-5.png",
+    "layer": "map",
+    "w": 1479,
+    "h": 755
+   },
+   {
+    "file": "military-railway-junction-6.png",
+    "layer": "map",
+    "w": 1479,
+    "h": 755
+   },
+   {
+    "file": "military-railway-junction-7.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "military-railway-junction-8.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "military-railway-junction-9.png",
+    "layer": "map",
+    "w": 1498,
+    "h": 545
+   },
+   {
+    "file": "military-railway-junction-10.png",
+    "layer": "map",
+    "w": 1498,
+    "h": 545
+   }
+  ]
+ },
+ {
+  "page": "Mine Entrance to Mara'bor",
+  "id": "-NlpnPoblazThIA-8Y3h",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mine-entrance-to-mara-bor-2.png",
+    "layer": "map",
+    "w": 2240,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Mobile Fortress",
+  "id": "-OBUNBTBuJiwvJZSFKom",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mobile-fortress.jpg",
+    "layer": "objects",
+    "w": 1750,
+    "h": 1260
+   }
+  ]
+ },
+ {
+  "page": "Morkoth Lair",
+  "id": "-NuDH5MHJIlhV3Hj14wG",
+  "archived": false,
+  "maps": [
+   {
+    "file": "morkoth-lair.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Mouth of The World Scar",
+  "id": "-O924I24gZw4LkljkNCS",
+  "archived": false,
+  "maps": [
+   {
+    "file": "mouth-of-the-world-scar.webp",
+    "layer": "map",
+    "w": 4410,
+    "h": 5390
+   }
+  ]
+ },
+ {
+  "page": "Necromancy Mine",
+  "id": "-NurSoFOXCy6JTRb1ITE",
+  "archived": false,
+  "maps": [
+   {
+    "file": "necromancy-mine.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 1960
+   }
+  ]
+ },
+ {
+  "page": "Obstacle Course ",
+  "id": "-NsXdgvNZyumipy6Ggvr",
+  "archived": false,
+  "maps": [
+   {
+    "file": "obstacle-course.jpg",
+    "layer": "map",
+    "w": 2240,
+    "h": 2240
+   }
+  ]
+ },
+ {
+  "page": "Orska Village",
+  "id": "-NurLsl9mUN3XCGcrAvF",
+  "archived": false,
+  "maps": [
+   {
+    "file": "orska-village.jpg",
+    "layer": "map",
+    "w": 4900,
+    "h": 4900
+   }
+  ]
+ },
+ {
+  "page": "Owlbear Cave",
+  "id": "-NoAyNqoyZFX4XXI71Lv",
+  "archived": false,
+  "maps": [
+   {
+    "file": "owlbear-cave.jpg",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "POW Camp",
+  "id": "-NurSbgt9R6Wu01wZZbT",
+  "archived": false,
+  "maps": [
+   {
+    "file": "pow-camp.jpg",
+    "layer": "map",
+    "w": 4200,
+    "h": 2310
+   }
+  ]
+ },
+ {
+  "page": "Possession Battle",
+  "id": "-NxzKiycfq8ldX-0rtw9",
+  "archived": false,
+  "maps": [
+   {
+    "file": "possession-battle.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-2.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-3.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-4.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-5.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-6.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-7.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-8.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-9.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   },
+   {
+    "file": "possession-battle-10.webp",
+    "layer": "map",
+    "w": 1260,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Prison Basement",
+  "id": "-Nh0iD3SLCSQqjb12Ey9",
+  "archived": false,
+  "maps": [
+   {
+    "file": "prison-basement.webp",
+    "layer": "map",
+    "w": 2500,
+    "h": 2500
+   }
+  ]
+ },
+ {
+  "page": "Prison Exterior 10ft squares",
+  "id": "-Nh0hNKoqyS5uy69lUVA",
+  "archived": false,
+  "maps": [
+   {
+    "file": "prison-exterior-10ft-squares-2.webp",
+    "layer": "map",
+    "w": 3360,
+    "h": 3360
+   }
+  ]
+ },
+ {
+  "page": "Prison Gate",
+  "id": "-NlpXrPNQLQKvLGDLYXj",
+  "archived": false,
+  "maps": [
+   {
+    "file": "prison-gate.webp",
+    "layer": "map",
+    "w": 2030,
+    "h": 1120
+   }
+  ]
+ },
+ {
+  "page": "Prison Level 1",
+  "id": "-Nh0hNRWLxYI1kDrjPUR",
+  "archived": false,
+  "maps": [
+   {
+    "file": "prison-level-1.webp",
+    "layer": "map",
+    "w": 2500,
+    "h": 2500
+   }
+  ]
+ },
+ {
+  "page": "Prison Level 2",
+  "id": "-Nh0hNzEwVAhNUyNws5T",
+  "archived": false,
+  "maps": [
+   {
+    "file": "prison-level-2.webp",
+    "layer": "map",
+    "w": 2500,
+    "h": 2500
+   }
+  ]
+ },
+ {
+  "page": "Prison Level 3",
+  "id": "-Nh0hh7Q68I0sc2AcHdM",
+  "archived": false,
+  "maps": [
+   {
+    "file": "prison-level-3.webp",
+    "layer": "map",
+    "w": 2500,
+    "h": 2500
+   }
+  ]
+ },
+ {
+  "page": "Python Class",
+  "id": "-Owj_XwkgVIKhxvlJQbx",
+  "archived": false,
+  "maps": [
+   {
+    "file": "python-class.png",
+    "layer": "map",
+    "w": 3640,
+    "h": 2940
+   }
+  ]
+ },
+ {
+  "page": "Road Chase",
+  "id": "-OBO7dEQBHCkI4l5puI6",
+  "archived": false,
+  "maps": [
+   {
+    "file": "road-chase.jpg",
+    "layer": "map",
+    "w": 1050,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Sayzia\u2019s Elixir Emporium",
+  "id": "-NxW1PtzdC7ZsXcgaPzE",
+  "archived": false,
+  "maps": [
+   {
+    "file": "sayzia-s-elixir-emporium.jpg",
+    "layer": "map",
+    "w": 1330,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Secret Well",
+  "id": "-O4b6a7FLKGjivkaIkoL",
+  "archived": false,
+  "maps": [
+   {
+    "file": "secret-well.jpg",
+    "layer": "map",
+    "w": 2240,
+    "h": 2240
+   }
+  ]
+ },
+ {
+  "page": "Shadowmirror Cell ",
+  "id": "-O0DK6LEGAaPcveZ2JBj",
+  "archived": false,
+  "maps": [
+   {
+    "file": "shadowmirror-cell.avif",
+    "layer": "map",
+    "w": 1750,
+    "h": 4340
+   }
+  ]
+ },
+ {
+  "page": "Sidewinder Class",
+  "id": "-Owj_WWaSrjIWIucvebV",
+  "archived": false,
+  "maps": [
+   {
+    "file": "sidewinder-class.png",
+    "layer": "map",
+    "w": 1120,
+    "h": 1120
+   }
+  ]
+ },
+ {
+  "page": "Silver Flame Church",
+  "id": "-O3FtJjVc-kRuVl99JtY",
+  "archived": false,
+  "maps": [
+   {
+    "file": "silver-flame-church.png",
+    "layer": "map",
+    "w": 1750,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Silver Flame Church Attack",
+  "id": "-P2V3s1Q3a_PKCk29Vdk",
+  "archived": false,
+  "maps": [
+   {
+    "file": "silver-flame-church-attack.png",
+    "layer": "map",
+    "w": 1750,
+    "h": 2100
+   },
+   {
+    "file": "silver-flame-church-attack-2.png",
+    "layer": "map",
+    "w": 1750,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Size Test",
+  "id": "-OwKd_zN9DzKovD_IuF0",
+  "archived": false,
+  "maps": [
+   {
+    "file": "size-test.png",
+    "layer": "map",
+    "w": 20650,
+    "h": 25550
+   }
+  ]
+ },
+ {
+  "page": "Skull Knight Forest (Unused)",
+  "id": "-OCuOeX4Xhvy3-R8jHPz",
+  "archived": true,
+  "maps": [
+   {
+    "file": "skull-knight-forest-unused.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "Small Below Deck Moonwatch",
+  "id": "-P2LHoh_XgJpE7Fi914-",
+  "archived": false,
+  "maps": [
+   {
+    "file": "small-below-deck-moonwatch.png",
+    "layer": "map",
+    "w": 630,
+    "h": 1610
+   }
+  ]
+ },
+ {
+  "page": "Small Brelish Ship",
+  "id": "-Owj_TD5Xcqd3-0WGpQi",
+  "archived": false,
+  "maps": [
+   {
+    "file": "small-brelish-ship.webp",
+    "layer": "map",
+    "w": 1890,
+    "h": 1120
+   }
+  ]
+ },
+ {
+  "page": "Small Main Deck Moonwatch",
+  "id": "-OwpERNgM3ThuKu8FQfo",
+  "archived": false,
+  "maps": [
+   {
+    "file": "small-main-deck-moonwatch.png",
+    "layer": "map",
+    "w": 630,
+    "h": 1610
+   }
+  ]
+ },
+ {
+  "page": "Starilaskur",
+  "id": "-OOduOHG-V8G2PEzxDjO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "starilaskur.jpg",
+    "layer": "map",
+    "w": 4900,
+    "h": 7350
+   },
+   {
+    "file": "starilaskur-2.png",
+    "layer": "map",
+    "w": 70,
+    "h": 22
+   }
+  ]
+ },
+ {
+  "page": "Starilaskur Attack",
+  "id": "-P2_yoXDf2DGMPPhrb6K",
+  "archived": false,
+  "maps": [
+   {
+    "file": "starilaskur-attack.jpg",
+    "layer": "map",
+    "w": 4900,
+    "h": 7350
+   },
+   {
+    "file": "starilaskur-attack-2.png",
+    "layer": "map",
+    "w": 4900,
+    "h": 7350
+   },
+   {
+    "file": "starilaskur-attack-3.png",
+    "layer": "map",
+    "w": 70,
+    "h": 22
+   }
+  ]
+ },
+ {
+  "page": "Stones Throw",
+  "id": "-O3oXacM8FPHjfhS7vWL",
+  "archived": false,
+  "maps": [
+   {
+    "file": "stones-throw.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 2100
+   }
+  ]
+ },
+ {
+  "page": "TPOD Bridge",
+  "id": "-NurGoxjK7Sb6QPXYrag",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tpod-bridge.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "TPOD Crew Quarters",
+  "id": "-NurGv3LRuYKFQIIx7Y5",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tpod-crew-quarters.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "TPOD Hull",
+  "id": "-NurGw4vOPL42h7spoFD",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tpod-hull.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "TPOD Lower Deck",
+  "id": "-NurGsPRlqluUoDj5e19",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tpod-lower-deck.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "TPOD Main Deck",
+  "id": "-NurGqcaXObl1L2667EB",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tpod-main-deck.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "TPOD Overview",
+  "id": "-NurGeBIllxqRPLqlcBo",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tpod-overview.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "TPOD War Room",
+  "id": "-O4Gz_Vpxihy15pzvZHf",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tpod-war-room.webp",
+    "layer": "map",
+    "w": 840,
+    "h": 840
+   }
+  ]
+ },
+ {
+  "page": "Tender World Object for Forge",
+  "id": "-P2kF8SsrEBACHm2CVB7",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tender-world-object-for-forge.png",
+    "layer": "objects",
+    "w": 497,
+    "h": 1178
+   }
+  ]
+ },
+ {
+  "page": "The Ardev Watch",
+  "id": "-O3FpZm13u2wkcMR9Zwp",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-ardev-watch.png",
+    "layer": "map",
+    "w": 1400,
+    "h": 1400
+   }
+  ]
+ },
+ {
+  "page": "The Black Steed Lower Deck",
+  "id": "-OEk9UZ2GTI-Ukj3K5wc",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-black-steed-lower-deck.webp",
+    "layer": "map",
+    "w": 4830,
+    "h": 3500
+   }
+  ]
+ },
+ {
+  "page": "The Boundless Crash",
+  "id": "-O7bwe4iPYV5MsZieN-c",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-boundless-crash.jpg",
+    "layer": "map",
+    "w": 2240,
+    "h": 1400
+   }
+  ]
+ },
+ {
+  "page": "The Bowels of Moc-Vara",
+  "id": "-O97MLKnbFr_2nUd1t1Z",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-bowels-of-moc-vara.jpg",
+    "layer": "objects",
+    "w": 1750,
+    "h": 1330
+   }
+  ]
+ },
+ {
+  "page": "The Broadaxe",
+  "id": "-NjzVQDz0YeUoo0hj6dW",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-broadaxe-2.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 1470
+   }
+  ]
+ },
+ {
+  "page": "The Eternal Night",
+  "id": "-P1Nt2PgHfGIloQ2_vuD",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-eternal-night.webp",
+    "layer": "map",
+    "w": 1610,
+    "h": 1610
+   }
+  ]
+ },
+ {
+  "page": "The Eternal Night Bridge",
+  "id": "-OwjQhptRRYlgMuRRnnG",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-eternal-night-bridge.webp",
+    "layer": "map",
+    "w": 630,
+    "h": 420
+   }
+  ]
+ },
+ {
+  "page": "The Eternal Night Crew Quarters",
+  "id": "-OTKAj_5Nq2vbTsoTy4v",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-eternal-night-crew-quarters.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 2450
+   }
+  ]
+ },
+ {
+  "page": "The Eternal Night Lower Deck",
+  "id": "-OwjIYrFmps78qfg4ULj",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-eternal-night-lower-deck.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 2520
+   }
+  ]
+ },
+ {
+  "page": "The Kason",
+  "id": "-O0I60aipb5mtwSm02Rv",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-kason.webp",
+    "layer": "objects",
+    "w": 1750,
+    "h": 1050
+   }
+  ]
+ },
+ {
+  "page": "The Moonwatch",
+  "id": "-NjzV4UfAiUdH30bjlmf",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-moonwatch.jpg",
+    "layer": "map",
+    "w": 2170,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "The Moonwatch Attack",
+  "id": "-P2ejrzWt8OQKdbtuW_l",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-moonwatch-attack.jpg",
+    "layer": "map",
+    "w": 2170,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "The Mycenia Vasts",
+  "id": "-OwoAhmbFNpEZiABORfd",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-mycenia-vasts.png",
+    "layer": "map",
+    "w": 2450,
+    "h": 910
+   }
+  ]
+ },
+ {
+  "page": "The Turckle and Churckle",
+  "id": "-O3Fq-Bimyh-SlwW8bdp",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-turckle-and-churckle.jpg",
+    "layer": "map",
+    "w": 5950,
+    "h": 4620
+   }
+  ]
+ },
+ {
+  "page": "The Witchs Waltz",
+  "id": "-OP8JwYSIeTc2ina_bpD",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-witchs-waltz.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 2310
+   }
+  ]
+ },
+ {
+  "page": "Threadwood Basement",
+  "id": "-O3Fy3kYCOHv7zxkWxlb",
+  "archived": false,
+  "maps": [
+   {
+    "file": "threadwood-basement.png",
+    "layer": "map",
+    "w": 910,
+    "h": 630
+   }
+  ]
+ },
+ {
+  "page": "Threadwood House",
+  "id": "-O3Fs3b1ji2IvSdMc5_-",
+  "archived": false,
+  "maps": [
+   {
+    "file": "threadwood-house.webp",
+    "layer": "map",
+    "w": 1190,
+    "h": 770
+   }
+  ]
+ },
+ {
+  "page": "Tomb of Centarrel 1",
+  "id": "-NsXckQ-6LNs3MqyMwei",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tomb-of-centarrel-1.webp",
+    "layer": "map",
+    "w": 2100,
+    "h": 1400
+   }
+  ]
+ },
+ {
+  "page": "Tomb of Centarrel 2",
+  "id": "-NsXblplJi0ghK7n8gF_",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tomb-of-centarrel-2.jpg",
+    "layer": "map",
+    "w": 2380,
+    "h": 2380
+   }
+  ]
+ },
+ {
+  "page": "Tomb of Centarrel 3",
+  "id": "-NsXcG8eEdFAJSljoiE0",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tomb-of-centarrel-3.jpg",
+    "layer": "map",
+    "w": 1750,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Tunnel Lightning Rail 1",
+  "id": "-OCf5h1Pw-PWsAbPH2nI",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tunnel-lightning-rail-1.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-1-2.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-1-3.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-1-4.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-1-5.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-1-6.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-1-7.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-1-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Tunnel Lightning Rail 2",
+  "id": "-OCf5Y-9scXW9ZLv9zDO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tunnel-lightning-rail-2.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-2-2.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-2-3.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-2-4.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-2-5.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-2-6.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-2-7.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-2-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-2-9.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Tunnel Lightning Rail 3",
+  "id": "-OCf5m1eRLBrxeQOHfRW",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tunnel-lightning-rail-3.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-3-2.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-3-3.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-3-4.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "tunnel-lightning-rail-3-5.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-3-6.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-3-7.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-3-8.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   },
+   {
+    "file": "tunnel-lightning-rail-3-9.png",
+    "layer": "map",
+    "w": 840,
+    "h": 140
+   }
+  ]
+ },
+ {
+  "page": "Turckle Basement",
+  "id": "-O3G1aLNZkb-VjyXtpl7",
+  "archived": false,
+  "maps": [
+   {
+    "file": "turckle-basement.jpg",
+    "layer": "map",
+    "w": 2590,
+    "h": 1890
+   }
+  ]
+ },
+ {
+  "page": "Turtle Lightning Rail 4",
+  "id": "-OC14iaRmvvLYnDADn35",
+  "archived": false,
+  "maps": [
+   {
+    "file": "turtle-lightning-rail-4.avif",
+    "layer": "map",
+    "w": 2870,
+    "h": 5600
+   },
+   {
+    "file": "turtle-lightning-rail-4-2.png",
+    "layer": "map",
+    "w": 2870,
+    "h": 5600
+   },
+   {
+    "file": "turtle-lightning-rail-4-3.png",
+    "layer": "map",
+    "w": 1503,
+    "h": 778
+   },
+   {
+    "file": "turtle-lightning-rail-4-4.png",
+    "layer": "map",
+    "w": 1503,
+    "h": 778
+   },
+   {
+    "file": "turtle-lightning-rail-4-5.png",
+    "layer": "map",
+    "w": 1470,
+    "h": 791
+   },
+   {
+    "file": "turtle-lightning-rail-4-6.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "turtle-lightning-rail-4-7.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   },
+   {
+    "file": "turtle-lightning-rail-4-8.png",
+    "layer": "map",
+    "w": 1540,
+    "h": 560
+   }
+  ]
+ },
+ {
+  "page": "Unused Gorgis Basement",
+  "id": "-O3FxCbsAeC5Vk2gwrQW",
+  "archived": false,
+  "maps": [
+   {
+    "file": "unused-gorgis-basement.png",
+    "layer": "map",
+    "w": 840,
+    "h": 560
+   }
+  ]
+ },
+ {
+  "page": "Valvier Basement",
+  "id": "-O3FzPXBGnlIQa31ExMS",
+  "archived": false,
+  "maps": [
+   {
+    "file": "valvier-basement.png",
+    "layer": "map",
+    "w": 1190,
+    "h": 630
+   }
+  ]
+ },
+ {
+  "page": "Valvier House",
+  "id": "-O3FzO1FztkdW-seeaFi",
+  "archived": false,
+  "maps": [
+   {
+    "file": "valvier-house.png",
+    "layer": "map",
+    "w": 1190,
+    "h": 630
+   }
+  ]
+ },
+ {
+  "page": "Viper Class",
+  "id": "-Owp6xObl5jYcOeHJ6Pm",
+  "archived": false,
+  "maps": [
+   {
+    "file": "viper-class.webp",
+    "layer": "map",
+    "w": 1610,
+    "h": 1540
+   }
+  ]
+ },
+ {
+  "page": "Wraithwind Bridge",
+  "id": "-O0MgCho9TSSKujuF1ox",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wraithwind-bridge.webp",
+    "layer": "map",
+    "w": 840,
+    "h": 560
+   }
+  ]
+ },
+ {
+  "page": "Wraithwind Brig",
+  "id": "-O0D8c4s9ZVGjdVuwbmO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wraithwind-brig.webp",
+    "layer": "map",
+    "w": 2450,
+    "h": 1680
+   }
+  ]
+ },
+ {
+  "page": "Wraithwind Crew Quarters",
+  "id": "-O0DB7qHj_JGMsFOwZ5L",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wraithwind-crew-quarters.webp",
+    "layer": "map",
+    "w": 4830,
+    "h": 3500
+   }
+  ]
+ },
+ {
+  "page": "Wraithwind Lower Deck",
+  "id": "-O0D9vG96NUWlVjGYMxl",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wraithwind-lower-deck.webp",
+    "layer": "map",
+    "w": 4830,
+    "h": 3500
+   }
+  ]
+ },
+ {
+  "page": "Wraithwind Main Deck",
+  "id": "-O0DCdT1vDu_adWU3tMi",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wraithwind-main-deck.webp",
+    "layer": "map",
+    "w": 2800,
+    "h": 2800
+   }
+  ]
+ },
+ {
+  "page": "Wraithwind Viewing Deck",
+  "id": "-O0DC02DOfEDoNRx-qoR",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wraithwind-viewing-deck.webp",
+    "layer": "map",
+    "w": 4830,
+    "h": 3500
+   }
+  ]
+ },
+ {
+  "page": "Wroat From The Air",
+  "id": "-NrF_dw1gYlAASyao5cG",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wroat-from-the-air.webp",
+    "layer": "objects",
+    "w": 1750,
+    "h": 1260
+   }
+  ]
+ },
+ {
+  "page": "Wroat Military Police Station",
+  "id": "-NzpR75PPHwbr6e32L70",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wroat-military-police-station.jpg",
+    "layer": "map",
+    "w": 3150,
+    "h": 3150
+   }
+  ]
+ },
+ {
+  "page": "Wroat Street",
+  "id": "-NyyH-hNl21KYjKuagaq",
+  "archived": false,
+  "maps": [
+   {
+    "file": "wroat-street.jpg",
+    "layer": "map",
+    "w": 6160,
+    "h": 3150
+   }
+  ]
+ },
+ {
+  "page": "Xal'ri House",
+  "id": "-O3FyXp_TbiCXHWu8xHC",
+  "archived": false,
+  "maps": [
+   {
+    "file": "xal-ri-house.jfif",
+    "layer": "map",
+    "w": 2100,
+    "h": 2310
+   }
+  ]
+ },
+ {
+  "page": "Xal'ri Upstairs",
+  "id": "-O3G-PH2N-Vu3lTxJMIS",
+  "archived": false,
+  "maps": [
+   {
+    "file": "xal-ri-upstairs.jpg",
+    "layer": "map",
+    "w": 700,
+    "h": 1120
+   }
+  ]
+ },
+ {
+  "page": "Yedani Valley Airship Sabotage",
+  "id": "-NncUd-KgVDGDhxk4N6t",
+  "archived": false,
+  "maps": [
+   {
+    "file": "yedani-valley-airship-sabotage.jpg",
+    "layer": "map",
+    "w": 9800,
+    "h": 3360
+   }
+  ]
+ },
+ {
+  "page": "Zelbrus Forest",
+  "id": "-NurGUvC716fwAiM_5sf",
+  "archived": false,
+  "maps": [
+   {
+    "file": "zelbrus-forest.webp",
+    "layer": "map",
+    "w": 3920,
+    "h": 2170
+   },
+   {
+    "file": "zelbrus-forest-2.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "zelbrus-forest-3.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "zelbrus-forest-4.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "zelbrus-forest-5.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "zelbrus-forest-6.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "zelbrus-forest-7.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "zelbrus-forest-8.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   },
+   {
+    "file": "zelbrus-forest-9.png",
+    "layer": "map",
+    "w": 210,
+    "h": 210
+   }
+  ]
+ }
+]

@@ -47,8 +47,7 @@
  "Brand": {
   "file": "gen/refs/brand.png",
   "source": "portrait you provided",
-  "roll20": "Brand Broadhelm",
-  "roll20_file": "gen/refs/roll20/characters/brand-broadhelm.png"
+  "roll20": "Brand Broadhelm"
  },
  "Brokk": {
   "file": "gen/refs/roll20/characters/brokk-broadhelm.png",
@@ -328,8 +327,7 @@
  "Lirael": {
   "file": "gen/refs/lirael.png",
   "source": "portrait you provided",
-  "roll20": "Lirael Xal'ri Jr",
-  "roll20_file": "gen/refs/roll20/characters/lirael-xal-ri-jr.png"
+  "roll20": "Lirael Xal'ri Jr"
  },
  "Lirael Sr": {
   "file": "gen/refs/roll20/characters/lirael-xal-ri-sr.png",
@@ -410,8 +408,7 @@
  "Sazed": {
   "file": "gen/refs/sazed.png",
   "source": "portrait you provided",
-  "roll20": "Sazed Dengard",
-  "roll20_file": "gen/refs/roll20/characters/sazed-dengard.png"
+  "roll20": "Sazed Dengard"
  },
  "Screech": {
   "file": "gen/refs/roll20/characters/master-chief-screech-delman-swordblade.webp",

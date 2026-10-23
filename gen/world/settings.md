@@ -479,7 +479,7 @@ Also called: the Lost Mausoleum of Ardev, the dungeon.
 **Periods**
 
 - From session 23, Discovery: Reverent and glowing, with imps and quasits loitering at the entrance and an annoying old imp playing music.
-- From session 24, The ritual: The main chamber becomes a demonic ritual site. The murdered townsfolk are strung up, the men's genitals cut off and stuffed in their mouths, the women's breasts cut off and wombs cut out. A girl is tied unclothed to a table in a trance above a glowing demon portal while the spectral Fury takes form.
+- From session 24, The ritual: The main chamber becomes a demonic ritual site. The murdered townsfolk are strung up, the men's genitals cut off and stuffed in their mouths, the women's breasts cut off and wombs cut out. A young woman is tied unclothed to a table in a trance above a glowing demon portal while the spectral Fury takes form.
 - From session 25, Aftermath: The portal is dead and the side passages are wrecked by a rampaging bone devil, with the statues in the underwater cave smashed. An old guardian construct patrols the halls.
 
 **Sub-locations**
