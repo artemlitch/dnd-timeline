@@ -2280,6 +2280,27 @@
    ],
    "cost": 0.0346595,
    "at": "2026-10-23T13:01:37"
+  },
+  {
+   "version": 3,
+   "file": "site/img/sazed-throws-the-keys.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/sazed-throws-the-keys.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Keys",
+    "Sheldor",
+    "Sorenson",
+    "Dyll Strickland"
+   ],
+   "refs": [
+    "Character lineup",
+    "Obstacle Course map"
+   ],
+   "cost": 0.03465025,
+   "at": "2026-10-23T15:21:48",
+   "draft": "gen/drafts/sazed-throws-the-keys/20261023-152148-031000.jpg"
   }
  ],
  "brand-and-the-npcs-finish": [
@@ -2356,6 +2377,24 @@
    ],
    "cost": 0.034561,
    "at": "2026-10-23T13:00:33"
+  },
+  {
+   "version": 3,
+   "file": "site/img/leff-skullcrusher.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/leff-skullcrusher.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Leff"
+   ],
+   "refs": [
+    "Character lineup",
+    "Home Base map"
+   ],
+   "cost": 0.03455175,
+   "at": "2026-10-23T15:21:47",
+   "draft": "gen/drafts/leff-skullcrusher/20261023-152147-785000.jpg"
   }
  ],
  "herbalist-kit-retcon": [
@@ -2443,6 +2482,25 @@
    ],
    "cost": 0.03458125,
    "at": "2026-10-23T13:47:02"
+  },
+  {
+   "version": 3,
+   "file": "site/img/demon-village.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/demon-village.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Demon Village map"
+   ],
+   "cost": 0.034572,
+   "at": "2026-10-23T15:21:48",
+   "draft": "gen/drafts/demon-village/20261023-152148-283000.jpg"
   }
  ],
  "cambion-confession": [
@@ -4102,6 +4160,27 @@
    ],
    "cost": 0.034655,
    "at": "2026-10-23T13:00:11"
+  },
+  {
+   "version": 3,
+   "file": "site/img/hangover-and-dyll.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/hangover-and-dyll.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Sheldor",
+    "Leff",
+    "Tauren",
+    "Dyll Strickland"
+   ],
+   "refs": [
+    "Character lineup",
+    "Obstacle Course map"
+   ],
+   "cost": 0.03464575,
+   "at": "2026-10-23T15:21:50",
+   "draft": "gen/drafts/hangover-and-dyll/20261023-152150-232000.jpg"
   }
  ],
  "fighting-shadow-selves": [
@@ -6373,6 +6452,24 @@
    ],
    "cost": 0.03421925,
    "at": "2026-10-23T13:01:52"
+  },
+  {
+   "version": 3,
+   "file": "site/img/skye-reunion.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/skye-reunion.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Skye"
+   ],
+   "refs": [
+    "Character lineup",
+    "Abandoned Shack map"
+   ],
+   "cost": 0.034509,
+   "at": "2026-10-23T15:21:49",
+   "draft": "gen/drafts/skye-reunion/20261023-152149-077000.jpg"
   }
  ],
  "barry-and-brokk-waiting": [
@@ -7416,6 +7513,24 @@
    ],
    "cost": 0.03490575,
    "at": "2026-10-23T13:01:48"
+  },
+  {
+   "version": 3,
+   "file": "site/img/skye-asks-about-stones-throw.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/skye-asks-about-stones-throw.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Skye"
+   ],
+   "refs": [
+    "Character lineup",
+    "Below Deck Moonwatch map"
+   ],
+   "cost": 0.03459825,
+   "at": "2026-10-23T15:21:48",
+   "draft": "gen/drafts/skye-asks-about-stones-throw/20261023-152148-564000.jpg"
   }
  ],
  "wilford-mushroom-warning": [

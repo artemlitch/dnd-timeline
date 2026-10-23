@@ -4229,8 +4229,8 @@
         "Sorenson",
         "Obstacle Course"
       ],
-      "img": "img/sazed-throws-the-keys.v2.jpg",
-      "img_version": 2
+      "img": "img/sazed-throws-the-keys.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "brand-and-the-npcs-finish",
@@ -4344,8 +4344,8 @@
         "Skullcrusher",
         "DarkWood Prison"
       ],
-      "img": "img/leff-skullcrusher.v2.jpg",
-      "img_version": 2
+      "img": "img/leff-skullcrusher.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "herbalist-kit-retcon",
@@ -4524,7 +4524,7 @@
       "session": 12,
       "kind": "battle",
       "major": true,
-      "img": "img/demon-village.v2.jpg",
+      "img": "img/demon-village.v3.jpg",
       "summary": "Lirael drops a thunderwave on the demons crowding Brand's shield and kills nearly every one of them in a single blast.",
       "detail": "The imps and quasits had bunched up around Brand, trying and failing to get through his defences. Lirael's thunderwave tears through the crowd and kills nearly all of them at once. The party mops up the survivors one by one. Two imps turn invisible and escape into the forest. Those two will turn up again, first stealing food in Gelf's house and later firebombing the party's home in revenge.",
       "tags": [
@@ -4534,7 +4534,7 @@
         "Quasits",
         "Boranex"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "cambion-confession",
@@ -6708,8 +6708,8 @@
         "Leff",
         "Sheldor"
       ],
-      "img": "img/hangover-and-dyll.v2.jpg",
-      "img_version": 2
+      "img": "img/hangover-and-dyll.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "fighting-shadow-selves",
@@ -9589,8 +9589,8 @@
         "Sazed",
         "Stones Throw"
       ],
-      "img": "img/skye-reunion.v2.jpg",
-      "img_version": 2
+      "img": "img/skye-reunion.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "barry-and-brokk-waiting",
@@ -11807,8 +11807,8 @@
         "Stones Throw",
         "Wilford"
       ],
-      "img": "img/skye-asks-about-stones-throw.v2.jpg",
-      "img_version": 2
+      "img": "img/skye-asks-about-stones-throw.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "wilford-mushroom-warning",
