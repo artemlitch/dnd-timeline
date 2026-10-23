@@ -1,0 +1,22 @@
+{tone}
+This scene is an undead knight silencing a raving monster with a single question.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:dreamweaver-dream/dream-prison}
+In this moment: the dream prison inside Lirael's mind, a portal torn open in the dark where the knight's sword cut through. Time and light: the dark of the dream, lit by the knight's pink crystal sword and the portal.
+{maps:Dream Prison}
+
+THE MOMENT
+The Dreamweaver, a huge floating orb of flesh with one great central eye and writhing eyestalks, has been raving and taunting, growing more and more crazed. The Skull Knight stands before it, calm, his glowing pink crystal sword lowered, and has just asked it one quiet question: does it know its true name? The Dreamweaver has frozen mid-rant, eyestalks stiff, its great eye wide and silent. Behind the knight, Lirael clings to the bars of a cage, staring.
+
+CAST
+- The Dreamweaver: a huge floating beholder-like aberration, an orb of mottled flesh with one great central eye, a fanged maw and writhing eyestalks.
+- {cast:The Skull Knight}
+- {cast:Lirael} Here: in a cage in the dream prison.
+- Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

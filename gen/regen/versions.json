@@ -2507,6 +2507,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/cambion-confession.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/cambion-confession.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Demon Village map"
+   ],
+   "cost": 0.0345635,
+   "at": "2026-10-23T15:27:11",
+   "draft": "gen/drafts/cambion-confession/20261023-152711-710000.jpg"
   }
  ],
  "bells-beans-and-sentinel-gear": [
@@ -4176,6 +4195,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/prison-nightmare-brass-dragon.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/prison-nightmare-brass-dragon.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Dream Prison map"
+   ],
+   "cost": 0.0345835,
+   "at": "2026-10-23T15:27:14",
+   "draft": "gen/drafts/prison-nightmare-brass-dragon/20261023-152714-309000.jpg"
   }
  ],
  "hangover-and-dyll": [
@@ -4925,6 +4963,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/fathers-den.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/fathers-den.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Lirael Sr",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Lireal Sr Den/Basement map"
+   ],
+   "cost": 0.0345995,
+   "at": "2026-10-23T15:27:11",
+   "draft": "gen/drafts/fathers-den/20261023-152711-163000.jpg"
   }
  ],
  "runes-on-the-obelisk": [
@@ -6087,6 +6145,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/a-call-from-lirael.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/a-call-from-lirael.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Erald",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Below Deck Moonwatch map"
+   ],
+   "cost": 0.034613,
+   "at": "2026-10-23T15:27:13",
+   "draft": "gen/drafts/a-call-from-lirael/20261023-152713-485000.jpg"
   }
  ],
  "skye-feels-abandoned": [
@@ -6509,6 +6587,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-true-name.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-true-name.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "The Skull Knight"
+   ],
+   "refs": [
+    "Character lineup",
+    "Dream Prison map"
+   ],
+   "cost": 0.034569,
+   "at": "2026-10-23T15:27:12",
+   "draft": "gen/drafts/the-true-name/20261023-152712-930000.jpg"
   }
  ],
  "mr-beaks-returns": [

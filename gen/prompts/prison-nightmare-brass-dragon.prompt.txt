@@ -1,0 +1,22 @@
+{tone}
+This scene is a shared nightmare broken open by a dragon of light.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:dreamweaver-dream/dream-prison}
+In this moment: the dream prison, its iron bars and chains now bursting apart. Time and light: the dark of the dream, lit by the dragon's blaze of golden light.
+{maps:Dream Prison}
+
+THE MOMENT
+The party has held their minds together against the nightmare, and now the brass dragon breaks itself free: it bursts out of its chains in a blaze of golden light, iron bars shattering around it, and the shackles fall from the party too. Lirael lies limp on the stone floor, and the dragon breathes a soft golden light over him, reviving him, his eyes just opening. Sazed kneels at his side. Brand stands looking up at the dragon as it lowers its great head to him and tells him to go to the forge.
+
+CAST
+- The brass dragon: a huge, gleaming brass dragon with a wide, crested head and great sail-like wings.
+- {cast:Lirael} Here: lying limp, just reviving.
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

@@ -4557,8 +4557,8 @@
         "Portal",
         "Demons"
       ],
-      "img": "img/cambion-confession.jpg",
-      "img_version": 1
+      "img": "img/cambion-confession.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bells-beans-and-sentinel-gear",
@@ -6684,8 +6684,8 @@
         "Lirael",
         "Nightmare"
       ],
-      "img": "img/prison-nightmare-brass-dragon.jpg",
-      "img_version": 1
+      "img": "img/prison-nightmare-brass-dragon.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "hangover-and-dyll",
@@ -7620,7 +7620,7 @@
       "session": 19,
       "kind": "revelation",
       "major": true,
-      "img": "img/fathers-den.jpg",
+      "img": "img/fathers-den.v2.jpg",
       "summary": "In the basement den, Lirael Sr's books and journals trace a brilliant general's slide into obsession with the Dreamweaver and the Shadow Mirror.",
       "detail": "Lirael Sr was a powerful wizard, a Brelish general and head of the Magic Society, and a scholar of ancient eldritch beings. Three years ago he became convinced that someone in the Brelish military was trying to capture the Dreamweaver, and that only the Shadow Mirror could control it. He stopped doing his duties, sent away his guard, and was discharged after he was caught investigating his superiors. Lirael once followed him to a warlock cult in Starilaskur. A year and a half into his obsession he disappeared. Going through the den, Lirael tells the party the whole story. He wonders whether his father was mad, or a man who saw what no one else could.",
       "tags": [
@@ -7631,7 +7631,7 @@
         "Magic Society",
         "Ardev"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "runes-on-the-obelisk",
@@ -9109,8 +9109,8 @@
         "Ember",
         "Sagewoods"
       ],
-      "img": "img/a-call-from-lirael.jpg",
-      "img_version": 1
+      "img": "img/a-call-from-lirael.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "skye-feels-abandoned",
@@ -9544,8 +9544,8 @@
         "Dol Dorn",
         "Brand"
       ],
-      "img": "img/the-true-name.jpg",
-      "img_version": 1
+      "img": "img/the-true-name.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "mr-beaks-returns",

@@ -1,0 +1,23 @@
+{tone}
+This scene is a chilling message from a possessed friend.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the lower deck crowded with crates, Brand's half-built devices and the train blueprints spread on a workbench. Time and light: evening, lamplight.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Erald, the nervous clerk, holds out his ringing sending stone in a shaking palm, terrified. Rising from its glow is a small, faint apparition of Lirael's head and shoulders, but wrong: dreamwoven, his eyes gone black and empty, his smile cold, warning them to stop following him and threatening Ember and the Sagewoods. Brand, in his power armor, and Sazed lean over the stone, grim, refusing to back down.
+
+CAST
+- {cast:Erald}
+- {cast:Lirael} Here: only a small, translucent apparition of his head and shoulders rising from the stone, possessed, eyes black and empty.
+- {cast:Brand}
+- {cast:Sazed}
+- Ember's portrait is attached for reference only; Ember is not in this moment. Do not draw her.
+
+REFERENCES
+{references}

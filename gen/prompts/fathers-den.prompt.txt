@@ -1,0 +1,22 @@
+{tone}
+This scene is a son going through his missing father's obsessive study.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: the basement den buried in Lirael Sr's work: stacks of books, open journals, papers pinned in crowded clusters across the walls, string running between them, and a dusty portrait of Lirael Sr in a general's uniform. Time and light: night, lamplight.
+{maps:Lireal Sr Den/Basement}
+
+THE MOMENT
+Lirael sits at his father's cluttered desk with an open journal in his hands, telling the party the whole story: the brilliant general, the obsession, the disappearance. His face is torn between grief and doubt. Sazed stands at the wall of pinned papers, following the strings with his eyes. Brand, in his power armor, sits on a crate, listening, helmet in his lap.
+
+CAST
+- {cast:Lirael}
+- {cast:Lirael Sr} Here: only as the painted portrait on the wall.
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}
