@@ -1,0 +1,20 @@
+{tone}
+This scene is the discovery of a hidden, reverent tomb.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:mausoleum-of-alton-ardev/mausoleum-main-chamber}
+Time and light: the chamber's own faint glow and the blue light of the fountain.
+
+THE MOMENT
+The party has just stepped down from the hidden stairs into the tomb of Alton Ardev and stopped, struck silent. Sazed kneels at the low fountain in the centre, trailing his fingers through its glowing blue water and feeling its strength. Lirael stands before the mural of Alton among drow and goblinoids, his hand extended in peace, and reaches out to touch the carved drow faces. Brand, in his power armor, looks up at the statue of Alton grown old, his helmet tucked under his arm.
+
+CAST
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand}
+
+REFERENCES
+{references}

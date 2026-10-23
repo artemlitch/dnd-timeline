@@ -234,6 +234,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/wardens-secret.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/wardens-secret.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Warden Sharpe",
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.03433575,
+   "at": "2026-10-23T14:02:23"
   }
  ],
  "erald-names-the-necromancer": [
@@ -408,6 +426,22 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/grail-falls.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/grail-falls.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Grail Grimdell"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.034261,
+   "at": "2026-10-23T14:02:23"
   }
  ],
  "mourning-the-fallen": [
@@ -4822,6 +4856,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/mausoleum-of-ardev.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/mausoleum-of-ardev.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Lirael",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.03426825,
+   "at": "2026-10-23T14:02:24"
   }
  ],
  "sazed-kicks-five-imps": [
@@ -5832,6 +5883,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/skull-knights-judgment.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/skull-knights-judgment.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "The Skull Knight",
+    "Brand",
+    "Sazed",
+    "Felicia Jr"
+   ],
+   "refs": [
+    "Character lineup",
+    "Main Deck Moonwatch map"
+   ],
+   "cost": 0.034646,
+   "at": "2026-10-23T14:02:24"
   }
  ],
  "the-true-name": [
@@ -6060,6 +6131,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/dell-quickfoot-visit.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/dell-quickfoot-visit.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Dell Quickfoot",
+    "Topek",
+    "Wylon"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Moonwatch"
+   ],
+   "cost": 0.0346825,
+   "at": "2026-10-23T14:02:24"
   }
  ],
  "skye-on-the-flight-deck": [

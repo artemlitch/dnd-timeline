@@ -1293,7 +1293,7 @@
     },
     {
       "id": "wardens-secret",
-      "img": "img/wardens-secret.jpg",
+      "img": "img/wardens-secret.v2.jpg",
       "title": "Warden Sharpe's Confession",
       "year": 993,
       "month": 1,
@@ -1312,7 +1312,7 @@
         "Karrnath",
         "DarkWood"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "erald-names-the-necromancer",
@@ -1665,7 +1665,7 @@
     },
     {
       "id": "grail-falls",
-      "img": "img/grail-falls.jpg",
+      "img": "img/grail-falls.v2.jpg",
       "title": "Brand's Seeking Shot Ends Grail",
       "year": 993,
       "month": 1,
@@ -1683,7 +1683,7 @@
         "Grail Grimdell",
         "DarkWood"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "mourning-the-fallen",
@@ -8320,7 +8320,7 @@
       "session": 23,
       "kind": "revelation",
       "major": true,
-      "img": "img/mausoleum-of-ardev.jpg",
+      "img": "img/mausoleum-of-ardev.v2.jpg",
       "summary": "The passage opens on the tomb of Alton Ardev, who led outcast drow from Sharn to build a town for all races, half above ground and half in Khyber.",
       "detail": "A soft glow fills the chamber, and a low fountain sparkles with blue, rejuvenating water. Murals show Alton as a humble figure among drow and goblinoids, the outcasts fleeing Sharn, and his procession into the wilds with his staff raised. One mural shows the vision of Ardev with its people mingling in peace. Statues show him young and hopeful and then old and weathered. A final mural shows him standing alone before the King of Breland, pleading for his town. A young Neer and Elk were once his advisors.",
       "tags": [
@@ -8331,7 +8331,7 @@
         "Neer",
         "Elk"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "sazed-kicks-five-imps",
@@ -9511,7 +9511,7 @@
       "session": 29,
       "kind": "revelation",
       "major": true,
-      "img": "img/skull-knights-judgment.jpg",
+      "img": "img/skull-knights-judgment.v2.jpg",
       "summary": "The black mist returns and the Skull Knight steps onto the deck to judge those who carry the Obelisk and the Gate.",
       "detail": "Lirael's father carried these artifacts before them. The knight asks a series of cryptic questions and the party's answers satisfy him. He concludes that they are careful of knowledge, have seen half the light, and that their minds are barricaded. He judges them worthy to carry the Obelisk and the Gate. Then he uses his sword to open a portal into Lirael.",
       "tags": [
@@ -9521,7 +9521,7 @@
         "Lirael Sr",
         "Lirael"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "the-true-name",
@@ -10069,8 +10069,8 @@
         "Ardev Watch",
         "Lirael"
       ],
-      "img": "img/dell-quickfoot-visit.jpg",
-      "img_version": 1
+      "img": "img/dell-quickfoot-visit.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "skye-on-the-flight-deck",

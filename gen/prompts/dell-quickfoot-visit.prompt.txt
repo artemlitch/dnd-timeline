@@ -1,0 +1,25 @@
+{tone}
+This scene is a frightened reporter being carried off by his bodyguards.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-landing-field}
+In this moment: the Moonwatch is parked on the landing field, freshly repaired. Time and light: late morning.
+
+THE MOMENT
+Dell Quickfoot, the tortle reporter, has just finished warning Lirael that there is no record of his crimes anywhere and that the Ardev Watch's reporting on him is a fraud. Now, to lie low, he has pulled himself completely into his shell, head, arms and legs gone, and his two wereshark bodyguards, Topek and Wylon, have hoisted the shell between them and are carrying him away across the field like a heavy trunk. Lirael and Brand, in his power armor, stand at the foot of the Moonwatch's ramp, watching them go.
+
+CAST
+- {cast:Dell Quickfoot} Here: pulled entirely inside his shell, only the shell visible.
+- {cast:Topek}
+- {cast:Wylon}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:The Moonwatch}
+- Grib Grimley's portrait is attached for reference only; Grib Grimley is not in this moment. Do not draw him.
+- Helena Braithwind's portrait is attached for reference only; Helena Braithwind is not in this moment. Do not draw her.
+
+REFERENCES
+{references}

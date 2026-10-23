@@ -1,0 +1,23 @@
+{tone}
+This scene is an undead knight passing judgment on an airship's deck.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/flight-deck}
+In this moment: a black, suffocating mist rolls across the deck. Time and light: day, dimmed by the black mist.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+The Skull Knight stands on the deck of the Moonwatch, having stepped out of the black mist, and has judged them worthy. Lirael lies unconscious on the deck, trapped in the Dreamweaver's dream prison, and the knight turns the point of his glowing pink crystal sword down to Lirael's chest: where it touches, a swirling portal tears open into Lirael's mind. Brand, in his power armor, and Sazed stand to either side, watching, battered from the fight on the train. Felicia Jr kneels beside her brother, clutching his hand.
+
+CAST
+- {cast:The Skull Knight}
+- {cast:Lirael} Here: lying unconscious on the deck.
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Felicia Jr}
+
+REFERENCES
+{references}
