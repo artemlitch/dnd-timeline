@@ -968,8 +968,8 @@
         "Faird",
         "Sending Stone"
       ],
-      "img": "img/lirael-plays-cromwell.jpg",
-      "img_version": 1
+      "img": "img/lirael-plays-cromwell.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "newbie-night",
@@ -1063,8 +1063,8 @@
         "Scud",
         "Leff"
       ],
-      "img": "img/snatched-off-the-ledge.jpg",
-      "img_version": 1
+      "img": "img/snatched-off-the-ledge.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sazed-breaks-out-swinging",
@@ -1754,8 +1754,8 @@
         "Cromwell",
         "Sending Stone"
       ],
-      "img": "img/sheldor-looks-for-cromwell.jpg",
-      "img_version": 1
+      "img": "img/sheldor-looks-for-cromwell.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "grails-necklace",
@@ -1869,8 +1869,8 @@
         "Snel Katar",
         "Mara'bor"
       ],
-      "img": "img/sheldor-and-the-snel-katar.jpg",
-      "img_version": 1
+      "img": "img/sheldor-and-the-snel-katar.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bluffing-the-mine-guards",
@@ -3456,8 +3456,8 @@
         "Smarmy Joe",
         "Duergar"
       ],
-      "img": "img/music-room-and-xendrik.jpg",
-      "img_version": 1
+      "img": "img/music-room-and-xendrik.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "gnome-pranks",
@@ -3833,8 +3833,8 @@
         "Tauren",
         "Dragonborn"
       ],
-      "img": "img/sauna-with-dyll-strickland.jpg",
-      "img_version": 1
+      "img": "img/sauna-with-dyll-strickland.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "halfling-card-game",
@@ -3884,7 +3884,7 @@
     },
     {
       "id": "flooded-house",
-      "img": "img/flooded-house.jpg",
+      "img": "img/flooded-house.v2.jpg",
       "title": "Waking to a Flooded Room",
       "year": 993,
       "month": 1,
@@ -3904,7 +3904,7 @@
         "Tauren",
         "Hobbstweedle"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "locked-in-by-metal-plates",
@@ -4205,8 +4205,8 @@
         "Brand",
         "Obstacle Course"
       ],
-      "img": "img/keys-the-shark.jpg",
-      "img_version": 1
+      "img": "img/keys-the-shark.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sazed-throws-the-keys",
@@ -4229,8 +4229,8 @@
         "Sorenson",
         "Obstacle Course"
       ],
-      "img": "img/sazed-throws-the-keys.jpg",
-      "img_version": 1
+      "img": "img/sazed-throws-the-keys.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-and-the-npcs-finish",
@@ -4321,8 +4321,8 @@
         "Xen'drik",
         "Shifters"
       ],
-      "img": "img/sheldor-tells-of-xendrik.jpg",
-      "img_version": 1
+      "img": "img/sheldor-tells-of-xendrik.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "leff-skullcrusher",
@@ -4344,8 +4344,8 @@
         "Skullcrusher",
         "DarkWood Prison"
       ],
-      "img": "img/leff-skullcrusher.jpg",
-      "img_version": 1
+      "img": "img/leff-skullcrusher.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "herbalist-kit-retcon",
@@ -4744,8 +4744,8 @@
         "Leff",
         "Tauren"
       ],
-      "img": "img/morkoth-rope-expedition.jpg",
-      "img_version": 1
+      "img": "img/morkoth-rope-expedition.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sheldor-wants-back-in",
@@ -4768,8 +4768,8 @@
         "Leff",
         "Keys"
       ],
-      "img": "img/sheldor-wants-back-in.jpg",
-      "img_version": 1
+      "img": "img/sheldor-wants-back-in.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sheldor-and-the-bag",
@@ -4783,7 +4783,7 @@
       "session": 12,
       "kind": "battle",
       "major": true,
-      "img": "img/sheldor-and-the-bag.jpg",
+      "img": "img/sheldor-and-the-bag.v2.jpg",
       "summary": "Brand wakes pinned by two Sentinels under a silence spell while Sheldor forces him into the Bag of Devouring, where something starts eating his mind.",
       "detail": "Brand wakes to find two Sentinels holding him down while Sheldor tries to stuff him into the bag. He tries to scream, but one of the Sentinels has cast silence. He throws a glass of water and then his alarm clock, and both get caught. He breaks free for a moment and is shoved into the bag anyway. Inside, the Dreamweaver begins assaulting his mind.",
       "tags": [
@@ -4793,7 +4793,7 @@
         "Bag of Devouring",
         "Sentinels"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "horn-of-silent-alarm",
@@ -4840,8 +4840,8 @@
         "Cromwell",
         "Tauren"
       ],
-      "img": "img/keys-mauls-the-spellcaster.jpg",
-      "img_version": 1
+      "img": "img/keys-mauls-the-spellcaster.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "stables-interrogation",
@@ -5056,8 +5056,8 @@
         "Wroat",
         "Library"
       ],
-      "img": "img/library-cards-for-everyone.jpg",
-      "img_version": 1
+      "img": "img/library-cards-for-everyone.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-possessed",
@@ -5271,8 +5271,8 @@
         "Broadsword",
         "Kingsblade"
       ],
-      "img": "img/empty-jail-blood-trail.jpg",
-      "img_version": 1
+      "img": "img/empty-jail-blood-trail.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "kingsblade-hijack",
@@ -5286,7 +5286,7 @@
       "session": 13,
       "kind": "battle",
       "major": true,
-      "img": "img/kingsblade-hijack.jpg",
+      "img": "img/kingsblade-hijack.v2.jpg",
       "summary": "Charlie Trundle kills the head of engineering and starts the Kingsblade's lift-off. Cromwell turns the whole ship off from the lawn.",
       "detail": "On the bridge Sazed and the Clockwork Defender find Sheldor and Charlie fighting Nedira and the dwarf head of engineering, Monty O'Brien. Sazed blows the Horn of Silent Alarm and joins in. Charlie kills Monty and starts the Kingsblade's lift-off. Cromwell races out of the Broadsword onto the lawn and casts on/off on the Kingsblade, and it drops back to the ground. Lirael and Cromwell climb the crane and misty step aboard, while Blazehelm warns over the sending stone that the ship will be shot down if it takes off. The party overwhelms Charlie and Sheldor, the Defender stabilises them, and everyone returns to the mansion by carriage.",
       "tags": [
@@ -5297,7 +5297,7 @@
         "Monty O'Brien",
         "Nedira"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "bellatrix-revived",
@@ -5406,7 +5406,7 @@
       "session": 13,
       "kind": "battle",
       "major": true,
-      "img": "img/dream-eater.jpg",
+      "img": "img/dream-eater.v2.jpg",
       "summary": "A swirling monster paralyses Brand and Lirael, so Lirael lights a short fuse on the smokepowder satchel and runs. The blast deals 165 force damage.",
       "detail": "A dark, swirling monster emerges from the mist: the Dream Eater. It paralyses Brand and Lirael. Cromwell tries to lock it into a compelled duel but it shrugs it off with legendary resistance. The floating orbs gather into two staring eyes, and Sazed chips at the monster while it nearly kills Lirael. Cromwell uses mage hand to pick the cage lock, though a locked chain still holds it shut. Lirael sets a short fuse on the smokepowder bomb and runs, just as a featureless face rises from the mist with the orbs as its eyes. The bomb deals 165 force damage and kills the Dream Eater.",
       "tags": [
@@ -5416,7 +5416,7 @@
         "Sazed",
         "Dreamweaver"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "brass-dragon-in-the-dream",
@@ -5699,8 +5699,8 @@
         "Clockwork",
         "Warforged"
       ],
-      "img": "img/clockwork-on-sentimentality.jpg",
-      "img_version": 1
+      "img": "img/clockwork-on-sentimentality.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "rune-wakes-the-spellcaster",
@@ -5723,8 +5723,8 @@
         "Rune",
         "Book of Fire"
       ],
-      "img": "img/rune-wakes-the-spellcaster.jpg",
-      "img_version": 1
+      "img": "img/rune-wakes-the-spellcaster.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "limbs-for-faird",
@@ -5746,8 +5746,8 @@
         "Clockwork",
         "Warforged"
       ],
-      "img": "img/limbs-for-faird.jpg",
-      "img_version": 1
+      "img": "img/limbs-for-faird.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "monty-elemental-engines",
@@ -5769,8 +5769,8 @@
         "Kingsblade",
         "Elemental Engines"
       ],
-      "img": "img/monty-elemental-engines.jpg",
-      "img_version": 1
+      "img": "img/monty-elemental-engines.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "letter-from-meriel",
@@ -6381,8 +6381,8 @@
         "Clockwork",
         "Hobbstweedle"
       ],
-      "img": "img/imps-firebomb-the-house.jpg",
-      "img_version": 1
+      "img": "img/imps-firebomb-the-house.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "rolicks-dust",
@@ -6708,8 +6708,8 @@
         "Leff",
         "Sheldor"
       ],
-      "img": "img/hangover-and-dyll.jpg",
-      "img_version": 1
+      "img": "img/hangover-and-dyll.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "fighting-shadow-selves",
@@ -7033,8 +7033,8 @@
         "Hobbstweedle",
         "Dragons"
       ],
-      "img": "img/clockwork-wyrmlings.jpg",
-      "img_version": 1
+      "img": "img/clockwork-wyrmlings.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "after-the-walls-fell",
@@ -7221,8 +7221,8 @@
         "Wildheart Claw",
         "Bloodwell Vial"
       ],
-      "img": "img/parting-gifts.jpg",
-      "img_version": 1
+      "img": "img/parting-gifts.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "moonwatch-departs",
@@ -7271,8 +7271,8 @@
         "Beezel",
         "Chester"
       ],
-      "img": "img/lift-off-for-ardev.jpg",
-      "img_version": 1
+      "img": "img/lift-off-for-ardev.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "evil-in-the-mirrors",
@@ -7390,8 +7390,8 @@
         "Sorenson",
         "Moonwatch"
       ],
-      "img": "img/cromwell-the-stowaway.jpg",
-      "img_version": 1
+      "img": "img/cromwell-the-stowaway.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "mirrors-overboard",
@@ -7434,8 +7434,8 @@
         "Beezel",
         "Sazed"
       ],
-      "img": "img/beezel-and-the-books.jpg",
-      "img_version": 1
+      "img": "img/beezel-and-the-books.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "dandys-dinner",
@@ -7556,8 +7556,8 @@
         "Sazed",
         "Erald"
       ],
-      "img": "img/a-cold-welcome-to-ardev.jpg",
-      "img_version": 1
+      "img": "img/a-cold-welcome-to-ardev.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "farks-bargain-whores",
@@ -7929,7 +7929,7 @@
       "session": 21,
       "kind": "battle",
       "major": true,
-      "img": "img/ants-and-birds.jpg",
+      "img": "img/ants-and-birds.v2.jpg",
       "summary": "Lirael wins a battle of insults with Captain Ellis. Outside, ants order the mercenaries to lick a spilled drink off the street.",
       "detail": "Ellis, a captain under Morganth and the man who flipped Xera's skirt, doesn't care what they say. Lirael beats him in a battle of insults, and everyone takes it outside while Xera and later Felicia come out to watch. An angry woman taking notes follows them out. Sazed finds ants and Lirael throws them on the mercenaries, who obey the ants and lick a spilled drink. Xera pulls down Ellis's pants to reveal tighty whities with hearts on them. The party de-pants the rest, and Sazed kicks one so hard he nearly kills him.",
       "tags": [
@@ -7940,7 +7940,7 @@
         "Dragons Claw",
         "Grib Grimley"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "jazz-smells-magic",
@@ -7963,8 +7963,8 @@
         "Grib Grimley",
         "Ardev Watch"
       ],
-      "img": "img/jazz-smells-magic.jpg",
-      "img_version": 1
+      "img": "img/jazz-smells-magic.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "felicia-storms-off",
@@ -7987,8 +7987,8 @@
         "Neebus",
         "Xera"
       ],
-      "img": "img/felicia-storms-off.jpg",
-      "img_version": 1
+      "img": "img/felicia-storms-off.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bird-potion",
@@ -8012,8 +8012,8 @@
         "Mustang",
         "Dragons Claw"
       ],
-      "img": "img/bird-potion.jpg",
-      "img_version": 1
+      "img": "img/bird-potion.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "imps-and-the-quasit",
@@ -8062,8 +8062,8 @@
         "House Cannith",
         "Barry Baritone"
       ],
-      "img": "img/forge-and-the-right-hand.jpg",
-      "img_version": 1
+      "img": "img/forge-and-the-right-hand.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "gynn-at-the-forge",
@@ -8136,8 +8136,8 @@
         "Xera",
         "The Rat Man"
       ],
-      "img": "img/filgar-the-wererat.jpg",
-      "img_version": 1
+      "img": "img/filgar-the-wererat.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-interview",
@@ -8176,7 +8176,7 @@
       "session": 22,
       "kind": "loss",
       "major": true,
-      "img": "img/house-trashed.jpg",
+      "img": "img/house-trashed.v2.jpg",
       "summary": "Lirael's house is wrecked. Turckle's flask, Felicia's purse and the teleportation ring lie on the floor, and Gynn has dragged two bodies away.",
       "detail": "The Moonwatch crew has had a raucous night of its own, so the party goes looking for Felicia before relaxing. On the walk the strays follow again, and now an owl circles above them. Brand casts identify on the ring and learns it sent Gynn to the Gorgis house. The party follows the drag marks to the surface, where the trail vanishes. Glabrezus can fly.",
       "tags": [
@@ -8187,7 +8187,7 @@
         "Brand",
         "Ardev"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "the-druid-cat",
@@ -8496,8 +8496,8 @@
         "Lirael",
         "Sazed"
       ],
-      "img": "img/felicias-fire.jpg",
-      "img_version": 1
+      "img": "img/felicias-fire.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bone-devil-river-chase",
@@ -8521,8 +8521,8 @@
         "Wylon",
         "Abishai"
       ],
-      "img": "img/bone-devil-river-chase.jpg",
-      "img_version": 1
+      "img": "img/bone-devil-river-chase.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "rallying-ardev",
@@ -8561,7 +8561,7 @@
       "session": 24,
       "kind": "battle",
       "major": true,
-      "img": "img/ardev-vs-bone-devils.jpg",
+      "img": "img/ardev-vs-bone-devils.v3.jpg",
       "summary": "Police, mercenaries, druids, two weresharks and Auntie Bees with a million bees meet the devil as it digs up through the abandoned house.",
       "detail": "Beezel, Screech, Sorenson, Topek and Wylon come with the party. Jazz, Mustang and Snivel Fargus lead the police, and The Right Hand brings Brokk, Barry, Morganth and the mercenaries, though Ellis and Baron Hellsauce are absent. Morganth tells Lirael they have a truce for today, and Brokk tells Brand the same. The Bloodsinger arrives with his druids and becomes a triceratops. The devil bursts up, summons a second, and friends and enemies destroy both. Sazed shoos away the reporters Grib Grimley and Helena Braithwind. Nothing changes with Brokk or Morganth, but The Right Hand is impressed with Brand and the Bloodsinger with Sazed. Auntie Bees chases off the mercenaries with her bees for taking her castle.",
       "tags": [
@@ -8573,7 +8573,7 @@
         "Captain Flowers",
         "Ardev"
       ],
-      "img_version": 1
+      "img_version": 3
     },
     {
       "id": "oberoth-the-guardian",
@@ -8712,7 +8712,7 @@
       "session": 25,
       "kind": "revelation",
       "major": true,
-      "img": "img/children-in-the-well.jpg",
+      "img": "img/children-in-the-well.v2.jpg",
       "summary": "Eldgrave says there are kids in the well. Under the rock and boards, eight small children and ten-year-old Skye Amberwood have hidden for a week.",
       "detail": "Brand's ingenuity, Sazed's agility and the treant's strength move the rock and pry the boards off the plug. The children are two to five years old. Sazed knew Skye's father, Glade Amberwood, and uses that to win her trust. Skye says Carrk promised to help them but never came. She wants to know where her father is and whether anyone survived, and Sazed will not tell her. They pull the children out with a rope, and Sazed asks Eldgrave to stay and guard the village.",
       "tags": [
@@ -8723,7 +8723,7 @@
         "Carrk",
         "Glade Amberwood"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "archimedes-shot-down",
@@ -8810,7 +8810,7 @@
       "session": 26,
       "kind": "revelation",
       "major": true,
-      "img": "img/phase-two.jpg",
+      "img": "img/phase-two.v2.jpg",
       "summary": "Fey-Lynn is possessed by the Dreamweaver and enacting phase two: taking Lirael's mother out for tea.",
       "detail": "Lirael reaches into Fey-Lynn's mind from Xera's room. She is possessed by the Dreamweaver and is carrying out its phase two, which means taking Felicia Sr out for tea. As Lirael reads her, he finds another mind nearby and peers in, and it is reading his. He fails to probe deeper and flees the Kel House with Xera. As they run, men in plague masks set fire to his family's house and ride off in an armored carriage.",
       "tags": [
@@ -8820,7 +8820,7 @@
         "Xera",
         "Felicia Sr"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "ellis-ambush",
@@ -8834,7 +8834,7 @@
       "session": 26,
       "kind": "loss",
       "major": true,
-      "img": "img/ellis-ambush.jpg",
+      "img": "img/ellis-ambush.v3.jpg",
       "summary": "At the cemetery entrance to upper Ardev, Ellis's wizard holds Lirael in place and the mercenary beats him unconscious.",
       "detail": "Lirael and Xera are running from the Kel House toward upper Ardev when Ellis catches them. His wizard casts hold person, and Ellis beats the helpless Lirael until he passes out. Lirael and Xera are both captured. Before the morning is over The Even Hand kills Ellis and takes the captives for himself.",
       "tags": [
@@ -8844,7 +8844,7 @@
         "The Even Hand",
         "Dragons Claw"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "jyo-falls-into-ardev",
@@ -8892,8 +8892,8 @@
         "Jyo",
         "Moonwatch"
       ],
-      "img": "img/mustang-full-of-arrows.jpg",
-      "img_version": 1
+      "img": "img/mustang-full-of-arrows.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "ellis-dead-in-the-street",
@@ -9085,8 +9085,8 @@
         "Sazed",
         "Screech"
       ],
-      "img": "img/brands-workshop.jpg",
-      "img_version": 1
+      "img": "img/brands-workshop.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "a-call-from-lirael",
@@ -9131,8 +9131,8 @@
         "Sazed",
         "Stones Throw"
       ],
-      "img": "img/skye-feels-abandoned.jpg",
-      "img_version": 1
+      "img": "img/skye-feels-abandoned.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "shadowing-the-train",
@@ -9178,8 +9178,8 @@
         "Xera",
         "Fey-Lynn"
       ],
-      "img": "img/jyo-the-spider.jpg",
-      "img_version": 1
+      "img": "img/jyo-the-spider.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-invisible-beholder",
@@ -9496,8 +9496,8 @@
         "Fey-Lynn",
         "Moonwatch"
       ],
-      "img": "img/felicias-reunion.jpg",
-      "img_version": 1
+      "img": "img/felicias-reunion.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "skull-knights-judgment",
@@ -9589,8 +9589,8 @@
         "Sazed",
         "Stones Throw"
       ],
-      "img": "img/skye-reunion.jpg",
-      "img_version": 1
+      "img": "img/skye-reunion.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "barry-and-brokk-waiting",
@@ -9853,8 +9853,8 @@
         "Dreamweaver",
         "Xera"
       ],
-      "img": "img/jazz-joins-the-fold.jpg",
-      "img_version": 1
+      "img": "img/jazz-joins-the-fold.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "flowers-coerced",
@@ -10409,8 +10409,8 @@
         "Falken",
         "Loreguard"
       ],
-      "img": "img/skye-becomes-initiate.jpg",
-      "img_version": 1
+      "img": "img/skye-becomes-initiate.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-and-sazed-on-industry",
@@ -10598,8 +10598,8 @@
         "Witches Waltz",
         "Bulwark Broadhelm"
       ],
-      "img": "img/eptf-blind-spot.jpg",
-      "img_version": 1
+      "img": "img/eptf-blind-spot.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "elfina",
@@ -11156,8 +11156,8 @@
         "Sazed",
         "Eloria"
       ],
-      "img": "img/felicia-too-powerful.jpg",
-      "img_version": 1
+      "img": "img/felicia-too-powerful.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "cloak-of-connect-mind",
@@ -11353,8 +11353,8 @@
         "Captain Dane",
         "Chaton"
       ],
-      "img": "img/horses-from-first-tower.jpg",
-      "img_version": 1
+      "img": "img/horses-from-first-tower.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "hooligan-saxophone",
@@ -11616,8 +11616,8 @@
         "Lirael",
         "The Fury"
       ],
-      "img": "img/felicia-confronts-elfina.jpg",
-      "img_version": 1
+      "img": "img/felicia-confronts-elfina.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "dragons-lost-sons",
@@ -11688,8 +11688,8 @@
         "Sazed",
         "Tea Machine"
       ],
-      "img": "img/squirrels-in-the-tea.jpg",
-      "img_version": 1
+      "img": "img/squirrels-in-the-tea.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-goes-purple",
@@ -11807,8 +11807,8 @@
         "Stones Throw",
         "Wilford"
       ],
-      "img": "img/skye-asks-about-stones-throw.jpg",
-      "img_version": 1
+      "img": "img/skye-asks-about-stones-throw.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "wilford-mushroom-warning",
@@ -11951,8 +11951,8 @@
         "Baron Hellsauce",
         "Morganth"
       ],
-      "img": "img/felicia-and-skye-spar.jpg",
-      "img_version": 1
+      "img": "img/felicia-and-skye-spar.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "thaddeus-comes-to-town",

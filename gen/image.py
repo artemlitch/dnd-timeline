@@ -27,7 +27,7 @@ _NOTES = json.loads((ROOT / "gen/world/cast_notes.json").read_text())
 CAST = {name.lower(): f"{name}: draw from the reference portrait." + (f" {_NOTES[name]}" if name in _NOTES else "")
         for name, p in PORTRAITS.items() if name not in SHIPS and (p or {}).get("file")}
 CAST.update({name.lower(): f"{name}: {text}" for name, text in json.loads((ROOT / "gen/world/cast.json").read_text()).items()})
-CAST.update({name.lower(): f"{name}: its reference image is a concept painting of the ship, for its design only. Never "
+CAST.update({name.lower(): f"{name}: its reference image shows the ship's design only. Never "
                            f"paste or copy that picture into the scene: draw the ship fresh from this scene's camera angle, "
                            f"with its own lighting and in the same style as everything else. {ship['look']}"
              for name, ship in SHIPS.items()})
@@ -39,7 +39,7 @@ REFERENCES = ("Reference portraits attached, in order: {}. Each character in the
               "as close to their portrait as possible: the same face and features, hair, skin, colours, build, "
               "proportions, outfit and props, so anyone who knows the portrait recognises them at once. This likeness is "
               "the most important thing in the image. Where a portrait and a text description disagree, the portrait "
-              "wins. Each named ship keeps the design of its concept painting (hull shape, sails, wings, rotors, engines, "
+              "wins. Each named ship keeps the design of its reference image (hull shape, sails, wings, rotors, engines, "
               "colours and flames) but is drawn fresh from the scene's angle. No reference image may appear pasted, flat "
               "or cut out anywhere in the picture.")
 MAP_NOTE = ("After the portraits come top-down Roll20 battle maps of this place, in order: {}. Use them only for the layout, "
@@ -138,7 +138,7 @@ def label(name, req):
     """The text placed right before each attached image, so the model knows whose it is."""
     if name == LINEUP:
         order = ", ".join(f"{i}. {n}" for i, n in enumerate(req.lineup, 1))
-        return (f"Here is an outline of the characters to reference, left to right, to scale: {order}. "
+        return (f"Here is a lineup of the characters to reference, left to right, to scale: {order}. "
                 f"Each appears once, with the skin and hair shown here, and the outfit shown here unless the scene "
                 f"says they wear something else or nothing.")
     if name.endswith(" map"):
@@ -159,6 +159,9 @@ def build(event_id, style=None, lineup=True, prompt_file=None):
     """The prompt and attached references for an event, from gen/prompts/<event-id>.prompt.txt."""
     style = style or house_style()
     text = pathlib.Path(prompt_file or ROOT / "gen/prompts" / f"{event_id}.prompt.txt").read_text()
+    if "{framing:epic}" in text:
+        # an epic shot is a high, far view; the style's in-the-action camera would contradict it
+        style = re.sub(r"A dynamic, tilted camera[^.]*\.\s*", "", style)
     ev = next(e for e in json.loads((ROOT / "site/timeline.json").read_text())["events"] if e["id"] == event_id)
     src = next((s for s in json.loads((ROOT / "gen/regen/sources.json").read_text()) if s["id"] == event_id), {"refs": []})
     cast_block = text.split("\nCAST", 1)[-1].split("\nREFERENCES", 1)[0]
@@ -175,8 +178,11 @@ def build(event_id, style=None, lineup=True, prompt_file=None):
         from lineup import build as build_lineup, slug
         # only characters drawn in this moment ({cast:Name}), never the "reference only" ones
         in_moment = {n.strip() for n in re.findall(r"\{cast:([^}]+)\}", cast_block)}
-        in_sheet = [n for n in refs if n in in_moment and (ROOT / "gen/refs/fullbody" / f"{slug(n)}.jpg").exists()]
-        refs = {n: f for n, f in refs.items() if n in in_moment or n in SHIPS}
+        # someone transformed in this moment would be drawn in their usual form from the outline
+        changed = {n.strip() for n in re.findall(
+            r"\{cast:([^}]+)\}\s+Here:[^\n]*\b(?:transformed|wild-shaped|shapechanged|in [a-z]+ form)\b", cast_block)}
+        in_sheet = [n for n in refs if n in in_moment - changed and (ROOT / "gen/refs/fullbody" / f"{slug(n)}.jpg").exists()]
+        refs = {n: f for n, f in refs.items() if (n in in_moment and n not in changed) or n in SHIPS}
         if in_sheet:
             sheet = ROOT / "gen/regen/refcache" / f"lineup-{event_id}.jpg"
             build_lineup(sheet, in_sheet, labels=False)
@@ -195,7 +201,7 @@ def build(event_id, style=None, lineup=True, prompt_file=None):
     prompt = re.sub(r"\{maps:([^}]+)\}", lambda m: MAP_NOTE.format(", ".join(n for n, _ in maps)), prompt)
     refs |= {n: small(f) for n, f in maps}
     if in_sheet:
-        prompt = prompt.replace("draw from the reference portrait.", "draw from their figure in the character outline.")
+        prompt = prompt.replace("draw from the reference portrait.", "draw from their figure in the character lineup.")
     return Request(event_id, prompt, list(refs.items()), in_sheet, style)
 
 

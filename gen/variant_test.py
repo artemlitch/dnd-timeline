@@ -48,7 +48,7 @@ def main():
         results = list(pool.map(run, jobs))
     for name, result in results:
         print(f"{name}: {result}")
-    print("collage:", collage(f"{event}-variants", results, cols=len(spec["styles"])))
+    print("collage:", collage(f"{event}-variants", results, cols=len(spec["styles"]) if len(spec["styles"]) > 1 else len(spec["variants"])))
 
 
 if __name__ == "__main__":
