@@ -381,6 +381,26 @@
    "cost": 0.034606,
    "at": "2026-10-23T15:20:16",
    "draft": "gen/drafts/chester-the-mimic/20261023-152016-308000.jpg"
+  },
+  {
+   "version": 4,
+   "file": "site/img/chester-the-mimic.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/chester-the-mimic.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Chester",
+    "Lirael",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Basement map"
+   ],
+   "cost": 0.034606,
+   "at": "2026-10-23T15:20:16",
+   "draft": "gen/drafts/chester-the-mimic/20261023-152016-308000.jpg"
   }
  ],
  "the-cafeteria-rescue": [
@@ -2596,6 +2616,30 @@
    "cost": 0.0347115,
    "at": "2026-10-23T15:20:19",
    "draft": "gen/drafts/sheldor-wants-back-in/20261023-152019-667000.jpg"
+  },
+  {
+   "version": 4,
+   "file": "site/img/sheldor-wants-back-in.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/sheldor-wants-back-in.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sheldor",
+    "Leff",
+    "Keys",
+    "Tauren",
+    "Cromwell",
+    "Sorenson"
+   ],
+   "refs": [
+    "Character lineup",
+    "Home Base map"
+   ],
+   "cost": 0.0347115,
+   "at": "2026-10-23T15:20:19",
+   "draft": "gen/drafts/sheldor-wants-back-in/20261023-152019-667000.jpg"
   }
  ],
  "sheldor-and-the-bag": [
@@ -3800,6 +3844,28 @@
   {
    "version": 3,
    "file": "site/img/imps-firebomb-the-house.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/imps-firebomb-the-house.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "Lirael",
+    "Click Clack",
+    "Leff",
+    "Tauren"
+   ],
+   "refs": [
+    "Character lineup",
+    "Home Base map"
+   ],
+   "cost": 0.034691,
+   "at": "2026-10-23T15:20:18",
+   "draft": "gen/drafts/imps-firebomb-the-house/20261023-152018-989000.jpg"
+  },
+  {
+   "version": 4,
+   "file": "site/img/imps-firebomb-the-house.v4.jpg",
    "model": "google/gemini-3.1-flash-lite-image",
    "prompt": "gen/prompts/imps-firebomb-the-house.prompt.txt",
    "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
@@ -5571,6 +5637,25 @@
    "cost": 0.0345705,
    "at": "2026-10-23T15:20:16",
    "draft": "gen/drafts/stones-throw-in-ashes/20261023-152016-563000.jpg"
+  },
+  {
+   "version": 4,
+   "file": "site/img/stones-throw-in-ashes.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/stones-throw-in-ashes.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Brand",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Stones Throw map"
+   ],
+   "cost": 0.0345705,
+   "at": "2026-10-23T15:05:56",
+   "draft": "gen/drafts/stones-throw-in-ashes/20261023-150556-789000.jpg"
   }
  ],
  "children-in-the-well": [
@@ -5887,6 +5972,24 @@
   {
    "version": 3,
    "file": "site/img/skye-feels-abandoned.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/skye-feels-abandoned.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Skye"
+   ],
+   "refs": [
+    "Character lineup",
+    "Below Deck Moonwatch map"
+   ],
+   "cost": 0.034604,
+   "at": "2026-10-23T15:20:14",
+   "draft": "gen/drafts/skye-feels-abandoned/20261023-152014-556000.jpg"
+  },
+  {
+   "version": 4,
+   "file": "site/img/skye-feels-abandoned.v4.jpg",
    "model": "google/gemini-3.1-flash-lite-image",
    "prompt": "gen/prompts/skye-feels-abandoned.prompt.txt",
    "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
@@ -6803,6 +6906,26 @@
    "cost": 0.0346715,
    "at": "2026-10-23T15:20:16",
    "draft": "gen/drafts/embers-joke-potions/20261023-152016-851000.jpg"
+  },
+  {
+   "version": 4,
+   "file": "site/img/embers-joke-potions.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/embers-joke-potions.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Ember",
+    "Skye",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Starilaskur map"
+   ],
+   "cost": 0.0346715,
+   "at": "2026-10-23T15:20:16",
+   "draft": "gen/drafts/embers-joke-potions/20261023-152016-851000.jpg"
   }
  ],
  "aundairians-race": [
@@ -7388,6 +7511,28 @@
   {
    "version": 3,
    "file": "site/img/felicia-and-skye-spar.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/felicia-and-skye-spar.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Felicia Jr",
+    "Skye",
+    "Sazed",
+    "Brand",
+    "Baron Hellsauce"
+   ],
+   "refs": [
+    "Character lineup",
+    "Main Deck Moonwatch map"
+   ],
+   "cost": 0.03480525,
+   "at": "2026-10-23T15:20:15",
+   "draft": "gen/drafts/felicia-and-skye-spar/20261023-152015-553000.jpg"
+  },
+  {
+   "version": 4,
+   "file": "site/img/felicia-and-skye-spar.v4.jpg",
    "model": "google/gemini-3.1-flash-lite-image",
    "prompt": "gen/prompts/felicia-and-skye-spar.prompt.txt",
    "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
