@@ -445,14 +445,12 @@ function layoutEvents(){
   const margin=W*.5,lo=off-margin/P,hi=off+(W+margin)/P;
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
-  // events claim rows in skip-list rank order (every 2nd, 4th, 8th event ranks higher), each taking the highest row
-  // where it clears every card already there, so cards float up as zooming in opens space above them. Placement runs
+  // events claim rows in date order, each taking the highest row whose last card it clears, so a card right after
+  // one in the top row drops to the second, and cards float up as zooming in opens space above them. Placement runs
   // over every event, not just the ones on screen, so panning never reshuffles rows
-  const rank=e=>{let n=e.idx+1,r=0;while(!(n&1)){n>>=1;r++;}return r;};
-  const order=EV.filter(visible).sort((a,b)=>rank(b)-rank(a)||a.idx-b.idx);
   const rowX=Array.from({length:rows},()=>[]),placed=new Map(),need=(w+10)/P;
-  for(const e of order){
-    for(let r=0;r<rows;r++){if(rowX[r].every(d=>Math.abs(d-e.di)>=need)){rowX[r].push(e.di);placed.set(e.id,r);break;}}
+  for(const e of EV){if(!visible(e))continue;
+    for(let r=0;r<rows;r++){const last=rowX[r][rowX[r].length-1];if(last===undefined||e.di-last>=need){rowX[r].push(e.di);placed.set(e.id,r);break;}}
   }
   // a faded card sits in the row with the most room around it, top row on ties
   const ghostRow=e=>{let best=0,room=-1;for(let r=0;r<rows;r++){const m=Math.min(Infinity,...rowX[r].map(d=>Math.abs(d-e.di)));if(m>room){room=m;best=r;}}return best;};
