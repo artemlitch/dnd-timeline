@@ -106,6 +106,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 .card .th img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s cubic-bezier(.2,.7,.2,1)}
 .card:hover .th img{transform:scale(1.04)}
 .card .th .ph{width:40px;height:40px;color:var(--brass);opacity:.8;margin-bottom:40%}
+.card>span.pill{position:absolute;top:8px;right:8px;z-index:2;margin:0;height:20px;padding:0 8px;display:inline-flex;align-items:center;font-family:var(--ui);font-size:11.5px;font-weight:600;letter-spacing:.03em;box-shadow:0 1px 4px rgba(0,0,0,.6)}
 .card .tx{position:absolute;left:0;right:0;bottom:0;padding:0 10px 8px 12px;display:flex;flex-direction:column;gap:3px}
 .card h3{margin:0;font-family:var(--display);font-weight:700;font-size:14px;line-height:1.2;letter-spacing:.02em;color:var(--parch-face);text-shadow:0 1px 3px #000;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
 .card .d{font-family:var(--ui);font-size:10.5px;color:var(--brass-hi);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-shadow:0 1px 2px #000}
@@ -478,7 +479,7 @@ function layoutEvents(){
     const card=take('card',e.id,'card major'+(ghost?' ghost':'')+(active&&active.id===e.id?' active':''));
     card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.setProperty('--h',cardH+'px');card.style.left=(x-w/2)+'px';
     const edge=gap+lane*laneH;card.style.top=edge+'px';
-    if(card._for!==e.id){card._for=e.id;card.innerHTML=`<div class="th">${thumb(e)}</div><div class="tx"><h3>${esc(e.title)}</h3><div class="d">${fmtShort(e)}${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}</div><div class="s">${esc(e.summary||'')}</div></div>`;}
+    if(card._for!==e.id){card._for=e.id;card.innerHTML=`<div class="th">${thumb(e)}</div>${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}<div class="tx"><h3>${esc(e.title)}</h3><div class="s">${esc(e.summary||'')}</div></div>`;}
     card.onclick=ev=>{ev.stopPropagation();openEvent(e);};
     const ln=take('ln',e.id,'ln'+(ghost?' ghost':''));ln.style.setProperty('--kc',kc);ln.style.left=x+'px';ln.style.top=topY+'px';ln.style.height=(edge-topY)+'px';
   }
