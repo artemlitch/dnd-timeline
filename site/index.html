@@ -175,9 +175,9 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 #drawer .txt{font-family:"Source Serif 4",Georgia,serif;font-size:16px;line-height:1.6;color:#fff}
 #drawer .txt p{margin:0 0 10px}
 #drawer .txt .sum{margin:0 0 16px;padding:10px 14px;border-radius:6px;background:#090b11;border:1px solid rgba(201,162,77,.18);box-shadow:inset 0 2px 8px rgba(0,0,0,.7)}
-#drawer .tags{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0 18px}
+#drawer .tags{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0 0}
 #drawer .tags span{font-family:var(--ui);font-style:normal;font-size:14px;padding:2px 10px;border-radius:999px;background:var(--bronze);color:#fff}
-#drawer .nav{display:flex;justify-content:space-between;gap:10px;border-top:1px dashed var(--bronze);padding-top:12px}
+#drawer .nav{flex:none;display:flex;justify-content:space-between;gap:10px;padding:12px 22px;background:#0b0d14;border-top:1px solid rgba(201,162,77,.35);box-shadow:0 -6px 16px rgba(0,0,0,.4);position:relative;z-index:2}
 #drawer .nav button{font-family:var(--ui);font-size:12px;letter-spacing:.06em;padding:7px 12px;border:1px solid var(--bronze);border-radius:4px;color:#fff;background:#0d1018;max-width:48%;text-align:left}
 #drawer .nav button:not(:disabled):hover{border-color:var(--brass);color:var(--brass-hi)}
 #drawer .nav button:disabled{opacity:.35;cursor:default}
@@ -292,11 +292,11 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
     <div class="meta" id="dMeta"></div>
     <div class="txt" id="dText"></div>
     <div class="tags" id="dTags"></div>
-    <div class="nav">
-      <button id="dPrev" class="p"></button>
-      <button id="dNext" class="n"></button>
-    </div>
   </div>
+  </div>
+  <div class="nav">
+    <button id="dPrev" class="p"></button>
+    <button id="dNext" class="n"></button>
   </div>
 </aside>
 <div id="grain"></div>
