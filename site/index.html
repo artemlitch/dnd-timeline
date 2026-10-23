@@ -512,7 +512,7 @@ function frame(){raf=0;if(!CAL)return;
   layoutEras();drawRuler();updateMini();updateZoomUI();
   // gears turn with the on-screen distance panned, so zooming (which rescales every position) doesn't spin them
   if(!reduced){const c=off+vw()/2/P;if(gear.c!==null)gear.px+=(c-gear.c)*P;gear.c=c;
-    $('#gearA').style.transform=`rotate(${gear.px/70}deg)`;$('#gearB').style.transform=`rotate(${-gear.px/45}deg)`;}
+    $('#gearA').style.transform=`rotate(${gear.px/7}deg)`;$('#gearB').style.transform=`rotate(${-gear.px/4.5}deg)`;}
 }
 const gear={c:null,px:0};
 function updateZoomUI(){const t=Math.log(P/ZMIN)/Math.log(ZMAX/ZMIN);$('#zoom').value=Math.round(t*1000);
