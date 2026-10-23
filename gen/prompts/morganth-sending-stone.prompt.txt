@@ -1,0 +1,25 @@
+{tone}
+This scene is a tense call over a magic stone with a rival commander.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-police-station}
+In this moment: the captain's office. Time and light: day.
+{maps:Ardev Police Station}
+
+THE MOMENT
+Captain Flowers holds out his sending stone on his open palm. Rising from its glow is a small, faint apparition of Morganth's head and shoulders, the dragonborn mercenary commander, stern and measured, asking them not to fly their ship or cause any incident while Thaddeus is in town. Lirael, Brand, in his power armor, and Sazed lean over the stone, plainly annoyed.
+
+CAST
+- {cast:Captain Flowers}
+- {cast:Morganth} Here: only a small translucent apparition of his head and shoulders rising from the stone.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Thaddeus Cannith's portrait is attached for reference only; Thaddeus Cannith is not in this moment. Do not draw him.
+- Ellis's portrait is attached for reference only; Ellis is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

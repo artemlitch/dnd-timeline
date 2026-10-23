@@ -1,0 +1,21 @@
+{tone}
+This scene is a buried memory of a massacre breaking open.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:starilaskur/witches-waltz}
+In this moment: the cult's hall as it was on the night of the ritual, its walls lined with tall mirrors, its library shelves packed with books. Time and light: night, candlelight and the silver glow of the mirrors.
+{maps:The Witchs Waltz}
+
+THE MOMENT
+The memory Lirael has finally let himself see: the Watchers of the Gate, robed warlocks, stand in a circle around their Grand Warlock Maldroc as the ritual peaks, and every mirror on the walls has become a doorway into the silvery astral sea. In the middle of the circle Lirael, possessed by the Dreamweaver, his eyes gone black and empty, is tearing the Watchers apart with his bare magic: bodies ripped open, blood and gore sprayed across the mirrors and the floor, robed figures falling around him, and the shelves of the library behind him catching fire.
+
+CAST
+- {cast:Lirael} Here: possessed, his eyes black and empty, drenched in blood.
+- The Watchers of the Gate: warlocks in pale, star-embroidered robes.
+- Maldroc Daelmourn: the Grand Warlock, an older drow man in ornate robes and a silver circlet.
+
+REFERENCES
+{references}

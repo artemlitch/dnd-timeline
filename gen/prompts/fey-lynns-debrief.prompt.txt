@@ -1,0 +1,20 @@
+{tone}
+This scene is a woman freed from possession confessing what she was made to do.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: a small cabin, a blanket around Fey-Lynn's shoulders. Time and light: lamplight.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Fey-Lynn, pale and hollow-eyed since being raised from the dead, sits on the edge of a bunk wrapped in a blanket, counting off on her fingers the three phases the Dreamweaver used her for: mislead them, capture Lirael's mother, kill them. Lirael sits on a stool facing her, leaning forward, listening hard, his jaw tight. Her face shows how empty and lonely her own mind feels.
+
+CAST
+- {cast:Fey-Lynn}
+- {cast:Lirael}
+
+REFERENCES
+{references}

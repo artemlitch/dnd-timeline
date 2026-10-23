@@ -1,0 +1,25 @@
+{tone}
+This scene is a town plastered with a rich man's face before his big speech.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/lower-ardev}
+In this moment: every wall and lamp post in the street is covered with posters showing Thaddeus Cannith's painted face. Time and light: day.
+{maps:Ardev Streets Day}
+
+THE MOMENT
+Walking down a street papered with Thaddeus Cannith's face, Brand, painted entirely purple, his skin, beard and hair, under a battered hat as a disguise, takes a flyer from a House Cannith artificer handing them out: it shows a drawing of Barry Baritone, missing. Lirael and Sazed read it over his shoulder. Townsfolk hurry past the posters.
+
+CAST
+- {cast:Brand} Here: painted entirely purple, skin, beard and hair, wearing a battered hat.
+- {cast:Lirael}
+- {cast:Sazed}
+- The artificer: a House Cannith artificer in a neat grey work coat with the gorgon emblem, handing out flyers.
+- {cast:Thaddeus Cannith} Here: only as the painted face on the posters.
+- {cast:Barry Baritone} Here: only as a drawing on the missing-person flyer.
+- Brokk's portrait is attached for reference only; Brokk is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

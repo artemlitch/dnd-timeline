@@ -1,0 +1,23 @@
+{tone}
+This scene is new prisoners arriving at a grim prison to jeers from inside.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/gate-and-walls}
+In this moment: two sealed prisoner carriages rolling up the track to the open gate. Time and light: day, grey light through the woods.
+{maps:Prison Gate}
+
+THE MOMENT
+The prisoner carriages have just rolled through DarkWood's gate. Through the bars of the carriage windows the new arrivals peer out at the walls: Lirael's face at one window, Brand's and Sazed's at another. All along the walls and the cell windows above, inmates hang on the bars chanting "fresh fish, fresh fish", fists banging. Guards in grey uniforms walk beside the carriages.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues, seen through carriage bars.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor, seen through carriage bars.
+- {cast:Sazed} Here: in drab prison fatigues, seen through carriage bars.
+- The inmates: rough prisoners in drab prison fatigues.
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs.
+
+REFERENCES
+{references}

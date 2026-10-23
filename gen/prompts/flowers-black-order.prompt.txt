@@ -1,0 +1,22 @@
+{tone}
+This scene is a police captain confessing a classified order.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-police-station}
+In this moment: the private room downstairs, the door shut. Time and light: lamplight.
+{maps:Ardev Police Station}
+
+THE MOMENT
+Captain Flowers leans on the table with both hands, voice low, admitting that the Regiment's strike on the demon portal came from a black order and that he never learned who sent it. He looks over his spectacles at the party, torn between duty and trust. Lirael, Brand, in his power armor, and Sazed sit across from him, intent.
+
+CAST
+- {cast:Captain Flowers}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

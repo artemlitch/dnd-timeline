@@ -1,0 +1,23 @@
+{tone}
+This scene is a rival's gaudy airship parked where theirs should be.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/ardev-landing-field}
+In this moment: The Empyrean, Thaddeus Cannith's enormous airship, sits in the Moonwatch's usual spot, dwarfing everything on the field. Time and light: day.
+{maps:Ardev}
+
+THE MOMENT
+Brand, in his power armor, and Sazed stand at the Moonwatch's rail as it circles the field, looking down at The Empyrean filling their landing spot. Brand's face is hard: he recognises the workmanship as his brother Art's. On a lamp post at the edge of the field perches Daedalus, a warforged eagle, watching them, with a few ordinary birds beside it.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:The Empyrean}
+- Daedalus: a warforged eagle of brass and steel plates with glowing eyes.
+- Thaddeus Cannith's portrait is attached for reference only; Thaddeus Cannith is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

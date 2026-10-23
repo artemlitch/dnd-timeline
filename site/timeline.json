@@ -826,8 +826,8 @@
         "Tauren",
         "Leff"
       ],
-      "img": "img/fresh-fish-at-the-gates.jpg",
-      "img_version": 1
+      "img": "img/fresh-fish-at-the-gates.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bloodworth-takes-their-treasures",
@@ -850,8 +850,8 @@
         "Brand",
         "Whispers of Wind and Grass"
       ],
-      "img": "img/bloodworth-takes-their-treasures.jpg",
-      "img_version": 1
+      "img": "img/bloodworth-takes-their-treasures.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sending-stone-in-the-wall",
@@ -873,8 +873,8 @@
         "Sending Stone",
         "DarkWood"
       ],
-      "img": "img/sending-stone-in-the-wall.jpg",
-      "img_version": 1
+      "img": "img/sending-stone-in-the-wall.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "thaldamir-snaps-his-fingers",
@@ -11406,7 +11406,7 @@
     },
     {
       "id": "witches-waltz",
-      "img": "img/witches-waltz.jpg",
+      "img": "img/witches-waltz.v2.jpg",
       "title": "Flashback in the Witches Waltz",
       "year": 993,
       "month": 1,
@@ -11426,7 +11426,7 @@
         "Dreamweaver",
         "Watchers of the Gate"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "lirael-in-the-cart",
@@ -11621,7 +11621,7 @@
     },
     {
       "id": "dragons-lost-sons",
-      "img": "img/dragons-lost-sons.jpg",
+      "img": "img/dragons-lost-sons.v2.jpg",
       "title": "Steve and Bob's Lost Sons",
       "year": 993,
       "month": 1,
@@ -11641,7 +11641,7 @@
         "Ragnarok of Eberron",
         "Balthazar of the Wastes"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "empyrean-in-their-spot",
@@ -11664,8 +11664,8 @@
         "Daedalus",
         "Ardev"
       ],
-      "img": "img/empyrean-in-their-spot.jpg",
-      "img_version": 1
+      "img": "img/empyrean-in-their-spot.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "squirrels-in-the-tea",
@@ -11764,7 +11764,7 @@
     },
     {
       "id": "fey-lynns-debrief",
-      "img": "img/fey-lynns-debrief.jpg",
+      "img": "img/fey-lynns-debrief.v2.jpg",
       "title": "Fey-Lynn's Debrief: Three Phases",
       "year": 993,
       "month": 1,
@@ -11784,7 +11784,7 @@
         "Lirael Sr",
         "Felicia Sr"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "skye-asks-about-stones-throw",
@@ -11956,7 +11956,7 @@
     },
     {
       "id": "thaddeus-comes-to-town",
-      "img": "img/thaddeus-comes-to-town.jpg",
+      "img": "img/thaddeus-comes-to-town.v2.jpg",
       "title": "Thaddeus Is Coming to Town",
       "year": 993,
       "month": 1,
@@ -11977,11 +11977,11 @@
         "House Cannith",
         "Ardev"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "flowers-black-order",
-      "img": "img/flowers-black-order.jpg",
+      "img": "img/flowers-black-order.v2.jpg",
       "title": "Captain Flowers' Black Order",
       "year": 993,
       "month": 1,
@@ -12001,7 +12001,7 @@
         "Kal Valvier",
         "Dragons Claw"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "morganth-sending-stone",
@@ -12024,8 +12024,8 @@
         "Thaddeus Cannith",
         "Dragons Claw"
       ],
-      "img": "img/morganth-sending-stone.jpg",
-      "img_version": 1
+      "img": "img/morganth-sending-stone.v2.jpg",
+      "img_version": 2
     }
   ]
 }

@@ -1,0 +1,23 @@
+{tone}
+This scene is two huge dragons landing on a small airship to ask a favour.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/flight-deck}
+In this moment: the ship moored for the night, its deck creaking under enormous weight. Time and light: night, ship lanterns and moonlight.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Two dragons have landed on the Moonwatch and the whole ship lists under them: Steve the Skycracker, a huge blue dragon, perched across the bow, and his friend Bob the Blazebringer, an even bigger red dragon, clinging to the stern rail, smoke curling from his nostrils. Steve lowers his great head over the deck and glares at the party, who have just stumbled up from their cabins in nightclothes: Lirael, Brand, without his armor, and Sazed. The crew peek out of the hatches in terror.
+
+CAST
+- Steve the Skycracker: a huge blue dragon with deep blue scales, a single great horn on his snout, frilled ears and lightning sparking between his teeth.
+- Bob the Blazebringer: an even larger red dragon with crimson scales, swept-back horns and smoke curling from his nostrils.
+- {cast:Lirael} Here: in nightclothes.
+- {cast:Brand} Here: in nightclothes, without his power armor.
+- {cast:Sazed} Here: in nightclothes.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is a secret found behind a loose stone in a prison cell.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a cramped bunk cell, stacked bunks against a rough stone wall. Time and light: night, a sliver of lamplight from the corridor.
+{maps:Prison Level 1}
+
+THE MOMENT
+Lirael has worked a loose rock out of the wall beside his bunk. In the hole behind it lie a small smooth stone and a crumpled picture of a goofy, soft-faced man. He holds the stone up in the lamplight, intrigued. Elarian, the young elf in the bunk above, leans down to look, and Tauren, the half-orc, watches from the bunk opposite.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Elarian} Here: in drab prison fatigues.
+- {cast:Tauren} Here: in drab prison fatigues.
+
+REFERENCES
+{references}

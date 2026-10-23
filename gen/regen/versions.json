@@ -49,18 +49,76 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/fresh-fish-at-the-gates.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/fresh-fish-at-the-gates.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Gate map"
+   ],
+   "cost": 0.0346065,
+   "at": "2026-10-23T16:06:51",
+   "draft": "gen/drafts/fresh-fish-at-the-gates/20261023-160651-375000.jpg"
   }
  ],
  "bloodworth-takes-their-treasures": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/bloodworth-takes-their-treasures.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/bloodworth-takes-their-treasures.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "Bloodworth",
+    "Elarian"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.0346225,
+   "at": "2026-10-23T16:06:47",
+   "draft": "gen/drafts/bloodworth-takes-their-treasures/20261023-160647-487000.jpg"
   }
  ],
  "sending-stone-in-the-wall": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/sending-stone-in-the-wall.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/sending-stone-in-the-wall.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Elarian",
+    "Tauren"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.03458,
+   "at": "2026-10-23T16:06:48",
+   "draft": "gen/drafts/sending-stone-in-the-wall/20261023-160648-574000.jpg"
   }
  ],
  "thaldamir-snaps-his-fingers": [
@@ -8177,6 +8235,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/witches-waltz.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/witches-waltz.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Witchs Waltz map"
+   ],
+   "cost": 0.03456675,
+   "at": "2026-10-23T16:06:51",
+   "draft": "gen/drafts/witches-waltz/20261023-160651-753000.jpg"
   }
  ],
  "lirael-in-the-cart": [
@@ -8287,12 +8362,49 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/dragons-lost-sons.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/dragons-lost-sons.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Main Deck Moonwatch map"
+   ],
+   "cost": 0.03463575,
+   "at": "2026-10-23T16:06:49",
+   "draft": "gen/drafts/dragons-lost-sons/20261023-160649-781000.jpg"
   }
  ],
  "empyrean-in-their-spot": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/empyrean-in-their-spot.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/empyrean-in-their-spot.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev map"
+   ],
+   "cost": 0.03461325,
+   "at": "2026-10-23T16:06:47",
+   "draft": "gen/drafts/empyrean-in-their-spot/20261023-160647-553000.jpg"
   }
  ],
  "squirrels-in-the-tea": [
@@ -8363,6 +8475,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/fey-lynns-debrief.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/fey-lynns-debrief.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Fey-Lynn"
+   ],
+   "refs": [
+    "Character lineup",
+    "Below Deck Moonwatch map"
+   ],
+   "cost": 0.0345555,
+   "at": "2026-10-23T16:06:47",
+   "draft": "gen/drafts/fey-lynns-debrief/20261023-160647-860000.jpg"
   }
  ],
  "skye-asks-about-stones-throw": [
@@ -8546,18 +8676,80 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/thaddeus-comes-to-town.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/thaddeus-comes-to-town.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Thaddeus Cannith",
+    "Barry Baritone",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev Streets Day map"
+   ],
+   "cost": 0.03465775,
+   "at": "2026-10-23T16:06:48",
+   "draft": "gen/drafts/thaddeus-comes-to-town/20261023-160648-785000.jpg"
   }
  ],
  "flowers-black-order": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/flowers-black-order.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/flowers-black-order.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Captain Flowers",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev Police Station map"
+   ],
+   "cost": 0.03461425,
+   "at": "2026-10-23T16:06:48",
+   "draft": "gen/drafts/flowers-black-order/20261023-160648-532000.jpg"
   }
  ],
  "morganth-sending-stone": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/morganth-sending-stone.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/morganth-sending-stone.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Captain Flowers",
+    "Morganth",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev Police Station map"
+   ],
+   "cost": 0.0346545,
+   "at": "2026-10-23T16:06:50",
+   "draft": "gen/drafts/morganth-sending-stone/20261023-160650-177000.jpg"
   }
  ]
 }

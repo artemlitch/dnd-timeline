@@ -1,0 +1,23 @@
+{tone}
+This scene is a cruel guard stripping new prisoners of what they love most.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: the intake hall of the cellblock, a long table with confiscated belongings. Time and light: day, dim institutional lamplight.
+{maps:Prison Level 1}
+
+THE MOMENT
+Officer Bloodworth, smirking, dangles Sazed's Oath Watcher pendant from one finger and holds his worn book, Whispers of Wind and Grass, in the other hand, enjoying Sazed's face. Sazed stands rigid, fists clenched. Beside him Brand watches as two guards haul away his holy symbol and the heavy crate holding his power armor. Elarian, a young elf, clutches the empty spot at his throat where his pendant was.
+
+CAST
+- {cast:Bloodworth}
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- {cast:Elarian} Here: in drab prison fatigues.
+- The guards: DarkWood prison guards in grey Brelish uniforms.
+
+REFERENCES
+{references}
