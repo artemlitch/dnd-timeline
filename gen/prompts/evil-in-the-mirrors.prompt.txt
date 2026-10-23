@@ -1,0 +1,20 @@
+{tone}
+This scene is a man seeing nightmares in a mirror aboard an airship.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: mirrors of different sizes hang along the cabin wall and the passage outside. Time and light: day, lamplight inside the cabin.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Lirael stares into a tall mirror, frozen, and in the glass instead of his reflection a nightmare flashes: his family walking away from him down a long pier, out of reach no matter how far he runs. Behind him Brand, in his power armor, holds up his holy symbol as he casts detect good and evil, and every mirror in sight glows with a dark, sickly aura: the small hand mirrors faintly, the tall mirror in front of Lirael strongest of all. Brand looks from mirror to mirror, troubled.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+
+REFERENCES
+{references}

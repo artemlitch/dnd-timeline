@@ -1,0 +1,25 @@
+{tone}
+This scene is a desperate escape from a zombie horde in a burning prison.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the prison is burning, flames pouring from its windows. Up on the roof, prisoners and guards are trapped between the fire and the zombies. Time and light: night, lit by the burning prison.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+The horde of zombies has caught Brand: he has gone down under a heap of grey, clawing bodies, and only one armored arm and his helmet still push up through the pile. Lirael has made it clear and stands near the gate, looking back in horror. Sazed, almost clear, has turned at a run to look back at Brand. Charging the other way into the horde come Rex, Leff and Rolick, to help; but Rolick has already been dragged down, zombies tearing at him, blood on the dirt.
+
+CAST
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Rex}
+- {cast:Leff}
+- {cast:Rolick}
+- The zombies: grey, rotting dead prison guards and prisoners in torn uniforms and prison clothes.
+
+REFERENCES
+{references}

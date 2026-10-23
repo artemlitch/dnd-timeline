@@ -1520,8 +1520,8 @@
         "Leff",
         "Zombies"
       ],
-      "img": "img/the-horde-overwhelms-brand.jpg",
-      "img_version": 1
+      "img": "img/the-horde-overwhelms-brand.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-kills-grail",
@@ -1635,8 +1635,8 @@
         "Bloodworth",
         "Zombies"
       ],
-      "img": "img/bloodworth-dies-a-third-time.jpg",
-      "img_version": 1
+      "img": "img/bloodworth-dies-a-third-time.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "grails-lieutenants-fall",
@@ -7286,7 +7286,7 @@
       "session": 19,
       "kind": "revelation",
       "major": true,
-      "img": "img/evil-in-the-mirrors.jpg",
+      "img": "img/evil-in-the-mirrors.v2.jpg",
       "summary": "Brand's detect good and evil lights up every mirror on the ship. Each time Lirael looks into one, a horrible nightmare flashes through him.",
       "detail": "Lirael looks into a mirror three times and each look brings a new flash of nightmare. Nothing like this has happened since the prison, and the mirrors in Hobbstweedle never did it. Brand senses different levels of evil from different sizes of mirror: the bigger the glass, the stronger the aura. The crew starts to suspect the mirrors are a window for the Dreamweaver and the Shadow Mirror.",
       "tags": [
@@ -7296,7 +7296,7 @@
         "Lirael",
         "Dreamweaver"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "detour-over-yedani-prison",
@@ -7715,7 +7715,7 @@
       "session": 20,
       "kind": "battle",
       "major": true,
-      "img": "img/slaad-dad.jpg",
+      "img": "img/slaad-dad.v2.jpg",
       "summary": "In a secret office at the bottom of the elevator sits Lirael Sr, saying he gave up on the Dreamweaver and that everyone is doomed. Sazed does not believe it and steps between them.",
       "detail": "Sazed is right. The father turns into a slaad and opens with a fireball. Brand casts enlarge on Sazed and the fight turns against the creature. As it starts losing, the slaad turns invisible and hides to regenerate. Lirael searches the elevator but cannot find it, and Brand and Sazed block the entrance while Sazed sweeps the room.",
       "tags": [
@@ -7726,7 +7726,7 @@
         "Brand",
         "Ardev"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "chimney-ambush",
@@ -8077,7 +8077,7 @@
       "session": 22,
       "kind": "battle",
       "major": true,
-      "img": "img/gynn-at-the-forge.jpg",
+      "img": "img/gynn-at-the-forge.v3.jpg",
       "summary": "Mephits are looting the forge, and one is an illusion hiding a glabrezu named Gynn. Lirael slips the ring of random teleportation onto the demon and sends him away.",
       "detail": "Sazed spots the mephits stealing from the next room and the party moves in. Struck, one mephit reveals itself as Gynn the glabrezu. He wants Brokk and offers to let them live if they hand him over. They refuse. In a single round Gynn knocks Sazed out, and Brand quickly heals him. Then Lirael, in a moment of genius, slips the ring of unpredictable teleportation onto Gynn and activates it. The remaining mephits are easy.",
       "tags": [
@@ -8088,7 +8088,7 @@
         "Brand",
         "House Cannith"
       ],
-      "img_version": 1
+      "img_version": 3
     },
     {
       "id": "brokk-takes-refuge",
