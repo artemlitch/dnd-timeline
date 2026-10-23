@@ -1,0 +1,22 @@
+{tone}
+This scene is a riddle solved in a dead man's study.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: the basement den buried in Lirael Sr's books and pinned papers. Time and light: night, lamplight, and now the black light of the obelisk.
+{maps:Lireal Sr Den/Basement}
+
+THE MOMENT
+Lirael holds his father's journal open at its last page, a short poem. In front of him, on the desk, the black rune-carved obelisk has just lit up: it pours out a strange black light that throws everything into negative, and where that light falls on the wall a hidden door outline glows into view. Brand, in his power armor, and Sazed step back, staring at the door.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Lirael Sr's portrait is attached for reference only; Lirael Sr is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

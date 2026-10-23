@@ -1,0 +1,23 @@
+{tone}
+This scene is a frightened clerk handing over the prison's darkest secret.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/wardens-office}
+In this moment: a cramped records room off the warden's office, shelves of ledgers and files, a riot raging somewhere beyond the door. Time and light: night, a single lamp.
+{maps:Prison Level 2}
+
+THE MOMENT
+Erald Dwelve, the prison's nervous record keeper, clutches an armful of ledgers to his chest and holds one open toward the party with a shaking hand, pointing at a name written in it: the necromancer behind it all, Grail Grimdell. Lirael leans in to read it. Sazed holds the lamp closer. Brand, still in his prison clothes and without his armor, stands guard at the door.
+
+CAST
+- {cast:Erald}
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- Grail Grimdell's portrait is attached for reference only; Grail Grimdell is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

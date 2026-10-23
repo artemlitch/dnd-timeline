@@ -1333,8 +1333,8 @@
         "Grail Grimdell",
         "DarkWood"
       ],
-      "img": "img/erald-names-the-necromancer.jpg",
-      "img_version": 1
+      "img": "img/erald-names-the-necromancer.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "thaldamir-begs-for-his-life",
@@ -1613,8 +1613,8 @@
         "Fumble Figgins",
         "DarkWood"
       ],
-      "img": "img/lirael-pleads-with-damron.jpg",
-      "img_version": 1
+      "img": "img/lirael-pleads-with-damron.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bloodworth-dies-a-third-time",
@@ -1781,7 +1781,7 @@
     },
     {
       "id": "ddt-note",
-      "img": "img/ddt-note.jpg",
+      "img": "img/ddt-note.v2.jpg",
       "title": "The Note Signed DDT",
       "year": 993,
       "month": 1,
@@ -1801,7 +1801,7 @@
         "Brand",
         "Elric"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "darkwood-explodes",
@@ -7677,8 +7677,8 @@
         "Lirael",
         "Ardev"
       ],
-      "img": "img/the-last-poem.jpg",
-      "img_version": 1
+      "img": "img/the-last-poem.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-mad-library-puzzle",
@@ -7866,8 +7866,8 @@
         "Dreamweaver",
         "Chip"
       ],
-      "img": "img/the-ardev-library.jpg",
-      "img_version": 1
+      "img": "img/the-ardev-library.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "barry-baritone",

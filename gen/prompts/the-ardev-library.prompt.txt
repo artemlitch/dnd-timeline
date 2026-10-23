@@ -1,0 +1,23 @@
+{tone}
+This scene is a secret message found in a small-town library.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-library}
+Time and light: day, light through the library windows.
+{maps:Ardev Library}
+
+THE MOMENT
+At the front desk Sazed bends over the library's sign-in sheet, his finger on a few lines of verse hidden among the signatures: a secret message from his old friend Carrk. Behind the counter, Chip, the librarian, a chipmunk in a tiny knitted cardigan and spectacles, cowers behind a stack of books, terrified of Lirael. Lirael stands at the end of the counter, trying to look harmless. Brand, in his power armor, browses a shelf behind them.
+
+CAST
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand}
+- Chip: the librarian, a real chipmunk, small and furry, in a tiny knitted cardigan and round spectacles.
+- Carrk's portrait is attached for reference only; Carrk is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

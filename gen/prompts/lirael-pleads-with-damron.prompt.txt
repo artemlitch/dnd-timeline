@@ -1,0 +1,22 @@
+{tone}
+This scene is a prisoner talking a guard into opening the gate during a battle.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/gate-and-walls}
+In this moment: the prison gate, the prison burning behind the walls and the din of the zombie battle beyond. Time and light: night, firelight from the burning prison.
+{maps:Prison Gate}
+
+THE MOMENT
+Lirael, bloodied and out of breath in his prison clothes, has broken away from the fight to reach Damron Pink at the gate. Damron, whose friends the party has killed, glares at him, torn, his hand on the gate's lever. Lirael pleads with him, one hand pointing back toward the yard where the zombies are winning. Behind Damron, Fumble Figgins and a squad of guards wait, weapons drawn, looking to Damron for the order.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues, bloodied.
+- {cast:Damron Pink}
+- {cast:Fumble Figgins}
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs and short swords.
+
+REFERENCES
+{references}

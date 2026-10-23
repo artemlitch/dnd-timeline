@@ -1,0 +1,23 @@
+{tone}
+This scene is a mysterious note found on a dead necromancer.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the yard after the battle, fallen zombies everywhere, the prison still burning behind. Time and light: night, firelight.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+Grail Grimdell's body lies sprawled in the dirt, his head blown apart, his blood-red gem necklace beside his hand. Brand, in his power armor, kneels over him, holding up a folded note he has just found, reading it in the firelight, frowning as he places the name Mara'bor. Elric, the kindly guard, leans over his shoulder, nodding: he knows the way. Lirael and Sazed stand by, battered and exhausted.
+
+CAST
+- {cast:Brand}
+- {cast:Grail Grimdell} Here: dead on the ground, his head blown apart.
+- {cast:Elric}
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}
