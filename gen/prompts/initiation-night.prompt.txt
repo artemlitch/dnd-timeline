@@ -1,0 +1,24 @@
+{tone}
+This scene is new prisoners turning on their guards in a brutal brawl.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison}
+In this moment: a rough ring of prisoners and guards in the prison, cheap weapons handed out for a fight to the death. Time and light: night, torchlight.
+
+THE MOMENT
+The new prisoners were handed weapons and told to fight each other for the guards' entertainment. Instead they have turned on the guards. Sazed drives his weapon into Officer Bloodworth, his torturer, blood spraying, Bloodworth's face twisted in shock. Brand, in his prison clothes, bowls a guard over with his shoulder. Lirael slips a blade between the ribs of another guard from behind. Tauren is down on one knee, wounded and bleeding. At the edge of the ring, the guard Fumble Figgins drops his club and runs.
+
+CAST
+- {cast:Sazed} Here: in rough prison clothes.
+- {cast:Bloodworth}
+- {cast:Brand} Here: in rough prison clothes, without his power armor.
+- {cast:Lirael} Here: in rough prison clothes.
+- {cast:Tauren} Here: in rough prison clothes, wounded.
+- {cast:Fumble Figgins}
+- The guards: DarkWood prison guards in grey uniforms with clubs and short swords.
+
+REFERENCES
+{references}

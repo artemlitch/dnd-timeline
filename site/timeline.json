@@ -997,7 +997,7 @@
     },
     {
       "id": "initiation-night",
-      "img": "img/initiation-night.jpg",
+      "img": "img/initiation-night.v2.jpg",
       "title": "Initiation Night Becomes a Prison Break",
       "year": 993,
       "month": 1,
@@ -1017,7 +1017,7 @@
         "Brand",
         "DarkWood"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "the-alarm-is-pulled",
@@ -1423,8 +1423,8 @@
         "Bag of Devouring",
         "DarkWood"
       ],
-      "img": "img/chester-the-mimic.jpg",
-      "img_version": 1
+      "img": "img/chester-the-mimic.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-cafeteria-rescue",
@@ -3048,8 +3048,8 @@
         "Smoke Elemental",
         "Harpies"
       ],
-      "img": "img/broadaxe-explodes.jpg",
-      "img_version": 1
+      "img": "img/broadaxe-explodes.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "chicken-in-the-landing-gear",
@@ -5463,8 +5463,8 @@
         "Brand",
         "Sazed"
       ],
-      "img": "img/escape-the-collapsing-dream.jpg",
-      "img_version": 1
+      "img": "img/escape-the-collapsing-dream.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "friends-come-back",
@@ -8697,8 +8697,8 @@
         "Sazed",
         "Helm of the Devout"
       ],
-      "img": "img/stones-throw-in-ashes.jpg",
-      "img_version": 1
+      "img": "img/stones-throw-in-ashes.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "children-in-the-well",

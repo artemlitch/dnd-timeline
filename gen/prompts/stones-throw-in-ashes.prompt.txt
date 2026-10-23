@@ -1,0 +1,21 @@
+{tone}
+This scene is a grim burial in a burned village interrupted by a living tree.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:stones-throw/eldgrave-treant}
+In this moment: the shifter village has been burned to the ground a week ago; its huts are charred ruins. A pile of burned corpses lies in the middle of the village, the bodies scorched with the white, glassy marks of radiant burns. Time and light: day.
+
+THE MOMENT
+The party is digging graves for the dead. Sazed stands over the corpse pile with a shovel, grief-stricken, these were his people. Brand, in his power armor, has just lifted a +1 greatsword out of a heap of fallen trees, and that heap is rising: it is Eldgrave the treant, unfolding to his full height out of what looked like a pile of logs, bark face opening its eyes and looking down at them, wary. Lirael steps back, hand raised to cast. A dented silver helm, the Helm of the Devout, lies in the ash at their feet.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+- Eldgrave: an ancient, towering treant of gnarled oak, with a bark face, deep-set eyes, mossy beard and branch arms.
+
+REFERENCES
+{references}
