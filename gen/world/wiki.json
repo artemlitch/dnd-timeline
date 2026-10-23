@@ -1,0 +1,723 @@
+[
+  {
+    "subject": "Wroat",
+    "kind": "place",
+    "found": true,
+    "description": "Capital of Breland, a metropolis of about 80,870 people. Residents are mostly humans (30%) and gnomes (20%), with half-elves, elves, dwarves, halflings, changelings, warforged and goblinoids. It is a great walled city built on both banks of the Howling River, just before it joins the Dagger River. A man-made island in the middle of the river holds Brokenblade Castle, the royal residence with a massive Great Hall, and the Citadel, an obsidian tower that is the headquarters of the King's Citadel. Other landmarks are the Galifar Museum, Parliament Hall, a lightning rail station, and temples of the Silver Flame and the Sovereign Host. Ferries run to Galethspyre four times a day.",
+    "quotes": [
+      "The great walled city is built on opposing banks of the Howling River just before it flows into the Dagger River.",
+      "The city also occupies a man-made island that sits in the middle of the river and it is here that Brokenblade Castle as well as the Citadel can be found.",
+      "headquartered at the Citadel, a large obsidian tower on the central island of Wroat"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Wroat",
+      "https://eberron.fandom.com/wiki/Brokenblade_Castle",
+      "https://eberron.fandom.com/wiki/King's_Citadel",
+      "https://eberron.fandom.com/wiki/Galethspyre"
+    ]
+  },
+  {
+    "subject": "Ardev",
+    "kind": "place",
+    "found": true,
+    "description": "Small farming and ranching town in western Breland, on the Orien trade road to Graywall, about halfway between Droaam and the Dagger River. It sits by Chalice Lake. It is a rest stop for westbound merchant caravans and for Brelish military units heading to the Droaam border. It also supplies the king's private retreat at Castle Arakhain, so many King's Citadel agents are in town. Prospectors and miners leave from here for the Graywall Mountains, where they look for byeshk, a hard, dense metal with a purple sheen. No architectural detail is given.",
+    "quotes": [
+      "It is a farming and ranching community carefully situated to take full advantage of the waters of Chalice Lake",
+      "Brelish military units heading to protect the Breland–Droaam border",
+      "an unusually high number of King's Citadel agents can usually be found in the town"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Ardev",
+      "https://eberron.fandom.com/wiki/Castle_Arakhain",
+      "https://eberron.fandom.com/wiki/Byeshk"
+    ]
+  },
+  {
+    "subject": "Starilaskur",
+    "kind": "place",
+    "found": true,
+    "description": "Large city in northern Breland, east of Lake Brey and north of the Seawall Mountains. It is a major lightning rail junction, with lines to Wroat, Vathirond and Sterngate/Zilargo, and it stands where several Orien trade roads meet. It is one of the last stops before Thrane and the Mournland. Its station is run by station master Laara d'Orien. Starilaskur Arms makes crossbows, and in 994 YK made the first Brelish musket, the 'Brass Dragon'. The King's Dark Lanterns have a branch office here. No architectural description was found.",
+    "quotes": [
+      "It is a major lightning rail stop, joining the line from Zilargo, as well as being one of the final stops before Thrane and the Mournland.",
+      "The city also lies at the junction of several Orien trade roads."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Starilaskur",
+      "https://eberron.fandom.com/wiki/Lightning_rail_station",
+      "https://keith-baker.com/muskets/"
+    ]
+  },
+  {
+    "subject": "Moonwatch",
+    "kind": "place",
+    "found": true,
+    "description": "Moonwatch IS canon, but as a small town, not a ship. It lies in western Breland on the banks of the Sorrihla River, in the middle of the Tilorn Expanse. Lady Miral ir'Wynarn is a noble there. No visual description exists. In the campaign Moonwatch is the party's airship, so see the separate airship analog entry.",
+    "quotes": [
+      "Moonwatch is a small town in western Breland on the banks of the Sorrihla River in the middle of the Tilorn Expanse."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Moonwatch",
+      "https://eberron.fandom.com/wiki/Breland"
+    ]
+  },
+  {
+    "subject": "Sharn",
+    "kind": "place",
+    "found": true,
+    "description": "The City of Towers in southern Breland, the most populous city in Khorvaire, with several hundred thousand people. It stands on a cliff above the Hilt, at the mouth of the Dagger River. A manifest zone to Syrania (the Azure Sky) boosts flight and levitation magic, so towers rise nearly a mile high on flying buttresses. Skycoaches, small soarwood boats, dart between the spires, and Skyway, the richest district, floats above the highest towers. The city is split across five plateaus (Central, Menthis, Northedge, Dura, Tavick's Landing) plus Cliffside, which is built into the cliffs. Its levels run, from the bottom up, the Cogs (an industrial heart above rumored lava), the Depths (sewers and ruins), Lower City, Middle City, Upper City and Skyway. The higher the level, the richer the people. It is built over the ancient goblin city of Ja'Shaarat, with skybridges between towers. It has red-carpeted Upper City theaters and dank lower-ward taverns.",
+    "quotes": [
+      "The city literally towers atop a cliff above the mouth of the Dagger River in southern Breland.",
+      "This allows Sharn to have towers that rise nearly 1 mile in height, transportational flight, and even a section of the city that floats above the highest towers on clouds.",
+      "Generally, the higher one is in Sharn, the wealthier the citizens are.",
+      "The churning industrial heart of Sharn",
+      "From the lush red carpets of Upper City theaters to the dank taverns in the lower slums",
+      "small boats",
+      "dart between the spires"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Sharn",
+      "https://keith-baker.com/ifaq-skycoaches/",
+      "https://eberron.fandom.com/wiki/Order_of_the_Emerald_Claw"
+    ]
+  },
+  {
+    "subject": "Breland",
+    "kind": "place",
+    "found": true,
+    "description": "One of the Five Nations, in southwestern Khorvaire. It is a mix of open farmland, woodland and sprawling cities. The Dagger River splits it, and the Graywall Mountains in the west guard it against Droaam. Its forests include the King's Forest and the Faded Forest. Its heraldry is the Bear and Crown. King Boranel ir'Wynarn rules with a Parliament. The lightning rail starts in Sharn and Orien trade roads reach the countryside. The border is lined with forts: Sterngate, Orcbone, Drum Keep, Kennrun, Sword Keep, Flint Keep and Torch Keep, plus the floating fortress Argonth. Ogre laborers and minotaur bodyguards from Droaam work in Brelish towns. Galethspyre is known for the dye 'Breland Blue'.",
+    "quotes": [
+      "Breland is a mix of open farmland, woodland, and sprawling metropolises, the largest and most famous of which is Sharn.",
+      "Forever will the Bear and Crown",
+      "many minotaur bodyguards and ogre laborers can be found in various Brelish and Zil towns",
+      "the distinctive color known as \"Breland Blue\""
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Breland",
+      "https://eberron.fandom.com/wiki/Galethspyre"
+    ]
+  },
+  {
+    "subject": "Aundair",
+    "kind": "place",
+    "found": true,
+    "description": "One of the Five Nations, in north-central Khorvaire. Population is about 2,000,000. The capital is Fairhaven. It has a temperate climate with fertile fields, vineyards and farmland, and is known for wine, cheese and books. It has scholarly centers: the University of Wynarn, and Arcanix, floating towers on platforms of rock high above a village by Lake Galifar. Solitary monasteries dot the countryside. Its people are skilled riders, and public duels are common. Nobles wear bright colors, feathered hats, long skirts, coats or cloaks, and ruffled or puffy sleeves. Keith Baker calls Aundairian fashion wild and whimsical, with glamerweave and magical cosmetics. Arcane magic is woven into daily life. Stormhome, House Lyrandar's seat and airship port, is an Aundairian island kept tropical by magic.",
+    "quotes": [
+      "Aundair still possesses beautiful swaths of fertile fields that supply the nations of Khorvaire with food and fine wines",
+      "the nobles who wear bright colors, feathered hats, long skirts, coats or cloaks, and ruffled or puffy sleeves",
+      "the floating towers of arcane study at Arcanix",
+      "wild and whimsical"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Aundair",
+      "https://keith-baker.com/ifaq-thrane-fashion/",
+      "https://keith-baker.com/ifaq-airships/",
+      "https://eberron.fandom.com/wiki/Stormhome"
+    ]
+  },
+  {
+    "subject": "Karrnath",
+    "kind": "place",
+    "found": true,
+    "description": "Northeastern nation of the Five Nations, the oldest and most martial. It is mostly plains with dense forests (Karrnwood, Icewood, Nightwood) and two mountain ranges (Ashen Spires, Icetop). Summers are short and wet and winters are long and bitterly cold, with sudden storms off Scions Sound. Every citizen does at least two years of military service. Martial law, the Code of Kaius, is still in force. During the war its armies included skeleton and zombie troops raised with the Blood of Vol. The capital is Korth, and Rekkenmark is a garrison city and military academy. It exports pine, paper, cheese and ale. Keith Baker calls Karrnathi fashion gothic, grim and deliberately intimidating, with a martial touch.",
+    "quotes": [
+      "Karrnath tends to have short and wet summers and long bitterly cold winters.",
+      "the forces of Karrnath's military in the Last War were bolstered by skeleton and zombie forces",
+      "a gothic approach that is both grim and intentionally intimidating"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Karrnath",
+      "https://keith-baker.com/ifaq-thrane-fashion/"
+    ]
+  },
+  {
+    "subject": "Thrane",
+    "kind": "place",
+    "found": true,
+    "description": "Central Khorvaire nation ruled as a theocracy by the Church of the Silver Flame from Flamekeep, where the Cathedral of the Silver Flame stands. Its heraldry is a silver sword beneath the Silver Flame symbol, an arrowhead with a flame on it. Its art style, Kree-Flamic, builds every shape from cubes and triangles. People live sober lives, and many cities still show war damage because the treasury is low. It mines flametouched iron. Clothing is blue and silver, the colors of the faith, with practical long coats and dusters, sturdy boots and hats, and hand-mended, patchwork-repaired clothes. Thrane's populace was widely trained in the longbow.",
+    "quotes": [
+      "The heraldry of the nation of Thrane is a silver sword set beneath the symbol of the Silver Flame (an arrowhead emblazoned with a flame).",
+      "Kree-Flamic style, which employs cubes and triangles to form all other shapes",
+      "Blue and silver are colors associated with the faith.",
+      "many cities still show signs of destruction wrought by invaders"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Thrane",
+      "https://keith-baker.com/ifaq-thrane-fashion/",
+      "https://keith-baker.com/muskets/"
+    ]
+  },
+  {
+    "subject": "Cyre / the Mournland",
+    "kind": "place",
+    "found": true,
+    "description": "Cyre was the 'Purple Jewel of Galifar's Crown', the most beautiful and artistic of the Five Nations, with 1,500,000 people in 992 YK. It was famous for artifice, illusions, clockwork (gliding boots, spellsong nightingales) and fine crafts. Cyran humans are slender and long-limbed, with mostly wavy dark hair worn loose at medium length; a few have white hair, which is linked to magic. They dress in bright colors and nearly always wear gloves and dangling jewelry with bells or feathers; masks mark formal occasions. Young refugees now wear black 'mourningwear'. Since 994 YK it has been the Mournland, a dome of dead-gray mist with no living cities, only ruins (Metrol, Eston, Making). Inside, the land shifted, rose and fell, or turned to glass: the Glass Plateau, the Glowing Chasm, and the eerily preserved Field of Ruins battlefield. Warforged under the Lord of Blades roam there.",
+    "quotes": [
+      "the Purple Jewel of Galifar's Crown",
+      "Traditional Cyran fashion is similar to Aundairian fashion, but focuses more on the bright colors and less on flamboyance in hats and ruffles.",
+      "The borders of the Mournland are easily distinguished by the dead-gray mist that forms a dome around the entire area.",
+      "entire cities shifted locations and terrain was raised or lowered, or transformed into glass or other materials",
+      "\"mourningwear\" or \"Mourning wear\", which is dark or black but flamboyant in the standard Cyran cut"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Cyre",
+      "https://eberron.fandom.com/wiki/Mournland"
+    ]
+  },
+  {
+    "subject": "Galifar (kingdom)",
+    "kind": "place",
+    "found": true,
+    "description": "The Kingdom of Galifar united Khorvaire from 1 YK to 894 YK under the ir'Wynarn dynasty. Each of the five provinces was governed by one of the monarch's children. It broke apart into the Last War when King Jarot died, and it formally ended with the Treaty of Thronehold in 996 YK. The Five Nations' rulers still call themselves 'Heir of Galifar'. The gold piece is also called a 'galifar'. No visual description of the kingdom was found. In Q'barra, 'New Galifar' is a settler state that still claims the old kingdom's ideals.",
+    "quotes": [
+      "The Kingdom of Galifar encompassed the width and breadth of Khorvaire from 1 YK to 894 YK",
+      "The Galifar, one of the common currencies of Khorvaire, also known as a gold piece."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Kingdom_of_Galifar",
+      "https://eberron.fandom.com/wiki/Galifar",
+      "https://eberron.fandom.com/wiki/Q'barra"
+    ]
+  },
+  {
+    "subject": "Five Nations",
+    "kind": "place",
+    "found": true,
+    "description": "The five human-dominated nations of Khorvaire: Aundair, Breland, Cyre, Karrnath and Thrane. They were provinces of Galifar and became independent kingdoms in the Last War. Cyre is gone, so four remain, each a little smaller than before. Lightning rail and Orien trade roads link them, and everbright lanterns light their city streets. Dress by nation, per Keith Baker: Aundair is whimsical and flamboyant, Thrane is practical blue and silver, Karrnath is grim and gothic, and Cyre is bright colors with gloves and jewelry.",
+    "quotes": [
+      "The Five Nations are the five major human-dominated nations of Khorvaire",
+      "The Five Nations were reduced to four with the destruction of Cyre and the creation of the Mournland."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Five_Nations",
+      "https://keith-baker.com/ifaq-thrane-fashion/"
+    ]
+  },
+  {
+    "subject": "Hobbstweedle",
+    "kind": "place",
+    "found": false,
+    "description": "Not canon. A search of the Eberron wiki returned no results. See the analog entries marked analog_for Hobbstweedle.",
+    "quotes": [],
+    "sources": [
+      "https://eberron.fandom.com/api.php?action=query&list=search&srsearch=Hobbstweedle"
+    ]
+  },
+  {
+    "subject": "Mror Holds",
+    "kind": "place",
+    "found": true,
+    "description": "Dwarven homeland in eastern Khorvaire, home to at least 455,000 dwarves. It is hemmed in by the Ironroot and Hoarfrost Mountains with the Bitter Sea to the northwest, and much of it is underground. Twelve clan holds are divided into 'spires'. The capital is Krona Peak, the lightning rail terminus, with the largest temple of Kol Korran. Landmarks include the carved face of Lord Mror, the Fist of Onatar and Mirror Lake. Below lies the Realm Below, ancient dwarven cities lost to the daelkyr, with 'deep siege lines'. Mror dwarves love sunlight and color, so their buildings have windows. They wear durable outfits that can be reversed or reshaped, beads in beards and braids, a clan-styled dagger (dultar) on everyone, brooches, rings and chains, and iron ornaments among common folk. Some clans wear living symbiont cloaks and armor.",
+    "quotes": [
+      "much of the establishments of the Mror Holds are located underground",
+      "their buildings typically have windows",
+      "A Mror outfit typically has elements that can be reversed, shifted, or removed.",
+      "It is said that at this time the mighty face of Lord Mror was constructed."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Mror_Holds",
+      "https://eberron.fandom.com/wiki/Krona_Peak",
+      "https://keith-baker.com/mror2/"
+    ]
+  },
+  {
+    "subject": "Eldeen Reaches",
+    "kind": "place",
+    "found": true,
+    "description": "Northwestern Khorvaire, covered in heavy forest (the Towering Wood, Gloaming, Guardian Trees), with farming plains in the southeast near Breland and Aundair. There is no lightning rail. Two societies live here: druid sects in the forests (Wardens of the Wood, Ashbound, Children of Winter, Gatekeepers, Greensingers) and farmers on the plains. The capital, Greenheart, is a small town deep in the Towering Wood, built around Oalian, an awakened greatpine. Varna, on Lake Galifar, is the largest city: Aundairian in style and full of House Vadalis ranches, where 'the stables are nicer than the houses'. Shifters have communities here, such as Wolf's Paw.",
+    "quotes": [
+      "It is covered by heavy forest, though some cities have formed around the borders of Breland and Aundair.",
+      "Two main social groups exist in the Eldeen Reaches, the druid sects in the forests and the agricultural groups in the plains.",
+      "Varna is naturally built with an Aundairian architecture and style."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Eldeen_Reaches",
+      "https://eberron.fandom.com/wiki/Varna",
+      "https://eberron.fandom.com/wiki/Greenheart"
+    ]
+  },
+  {
+    "subject": "Shadow Marches",
+    "kind": "place",
+    "found": true,
+    "description": "Orc-inhabited swamps and marsh lowlands in southwestern Khorvaire, west of the Byeshk Mountains. Outsiders see them as fetid backwater swamps (Crawling Swamp, Vile Swamp, Blackwater Lake). The chief port is Zarash'ak, and ruins include Lantern Tower. The village of Blackroot is named after its darkwood trees and their raised roots.",
+    "quotes": [
+      "It is commonly seen by outsiders as little more than fetid backwater swamps where orcs have lived for thousands of years.",
+      "Still, a glimmer of civilization lingers here, if one has enough tenacity and endurance to seek it out."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Shadow_Marches",
+      "https://eberron.fandom.com/wiki/Darkwood"
+    ]
+  },
+  {
+    "subject": "Demon Wastes",
+    "kind": "place",
+    "found": true,
+    "description": "Northwestern wasteland of barren rock and arid soil. It has mountains in the south, the Labyrinth (a maze of canyons and mesas) in the middle, and plains and deserts of black sand and volcanic glass in the north. It is very volcanic, with lava rivers and the Lake of Fire, a crater almost a mile wide. Plants are scarce: blood-red moss, abyssal blackgrass, blood rock and charnel bogs. Its people are the Carrion Tribes, stone-age demon worshippers with fiend-like ritual scars, and the orc Ghaash'kala, who wear leather armor, carry metal weapons and bear a 'binding flame' brand. Rakshasa rule from hidden Ashtakala, and night hags also hold power.",
+    "quotes": [
+      "a forbidding realm of barren rock and arid soil",
+      "Beyond the Labyrinth are plains and deserts composed of black sand and volcanic glass.",
+      "with rivers of lava and volcanoes a common sight across the region",
+      "They also practice ritual scarification, with each tribe having its own distinct patterns that imitate the appearance of fiends."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Demon_Wastes"
+    ]
+  },
+  {
+    "subject": "Lhazaar Principalities",
+    "kind": "place",
+    "found": true,
+    "description": "A narrow strip of coast east of the Hoarfrost Mountains plus an archipelago of more than two dozen islands in the northeast. It is a loose confederacy of sea princes, pirates, privateers and traders, and life happens more at sea than on land. Every settlement is on the coast, and island interiors are unexplored, so towns feel like frontier ports. Clothing varies by island but is 'tough and functional', and people take pride in their hair. They drink salasta, a clear seaweed liquor. The Bloodsail elves build darkwood ship hulls and cities of basalt and darkwood. Dreadhold prison island lies off Cape Far.",
+    "quotes": [
+      "Lhazaar society exists more on the open sea than on any piece of land.",
+      "they retain their feeling of frontier towns embraced by the beautiful and brutal environment around them",
+      "Clothing is different from one island to another, but it tends to be tough and functional. Lhazaar residents also have a lot of pride in their hair."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Lhazaar_Principalities",
+      "https://eberron.fandom.com/wiki/Darkwood"
+    ]
+  },
+  {
+    "subject": "Q'barra",
+    "kind": "place",
+    "found": true,
+    "description": "Dangerous frontier nation east of the Endworld Mountains. It is mostly steamy jungle and sprawling swamp, with dire animals and dinosaurs, and a small strip of fertile land in the southeast. Human settlers (New Galifar, ruled from Newthrone; Hope and Wyrmwatch for refugees; Adderport) hold out against lizardfolk tribes (Blackscale, Poison Dusk, Cold Sun), kobolds and raiders.",
+    "quotes": [
+      "The steamy jungles and sprawling swamplands that encompass most of the landscape are a perfect habitat for dire and horrid animals, as well as dinosaurs.",
+      "Q'barra is a land for the brave and the tenacious."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Q'barra"
+    ]
+  },
+  {
+    "subject": "Xen'drik",
+    "kind": "place",
+    "found": true,
+    "description": "The 'Shattered Land', a vast, mostly unmapped continent south of Khorvaire. It has jungles in the northeast, deserts in the northwest, scattered mountains and an icy southern waste. Ruins of giant city-states, temples, and drow and elven cities are everywhere; the Qabalrin built in darkwood, black marble and glass. Stormreach on the Skyfall Peninsula is the main port of entry. The Traveler's Curse warps distance and time, so maps fail. It is the main source of Siberys dragonshards.",
+    "quotes": [
+      "Giant ruins still dot the jungles of Xen'drik.",
+      "Jungles dominate the north-east of the continent. Deserts cover most of the north-west of the continent.",
+      "The Qabalrin elves of the Ring of Storms in Xen'drik constructed cities out of darkwood. black marble, and glass."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Xen'drik",
+      "https://eberron.fandom.com/wiki/Darkwood"
+    ]
+  },
+  {
+    "subject": "Droaam",
+    "kind": "place",
+    "found": true,
+    "description": "A nation of monsters west of Breland's Graywall Mountains, ruled by the hag Daughters of Sora Kell since 986 YK and not recognized by the Treaty of Thronehold. The land is mostly barren plains with sparse copses, growing rocky toward the mountains. It is rich in byeshk (a purple-sheened metal) and Eberron dragonshard fields. Harpies, ogres, orcs, trolls, minotaurs, gnolls, goblins and kobolds share city streets. Graywall is a haven for smugglers, and a single Orien road connects it to the east. House Tharashk runs mines and mercenary contracts.",
+    "quotes": [
+      "The area is inhospitable and mostly barren plains",
+      "One can find harpies, ogres, orcs, and more wandering the same streets, going about their own business, at least in the major cities."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Droaam",
+      "https://eberron.fandom.com/wiki/Byeshk"
+    ]
+  },
+  {
+    "subject": "Zilargo",
+    "kind": "place",
+    "found": true,
+    "description": "Gnome nation on Khorvaire's south coast between the Howling Peaks and the Seawall Mountains, closely tied to Breland. Its three great cities, Korranberg (home of the vast Library and the Korranberg Chronicle), Trolanport (shipwrights and cartographers) and Zolanberg (jewel mines), began as reused Dhakaani goblin cities. Watchmen are rarely seen, but the secret police, the Trust, watch everything. The Zil are the only people who can bind elementals; they build the airships and power the lightning rail.",
+    "quotes": [
+      "many visitors to Zilargo are astonished at the lack of direct policing; a city watch and the like is generally not in sight",
+      "the Zil have discovered a method for binding elementals to vehicles, weapons and armour",
+      "The gnomes took over Dhakaani cities abandoned due to war-time depopulation"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Zilargo"
+    ]
+  },
+  {
+    "subject": "Galifar-class airship",
+    "kind": "thing",
+    "found": false,
+    "description": "Not canon. Neither the Eberron wiki nor a web search found any 'Galifar-class' ship. See 'Elemental airships' for canon airship visuals.",
+    "quotes": [],
+    "sources": []
+  },
+  {
+    "subject": "Elemental airships (bound elemental ring)",
+    "kind": "thing",
+    "found": true,
+    "description": "Open-deck ships with soarwood hulls, built in Zilargo and mostly run by House Lyrandar since 990 YK. A bound fire or air elemental forms a ring around the ship, held by arms or struts toward the stern; if the arms break, the ring collapses and the ship falls. The classic airship uses a fire ring, which is faster and gives off smoke; air rings are more maneuverable, and the largest ships use one of each. The ring keeps the hull at least 10 feet off the ground. The core is an engraved brass-and-mithral sphere with a khyber dragonshard at its center. Metal 'veins' (engraved strips) and 8-inch dragonshard-inlaid metal polyhedron 'nodes' run through the hull. The helm looks like a classic ship's wheel (the 'Wheel of Wind and Water'). Windwards keep wind and people from blowing off the deck. Ships dock at docking towers, found only in major cities. Topside crew might wear smoked goggles and heat-resistant clothes. Airships are not heavily armed; Lyrandar 'stormships' were military designs seen only at the very end of the war.",
+    "quotes": [
+      "An airship is an open-deck vessel that moves swiftly through the upper atmosphere.",
+      "an engraved sphere of brass and mithral with a khyber dragonshard at the center",
+      "The classic airship uses a fire elemental in its ring.",
+      "an air elemental or fire elemental bound to a ring between two struts toward the back of the ship",
+      "the ring of the elemental prevents the bottom of the hull from getting closer than 10 feet to the ground",
+      "Only major cities have the docking towers required by Lyrandar airships"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Elemental_airship",
+      "https://eberron.fandom.com/wiki/Elemental_binding",
+      "https://eberron.fandom.com/wiki/Soarwood",
+      "https://keith-baker.com/dm-airships/",
+      "https://keith-baker.com/dm-flight/",
+      "https://keith-baker.com/ifaq-airships/"
+    ]
+  },
+  {
+    "subject": "Lightning rail",
+    "kind": "thing",
+    "found": true,
+    "description": "House Orien's train. A bound air elemental in a crew cart pulls about 10 carts at roughly 30 mph: two crew carts, four passenger carts, two lounge carts and two cargo carts. The carts float frictionlessly over a track of Cannith conductor stones that repel each other. Lightning circles the crew cart and arcs between the stones, which gives the train its name. Passengers ride steerage, standard (bunks) or first class, and the rich have private coaches. Stations look much alike: lit by white or golden everbright lanterns, with rose marble terrazzo floors, ceilings about 18 ft high, and an arched colonnade 25 ft high over the track. A unicorn mosaic marks the concourse, alongside a ticket booth, benches, a timetable map, a food vendor and a chronicle stand. The network has been split in two since the Mournland cut through it.",
+    "quotes": [
+      "the elemental causes lightning to encircle the crew cart as a side effect of the propulsion, and the lightning also arcs between the conductor stones",
+      "Stations are constantly lit by everbright lanterns that cast white or golden light and the floors of public areas usually have rose marble terrazzo.",
+      "an open arched colonnade covering the conductor stone path at a height of 25 feet",
+      "a unicorn mosaic on the floor"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Lightning_rail",
+      "https://eberron.fandom.com/wiki/Lightning_rail_station",
+      "https://eberron.fandom.com/wiki/Elemental_binding"
+    ]
+  },
+  {
+    "subject": "Warforged",
+    "kind": "thing",
+    "found": true,
+    "description": "Living constructs made by House Cannith in Cyre from 965 YK, over 6 ft tall and over 300 lb. Their frame is metal and stone, wood fibers act as muscle, and an outer shell of metal and stone plates covers them; some are partly darkwood. They have a hinged, toothless jaw, crystal eyes that brighten with strong emotion, a heavy brow, and no nose or hair. Each has a unique rune (ghulra) engraved on the forehead. Hands have two thick fingers and a thumb; feet have two broad toes. Bodies are sexless, and many have armor built in. Some wear clothes to blend in. They work as laborers, guards and mercenaries.",
+    "quotes": [
+      "Though their design can vary, they share common traits of a hinged jaw and eyes made from crystal.",
+      "Their hands have only two thick fingers and a thumb, whilst their feet only have two broad toes.",
+      "they have a toothless jaw and heavy brow line and are lacking noses and hair",
+      "Each warforged has a ghulra engraved upon their foreheads."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Warforged"
+    ]
+  },
+  {
+    "subject": "Shifters",
+    "kind": "thing",
+    "found": true,
+    "description": "Humans with lycanthrope ancestry who can shift parts of their bodies to look more animal for short periods. They have fit, lithe bodies and move like animals, crouching and springing. Their features are cat-like: wide flat noses, large eyes, pointed ears, and claw-like nails on fingers and toes. Their hair is thick and worn long, often with long sideburns. They work as trappers, hunters, guides and military scouts, prefer practical tools, and settle in rural areas or the Eldeen Reaches.",
+    "quotes": [
+      "Like cats, they have wide flat noses with large eyes, pointed ears, and claw-like nails on both their toes and fingers.",
+      "Their hair is thick and worn long and some have long sideburns to match."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Shifter"
+    ]
+  },
+  {
+    "subject": "Changelings",
+    "kind": "thing",
+    "found": true,
+    "description": "Shapeshifters who are seldom seen in their true form. Their true form looks faded or unfinished, with a gray, gauzy outer layer of skin. Skin is pale white or light gray, and hair is thin and fair, usually silver-white or platinum with traces of green, pink or blue. Eyes are over-large, colorless or blank white, sometimes sunken and ringed with dark circles. Nose, lips and mouth are tiny, with no nostrils. Bodies are slender, gangly and long-limbed, 5-6 ft tall. They often keep one trait across all disguises, such as a mole or a hair color.",
+    "quotes": [
+      "They appeared to have a gray and gauzy additional layer of skin all over their bodies.",
+      "They have over-large colorless or blank white eyes that may appear sunken and circled by dark rings.",
+      "Their noses lack nostrils."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Changeling"
+    ]
+  },
+  {
+    "subject": "House Cannith",
+    "kind": "thing",
+    "found": true,
+    "description": "Human dragonmarked house that holds the Mark of Making. It made the warforged, conductor stones, everbright lanterns and much of Khorvaire's magic tech, and it sold arms to every nation in the Last War. Its emblem is a gorgon, stamped on its goods as a mark of quality. Members of the original Cyran branches traditionally have fair skin and red hair 'like the fire of the forge'. Its creation forges are huge stationary 'eldritch machines'. The Whitehearth forgehold was destroyed on the Day of Mourning. The house is now split into Cannith South (Merrix, based at Cannith Tower in Sharn), East and West.",
+    "quotes": [
+      "Traditionally, fair skin and red hair like \"the fire of the forge\" are common among members of the original Cyran branches of House Cannith.",
+      "Items that are created by House Cannith are marked with the House's gorgon symbol"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/House_Cannith",
+      "https://eberron.fandom.com/wiki/Eldritch_machine",
+      "https://eberron.fandom.com/wiki/Elemental_binding"
+    ]
+  },
+  {
+    "subject": "House Thuranni",
+    "kind": "thing",
+    "found": true,
+    "description": "Elven dragonmarked house that holds the Mark of Shadow. It split from House Phiarlan in 972 YK (the Shadow Schism). In public its agents are artists, entertainers and beautiful courtiers; in secret they are spies and unrivaled assassins. It excels at costuming, sculpture and painting through its True Shapers guild. Its emblem is the displacer beast, and its headquarters is an enclave in Regalport in the Lhazaar Principalities. No physical description of its members' dress was found.",
+    "quotes": [
+      "To the public, agents of House Thuranni are artists, entertainers and beautiful courtiers",
+      "After the schism, Thuranni established the displacer beast as its emblem, and its Regalport enclave as its headquarters"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/House_Thuranni"
+    ]
+  },
+  {
+    "subject": "Last War soldiers / uniforms",
+    "kind": "thing",
+    "found": false,
+    "description": "No canon description of regular army uniforms for any nation was found. What the sources do say about how each army fought: Breland relied on Starilaskur Arms crossbows (the SAC-15), plus a few musket-armed elite 'dragoneers' late in the war. Thrane relied on longbows, Karrnath on crossbows plus undead troops, and Aundair on wandslingers, light cavalry and Knights Arcane. Warforged fought for every side. A wiki image shows a Last War veteran (caption 'Still Got It'), but the image itself was not viewed.",
+    "quotes": [
+      "Aundairian military tactics emphasized maneuvering with light cavalry, with magical support from wands."
+    ],
+    "sources": [
+      "https://keith-baker.com/muskets/",
+      "https://eberron.fandom.com/wiki/Last_War",
+      "https://eberron.fandom.com/wiki/Aundair"
+    ]
+  },
+  {
+    "subject": "King's Dark Lanterns / Brelish military look",
+    "kind": "thing",
+    "found": true,
+    "description": "The Dark Lanterns are the intelligence branch of Breland's King's Citadel, with about 500 agents at home and 100 abroad. The Citadel's other branches are the King's Swords (elite soldiers), Shields (royal guards), Wands (battle mages) and Shadows. Its headquarters is a large obsidian tower on Wroat's central island. No uniform is described for the Dark Lanterns. The elite Brelish Redcloak Battalion is magic-augmented heavy infantry of about 40 soldiers; their dress is not described on the pages fetched, beyond the name. Brelish muskets ('Brass Dragon') have brass fittings, and good ones have dragons inlaid along the barrel. Brelish garrisons include mounted patrols, such as the Westwind Riders cavalry at Orcbone.",
+    "quotes": [
+      "The King's Citadel is headquartered at the Citadel, a large obsidian tower on the central island of Wroat",
+      "They are skilled heavy infantry augmented by magic who served on the front lines of many battles.",
+      "High quality weapons often have dragons inlaid along the barrel."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/King's_Citadel",
+      "https://eberron.fandom.com/wiki/Redcloak_Battalion",
+      "https://keith-baker.com/muskets/",
+      "https://eberron.fandom.com/wiki/Orcbone"
+    ]
+  },
+  {
+    "subject": "Aundairian military look",
+    "kind": "thing",
+    "found": true,
+    "description": "The Knights Arcane are Aundair's elite military order, led by Lord Darro ir'Lain. They make heavy use of magical arms and armor. Their Knights Phantom were spellcasting cavalry who rode phantom steeds. Aundair's wartime army emphasized light cavalry backed by wand magic, along with peasant militias and wandslingers. No uniform colors are given. For the general look, Aundairian fashion is flamboyant: bright colors, feathered hats, cloaks and ruffles. Aundair has no canon airship fleet; Keith Baker only speculates that it 'has been working on an airship'.",
+    "quotes": [
+      "a specialized cavalry employing phantom steeds who used not only their martial power but also their spellcasting abilities",
+      "their heavy use of magical arms and armor",
+      "Aundairian military tactics emphasized maneuvering with light cavalry, with magical support from wands."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Knights_Arcane",
+      "https://eberron.fandom.com/wiki/Aundair",
+      "https://keith-baker.com/dm-flight/",
+      "https://keith-baker.com/muskets/"
+    ]
+  },
+  {
+    "subject": "Karrnathi undead soldiers",
+    "kind": "thing",
+    "found": true,
+    "description": "The elite Karrnathi skeletons and zombies look like ordinary skeletons and zombies in armor, but they are alchemically treated and intelligent. Blood of Vol necromancers made them with the Odakyr Rites from fallen elite soldiers. They show no emotion and can stand still for days. They are known by name and number, and the skeletons fight with paired scimitars (the 'bone dance' style). Dread marshals are undead officers, and bone knights may command them. Mindless rank-and-file skeletons and zombies served too. Most are now sealed in vaults beneath Atur; some still serve, and some went to the Emerald Claw.",
+    "quotes": [
+      "Both resemble ordinary skeletons and zombies wearing armor.",
+      "They are content to stand still for days.",
+      "the skeletons demonstrate skills in the bone dance style and dual-wielding scimitars"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Karrnathi_undead_soldier",
+      "https://eberron.fandom.com/wiki/Order_of_the_Emerald_Claw"
+    ]
+  },
+  {
+    "subject": "Dragonmarks",
+    "kind": "thing",
+    "found": true,
+    "description": "Intricate skin marks, more distinct than a tattoo, that grant magic and run in the bloodlines of the dragonmarked houses. They usually appear in adolescence. Least, lesser and greater marks grow in size and complexity, and a rare Siberys mark covers much or all of the body. Aberrant marks are unique and look clearly different from house marks.",
+    "quotes": [
+      "They are more intricate than a birthmark and more distinct than a tattoo.",
+      "Much rarer are the so-called Heirs of Siberys who possess the Siberys mark, which covers much, if not all, of their body."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Dragonmark"
+    ]
+  },
+  {
+    "subject": "Everbright lanterns / common magic tech of Khorvaire",
+    "kind": "thing",
+    "found": true,
+    "description": "Everbright lanterns look like bullseye lanterns, with an Eberron dragonshard in the housing as a fuelless, permanent light. They serve as street lights in cities across Khorvaire, and Metrol in Cyre was the first city lit by them. Lightning rail stations glow with white or golden everbright light. Other common tech: Sharn's skycoaches, conductor-stone rails, airships with elemental rings, Sivis message stations, Thrane's truelight lanterns of polished, silvery flametouched iron, and Brelish muskets that fire Fernian-ash cartridges.",
+    "quotes": [
+      "Everbright lanterns resemble normal bullseye lanterns, but with an Eberron dragonshard contained in the lantern's housing as the source of light.",
+      "they are also used as street lights in cities across Khorvaire"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Everbright_lantern",
+      "https://eberron.fandom.com/wiki/Truelight_lantern",
+      "https://eberron.fandom.com/wiki/Lightning_rail_station",
+      "https://keith-baker.com/muskets/"
+    ]
+  },
+  {
+    "subject": "Day of Mourning",
+    "kind": "thing",
+    "found": true,
+    "description": "On 20 Olarune 994 YK an unexplained magical catastrophe destroyed Cyre. More than a million people died, including invading Brelish, Thrane and Karrnathi armies. Eyewitness accounts conflict: a blinding light on the Saerun Road, or mists rising from Metrol. The skies burned so brightly that soldiers in Thrane were blinded. By day's end a wall of dead-gray mist ringed the land. Inside, most living things were dead or horribly changed, but undead and most warforged were unharmed. Refugees escaped on lightning rail trains. Survivors gather every 20 Olarune to remember.",
+    "quotes": [
+      "The skies are said to have burned so brightly that soldiers at Angwar Keep in Thrane were blinded.",
+      "by day's end most of Cyre was covered in a gray mist and most of the inhabitants within its borders were dead or horrifically transformed"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Day_of_Mourning",
+      "https://eberron.fandom.com/wiki/Mournland"
+    ]
+  },
+  {
+    "subject": "Brelish military installations (Sterngate, Orcbone, Drum Keep, Torch Keep, Argonth)",
+    "kind": "place",
+    "found": true,
+    "analog_for": "Hobbstweedle",
+    "why": "Hobbstweedle is a military-heavy Brelish village near Wroat, and these are Breland's canon garrison towns and forts.",
+    "description": "Sterngate is a castle fortress at the mouth of Marguul Pass, ringed by berms, ditches and pit traps that funnel attackers to the gates. It has a lightning rail stop and mounted patrols, and life inside is calm, with frequent drills. Orcbone, on the western border, is a fort shared by a lord commander and the Westwind Riders cavalry. Drum Keep is a garrison on the edge of the Blackcaps. Torch Keep is a small, boring lighthouse fort near Sharn. Argonth is a Cannith-built floating fortress that drifts at 2 mph between the borders under constant military protocol. Ardev (see its entry) is a canon example of a small Brelish farming town busy with passing army units and King's Citadel agents near a royal estate. On airfields: Lyrandar docking towers exist only in major cities.",
+    "quotes": [
+      "the fortress was surrounded by an extensive series of berms, ditches, and even pit traps arranged to wear down and funnel any who approached toward the gates",
+      "Captain Davoh drills the castle garrison often and in inventive ways, which keeps them alert and morale high.",
+      "It floats above the Brelish landscape, traveling between the borders with its neighbors.",
+      "military protocols are in force at all times aboard the structure"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Sterngate",
+      "https://eberron.fandom.com/wiki/Orcbone",
+      "https://eberron.fandom.com/wiki/Drum_Keep",
+      "https://eberron.fandom.com/wiki/Torch_Keep",
+      "https://eberron.fandom.com/wiki/Argonth",
+      "https://eberron.fandom.com/wiki/Ardev",
+      "https://keith-baker.com/dm-flight/"
+    ]
+  },
+  {
+    "subject": "Wartime / national airships (Lyrandar stormships, Stormhome)",
+    "kind": "thing",
+    "found": true,
+    "analog_for": "Moonwatch",
+    "why": "The campaign's Moonwatch is a captured Aundairian military airship, and canon only has Lyrandar ships, late-war Lyrandar stormships, and Aundair as the home of Lyrandar's airship port.",
+    "description": "Canon has no national airship navies. The only large fleet is House Lyrandar's civilian one. Breland used 'a few of House Lyrandar's stormships' late in the war, and Keith Baker speculates that Aundair 'has been working on an airship'. Lyrandar experiments with aerial warships, but airships are not shown as heavily armed. Stormhome, an Aundairian island with magically kept tropical weather, is Lyrandar's seat, with dry-docks and airships docked there. For the ship itself, use the 'Elemental airships' entry: open deck, soarwood hull, fire or air ring on arms at the stern, ship's-wheel helm, smoked goggles for topside crew.",
+    "quotes": [
+      "Late in the war, Breland employed a few of House Lyrandar's stormships.",
+      "at the moment airships have not been depicted as being heavily armed",
+      "they've certainly been experimenting on aerial warships as well",
+      "extensive dry-dock facilities for Lyrandar ships"
+    ],
+    "sources": [
+      "https://keith-baker.com/dm-flight/",
+      "https://keith-baker.com/dm-airships/",
+      "https://eberron.fandom.com/wiki/Stormhome"
+    ]
+  },
+  {
+    "subject": "Wolf's Paw (shifter thorp, Eldeen Reaches)",
+    "kind": "place",
+    "found": true,
+    "analog_for": "Stones / Stones Throw / Hearthsfire",
+    "why": "The campaign villages are druidic shifter settlements hidden in the woods, and Wolf's Paw is the canon permanent shifter village tied to the Wardens of the Wood.",
+    "description": "A small farming thorp of shifters in the rural northeastern Eldeen Reaches. It is one of the few permanent, settled shifter communities. It is led by the shifter Slara, with spiritual guidance from Lorgan, a druid tied to the Wardens of the Wood. No architectural detail is given. Shifters prefer practical tools and rural life away from crowds.",
+    "quotes": [
+      "Wolf's Paw is a small agricultural thorp of shifters located in the rural northeastern part of the Eldeen Reaches.",
+      "It is one of the few permanent non-nomadic shifter communities in the Reaches."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Wolf's_Paw",
+      "https://eberron.fandom.com/wiki/Shifter"
+    ]
+  },
+  {
+    "subject": "Greenheart and Oalian (druid capital, Eldeen Reaches)",
+    "kind": "place",
+    "found": true,
+    "analog_for": "Stones / Stones Throw / Hearthsfire",
+    "why": "The campaign's warding tree and druidic village map onto canon Greenheart, a druid town grown around the awakened great tree Oalian.",
+    "description": "Greenheart is a small town of about 1,260 people deep in the Towering Wood, and the capital of the Eldeen Reaches. It has no marketplace and no tavern; it lives on hunting, gathering and offerings, and guests sleep in private homes. Its center is a grove, a manifest zone to Lamannia, where Oalian, an awakened greatpine over four thousand years old, stands unmoving and speaks to all comers. He leads the Wardens of the Wood. Thousands visit for druidic festivals. The wiki has an image of Oalian conferring with a druid and forest creatures.",
+    "quotes": [
+      "Greenheart lies deep within the Towering Wood",
+      "Commerce is not permitted within Greenheart and the town has no marketplace or tavern.",
+      "Oalian is an ancient awakened greatpine tree located in Greenheart",
+      "Oalian spends most of his time unmoving in the grove at the center of Greenheart."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Greenheart",
+      "https://eberron.fandom.com/wiki/Oalian"
+    ]
+  },
+  {
+    "subject": "Mror Holds mines and Kundarakhold / Realm Below",
+    "kind": "place",
+    "found": true,
+    "analog_for": "Mara'bor",
+    "why": "Mara'bor is a hidden settlement inside a mountain reached by mine cart, and canon dwarven holds are largely underground mining settlements in the Ironroot Mountains.",
+    "description": "Much of the Mror Holds lies underground. Kundarakhold has ancestral mining lands leased to miners, and Korunda Gate is the ancient sealed gate to the deep kingdom. Many mine tunnels and parts of the Realm Below have no light, and work areas have at least dim light. Buildings that reach the surface have windows, because Mror love sunlight and color. The Mror are skilled miners and masons. No canon mine-cart transit was found. Brelish analog: prospectors and miners leave Ardev for byeshk (purple-sheened metal) in the Graywall Mountains.",
+    "quotes": [
+      "much of the establishments of the Mror Holds are located underground",
+      "many mine tunnels and stretches of the Realm Below have no light sources",
+      "Areas where people need to do skilled work will have at least dim light.",
+      "It is also a key departure point for prospectors and miners heading to the Graywalls for byeshk and other mineral deposits."
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Mror_Holds",
+      "https://eberron.fandom.com/wiki/House_Kundarak",
+      "https://keith-baker.com/mror2/",
+      "https://eberron.fandom.com/wiki/Ardev",
+      "https://eberron.fandom.com/wiki/Graywall_Mountains"
+    ]
+  },
+  {
+    "subject": "Dreadhold",
+    "kind": "place",
+    "found": true,
+    "analog_for": "DarkWood prison",
+    "why": "DarkWood is a secret prison for dangerous captives, and Dreadhold is Khorvaire's canon top-security prison.",
+    "description": "A bleak, almost inescapable prison island off Cape Far in the Lhazaar Principalities, and a manifest zone to Lamannia. It holds criminals too dangerous to free but too important to execute, including Last War war criminals. Kundarak dwarves with the Mark of Warding guard it, and many of them treat the posting as exile. Rumor says prisoners mine Khyber dragonshards in chasms under the island. No canon secret Brelish prison in the woods was found. Prisoner transport by rail would use the lightning rail (see that entry). 'Darkwood' itself is canon only as a rare, light magic wood from Aerenal and the southern Eldeen Reaches.",
+    "quotes": [
+      "Dreadhold is a prison island off the northern coast of Cape Far in the Lhazaar Principalities.",
+      "an almost inescapable prison for people too dangerous to set free but too important to just execute",
+      "The prison is bleak and many of the dwarves here think of it as exile"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Dreadhold",
+      "https://eberron.fandom.com/wiki/Darkwood"
+    ]
+  },
+  {
+    "subject": "Boranex forest",
+    "kind": "place",
+    "found": false,
+    "analog_for": "Boranex forest",
+    "why": "No canon forest has this name; Boranex is the name of a canon Brelish king, so a Brelish forest is the nearest fit.",
+    "description": "Not canon as a place. Boranex ir'Wynarn was king of Breland from 928 to 960 YK, the father of King Boranel. The nearest canon analogs are Brelish forests: the King's Forest and the Faded Forest, the Dragonwood (logged for Galethspyre's mills), and Whitehorn Wood near Castle Arakhain. The pages fetched name these forests but do not describe them.",
+    "quotes": [
+      "928-960 YK"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Breland",
+      "https://eberron.fandom.com/wiki/Galethspyre",
+      "https://eberron.fandom.com/wiki/Castle_Arakhain"
+    ]
+  },
+  {
+    "subject": "Bears wood",
+    "kind": "place",
+    "found": false,
+    "analog_for": "Bears wood",
+    "why": "No canon forest has this name; the bear is Breland's national symbol, so a Brelish forest is the nearest fit.",
+    "description": "Not canon. A wiki search found nothing. Breland's anthem names 'the Bear and Crown' as the national symbol. For a forest, see the Brelish forests listed under 'Boranex forest'.",
+    "quotes": [
+      "Forever will the Bear and Crown"
+    ],
+    "sources": [
+      "https://eberron.fandom.com/wiki/Breland"
+    ]
+  },
+  {
+    "subject": "Canuck",
+    "kind": "place",
+    "found": false,
+    "analog_for": "Canuck",
+    "why": "No analog chosen; no canon match was found and no campaign context was given.",
+    "description": "Not canon. A search of the Eberron wiki returned no results.",
+    "quotes": [],
+    "sources": []
+  },
+  {
+    "subject": "Hearthsfire / Stones / Stones Throw / Mara'bor (name check)",
+    "kind": "place",
+    "found": false,
+    "description": "None of these names exist in canon. Searches of the Eberron wiki for 'Hearthsfire', 'Mara'bor' and 'Marabor' returned nothing, and 'Stones Throw' returned only unrelated pages. See the analog entries for Wolf's Paw, Greenheart and the Mror Holds mines.",
+    "quotes": [],
+    "sources": []
+  }
+]

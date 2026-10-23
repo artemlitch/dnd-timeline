@@ -5,3 +5,5 @@ gen/key.txt
 gen/split/
 gen/test/
 gen/regen/refcache/
+gen/world/campaign.txt
+gen/world/recap_quotes.json
