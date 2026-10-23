@@ -1,0 +1,23 @@
+{tone}
+This scene is a leap from a runaway train racing toward a giant walking fortress.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:even-hand-train/train-head-elemental-ring}
+In this moment: the train races at full speed toward the turtle fortress. A black, choking mist rolls over the tracks. Time and light: day, dimmed by the black mist, and the glow of the train's elemental ring.
+{maps:Mobile Fortress}
+
+THE MOMENT
+Sazed has just planted a smokepowder satchel on the train's blazing elemental ring at the front of the lightning rail and has leapt off the speeding train into the air. The Skull Knight on his undead horse gallops alongside out of the black mist and catches Sazed by the arm, swinging him up behind him. Dead ahead, the massive turtle mobile fortress fills the horizon, its armored shell bristling with guns. Far behind, the last car rolls free of the train, where Brand stands on the coupling holding the decoupler and Lirael throws a thunderwave from the back to slow it. Above, the Moonwatch dives toward the car through gunfire from the fortress.
+
+CAST
+- {cast:Sazed}
+- {cast:The Skull Knight}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

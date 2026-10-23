@@ -252,6 +252,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/brand-suits-up.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brand-suits-up.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.0343155,
+   "at": "2026-10-23T13:27:59"
   }
  ],
  "nightmares-in-the-mirror": [
@@ -717,6 +734,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/gelion-into-the-bag.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/gelion-into-the-bag.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.03431275,
+   "at": "2026-10-23T13:27:59"
   }
  ],
  "marabor-abandoned": [
@@ -1788,6 +1822,26 @@
    "prompt": "gen/prompts/the-five-mile-run.prompt.txt",
    "cost": 0.0357685,
    "at": "2026-10-23T10:59:48"
+  },
+  {
+   "version": 4,
+   "file": "site/img/the-five-mile-run.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-five-mile-run.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Gelf",
+    "Dyll Strickland",
+    "Lirael",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Obstacle Course map"
+   ],
+   "cost": 0.034627,
+   "at": "2026-10-23T13:22:47"
   }
  ],
  "obstacle-course-begins": [
@@ -4136,6 +4190,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/steve-the-skycracker.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/steve-the-skycracker.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Screech",
+    "Beezel"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Moonwatch"
+   ],
+   "cost": 0.0346055,
+   "at": "2026-10-23T13:28:01"
   }
  ],
  "a-cold-welcome-to-ardev": [
@@ -4481,6 +4553,22 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-white-stag.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-white-stag.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "The Bloodsinger"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.03427025,
+   "at": "2026-10-23T13:28:00"
   }
  ],
  "stealing-the-hit-piece": [
@@ -5461,6 +5549,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/skull-knight-turtle-fortress.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/skull-knight-turtle-fortress.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "The Skull Knight"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Moonwatch",
+    "Mobile Fortress map"
+   ],
+   "cost": 0.03494025,
+   "at": "2026-10-23T13:28:01"
   }
  ],
  "felicias-reunion": [
@@ -5634,6 +5742,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/flowers-coerced.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/flowers-coerced.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Jazz",
+    "Captain Flowers",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev Police Station map"
+   ],
+   "cost": 0.0346535,
+   "at": "2026-10-23T13:22:42"
   }
  ],
  "right-hand-wakes-daedalus": [
@@ -5984,18 +6112,67 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/embers-joke-potions.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/embers-joke-potions.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Ember",
+    "Skye",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup"
+   ],
+   "cost": 0.03438125,
+   "at": "2026-10-23T13:22:42"
   }
  ],
  "aundairians-race": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/aundairians-race.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/aundairians-race.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Killian",
+    "Kynds",
+    "EEEEE"
+   ],
+   "refs": [
+    "Character lineup",
+    "Starilaskur map"
+   ],
+   "cost": 0.0346775,
+   "at": "2026-10-23T13:22:42"
   }
  ],
  "brands-rooftop-detour": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/brands-rooftop-detour.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brands-rooftop-detour.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [],
+   "cost": 0.03391975,
+   "at": "2026-10-23T13:22:41"
   }
  ],
  "immovable-rod-and-elwood": [

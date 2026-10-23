@@ -188,7 +188,8 @@ def build(event_id, style=None, lineup=True, prompt_file=None):
             build_lineup(sheet, in_sheet, labels=False)
             refs = {LINEUP: sheet} | {n: f for n, f in refs.items() if n not in in_sheet}
     tone = re.sub(r"^Style:.*$", lambda m: f"Style: {style}", (ROOT / "gen/world/tone.txt").read_text().strip(), flags=re.M)
-    prompt = PRIORITY + "\n\n" + text.replace("{references}", REFERENCES.format(", ".join(refs))).replace("{tone}", tone)
+    references = REFERENCES.format(", ".join(refs)) if refs else ""
+    prompt = PRIORITY + "\n\n" + text.replace("{references}", references).replace("{tone}", tone)
     prompt = re.sub(r"\{setting:([^}]+)\}", lambda m: setting(m.group(1), ev.get("session") or 0), prompt)
     # "{cast:Name} Here: ..." is what's different in this moment, so it overrides the usual look described before it
     prompt = re.sub(r"(\{cast:[^}]+\})\s+Here:\s*", r"\1 IN THIS MOMENT, overriding the usual look above wherever they differ: ",

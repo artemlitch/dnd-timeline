@@ -1,0 +1,20 @@
+{tone}
+This scene is a secret meeting with a druid leader at night.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-forest-meeting-place}
+Time and light: late night, moonlight.
+
+THE MOMENT
+The white stag that led Sazed here, with a brown crescent moon on its brow, has just shed its shape: the last of the stag, its white antlers and pale hide, is fading into the figure of The Bloodsinger, who now stands before Sazed, spear in hand. Sazed faces him alone, wary, hands loose at his sides. All around them in the dark, dozens of eyes shine, watching.
+
+CAST
+- {cast:The Bloodsinger}
+- {cast:Sazed}
+- Lirael's portrait is attached for reference only; Lirael is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

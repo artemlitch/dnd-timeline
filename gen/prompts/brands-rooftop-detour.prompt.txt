@@ -1,0 +1,19 @@
+{tone}
+This scene is a man in power armor crashing through a ceiling into a family home.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: inside a small house beside the mine works, a couple's living room. Through the hole above, the hook of a mining crane still swings. Time and light: night, lamplight in the room.
+
+THE MOMENT
+Brand comes crashing down through the ceiling of the couple's living room in his power armor, arms flung wide, his thunder gauntlets crackling with lightning, roof slates, timbers and plaster raining around him. A moment ago he blasted a mine cart along its rails with the gauntlets, caught the crane, swung onto the roof, and the roof gave way. Below him a middle-aged human couple at their small table leap back in panic: the wife drops her teacup in a splash of tea, the husband throws up his hands, and their supper scatters across the floor.
+
+CAST
+- {cast:Brand} Here: transformed into a goblin by a ring, with green skin, long pointed ears and a goblin's face, keeping his grey-white hair and beard, in his power armor.
+- The couple: an ordinary middle-aged human husband and wife in plain home clothes.
+
+REFERENCES
+{references}

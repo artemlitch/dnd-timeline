@@ -1,0 +1,25 @@
+{tone}
+This scene is a chase through a busy town square at night.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: the square is full of tables and drinkers. Time and light: night, lit by street lamps and lanterns on the tables.
+{maps:Starilaskur}
+
+THE MOMENT
+The Aundairian spies' carriage, piled high with newly bought weapons and armor, barrels straight across the square, smashing over the tables: tables flip, mugs and plates fly, and drinkers dive out of its path. Captain Killian drives, standing at the reins and whipping the horses toward the mouth of a narrow alley. Kynds clings to the crates on top, Darvok holds on at the back, and EEEEE rides in his brass can wedged among the armor. Chasing them on foot: Sazed sprints along the edge of the square, cutting ahead toward the alley; Lirael runs behind with one hand already raised to cast; Brand, a goblin in power armor, pounds after them.
+
+CAST
+- {cast:Killian}
+- {cast:Kynds}
+- Darvok: a burly human Aundairian spy in a dark travelling coat.
+- {cast:EEEEE}
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand} Here: transformed into a goblin by a ring, with green skin, long pointed ears and a goblin's face, keeping his grey-white hair and beard, in his power armor.
+
+REFERENCES
+{references}

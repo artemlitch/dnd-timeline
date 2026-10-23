@@ -1359,7 +1359,7 @@
     },
     {
       "id": "brand-suits-up",
-      "img": "img/brand-suits-up.jpg",
+      "img": "img/brand-suits-up.v2.jpg",
       "title": "Brand Suits Up",
       "year": 993,
       "month": 1,
@@ -1378,7 +1378,7 @@
         "Elarian",
         "DarkWood"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "nightmares-in-the-mirror",
@@ -2366,7 +2366,7 @@
     },
     {
       "id": "gelion-into-the-bag",
-      "img": "img/gelion-into-the-bag.jpg",
+      "img": "img/gelion-into-the-bag.v2.jpg",
       "title": "Into the Bag of Devouring",
       "year": 993,
       "month": 1,
@@ -2386,7 +2386,7 @@
         "Lirael",
         "Sazed"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "marabor-abandoned",
@@ -4114,8 +4114,8 @@
         "Dyll Strickland",
         "Training"
       ],
-      "img": "img/the-five-mile-run.v3.jpg",
-      "img_version": 3
+      "img": "img/the-five-mile-run.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "obstacle-course-begins",
@@ -7521,7 +7521,7 @@
       "session": 19,
       "kind": "battle",
       "major": true,
-      "img": "img/steve-the-skycracker.jpg",
+      "img": "img/steve-the-skycracker.v2.jpg",
       "summary": "Pirates ambush the Moonwatch over the Dagger River. A blue dragon destroys them, then turns on the ship for trespassing in his sky.",
       "detail": "Lirael has Screech pull the braking maneuver, but it is not enough to lose the pirates. Then a blue dragon tears the pirates apart and comes for the Moonwatch. Lirael speaks to it telepathically to reason with it. The dragon is Steve the Skycracker, angry that they are in his skies when they belong on the ground. The crew pushes the compressor harder than they probably should and knocks the dragon over. Steve departs, demanding they ask permission before flying again. Beezel sleeps through the whole thing.",
       "tags": [
@@ -7532,7 +7532,7 @@
         "Lirael",
         "Dagger River"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "a-cold-welcome-to-ardev",
@@ -8225,7 +8225,7 @@
       "session": 22,
       "kind": "revelation",
       "major": true,
-      "img": "img/the-white-stag.jpg",
+      "img": "img/the-white-stag.v2.jpg",
       "summary": "At the forest edge, a white stag with a brown crescent moon on its brow leads Sazed alone to a secret meeting. It is The Bloodsinger, leader of the Covenant of Emberfall.",
       "detail": "The radical shifter group believes modern society must be destroyed for shifters to survive, and that the Dreamweaver could be used to that end. They work with the Dragons Claw as a means to an end, with no loyalty to it. The Bloodsinger wants to recruit Sazed. He does not know where the demons come from, but warns of a deep darkness in Ardev from the Dark Six, the Fury in particular. He names Fark's Bargain Whores as an inflection point. As Sazed leaves he sees dozens of eyes in the trees, and The Bloodsinger turns into air. Back on the Moonwatch everyone has passed out, and Lirael finds Xera asleep in his bed and covers her with a blanket.",
       "tags": [
@@ -8235,7 +8235,7 @@
         "The Fury",
         "Ardev"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "stealing-the-hit-piece",
@@ -9461,7 +9461,7 @@
       "session": 29,
       "kind": "battle",
       "major": true,
-      "img": "img/skull-knight-turtle-fortress.jpg",
+      "img": "img/skull-knight-turtle-fortress.v2.jpg",
       "summary": "Sazed plants a smokepowder satchel on the train's elemental ring and jumps. The Skull Knight catches him, and the train slams into the fortress and blows its head off.",
       "detail": "Brand detaches the last car with the final decoupler while Lirael thunderwaves to slow it. Lirael's mage hand signals the Moonwatch through the smoke, and Cromwell's mage hand retrieves The Even Hand's rune from the astral realm. The Skull Knight rides Sazed back to the detached car, then vanishes as the smoke clears. The Moonwatch takes a little more fire before the train is out of range. Climbing the rope, they watch the explosion destroy the fortress's head before the whole fortress turns invisible.",
       "tags": [
@@ -9473,7 +9473,7 @@
         "Lirael",
         "Cromwell"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "felicias-reunion",
@@ -9858,7 +9858,7 @@
     },
     {
       "id": "flowers-coerced",
-      "img": "img/flowers-coerced.jpg",
+      "img": "img/flowers-coerced.v2.jpg",
       "title": "Captain Flowers Under Threat",
       "year": 993,
       "month": 1,
@@ -9878,7 +9878,7 @@
         "Jazz",
         "Dragons Claw"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "right-hand-wakes-daedalus",
@@ -10889,8 +10889,8 @@
         "Brand",
         "Ring of Cure Racism"
       ],
-      "img": "img/embers-joke-potions.jpg",
-      "img_version": 1
+      "img": "img/embers-joke-potions.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "aundairians-race",
@@ -10914,8 +10914,8 @@
         "Lirael",
         "Aundair"
       ],
-      "img": "img/aundairians-race.jpg",
-      "img_version": 1
+      "img": "img/aundairians-race.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brands-rooftop-detour",
@@ -10937,8 +10937,8 @@
         "Sazed",
         "Starilaskur"
       ],
-      "img": "img/brands-rooftop-detour.jpg",
-      "img_version": 1
+      "img": "img/brands-rooftop-detour.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "immovable-rod-and-elwood",

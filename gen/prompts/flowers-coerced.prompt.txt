@@ -1,0 +1,24 @@
+{tone}
+This scene is a tense conversation in a police captain's office.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-police-station}
+In this moment: the captain's office upstairs. Time and light: evening, lamplight.
+{maps:Ardev Police Station}
+
+THE MOMENT
+Captain Flowers sits behind his desk while The Right Hand, the House Cannith emissary, leans over it with both hands planted on the desktop, finishing his order: the curfew will continue whether the townsfolk like it or not. Flowers' jaw is set and his fists are clenched on the desk; his eyes have gone to a small framed portrait of his wife and children standing beside his lamp. In the doorway, unnoticed, Lirael watches Flowers with his eyes glowing faintly with the detect thoughts spell, hearing the truth: the mercenaries will kill Flowers' family if he does not obey. Brand and Sazed stand behind Lirael on the landing, and Jazz hangs back at the top of the stairs.
+
+CAST
+- {cast:Captain Flowers}
+- The Right Hand: a composed human man, the emissary and bodyguard of the head of House Cannith, in a sharp dark coat bearing House Cannith's gorgon emblem.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Jazz}
+
+REFERENCES
+{references}
