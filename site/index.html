@@ -509,7 +509,7 @@ function frame(){raf=0;if(!CAL)return;
   if(relayoutPending||P!==layoutP||vw()!==layoutW||SZ.h!==layoutH||Math.abs(off-layoutOff)*P>vw()*.45){relayoutPending=false;layoutEvents();}
   else world.style.transform=`translateX(${(layoutOff-off)*P}px)`;
   layoutEras();drawRuler();updateMini();updateZoomUI();
-  if(!reduced){const px=off*P;$('#gearA').style.transform=`rotate(${px/14}deg)`;$('#gearB').style.transform=`rotate(${-px/9}deg)`;}
+  if(!reduced){const px=off*P;$('#gearA').style.transform=`rotate(${px/140}deg)`;$('#gearB').style.transform=`rotate(${-px/90}deg)`;}
 }
 function updateZoomUI(){const t=Math.log(P/ZMIN)/Math.log(ZMAX/ZMIN);$('#zoom').value=Math.round(t*1000);
   let best='',bd=1e9;for(const k in PRESETS){const d=Math.abs(Math.log(PRESETS[k]/P));if(d<bd){bd=d;best=k;}}
