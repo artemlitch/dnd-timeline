@@ -430,7 +430,8 @@ function clusterLabel(c){const a=fromDay(c[0].di),b=fromDay(c[c.length-1].di);
   if(a.year===b.year&&a.month===b.month&&a.day===b.day)return `${mName(a.month)} ${a.day}`;
   if(a.year===b.year&&a.month===b.month)return `${mName(a.month)} ${a.day}–${b.day}`;
   if(a.year===b.year)return `${a.year} YK`;return `${a.year}–${b.year} YK`;}
-const spanMemo={key:'',spans:null};
+// the same list object is handed to Placement while the search is unchanged, so its zoom-in layout is computed once
+const candMemo={query:null,ev:null,list:null};
 function layoutEvents(){
   const W=vw(),H=SZ.h,mobile=W<760;
   layoutOff=off;layoutP=P;layoutW=W;layoutH=H;world.style.transform='';
@@ -441,9 +442,8 @@ function layoutEvents(){
   const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
   // placement runs over every event, not just the ones on screen, so panning never reshuffles rows
-  const cand=EV.filter(visible),spanKey=rows+'|'+query;
-  if(spanKey!==spanMemo.key){spanMemo.key=spanKey;spanMemo.spans=Placement.spans(cand,rows);}
-  const placed=Placement.place(cand,rows,(w+10)/P,spanMemo.spans);
+  if(candMemo.query!==query||candMemo.ev!==EV){candMemo.query=query;candMemo.ev=EV;candMemo.list=EV.filter(visible);}
+  const cand=candMemo.list,placed=Placement.place(cand,rows,(w+10)/P);
   const rowX=Array.from({length:rows},()=>[]);for(const e of cand)if(placed.has(e.id))rowX[placed.get(e.id)].push(e.di);
   // a faded card sits in the row with the most room around it, top row on ties
   const ghostRow=e=>{let best=0,room=-1;for(let r=0;r<rows;r++){const m=Math.min(Infinity,...rowX[r].map(d=>Math.abs(d-e.di)));if(m>room){room=m;best=r;}}return best;};

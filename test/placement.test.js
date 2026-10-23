@@ -22,6 +22,26 @@ test('a card shown at one zoom stays shown at every closer zoom', () => {
   }
 });
 
+test('a shown card never moves to a lower row when zooming in', () => {
+  let prev = shownAt(zooms[0]);
+  for (const p of zooms.slice(1)) {
+    const cur = shownAt(p);
+    for (const [id, r] of prev) if (cur.has(id)) assert.ok(cur.get(id) <= r, `${id} drops from row ${r} to row ${cur.get(id)} when zooming in to ${p.toFixed(3)} px/day`);
+    prev = cur;
+  }
+});
+
+test('a card sits below the top row only when every row above it is taken nearby', () => {
+  // the layout is stepped in 2% zoom increments, so "nearby" allows one step of slack
+  for (const p of zooms) {
+    const shown = shownAt(p), need = (CARD / p) * 1.02, byRow = Array.from({ length: ROWS }, () => []);
+    const di = new Map(events.map(e => [e.id, e.di]));
+    for (const [id, r] of shown) byRow[r].push(di.get(id));
+    for (const [id, r] of shown) for (let up = 0; up < r; up++)
+      assert.ok(byRow[up].some(d => Math.abs(d - di.get(id)) < need), `${id} sits in row ${r} at ${p.toFixed(3)} px/day though row ${up} has room`);
+  }
+});
+
 test('two cards in the same row never overlap', () => {
   for (const p of zooms) {
     const need = CARD / p, last = new Map(), shown = shownAt(p);

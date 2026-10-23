@@ -11,36 +11,51 @@
     return ev;
   }
 
-  // for each event, the narrowest span in days covering it and `rows` higher-ranked events (major first, then every
-  // 2nd, 4th, 8th event so they spread evenly). Higher-ranked events count whether they show or not, so the span is
-  // fixed and the event shows at every zoom that stretches it to a card width
-  function spans(events, rows) {
+  // the layout at a zoom is what you get zooming in to it from all the way out, in small steps of card width (in
+  // days). At each step shown cards move up to the highest row that has room, then hidden cards take the highest
+  // free row, both in rank order (major first, then every 2nd, 4th, 8th event so they spread evenly). Zooming in only
+  // pulls cards apart, so a shown card never hides and never moves down
+  const NEED0 = 1e5, STEP = 1.02;
+  const sims = new WeakMap();
+  function simulation(events, rows) {
+    let byRows = sims.get(events);
+    if (!byRows) sims.set(events, byRows = new Map());
+    let sim = byRows.get(rows);
+    if (sim) return sim;
     const score = e => { let n = e.idx + 1, r = 0; while (!(n & 1)) { n >>= 1; r++; } return (e.major ? 64 : 0) + r; };
-    const higher = [], out = new Map();
-    for (const e of [...events].sort((a, b) => score(b) - score(a) || a.idx - b.idx)) {
-      let p = 0, q = higher.length; while (p < q) { const m = (p + q) >> 1; if (higher[m] < e.di) p = m + 1; else q = m; }
-      let s = Infinity;
-      for (let k = 0; k <= rows; k++) {
-        const l = p - k, r = p + rows - k - 1;
-        if (l < 0 || (rows - k > 0 && r >= higher.length)) continue;
-        s = Math.min(s, (rows - k > 0 ? higher[r] : e.di) - (k > 0 ? higher[l] : e.di));
+    const order = [...events].sort((a, b) => score(b) - score(a) || a.idx - b.idx);
+    sim = { order, rowDi: Array.from({ length: rows }, () => []), row: new Map(), layouts: [] };
+    byRows.set(rows, sim);
+    return sim;
+  }
+  const lowerBound = (a, x) => { let p = 0, q = a.length; while (p < q) { const m = (p + q) >> 1; if (a[m] < x) p = m + 1; else q = m; } return p; };
+  function step(sim, need) {
+    const free = (r, di) => { const a = sim.rowDi[r], p = lowerBound(a, di); return (p === a.length || a[p] - di >= need) && (p === 0 || di - a[p - 1] >= need); };
+    const put = (e, r) => { const a = sim.rowDi[r]; a.splice(lowerBound(a, e.di), 0, e.di); sim.row.set(e.id, r); };
+    for (let moved = true; moved;) {
+      moved = false;
+      for (const e of sim.order) {
+        const cur = sim.row.get(e.id);
+        if (cur === undefined || cur === 0) continue;
+        for (let r = 0; r < cur; r++) if (free(r, e.di)) { const a = sim.rowDi[cur]; a.splice(lowerBound(a, e.di), 1); put(e, r); moved = true; break; }
       }
-      out.set(e.id, s); higher.splice(p, 0, e.di);
     }
-    return out;
+    for (const e of sim.order) {
+      if (sim.row.has(e.id)) continue;
+      for (let r = 0; r < sim.rowDi.length; r++) if (free(r, e.di)) { put(e, r); break; }
+    }
+    sim.layouts.push(new Map(sim.row));
   }
 
-  // shown events take rows in date order, each the highest row whose last card it clears; a card width never holds
-  // more than `rows` shown events, so one always fits. Returns id -> row; `need` is a card width in days
-  function place(events, rows, need, span = spans(events, rows)) {
-    const last = new Array(rows), placed = new Map();
-    for (const e of events) {
-      if (span.get(e.id) < need) continue;
-      for (let r = 0; r < rows; r++) { if (last[r] === undefined || e.di - last[r] >= need) { last[r] = e.di; placed.set(e.id, r); break; } }
-    }
-    return placed;
+  // id -> row for the events shown full size; `need` is a card width in days
+  function place(events, rows, need) {
+    const sim = simulation(events, rows);
+    let s = Math.max(0, Math.floor(Math.log(NEED0 / need) / Math.log(STEP)));
+    while (s > 0 && NEED0 / STEP ** s < need) s--;
+    while (sim.layouts.length <= s) step(sim, NEED0 / STEP ** sim.layouts.length);
+    return sim.layouts[s];
   }
 
-  const api = { prepare, spans, place };
+  const api = { prepare, place };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);
