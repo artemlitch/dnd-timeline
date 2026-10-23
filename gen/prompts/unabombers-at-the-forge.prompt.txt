@@ -1,0 +1,24 @@
+{tone}
+This scene is a bomb going off in a forge while a monster is set loose outside.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:starilaskur/starilaskur-broadhelm-forge}
+In this moment: the forge front room, a carriage pulled up outside the door. Time and light: day, firelight and the flash of the blast.
+{maps:Starilaskur Attack}
+
+THE MOMENT
+The package explodes: the changeling courier, handcuffed by Sazed, has torn it open anyway, and the blast throws Brand, in his power armor, across the forge, shielding his sister Ember with his body. Sazed is thrown back from the changeling. Through the open door, the second changeling has dropped the back of the carriage and a gorgon, a huge bull of iron scales, is charging out, breathing a cloud of green petrifying gas at a police officer at the gate, who is already turning to stone. Lirael races to slam the forge door shut.
+
+CAST
+- {cast:Brand}
+- {cast:Ember}
+- {cast:Sazed}
+- {cast:Lirael}
+- The changelings: pale, featureless shapeshifters in Starilaskur military police uniforms.
+- The gorgon: a huge bull covered in plates of iron scales, breathing green petrifying gas.
+
+REFERENCES
+{references}

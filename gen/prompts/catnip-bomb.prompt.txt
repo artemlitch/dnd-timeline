@@ -1,0 +1,20 @@
+{tone}
+This scene is a delivered package that turns out to be a bomb.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/station-masters-office}
+In this moment: the station master's cramped office, a wall of railway switches behind his desk and piles of paper everywhere. Time and light: day, lamplight.
+{maps:Military Railway Junction}
+
+THE MOMENT
+Chaton, the orange tabaxi station master, has just opened the package he thought was catnip, and it explodes in his face: a burst of fire and splinters fills the office, papers flying. Sazed, who had been hiding up near the ceiling, is mid-leap away from the blast.
+
+CAST
+- {cast:Chaton}
+- {cast:Sazed}
+
+REFERENCES
+{references}

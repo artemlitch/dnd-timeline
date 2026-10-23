@@ -1,0 +1,23 @@
+{tone}
+This scene is a captured spy shouting a secret until he is knocked out.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: the alley after the fight, a few Starilaskur military police officers gathered. Time and light: night, street lamps.
+{maps:Starilaskur}
+
+THE MOMENT
+Captain Killian, hands bound, has been jeering at the military police that they cannot even ask who gives their orders, and he has just shouted that the party are Sentinels. At that instant Brand, in his power armor, punches him square on the jaw: Killian's head snaps back and his eyes roll up. Sergeant Taggart turns away, pretending not to see. Sazed watches, arms folded. The young officers stare.
+
+CAST
+- {cast:Killian} Here: hands bound, being punched out cold.
+- {cast:Brand}
+- {cast:Taggart}
+- {cast:Sazed}
+- The officers: young Starilaskur military police officers.
+
+REFERENCES
+{references}

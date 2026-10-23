@@ -1,0 +1,22 @@
+{tone}
+This scene is a friend's gift revealed as a trap.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: a cramped cabin, a medical text open on the bunk. Time and light: evening, lamplight.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Sazed sits on his bunk in the shimmering cloak Carrk gave him, eyes half closed, attuning to it. Brand, in his power armor, has just grabbed his shoulder to stop him, his other hand casting identify: thin threads of dark, purple energy coil out of the cloak's folds and stretch away into nothing, toward something on another plane. Sazed's eyes snap open.
+
+CAST
+- {cast:Sazed} Here: wearing a dark shimmering cloak.
+- {cast:Brand}
+- Lirael's portrait is attached for reference only; Lirael is not in this moment. Do not draw him.
+- Carrk's portrait is attached for reference only; Carrk is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

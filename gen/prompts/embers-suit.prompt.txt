@@ -1,0 +1,22 @@
+{tone}
+This scene is a forty-year project finally coming to life.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/starilaskur-broadhelm-forge}
+In this moment: the hidden wall case has swung open. Time and light: night, firelight from the forge and the glow of the holy core.
+{maps:Starilaskur}
+
+THE MOMENT
+In the open wall case stands a new suit of power armor, gleaming brass and steel, that Ember has been building for forty years. Brand has just seated a glowing holy core in its chest, and the suit is waking: light spreading through its seams, its eyepieces kindling. Ember stands beside him with her hands over her mouth, eyes welling. Lirael and Sazed watch from behind them. Brand's old suit of armor stands empty beside the case.
+
+CAST
+- {cast:Brand} Here: out of his armor, in a padded undersuit.
+- {cast:Ember}
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

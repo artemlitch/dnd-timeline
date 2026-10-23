@@ -1,0 +1,22 @@
+{tone}
+This scene is a captured witch explaining the end of her cult.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/eptf-headquarters}
+In this moment: the holding cells, iron bars and stone walls. Time and light: day, lantern light in the cells.
+{maps:EPTK Holding Cells}
+
+THE MOMENT
+Elfina sits on the bench of her cell, calmer now, hands open in her lap, explaining what the Watchers of the Gate were: celestial warlocks devoted to The Fury who guarded the Gate until a worthy bearer of the Obelisk came. She looks down at her empty hands; her powers have gone silent since she heard her patron cry out in anguish. Lirael leans on the bars, listening closely. Brand, in his power armor, and Sazed stand behind him.
+
+CAST
+- {cast:Elfina}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

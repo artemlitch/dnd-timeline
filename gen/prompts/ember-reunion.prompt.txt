@@ -1,0 +1,23 @@
+{tone}
+This scene is two estranged dwarf twins meeting again in a forge.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/starilaskur-broadhelm-forge}
+In this moment: the forge at work, artificers at their benches. Time and light: night, firelight from the forge.
+{maps:Starilaskur}
+
+THE MOMENT
+Brand and his twin sister Ember have just stopped their cold stares across the workbench, and now they grab each other in a fierce, back-thumping hug, Brand in his power armor, Ember in her leather apron. Lirael and Sazed stand by the door, watching. Behind Ember, artificers at their benches look up from their work.
+
+CAST
+- {cast:Brand}
+- {cast:Ember}
+- {cast:Lirael}
+- {cast:Sazed}
+- The artificers: dwarf smiths and tinkerers in leather aprons.
+
+REFERENCES
+{references}

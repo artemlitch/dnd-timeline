@@ -1,0 +1,22 @@
+{tone}
+This scene is a frog-man swallowing enemy spies one at a time.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: the narrow alley, the spies' carriage stuck behind. Time and light: night, street lamps.
+{maps:Starilaskur}
+
+THE MOMENT
+Jeff, the huge frog-man, has Captain Killian half swallowed: only Killian's legs kick out of his enormous stretched mouth. Sazed stands in front of Jeff, pointing firmly, telling him to spit him out, Killian's new battle axe already in Sazed's other hand. At the far end of the alley the halfling Kynds, slick with frog spit from his own turn, is scrambling away into the dark.
+
+CAST
+- {cast:Jeff}
+- {cast:Killian} Here: half swallowed, only his legs showing.
+- {cast:Sazed}
+- {cast:Kynds} Here: soaked in slime, running away.
+
+REFERENCES
+{references}

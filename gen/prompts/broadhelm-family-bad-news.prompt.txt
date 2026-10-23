@@ -1,0 +1,23 @@
+{tone}
+This scene is a sister telling her brother how their family fell apart.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/starilaskur-broadhelm-forge}
+In this moment: a quiet corner of the forge, mugs of dwarven ale on a workbench, the forge fire low. Time and light: night, firelight.
+{maps:Starilaskur}
+
+THE MOMENT
+Ember sits on a bench with a mug of dwarven ale, telling Brand the bad news: their father sealed the family's inventions away and the family scattered. Brand sits across from her in his power armor, staring into his mug, shoulders heavy. Lirael and Sazed sit nearby with their own mugs, listening in uneasy silence.
+
+CAST
+- {cast:Ember}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+- Art Broadhelm's portrait is attached for reference only; Art Broadhelm is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

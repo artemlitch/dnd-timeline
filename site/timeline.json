@@ -10646,8 +10646,8 @@
         "The Obelisk",
         "Skull Knight"
       ],
-      "img": "img/watchers-of-the-gate-explained.jpg",
-      "img_version": 1
+      "img": "img/watchers-of-the-gate-explained.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "elfina-postpones-despair",
@@ -10724,7 +10724,7 @@
     },
     {
       "id": "gelards-books",
-      "img": "img/gelards-books.jpg",
+      "img": "img/gelards-books.v2.jpg",
       "title": "Gelard Greenly's Overdue Books",
       "year": 993,
       "month": 1,
@@ -10744,7 +10744,7 @@
         "Dreamweaver",
         "Starilaskur"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "young-dwarf-recruit",
@@ -10791,8 +10791,8 @@
         "Ash",
         "Starilaskur"
       ],
-      "img": "img/ember-reunion.jpg",
-      "img_version": 1
+      "img": "img/ember-reunion.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "broadhelm-family-bad-news",
@@ -10816,8 +10816,8 @@
         "Thaddeus Cannith",
         "Bulwark Broadhelm"
       ],
-      "img": "img/broadhelm-family-bad-news.jpg",
-      "img_version": 1
+      "img": "img/broadhelm-family-bad-news.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "ring-of-cure-racism",
@@ -10845,7 +10845,7 @@
     },
     {
       "id": "embers-suit",
-      "img": "img/embers-suit.jpg",
+      "img": "img/embers-suit.v2.jpg",
       "title": "Ember's Forty-Year Suit",
       "year": 993,
       "month": 1,
@@ -10865,7 +10865,7 @@
         "Onatar",
         "Broadhelm Forge"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "embers-joke-potions",
@@ -10967,7 +10967,7 @@
     },
     {
       "id": "aundairians-in-the-alley",
-      "img": "img/aundairians-in-the-alley.jpg",
+      "img": "img/aundairians-in-the-alley.v2.jpg",
       "title": "Jeff Swallows the Aundairians",
       "year": 993,
       "month": 1,
@@ -10987,7 +10987,7 @@
         "Sazed",
         "Aundair"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "kynds-slips-away",
@@ -11057,8 +11057,8 @@
         "Brand",
         "Taggart"
       ],
-      "img": "img/killian-outs-the-sentinels.jpg",
-      "img_version": 1
+      "img": "img/killian-outs-the-sentinels.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "red-dragon-divination",
@@ -11161,7 +11161,7 @@
     },
     {
       "id": "cloak-of-connect-mind",
-      "img": "img/cloak-of-connect-mind.jpg",
+      "img": "img/cloak-of-connect-mind.v2.jpg",
       "title": "Carrk's Cloak Connects to Another Plane",
       "year": 993,
       "month": 1,
@@ -11182,7 +11182,7 @@
         "Cloak of Connect Mind",
         "Xera"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "into-the-junction-in-a-bag",
@@ -11254,12 +11254,12 @@
         "Sazed",
         "Starilaskur"
       ],
-      "img": "img/catnip-bomb.jpg",
-      "img_version": 1
+      "img": "img/catnip-bomb.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "unabombers-at-the-forge",
-      "img": "img/unabombers-at-the-forge.jpg",
+      "img": "img/unabombers-at-the-forge.v2.jpg",
       "title": "A Package for Ember",
       "year": 993,
       "month": 1,
@@ -11280,7 +11280,7 @@
         "Brand",
         "Tobias Gildenforge"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "gorgon-slain",
