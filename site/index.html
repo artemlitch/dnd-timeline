@@ -41,7 +41,7 @@ button:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px so
 #brand p{margin:4px 0 0;font-family:var(--ui);font-size:10.5px;color:var(--parch-dim);letter-spacing:.06em;white-space:nowrap;text-shadow:0 1px 3px #000}
 
 /* control panel: brass riveted, the campaign art bleeds through behind the controls */
-#panel{flex:none;position:relative;z-index:6;display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;padding:10px 18px;
+#panel{flex:none;position:relative;z-index:6;display:flex;flex-wrap:wrap;align-items:center;gap:10px 12px;padding:10px 18px;
   background:linear-gradient(90deg,rgba(11,13,20,.45) 0%,rgba(11,13,20,.78) 30%,rgba(11,13,20,.8) 70%,rgba(11,13,20,.4) 100%),linear-gradient(180deg,rgba(11,13,20,.2),rgba(11,13,20,.6)),
     #000 url("media/hero-battle.jpg") center 32%/cover no-repeat;
   border-top:1px solid #3b2e14;border-bottom:1px solid #5a4620;
@@ -56,19 +56,15 @@ button:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px so
 .seg button:last-child{border-right:0}
 .seg button:hover{color:var(--parch)}
 .seg button[aria-pressed=true]{background:linear-gradient(180deg,var(--brass),#9c7a2e);color:#1a1206;text-shadow:0 1px 0 rgba(255,255,255,.25)}
-#zoom{-webkit-appearance:none;appearance:none;width:150px;height:4px;border-radius:2px;background:linear-gradient(90deg,var(--bronze),var(--brass));outline-offset:4px}
+#zoom{-webkit-appearance:none;appearance:none;width:110px;height:4px;border-radius:2px;background:linear-gradient(90deg,var(--bronze),var(--brass));outline-offset:4px}
 #zoom::-webkit-slider-thumb{-webkit-appearance:none;width:16px;height:16px;border-radius:50%;background:radial-gradient(circle at 40% 35%,var(--brass-hi),var(--bronze) 70%);border:1px solid #2a1f0a;box-shadow:0 0 8px rgba(95,211,255,.35)}
 #zoom::-moz-range-thumb{width:16px;height:16px;border-radius:50%;background:var(--brass);border:1px solid #2a1f0a}
 #scaleName{font-family:var(--ui);font-size:12px;color:var(--cyan);min-width:64px;text-shadow:0 0 8px rgba(95,211,255,.5)}
 .jump{padding:5px 10px;border:1px solid var(--bronze);border-radius:6px;font-family:var(--ui);font-size:11px;color:var(--parch-dim);background:#0d1018}
 .jump:hover{color:var(--brass-hi);border-color:var(--brass)}
 a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
-#filters{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
-.chip{display:inline-flex;align-items:center;gap:6px;padding:3px 9px;border-radius:999px;border:1px solid var(--bronze);font-family:var(--ui);font-size:11px;color:var(--parch-dim);background:#0d1018}
-.chip i{width:8px;height:8px;border-radius:50%;background:var(--kc);box-shadow:0 0 6px var(--kc)}
-.chip[aria-pressed=true]{color:var(--parch);border-color:var(--kc);background:color-mix(in srgb,var(--kc) 14%,#0d1018)}
-.chip[aria-pressed=false] i{opacity:.3;box-shadow:none}
-#search{background:#0d1018;border:1px solid var(--bronze);border-radius:6px;color:var(--parch);padding:5px 10px;font-family:var(--ui);font-size:15px;width:170px}
+#searchGrp{flex:1 1 110px;min-width:110px;max-width:260px;margin-left:auto}
+#search{background:#0d1018;border:1px solid var(--bronze);border-radius:6px;color:var(--parch);padding:5px 10px;font-family:var(--ui);font-size:15px;width:100%;min-width:0}
 #search::placeholder{color:#6d6350}
 
 /* stage */
@@ -202,8 +198,8 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
   .seg button{padding:4px 7px;font-size:10px}
   .jump,.chip{font-size:10px;padding:2px 7px}
   #scaleName{min-width:0}
-  #search{width:100%;padding:4px 8px;font-size:14px}
-  #filters{gap:4px}
+  #searchGrp{max-width:none;flex-basis:100%}
+  #search{padding:4px 8px;font-size:14px}
   .card{--w:150px !important}
   .card .th{width:70px}
   .card.major{grid-template-columns:1fr}
@@ -247,8 +243,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
       <a class="jump" href="edit_timeline/" id="editLink">Edit data</a>
       <a class="jump" href="?src=published" id="localTag" hidden title="This browser shows your saved edits. Click to view the published timeline.">your edits · view published</a>
     </div>
-    <div class="grp" id="filters"></div>
-    <div class="grp"><input id="search" type="search" placeholder="Search anything…" aria-label="Search events"></div>
+    <div class="grp" id="searchGrp"><input id="search" type="search" placeholder="Search…" aria-label="Search events"></div>
   </div>
 
   <div id="stage">
@@ -320,7 +315,7 @@ const BOOT_WAIT=performance.now();
 let DATA,CAL,EV=[],ERAS=[],DPY=336,DPM=28,MINDAY=0,MAXDAY=33600,SPLIT=33264;
 let P=PRESETS.month, off=0;           // px per day, dayIndex at viewport left edge
 let layoutOff=0,layoutP=0,layoutW=0,layoutH=0;
-let active=null,kindOn=new Set(KINDS),query='';
+let active=null,query='';
 let raf=0,relayoutPending=true;
 
 function waitData(){
@@ -353,7 +348,7 @@ function init(){
     ERAS.push({id:'session-'+s.number,row:2,session:s.number,alt:i%2,title:'S'+s.number,subtitle:s.title||'',color:arc?arc.color:'#555',a:ev[0].di-1/48,b:ev[ev.length-1].di+1/48});}
   MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);
   SPLIT=dayIndex(993,1,1,0);
-  buildFilters();buildEras();drawMini();
+  bindSearch();buildEras();drawMini();
   // open at Month scale centered on Zarantyr 993
   P=PRESETS.month;setCenter(SPLIT+14);
   const linked=EV.find(e=>e.id===new URLSearchParams(location.search).get('event'));
@@ -370,14 +365,11 @@ function clampOff(){const vd=vw()/P,range=MAXDAY-MINDAY;
   if(vd>=range)off=MINDAY-(vd-range)/2;else off=Math.max(MINDAY-vd*.15,Math.min(MAXDAY-vd*.85,off));}
 function schedule(relayout){if(relayout)relayoutPending=true;if(!raf)raf=requestAnimationFrame(frame);}
 
-/* ---------- filters ---------- */
-function buildFilters(){
-  const f=$('#filters');
-  for(const k of KINDS){const b=document.createElement('button');b.className='chip';b.style.setProperty('--kc',KC[k]);b.setAttribute('aria-pressed','true');b.innerHTML=`<i></i>${k}`;b.onclick=()=>{kindOn.has(k)?kindOn.delete(k):kindOn.add(k);b.setAttribute('aria-pressed',kindOn.has(k));schedule(true);};f.appendChild(b);}
+/* ---------- search ---------- */
+function bindSearch(){
   $('#search').addEventListener('input',e=>{query=e.target.value.trim().toLowerCase();schedule(true);});
 }
 function visible(e){
-  if(!kindOn.has(e.kind))return false;
   if(!query)return true;
   if(!e._q)e._q=[e.title,(e.tags||[]).join(' '),e.summary,e.detail,e.arc,e.act,e.session?'session '+e.session+' s'+e.session:'',e.kind].join(' ').toLowerCase();
   return e._q.includes(query);
