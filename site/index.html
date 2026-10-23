@@ -151,11 +151,14 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 #drawer .hd{position:sticky;top:0;z-index:0;height:200px;flex:none;background:#000;overflow:hidden}
 #drawer .hd img{width:100%;height:100%;object-fit:cover;display:block;opacity:.9;cursor:zoom-in;transition:transform .4s cubic-bezier(.2,.7,.2,1)}
 #drawer .hd:hover img{transform:scale(1.04)}
-#lightbox{position:fixed;inset:0;z-index:60;display:none;place-items:center;background:rgba(6,8,14,.97);cursor:zoom-out;padding:0;margin:0}
-#lightbox.open{display:grid}
-#lightbox img{width:100vw;height:100vh;object-fit:contain;border:0;box-shadow:0 0 0 1px rgba(240,212,138,.5),0 0 40px rgba(95,211,255,.25),0 30px 80px rgba(0,0,0,.8);transform:scale(.86);opacity:0;transition:transform .38s cubic-bezier(.2,.7,.2,1),opacity .3s}
+#lightbox{position:fixed;top:0;left:0;bottom:0;right:var(--drawer-w);z-index:60;display:none;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:40px;margin:0;
+  background:rgba(6,8,14,.85);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);cursor:zoom-out}
+#lightbox.open{display:flex}
+#lightbox img{display:block;max-width:100%;max-height:calc(100vh - 130px);width:auto;height:auto;border-radius:6px;border:1px solid var(--bronze);
+  box-shadow:0 0 40px rgba(95,211,255,.18),0 30px 80px rgba(0,0,0,.8);transform:scale(.92);opacity:0;transition:transform .38s cubic-bezier(.2,.7,.2,1),opacity .3s}
 #lightbox.open img{transform:none;opacity:1}
-#lightbox figcaption{position:absolute;left:0;right:0;bottom:16px;text-align:center;font-family:var(--display);font-size:14px;letter-spacing:.08em;color:var(--parch);text-shadow:0 2px 6px #000;pointer-events:none}
+#lightbox figcaption{text-align:center;font-family:var(--display);font-size:15px;letter-spacing:.08em;color:var(--brass-hi);text-shadow:0 2px 6px #000;pointer-events:none}
+#lightbox .x{position:absolute;top:14px;right:14px;width:34px;height:34px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;line-height:1;background:rgba(11,13,20,.75);border:1px solid var(--brass);color:var(--brass-hi);font-size:18px}
 #drawer .hd::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,13,20,0) 40%,#0b0d14 100%);pointer-events:none}
 #drawer .hd{cursor:zoom-in}
 #drawer .hd .ph{position:absolute;inset:0;display:grid;place-items:center;color:var(--brass);opacity:.5}
@@ -198,6 +201,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 #drawer .tags span{height:22px;padding-top:0;padding-bottom:0}
 #drawer .nav button{flex-direction:column;align-items:flex-start;gap:3px;flex:1 1 0;min-width:0;overflow:hidden}#drawer .nav button.n{align-items:flex-end}#drawer .nav button small{max-width:100%}
 @media (max-width:760px){
+  #lightbox{right:0;padding:16px}
   :root{--mini-h:44px}
   #brand{border-right:0;padding-right:0;margin-right:0;width:100%}
   #brand h1{font-size:18px}
@@ -294,7 +298,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
   </div>
 </aside>
 <div id="grain"></div>
-<figure id="lightbox" role="dialog" aria-label="Enlarged image"><img alt=""><figcaption></figcaption></figure>
+<figure id="lightbox" role="dialog" aria-label="Enlarged image"><button class="x" aria-label="Close image">×</button><img alt=""><figcaption></figcaption></figure>
 
 <script src="placement.js"></script>
 <script>
