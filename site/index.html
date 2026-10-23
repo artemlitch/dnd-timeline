@@ -145,10 +145,10 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 
 /* drawer */
 #drawer{position:fixed;top:0;right:0;bottom:0;width:var(--drawer-w);max-width:100%;z-index:40;transform:translateX(104%);transition:transform .32s cubic-bezier(.2,.7,.2,1);
-  background:#0b0d14 url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.6' numOctaves='3'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='.25'/></svg>");
-  border-left:3px solid var(--bronze);box-shadow:-14px 0 40px rgba(0,0,0,.6),inset 6px 0 14px rgba(0,0,0,.5);display:flex;flex-direction:column}
+  background:#0f121a;border-left:3px solid var(--bronze);box-shadow:-14px 0 40px rgba(0,0,0,.6);display:flex;flex-direction:column}
 #drawer.open{transform:none}
-#drawer .hd{position:relative;height:200px;flex:none;background:#000;overflow:hidden}
+#drawer .sc{flex:1;min-height:0;overflow-y:auto;display:flex;flex-direction:column}
+#drawer .hd{position:sticky;top:0;z-index:0;height:200px;flex:none;background:#000;overflow:hidden}
 #drawer .hd img{width:100%;height:100%;object-fit:cover;display:block;opacity:.9;cursor:zoom-in;transition:transform .4s cubic-bezier(.2,.7,.2,1)}
 #drawer .hd:hover img{transform:scale(1.04)}
 #lightbox{position:fixed;inset:0;z-index:60;display:none;place-items:center;background:rgba(6,8,14,.97);cursor:zoom-out;padding:0;margin:0}
@@ -161,7 +161,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 #drawer .hd .ph{position:absolute;inset:0;display:grid;place-items:center;color:var(--brass);opacity:.5}
 #drawer .hd .ph svg{width:90px;height:90px}
 #close{position:absolute;top:10px;right:10px;z-index:2;width:34px;height:34px;border-radius:50%;background:rgba(11,13,20,.75);border:1px solid var(--brass);color:var(--brass-hi);font-size:18px;line-height:1}
-#drawer .bd{flex:1;overflow:auto;padding:14px 22px 24px;background:linear-gradient(180deg,#151924,#0f121a);color:var(--parch);margin:0 10px 10px;border-radius:3px}
+#drawer .bd{flex:1 0 auto;position:relative;z-index:1;padding:14px 22px 24px;background:linear-gradient(180deg,#151924,#0f121a);color:var(--parch);box-shadow:0 -8px 20px rgba(0,0,0,.45)}
 #drawer .kind{font-family:var(--ui);font-size:11px;color:#fff;letter-spacing:.08em}
 #drawer h2{font-family:var(--display);font-weight:700;font-size:23px;line-height:1.15;margin:4px 0 6px;color:var(--brass-hi)}
 #drawer .date{font-family:var(--ui);font-size:12px;color:#fff;margin-bottom:10px}
@@ -276,7 +276,9 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 </div>
 
 <aside id="drawer" aria-hidden="true">
-  <div class="hd"><button id="close" aria-label="Close">×</button><div id="dImg"></div></div>
+  <button id="close" aria-label="Close">×</button>
+  <div class="sc" id="dScroll">
+  <div class="hd"><div id="dImg"></div></div>
   <div class="bd">
     <div class="kind" id="dKind"></div>
     <h2 id="dTitle"></h2>
@@ -288,6 +290,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
       <button id="dPrev" class="p"></button>
       <button id="dNext" class="n"></button>
     </div>
+  </div>
   </div>
 </aside>
 <div id="grain"></div>
@@ -572,7 +575,7 @@ function drawMini(){const W=mini.clientWidth,H=mini.clientHeight,dpr=devicePixel
 function updateMini(){const W=SZ.mw;const a=dayToMini(Math.max(MINDAY,off),W),b=dayToMini(Math.min(MAXDAY,off+vw()/P),W);miniWin.style.left=a+'px';miniWin.style.width=Math.max(4,b-a)+'px';}
 
 /* ---------- drawer ---------- */
-function openEvent(e,pan){active=e;setEventParam(e.id);const kc=KC[e.kind]||KC.history;drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');
+function openEvent(e,pan){active=e;setEventParam(e.id);$('#dScroll').scrollTop=0;const kc=KC[e.kind]||KC.history;drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');
   const art={battle:'media/airship-combat.jpg',travel:'media/flying-fortress.jpg',revelation:'media/character.jpg',social:'media/party-art.jpg',history:'media/five-nations.jpg',intrigue:'media/floating-city.jpg',loss:'media/art2.jpg'};
   const src=e.img||art[e.kind]||'media/art2.jpg';
   $('#dImg').innerHTML=`<img src="${esc(src)}" alt="" onerror="this.outerHTML='<div class=ph>${PH.replace(/"/g,'&quot;').replace(/'/g,'&#39;')}</div>'">`;
