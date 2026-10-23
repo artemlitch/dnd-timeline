@@ -510,8 +510,11 @@ function frame(){raf=0;if(!CAL)return;
   if(relayoutPending||P!==layoutP||vw()!==layoutW||SZ.h!==layoutH||Math.abs(off-layoutOff)*P>vw()*.45){relayoutPending=false;layoutEvents();}
   else world.style.transform=`translateX(${(layoutOff-off)*P}px)`;
   layoutEras();drawRuler();updateMini();updateZoomUI();
-  if(!reduced){const px=off*P;$('#gearA').style.transform=`rotate(${px/1400}deg)`;$('#gearB').style.transform=`rotate(${-px/900}deg)`;}
+  // gears turn with the on-screen distance panned, so zooming (which rescales every position) doesn't spin them
+  if(!reduced){const c=off+vw()/2/P;if(gear.c!==null)gear.px+=(c-gear.c)*P;gear.c=c;
+    $('#gearA').style.transform=`rotate(${gear.px/1400}deg)`;$('#gearB').style.transform=`rotate(${-gear.px/900}deg)`;}
 }
+const gear={c:null,px:0};
 function updateZoomUI(){const t=Math.log(P/ZMIN)/Math.log(ZMAX/ZMIN);$('#zoom').value=Math.round(t*1000);
   let best='',bd=1e9;for(const k in PRESETS){const d=Math.abs(Math.log(PRESETS[k]/P));if(d<bd){bd=d;best=k;}}
   $('#scaleName').textContent=best[0].toUpperCase()+best.slice(1)+(bd>.05?' ±':'');
