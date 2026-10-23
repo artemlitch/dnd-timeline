@@ -4816,8 +4816,8 @@
         "Horn of Silent Alarm",
         "Lirael"
       ],
-      "img": "img/horn-of-silent-alarm.jpg",
-      "img_version": 1
+      "img": "img/horn-of-silent-alarm.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "keys-mauls-the-spellcaster",
@@ -6094,8 +6094,8 @@
         "Wroat",
         "Police"
       ],
-      "img": "img/murphys-house.jpg",
-      "img_version": 1
+      "img": "img/murphys-house.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "binocular-glint-chase",
@@ -8637,7 +8637,7 @@
       "session": 25,
       "kind": "intrigue",
       "major": true,
-      "img": "img/fey-lynns-society.jpg",
+      "img": "img/fey-lynns-society.v2.jpg",
       "summary": "In the Kel House basement, Fey-Lynn insists Karrnath controls the Dreamweaver and interrogates Lirael about his possession. Sazed catches anger flashing across her face.",
       "detail": "On the way, talk of a bear army inspires Beezel to run off and raise one. The meeting includes Auntie Threadwood, aunt of Lirael's friend Rory, Wilford Chism, Neebus Flit and The Right Hand. Everyone is shocked that Turckle, Neer and Elk are dead except Fey-Lynn, who just wants to get on with the meeting. She believes the Karrnathi military has the Shadow Mirror, the Obelisk and the Gate, and tolerates no dissent. Brand doesn't believe The Right Hand could have intercepted the messages they decode, and walks out. Lirael explains Beware of Knowledge and, finally, that detect thoughts lets him spot the possessed, which fascinates Fey-Lynn. Outside, Brand and Sazed give him grief for telling her, and they agree to come back in the morning and read her mind.",
       "tags": [
@@ -8649,7 +8649,7 @@
         "The Right Hand",
         "Karrnath"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "moonwatch-party",
@@ -9446,8 +9446,8 @@
         "Cromwell",
         "Moonwatch"
       ],
-      "img": "img/skull-knight-arrives.jpg",
-      "img_version": 1
+      "img": "img/skull-knight-arrives.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "skull-knight-turtle-fortress",
@@ -9652,7 +9652,7 @@
       "session": 29,
       "kind": "revelation",
       "major": true,
-      "img": "img/lilya-the-guide.jpg",
+      "img": "img/lilya-the-guide.v2.jpg",
       "summary": "Under the Kel House the lodestone brings the compass to life, and the apparition of a drow girl appears. Lilya will guide them, though she can't say where.",
       "detail": "Lirael checks with detect thoughts that the Kel House is empty. They climb in through Xera's open window and search the basement until they find the lodestone. Fitted into the compass, it fills with magical energy. Lilya leads them toward Khyber. They decide to take care of a few things in Ardev first and head to the Silver Flame church.",
       "tags": [
@@ -9662,7 +9662,7 @@
         "Khyber",
         "Lirael"
       ],
-      "img_version": 1
+      "img_version": 2
     },
     {
       "id": "curfew-in-ardev",

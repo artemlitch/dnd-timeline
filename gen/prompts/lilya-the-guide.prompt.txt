@@ -1,0 +1,22 @@
+{tone}
+This scene is a magic compass coming to life in a dark basement.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/kel-house}
+In this moment: the Kel House basement, searched through, crates and shelves pulled open. Time and light: night, one lantern and the glow of the compass.
+{maps:Kel Basement}
+
+THE MOMENT
+Lirael has just fitted the lodestone into his father's wayfinder compass, and it blazes with magical light in his hands. Rising from it is the apparition of a young drow girl, Lilya, translucent and glowing, floating above the compass and pointing the way into the dark. Lirael stares at her. Brand, in his power armor, holds up the lantern. Sazed watches the girl warily from the shadows.
+
+CAST
+- {cast:Lirael}
+- Lilya: the glowing, translucent apparition of a young drow girl of about ten, with long white hair, in a simple old-fashioned dress.
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

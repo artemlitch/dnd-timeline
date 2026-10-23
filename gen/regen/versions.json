@@ -2729,6 +2729,28 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/horn-of-silent-alarm.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/horn-of-silent-alarm.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sheldor",
+    "Sazed",
+    "Lug Murzog",
+    "Charlie Trundle",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Home Base map"
+   ],
+   "cost": 0.0346815,
+   "at": "2026-10-23T15:24:50",
+   "draft": "gen/drafts/horn-of-silent-alarm/20261023-152450-229000.jpg"
   }
  ],
  "keys-mauls-the-spellcaster": [
@@ -3731,6 +3753,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/murphys-house.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/murphys-house.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Murphy Gravewood",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Crime Scene House map"
+   ],
+   "cost": 0.034616,
+   "at": "2026-10-23T15:24:48",
+   "draft": "gen/drafts/murphys-house/20261023-152448-890000.jpg"
   }
  ],
  "binocular-glint-chase": [
@@ -5655,6 +5697,28 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/fey-lynns-society.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/fey-lynns-society.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Fey-Lynn",
+    "Wilford Chism",
+    "Neebus"
+   ],
+   "refs": [
+    "Character lineup",
+    "Kel Basement map"
+   ],
+   "cost": 0.0346565,
+   "at": "2026-10-23T15:24:49",
+   "draft": "gen/drafts/fey-lynns-society/20261023-152449-494000.jpg"
   }
  ],
  "moonwatch-party": [
@@ -6338,6 +6402,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/skull-knight-arrives.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/skull-knight-arrives.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "The Skull Knight",
+    "Brand",
+    "Lirael",
+    "Cromwell"
+   ],
+   "refs": [
+    "Character lineup",
+    "Lightning Rail 4 map"
+   ],
+   "cost": 0.03461975,
+   "at": "2026-10-23T15:24:50",
+   "draft": "gen/drafts/skull-knight-arrives/20261023-152450-265000.jpg"
   }
  ],
  "skull-knight-turtle-fortress": [
@@ -6496,6 +6581,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/lilya-the-guide.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/lilya-the-guide.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Kel Basement map"
+   ],
+   "cost": 0.0345815,
+   "at": "2026-10-23T15:24:49",
+   "draft": "gen/drafts/lilya-the-guide/20261023-152449-434000.jpg"
   }
  ],
  "curfew-in-ardev": [

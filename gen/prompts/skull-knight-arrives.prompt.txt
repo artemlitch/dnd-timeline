@@ -1,0 +1,24 @@
+{tone}
+This scene is a terrifying rescue on the roof of a speeding train.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/train-roof-and-underside}
+In this moment: a black, suffocating mist rolls over the speeding train. Time and light: day, dimmed by the black mist.
+{maps:Lightning Rail 4}
+
+THE MOMENT
+The party stands on the roof of the train car, battered from the fight: Sazed and Brand in front, Lirael just climbing up behind them, Cromwell, freshly healed, crouched at the edge. Along the roof ahead, the Flock, hooded cult agents, are fleeing in terror into the mist, and orbs of hellfire are blowing them apart in bursts of red flame. Out of the mist beside the train gallops The Skull Knight on his undead horse, keeping pace, his glowing crystal sword lowered toward them: he has come to save them, and then to judge them.
+
+CAST
+- {cast:The Skull Knight}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Cromwell}
+- The Flock: hooded cult agents in dark robes.
+
+REFERENCES
+{references}

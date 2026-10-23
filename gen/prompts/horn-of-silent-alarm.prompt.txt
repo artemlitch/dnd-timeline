@@ -1,0 +1,24 @@
+{tone}
+This scene is a silent night attack in a bedroom, and a call for help no one can hear.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/bedrooms}
+In this moment: Sazed's bedroom, the bedclothes torn back, a broken glass and an alarm clock on the floor. On the floorboards lies the Bag of Devouring, a plain cloth sack whose open mouth swirls with a dark glowing void. Time and light: the middle of the night, one lamp.
+{maps:Home Base}
+
+THE MOMENT
+Brand has been shoved into the bag, and now one bare arm bursts back out of its swirling mouth, gripping a curved horn, which he blows: no sound comes, only a pale ripple of magic spreading out through the walls to wake the house. Above him the possessed drow Sheldor and two Sentinels in black uniforms have Sazed pinned on his bed in his nightclothes, one Sentinel holding a hand up in a shimmering hush of silence magic. At the doorway Lirael has just arrived at a run, barefoot, hand already raised to cast.
+
+CAST
+- {cast:Brand} Here: only his bare arm and hand are visible, thrust out of the bag's mouth holding the horn.
+- {cast:Sheldor} Here: possessed, his face blank and strange.
+- {cast:Sazed} Here: in dark nightclothes, pinned on his bed.
+- {cast:Lug Murzog} Here: in a black Sentinel uniform, casting silence.
+- {cast:Charlie Trundle} Here: in a black Sentinel uniform.
+- {cast:Lirael} Here: in nightclothes, barefoot.
+
+REFERENCES
+{references}

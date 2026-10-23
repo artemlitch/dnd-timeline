@@ -1,0 +1,23 @@
+{tone}
+This scene is a grim crime scene in a house where three people were murdered.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/murphys-house}
+In this moment: three bodies lie in the front room where they fell, furniture knocked over from a short, hopeless fight. Uniformed Wroat police and a detective move about the room. Time and light: afternoon, grey daylight through the windows.
+{maps:Crime Scene House}
+
+THE MOMENT
+Lirael kneels beside the body of his old friend Murphy Gravewood, the town blacksmith, stunned. Behind him a weary police detective is explaining his serial killer theory. Brand, in his power armor, crouches at the front door with a lens, studying the lock: it has been picked so cleanly that it is professional work. Sazed stands by the window, looking out across the street, wary, feeling watched.
+
+CAST
+- {cast:Lirael}
+- {cast:Murphy Gravewood} Here: dead on the floor after a short fight, bloodied.
+- {cast:Brand}
+- {cast:Sazed}
+- The police: Wroat military police officers and a tired plain-clothes detective.
+
+REFERENCES
+{references}
