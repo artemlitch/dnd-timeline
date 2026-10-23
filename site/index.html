@@ -333,6 +333,8 @@ const KINDS=['battle','intrigue','revelation','social','travel','loss','history'
 const KC={history:'#a89a7c',battle:'#ff7a3d',intrigue:'#c9a24d',revelation:'#b48cff',social:'#7fd0a0',travel:'#5fd3ff',loss:'#d9455f'};
 const PRESETS={century:.03,decade:.3,year:3,month:40,week:180,day:1200};
 const ZMIN=.02;let ZMAX=2400;const ROWS=Placement.ROWS;
+// ctrl/cmd + wheel zoom speed: 2 by default, ?zoomspeed=3 in the URL overrides it
+const ZOOM_SPEED=+new URLSearchParams(location.search).get('zoomspeed')||2;
 const BOOT_WAIT=performance.now();
 
 let DATA,CAL,EV=[],ERAS=[],DPY=336,DPM=28,MINDAY=0,MAXDAY=33600,SPLIT=33264;
@@ -541,7 +543,7 @@ function bind(){
     else{const last=EV[EV.length-1];animateTo(PRESETS.week,last.di,520);}});
   // wheel: ctrl/cmd zooms at cursor; otherwise pans (deltaX or deltaY)
   stage.addEventListener('wheel',e=>{e.preventDefault();const r={left:SZ.left};
-    if(e.ctrlKey||e.metaKey){const f=Math.max(.5,Math.min(2.2,Math.exp(-e.deltaY*.009)));zoomAt(P*f,e.clientX-r.left);}
+    if(e.ctrlKey||e.metaKey){const f=Math.max(.5**ZOOM_SPEED,Math.min(2.2**ZOOM_SPEED,Math.exp(-e.deltaY*.009*ZOOM_SPEED)));zoomAt(P*f,e.clientX-r.left);}
     else{const dx=Math.abs(e.deltaX)>Math.abs(e.deltaY)?e.deltaX:e.deltaY;off+=(e.shiftKey?dx*2:dx)/P;schedule(false);}},{passive:false});
   // pointer drag + pinch
   // capture the pointer only once it moves past the click threshold, otherwise the click retargets to the stage
