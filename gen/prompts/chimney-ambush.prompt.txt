@@ -1,0 +1,22 @@
+{tone}
+This scene is an ambush on a monster as the elevator opens.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: the den, the elevator doors in the wall and a big stone fireplace. Time and light: morning, lamplight and soot.
+{maps:Lireal Sr Den/Basement}
+
+THE MOMENT
+The elevator doors slide open and the party is already waiting: Sazed, magically enlarged to giant size and black with soot, bursts out of the fireplace where he just climbed up the chimney, swinging at the slaad inside. Brand, in his power armor, and Lirael strike from either side of the doors. Inside the elevator the slaad, now shrunk small, shrieks and claws back.
+
+CAST
+- {cast:Sazed} Here: magically enlarged to giant size, covered in soot.
+- {cast:Brand}
+- {cast:Lirael}
+- The slaad: a frog-like monster with mottled red-grey skin and long claws, small now, about the size of a dog.
+
+REFERENCES
+{references}

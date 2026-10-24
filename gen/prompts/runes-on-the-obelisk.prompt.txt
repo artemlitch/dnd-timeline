@@ -1,0 +1,21 @@
+{tone}
+This scene is reading a warning carved on an ancient stone.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: the den, a small dark stone obelisk on the desk covered in strange runes. Time and light: early morning, lamplight.
+{maps:Lireal Sr Den/Basement}
+
+THE MOMENT
+The runes on the small obelisk glow faintly as Lirael, his eyes lit by the spell of comprehend languages, traces them with one finger, reading. Sazed and Brand, in his power armor, lean in on either side, faces lit from below by the glowing runes.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

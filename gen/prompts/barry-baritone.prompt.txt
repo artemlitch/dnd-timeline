@@ -1,0 +1,22 @@
+{tone}
+This scene is a dwarf meeting a construct built by his own nephew.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev}
+In this moment: a busy Ardev street. Time and light: late afternoon.
+{maps:Ardev}
+
+THE MOMENT
+Barry Baritone, the hulking brass construct built from instrument parts, stands with a hand on his chest, proudly telling his story. Brand, in his power armor, stares up at him, astonished to learn his own nephew built him. Sazed and Lirael look on.
+
+CAST
+- {cast:Barry Baritone}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+
+REFERENCES
+{references}

@@ -1,0 +1,24 @@
+{tone}
+This scene is a monk landing on a demon from a rooftop.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lower-ardev}
+In this moment: a street in lower Ardev, townsfolk scattering from harassing demons. Time and light: night, streetlamps.
+{maps:Ardev Streets Night}
+
+THE MOMENT
+Sazed drops feet-first from a rooftop and lands squarely on an imp, crushing it into the cobbles. Around him imps and quasits harass fleeing townsfolk. Brand, in his power armor, and Lirael come running down the street to join in, and one quasit cowers against a wall with its claws up, begging.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+- The imps: tiny red devils with bat wings, small horns and stinging tails.
+- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+- The townsfolk: Ardev townsfolk of many races.
+
+REFERENCES
+{references}

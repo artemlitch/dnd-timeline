@@ -1,0 +1,20 @@
+{tone}
+This scene is a son using a spell on his own mother.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/xalri-house}
+In this moment: Lirael's childhood bedroom, buried in hoarded junk: stacked boxes, old toys, clothes and clutter to the ceiling, a tall mirror in the corner. Time and light: midday light through a dusty window.
+{maps:Xal'ri House}
+
+THE MOMENT
+Lirael, his eyes glowing faintly as he casts suggestion, gestures gently toward the door. Felicia Sr, a cigarette in hand, turns toward the door with a dreamy, distant look. In the corner, the tall mirror's glass swirls with a dark shadow, reaching for him.
+
+CAST
+- {cast:Lirael}
+- {cast:Felicia Sr}
+
+REFERENCES
+{references}

@@ -7581,8 +7581,8 @@
         "Lirael",
         "Ardev"
       ],
-      "img": "img/farks-bargain-whores.jpg",
-      "img_version": 1
+      "img": "img/farks-bargain-whores.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-murderers-home",
@@ -7605,8 +7605,8 @@
         "Silver Flame",
         "Ardev"
       ],
-      "img": "img/the-murderers-home.jpg",
-      "img_version": 1
+      "img": "img/the-murderers-home.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "fathers-den",
@@ -7654,8 +7654,8 @@
         "Shadow Mirror",
         "Beware of Knowledge"
       ],
-      "img": "img/runes-on-the-obelisk.jpg",
-      "img_version": 1
+      "img": "img/runes-on-the-obelisk.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-last-poem",
@@ -7700,8 +7700,8 @@
         "Anti-magic",
         "Ardev"
       ],
-      "img": "img/the-mad-library-puzzle.jpg",
-      "img_version": 1
+      "img": "img/the-mad-library-puzzle.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "slaad-dad",
@@ -7748,8 +7748,8 @@
         "Brand",
         "Lirael"
       ],
-      "img": "img/chimney-ambush.jpg",
-      "img_version": 1
+      "img": "img/chimney-ambush.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-secret-office",
@@ -7772,8 +7772,8 @@
         "Brand",
         "Wroat"
       ],
-      "img": "img/the-secret-office.jpg",
-      "img_version": 1
+      "img": "img/the-secret-office.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "mother-under-suggestion",
@@ -7795,8 +7795,8 @@
         "Moonwatch",
         "Mirrors"
       ],
-      "img": "img/mother-under-suggestion.jpg",
-      "img_version": 1
+      "img": "img/mother-under-suggestion.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "i-pray-the-worst-has-come",
@@ -7841,8 +7841,8 @@
         "Dragons Claw",
         "Beezel"
       ],
-      "img": "img/hellsauce-recruits-sazed.jpg",
-      "img_version": 1
+      "img": "img/hellsauce-recruits-sazed.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-ardev-library",
@@ -7890,8 +7890,8 @@
         "House Cannith",
         "Ardev"
       ],
-      "img": "img/barry-baritone.jpg",
-      "img_version": 1
+      "img": "img/barry-baritone.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "xera-harassed",
@@ -8036,8 +8036,8 @@
         "Stones Throw",
         "Turckle"
       ],
-      "img": "img/imps-and-the-quasit.jpg",
-      "img_version": 1
+      "img": "img/imps-and-the-quasit.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "forge-and-the-right-hand",

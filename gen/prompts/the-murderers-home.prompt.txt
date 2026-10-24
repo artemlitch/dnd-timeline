@@ -1,0 +1,20 @@
+{tone}
+This scene is a son forcing his mother to talk.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/xalri-house}
+In this moment: the family kitchen, a symbol of the Silver Flame newly hung on the wall, an ashtray overflowing. Time and light: before dawn, a single lamp.
+{maps:Xal'ri House}
+
+THE MOMENT
+Felicia Sr sits at the kitchen table chain-smoking, a cigarette trembling in her fingers and smoke hanging thick around her, refusing to meet her son's eyes. Lirael leans across the table toward her, insisting they have to talk about what is really going on.
+
+CAST
+- {cast:Felicia Sr}
+- {cast:Lirael}
+
+REFERENCES
+{references}

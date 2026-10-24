@@ -1,0 +1,21 @@
+{tone}
+This scene is a madman's puzzle door finally giving way.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: a hidden door in the den covered in a maddening puzzle of dials, levers, scrawled symbols and mismatched gears. Time and light: morning, lamplight.
+{maps:Lireal Sr Den/Basement}
+
+THE MOMENT
+The puzzle door has just clicked and swung open, revealing an old iron elevator cage waiting in a shaft beyond. Lirael, who solved it, stands with his hand still on the last dial, eyes red from the emotional story he just told. Sazed and Brand, in his power armor, stare into the dark shaft.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

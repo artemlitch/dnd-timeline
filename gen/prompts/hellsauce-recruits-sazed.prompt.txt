@@ -1,0 +1,21 @@
+{tone}
+This scene is a mercenary boss trying to recruit a monk.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-landing-field}
+In this moment: beside the Moonwatch on the landing field. Time and light: afternoon.
+{maps:Ardev}
+
+THE MOMENT
+Sazed stands smoking a fat cigar beside the Moonwatch's gangway, unmoved. Baron Hellsauce leans in close with a grin and an arm out toward the town, making his offer to join the Dragons Claw.
+
+CAST
+- {cast:Sazed}
+- {cast:Baron Hellsauce}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is a man coming home to find his friends' graves.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-cemetery}
+In this moment: the cemetery between lower and upper Ardev, rows of old headstones. Time and light: deep night, moonlight and a lantern.
+{maps:Ardev Graveyard}
+
+THE MOMENT
+Lirael kneels before three headstones side by side, the graves of his old friends, one hand resting on the cold stone. Sazed stands quietly behind him holding the lantern, and Brand, in his power armor, waits a few steps back with his head bowed.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}
