@@ -1,0 +1,23 @@
+{tone}
+This scene is feeding a lie to a possessed mother.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: a crew cabin, the door ajar. Time and light: afternoon light through a porthole.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Lirael stands in the doorway of his mother's cabin, speaking clearly and deliberately, a false destination for her to overhear. Felicia Sr sits on her bunk, listening, a faint dark shadow behind her eyes. In the corridor behind Lirael, Eloria and Sazed bend over Jyo's body, stitching him back together.
+
+CAST
+- {cast:Lirael}
+- {cast:Felicia Sr} Here: a faint dark shadow behind her eyes.
+- {cast:Eloria}
+- {cast:Sazed}
+- {cast:Jyo} Here: dead, lying on a table, being stitched back together.
+
+REFERENCES
+{references}

@@ -1,0 +1,20 @@
+{tone}
+This scene is a man reading that the town thinks he is a murderer.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lower-ardev}
+In this moment: a street in lower Ardev just after curfew ends, people out early. Time and light: early morning.
+{maps:Ardev Streets Day}
+
+THE MOMENT
+Lirael stands reading a newspaper whose front page calls him a deranged murderer. Around him, passers-by stop and stare. His body is already turning invisible from the edges inward, fading out of sight.
+
+CAST
+- {cast:Lirael} Here: partly invisible, fading from the edges inward.
+- The townsfolk: Ardev townsfolk of many races, staring.
+
+REFERENCES
+{references}

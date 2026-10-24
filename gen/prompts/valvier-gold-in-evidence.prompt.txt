@@ -1,0 +1,21 @@
+{tone}
+This scene is a break-in to a police evidence locker.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-police-station}
+In this moment: the police basement evidence room, rows of shelves and locked cages. Time and light: deep night, a single shielded lantern.
+{maps:Ardev Police Basement}
+
+THE MOMENT
+Brand, in his power armor, eases open the evidence cage with a delicate tool, without a sound. Sazed holds the lantern high, and Lirael pulls a heavy sack of gold off a shelf, its tag bearing someone else's name.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+
+REFERENCES
+{references}

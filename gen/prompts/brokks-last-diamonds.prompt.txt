@@ -1,0 +1,20 @@
+{tone}
+This scene is a Sentinel badge settling an argument over diamonds.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-cannith-forge}
+In this moment: the House Cannith forge, workbenches and machinery. Time and light: morning.
+{maps:Cannith Forge Ardev}
+
+THE MOMENT
+Brokk clutches a small velvet pouch of diamonds to his chest, pleading to keep one. Lirael holds up his Sentinel badge, and Brokk's face falls as he hands the pouch over.
+
+CAST
+- {cast:Brokk}
+- {cast:Lirael}
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is a drunk woman waking up fighting, then making crafts with children.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the lower deck, crates and art supplies. Time and light: late afternoon, lamplight.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Brand, in his power armor, holds Zenya's wrists pinned with ease as she struggles. Felicia Jr steps forward, and Zenya's face is already softening. In the corner behind them, a table of paints and paper waits, with the shifter children peeking down the stairs.
+
+CAST
+- {cast:Brand}
+- {cast:Zenya}
+- {cast:Felicia Jr}
+- The children: young shifter children.
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is a worried priest who no longer trusts the newspaper.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/silver-flame-church}
+In this moment: the church after midnight, a row of coffins prepared for funerals. Time and light: past midnight, candlelight.
+{maps:Silver Flame Church}
+
+THE MOMENT
+Wilford Chism, weary and grave, holds up a crumpled copy of the town newspaper and shakes his head, unconvinced by it. Behind him coffins wait in a row for the funerals he must prepare. Lirael, Sazed and Brand, in his power armor, listen.
+
+CAST
+- {cast:Wilford Chism}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

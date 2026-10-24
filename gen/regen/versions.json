@@ -9628,12 +9628,51 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/wilford-doubts-the-watch.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/wilford-doubts-the-watch.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Wilford Chism",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Silver Flame Church map"
+   ],
+   "cost": 0.034621,
+   "at": "2026-10-24T11:27:25",
+   "draft": "gen/drafts/wilford-doubts-the-watch/20261024-112725-650000.jpg"
   }
  ],
  "valvier-house-ransacked": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/valvier-house-ransacked.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/valvier-house-ransacked.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Valvier House map"
+   ],
+   "cost": 0.03460075,
+   "at": "2026-10-24T11:27:28",
+   "draft": "gen/drafts/valvier-house-ransacked/20261024-112728-958000.jpg"
   }
  ],
  "jazz-hears-the-truth": [
@@ -9654,6 +9693,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/valvier-gold-in-evidence.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/valvier-gold-in-evidence.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev Police Basement map"
+   ],
+   "cost": 0.03459975,
+   "at": "2026-10-24T11:27:25",
+   "draft": "gen/drafts/valvier-gold-in-evidence/20261024-112725-531000.jpg"
   }
  ],
  "jazz-joins-the-fold": [
@@ -9709,30 +9767,121 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/right-hand-wakes-daedalus.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/right-hand-wakes-daedalus.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev Streets Night map"
+   ],
+   "cost": 0.034618,
+   "at": "2026-10-24T11:27:31",
+   "draft": "gen/drafts/right-hand-wakes-daedalus/20261024-112731-714000.jpg"
   }
  ],
  "brokks-armor-plating": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/brokks-armor-plating.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brokks-armor-plating.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Jazz"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev map"
+   ],
+   "cost": 0.0345815,
+   "at": "2026-10-24T11:27:26",
+   "draft": "gen/drafts/brokks-armor-plating/20261024-112726-719000.jpg"
   }
  ],
  "body-count-twenty-six": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/body-count-twenty-six.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/body-count-twenty-six.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev Streets Day map"
+   ],
+   "cost": 0.03454925,
+   "at": "2026-10-24T11:27:25",
+   "draft": "gen/drafts/body-count-twenty-six/20261024-112725-938000.jpg"
   }
  ],
  "turckle-and-churckle-overrun": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/turckle-and-churckle-overrun.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/turckle-and-churckle-overrun.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Neebus",
+    "Zenya"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Turckle and Churckle map"
+   ],
+   "cost": 0.03460275,
+   "at": "2026-10-24T11:27:26",
+   "draft": "gen/drafts/turckle-and-churckle-overrun/20261024-112726-172000.jpg"
   }
  ],
  "brokks-last-diamonds": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/brokks-last-diamonds.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brokks-last-diamonds.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brokk"
+   ],
+   "refs": [
+    "Character lineup",
+    "Cannith Forge Ardev map"
+   ],
+   "cost": 0.034554,
+   "at": "2026-10-24T11:27:29",
+   "draft": "gen/drafts/brokks-last-diamonds/20261024-112729-184000.jpg"
   }
  ],
  "repair-race-bet": [
@@ -9812,6 +9961,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/white-horn-wood-ruse.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/white-horn-wood-ruse.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Felicia Sr",
+    "Eloria",
+    "Sazed",
+    "Jyo"
+   ],
+   "refs": [
+    "Character lineup",
+    "Below Deck Moonwatch map"
+   ],
+   "cost": 0.03465,
+   "at": "2026-10-24T11:27:26",
+   "draft": "gen/drafts/white-horn-wood-ruse/20261024-112726-773000.jpg"
   }
  ],
  "xera-returns": [
@@ -9832,6 +10002,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/zenya-wakes-swinging.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/zenya-wakes-swinging.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Zenya",
+    "Felicia Jr"
+   ],
+   "refs": [
+    "Character lineup",
+    "Below Deck Moonwatch map"
+   ],
+   "cost": 0.03457375,
+   "at": "2026-10-24T11:27:29",
+   "draft": "gen/drafts/zenya-wakes-swinging/20261024-112729-777000.jpg"
   }
  ],
  "lirael-asks-to-be-punched": [

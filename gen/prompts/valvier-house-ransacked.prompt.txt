@@ -1,0 +1,21 @@
+{tone}
+This scene is finding a friend's family home burned and robbed.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/valvier-house}
+In this moment: the half-burned, wrecked house: scorched walls gouged with claw marks, boarded windows, muddy bootprints across the floor. Time and light: night, lantern light.
+{maps:Valvier House}
+
+THE MOMENT
+Lirael stands in the wreckage rubbing a fresh bruise on his head, reading a handwritten note left on an empty strongbox, his face softening. Sazed crouches over muddy bootprints, and Brand, in his power armor, runs his fingers along deep claw scratches in the wall.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

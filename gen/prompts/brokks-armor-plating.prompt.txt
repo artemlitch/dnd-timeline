@@ -1,0 +1,21 @@
+{tone}
+This scene is a nephew's grudging peace offering.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-landing-field}
+In this moment: beside the Moonwatch on the landing field, a stack of gleaming new armour plates leaning against the hull. Time and light: early morning.
+{maps:Ardev}
+
+THE MOMENT
+Brand, in his power armor, holds a small note in one hand and rests the other on the stack of gleaming metal plating his nephew left for the ship, moved despite himself. Jazz walks up the gangway behind him.
+
+CAST
+- {cast:Brand}
+- {cast:Jazz}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

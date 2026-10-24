@@ -1,0 +1,22 @@
+{tone}
+This scene is an invisible man slipping through a tavern taken over by mercenaries.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: the tavern in the morning, rowdy mercenaries, workers from the brothel lounging at tables, a mess everywhere. Time and light: morning light through grimy windows.
+{maps:The Turckle and Churckle}
+
+THE MOMENT
+Neebus fumbles badly behind the bar, spilling drinks. Zenya lies asleep, drunk, face down on a table. Beside her a faint shimmer of an invisible figure, Lirael, leans close, and Zenya's eyes are just flickering open under his spell.
+
+CAST
+- {cast:Neebus}
+- {cast:Zenya}
+- {cast:Lirael} Here: invisible, only a faint shimmering outline.
+- The mercenaries: Dragons Claw mercenaries.
+
+REFERENCES
+{references}
