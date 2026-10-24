@@ -125,12 +125,52 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/thaldamir-snaps-his-fingers.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/thaldamir-snaps-his-fingers.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Elarian",
+    "Thaldamir",
+    "Keys",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.034668,
+   "at": "2026-10-23T16:09:47",
+   "draft": "gen/drafts/thaldamir-snaps-his-fingers/20261023-160947-080000.jpg"
   }
  ],
  "sazed-tortured-by-bloodworth": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/sazed-tortured-by-bloodworth.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/sazed-tortured-by-bloodworth.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Bloodworth"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Basement map"
+   ],
+   "cost": 0.034552,
+   "at": "2026-10-23T16:09:48",
+   "draft": "gen/drafts/sazed-tortured-by-bloodworth/20261023-160948-012000.jpg"
   }
  ],
  "halien-talks-with-elric": [
@@ -188,6 +228,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/newbie-night.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/newbie-night.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Bloodworth"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.034646,
+   "at": "2026-10-23T16:09:48",
+   "draft": "gen/drafts/newbie-night/20261023-160948-752000.jpg"
   }
  ],
  "initiation-night": [
@@ -220,6 +280,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-alarm-is-pulled.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-alarm-is-pulled.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Fumble Figgins",
+    "Tauren",
+    "Scud"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.0345955,
+   "at": "2026-10-23T16:09:47",
+   "draft": "gen/drafts/the-alarm-is-pulled/20261023-160947-031000.jpg"
   }
  ],
  "snatched-off-the-ledge": [
@@ -252,18 +331,76 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/sazed-breaks-out-swinging.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/sazed-breaks-out-swinging.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Lirael",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.034609,
+   "at": "2026-10-23T16:09:47",
+   "draft": "gen/drafts/sazed-breaks-out-swinging/20261023-160947-464000.jpg"
   }
  ],
  "shmem-gorgis-dies": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/shmem-gorgis-dies.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/shmem-gorgis-dies.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Shmem Gorgis",
+    "Brand",
+    "Sazed",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.03462925,
+   "at": "2026-10-23T16:09:47",
+   "draft": "gen/drafts/shmem-gorgis-dies/20261023-160947-156000.jpg"
   }
  ],
  "byll-and-cyriel-spared": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/byll-and-cyriel-spared.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/byll-and-cyriel-spared.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Byll",
+    "Cyriel"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.03460125,
+   "at": "2026-10-23T16:09:45",
+   "draft": "gen/drafts/byll-and-cyriel-spared/20261023-160945-889000.jpg"
   }
  ],
  "sorenson-gets-the-tuba": [
@@ -327,18 +464,79 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/zombie-bloodworth-in-the-pit.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/zombie-bloodworth-in-the-pit.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Bloodworth",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 2 map"
+   ],
+   "cost": 0.034642,
+   "at": "2026-10-23T16:09:45",
+   "draft": "gen/drafts/zombie-bloodworth-in-the-pit/20261023-160945-396000.jpg"
   }
  ],
  "rex-and-thaldamir-gang-war": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/rex-and-thaldamir-gang-war.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/rex-and-thaldamir-gang-war.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Rex",
+    "Thaldamir",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 2 map"
+   ],
+   "cost": 0.034654,
+   "at": "2026-10-23T16:09:46",
+   "draft": "gen/drafts/rex-and-thaldamir-gang-war/20261023-160946-631000.jpg"
   }
  ],
  "cutting-the-pit-elevator": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/cutting-the-pit-elevator.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/cutting-the-pit-elevator.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Bloodworth",
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 2 map"
+   ],
+   "cost": 0.034646,
+   "at": "2026-10-23T16:09:45",
+   "draft": "gen/drafts/cutting-the-pit-elevator/20261023-160945-362000.jpg"
   }
  ],
  "lirael-plays-both-sides": [

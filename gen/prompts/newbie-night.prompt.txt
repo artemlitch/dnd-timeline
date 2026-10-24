@@ -1,0 +1,23 @@
+{tone}
+This scene is new prisoners handed weapons and told to fight each other.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/cafeteria}
+In this moment: the cafeteria cleared into a rough ring, benches pushed back, prisoners and guards crowding round. Time and light: night, torchlight.
+{maps:Prison Level 1}
+
+THE MOMENT
+In the middle of the ring, the new prisoners have each just been handed a cheap weapon and told to fight one another, one on one. Lirael turns a dagger over in his hand, Brand hefts a club, and Sazed holds a staff. All three look up from their weapons at the same moment, at the guards around the ring. Officer Bloodworth watches from a raised platform, grinning, arms folded.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Bloodworth}
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs and short swords.
+
+REFERENCES
+{references}

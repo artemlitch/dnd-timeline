@@ -1,0 +1,24 @@
+{tone}
+This scene is two prison gangs locked in a brawl.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a wide cellblock hall. Time and light: night, torchlight.
+{maps:Prison Level 2}
+
+THE MOMENT
+Rex's gang and Thaldamir's gang are locked in a brutal brawl that fills the whole hall: Rex, a hulking brute, swings a chair, and Thaldamir, the elf, slashes with a shiv. At the corner in the foreground Lirael, Brand and Sazed peer around the wall at the chaos, deciding to let them wear each other down.
+
+CAST
+- {cast:Rex}
+- {cast:Thaldamir}
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- {cast:Sazed} Here: in drab prison fatigues.
+- The gangs: rough inmates in drab fatigues with improvised weapons.
+
+REFERENCES
+{references}

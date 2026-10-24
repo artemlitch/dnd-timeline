@@ -1,0 +1,22 @@
+{tone}
+This scene is a hasty funeral that nearly burns down a prison.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a corridor near the kitchen. Time and light: night, firelight.
+{maps:Prison Level 1}
+
+THE MOMENT
+The party has laid Shmem Gorgis, the dead tuba player, on a pyre of broken benches and set it alight for a send-off, and the fire has got out of hand: flames are racing up the walls and across the ceiling beams. Brand and Sazed hurl buckets of water from the kitchen at the flames, and Lirael stands frozen, a bucket in his hands, watching the blaze.
+
+CAST
+- {cast:Shmem Gorgis} Here: dead, lying on the pyre.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Lirael} Here: in drab prison fatigues.
+
+REFERENCES
+{references}

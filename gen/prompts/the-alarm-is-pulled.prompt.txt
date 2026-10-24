@@ -1,0 +1,23 @@
+{tone}
+This scene is a prison bursting into a full riot.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a cellblock corridor, cell doors bursting open. Time and light: night, torchlight and red alarm lamps.
+{maps:Prison Level 1}
+
+THE MOMENT
+Fumble Figgins, a guard fleeing the massacre, hangs off a big alarm lever with both hands, and the prison's alarm bells ring out. All down the corridor cell doors burst open and prisoners pour out, fighting guards and each other. In the foreground Tauren lies wounded on the floor, and Scud bolts away down the corridor.
+
+CAST
+- {cast:Fumble Figgins}
+- {cast:Tauren} Here: in drab prison fatigues. Wounded, on the floor.
+- {cast:Scud} Here: in drab prison fatigues.
+- The prisoners: rough inmates in drab fatigues with improvised weapons.
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs and short swords.
+
+REFERENCES
+{references}

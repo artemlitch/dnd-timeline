@@ -1,0 +1,20 @@
+{tone}
+This scene is a prisoner being tortured in a cell.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:darkwood-prison}
+In this moment: a bare stone torture cell deep in the prison, chains on the wall. Time and light: night, a single lantern.
+{maps:Prison Basement}
+
+THE MOMENT
+Sazed sits chained to a heavy chair, bloodied and bruised, his spectacles cracked, head lolling but eyes defiant. Officer Bloodworth leans over him, a bloodied iron tool in his fist, his face close to Sazed's, asking the same question again: who sent you?
+
+CAST
+- {cast:Sazed} Here: in drab prison fatigues. Bloodied and bruised.
+- {cast:Bloodworth}
+
+REFERENCES
+{references}

@@ -1,0 +1,25 @@
+{tone}
+This scene is a cafeteria standoff about to explode into a brawl.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/cafeteria}
+In this moment: long benches and tables of trays, the room full of prisoners. Time and light: evening, dim lamplight.
+{maps:Prison Level 1}
+
+THE MOMENT
+Thaldamir Daerthane, the elf gang leader, rises from his bench and snaps his fingers, smiling coldly, and all around the cafeteria his gang stand up at once, closing in. Elarian, the young elf who just insulted him, freezes with his tray in his hands. Lirael, beside him, closes his fist around a small object Keys the dwarf has just slipped him under the table. Brand and Sazed push back from the table, ready.
+
+CAST
+- {cast:Thaldamir} Here: in drab prison fatigues.
+- {cast:Elarian} Here: in drab prison fatigues.
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Keys} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- {cast:Sazed} Here: in drab prison fatigues.
+- The gang: rough prisoners in drab fatigues, tattooed, with shivs.
+
+REFERENCES
+{references}

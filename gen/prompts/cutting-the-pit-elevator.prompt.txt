@@ -1,0 +1,23 @@
+{tone}
+This scene is a rising elevator full of zombies sent crashing back down.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/the-pit}
+In this moment: the deep central pit, its rope-hung elevator platform. Time and light: night, torchlight.
+{maps:Prison Level 2}
+
+THE MOMENT
+The elevator platform is almost at the top of the pit, packed with zombie Bloodworth and his zombie guards reaching up for the edge. Lirael's bolt of fire has just burned through the main rope and Sazed slashes the last one: the ropes whip loose and the platform drops away into the dark with the zombies on it.
+
+CAST
+- {cast:Bloodworth} Here: a zombie, grey and rotting.
+- The zombies: grey, rotting dead prison guards in torn grey uniforms.
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is a captured guard bargaining for his freedom.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a locked cell. Time and light: night, lamplight from the corridor.
+{maps:Prison Level 1}
+
+THE MOMENT
+Inside a locked cell, the guard Byll has just woken up and grips the bars, making his offer: let him out, and he will show them where their gear is hidden. Behind him the other guard, Cyriel, is still asleep on the floor. Lirael stands outside the bars, considering it, the cell key in his hand.
+
+CAST
+- {cast:Byll}
+- {cast:Cyriel} Here: asleep on the floor.
+- {cast:Lirael} Here: in drab prison fatigues.
+
+REFERENCES
+{references}

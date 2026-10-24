@@ -1,0 +1,22 @@
+{tone}
+This scene is a monk fighting his way through a riot.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a cellblock corridor in riot, doors hanging open. Time and light: night, torchlight.
+{maps:Prison Level 1}
+
+THE MOMENT
+Sazed tears through a knot of guards with his bare hands and feet, mid-spin, one guard flying backward from a kick and another crumpling from a punch. Behind him Lirael holds out his hand, and the guards on his side of the corridor are collapsing into a magical sleep, slumping against the walls. Brand charges in from the other end.
+
+CAST
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs and short swords.
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is a dead guard leaping out of a pit to grab a prisoner.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/the-pit}
+In this moment: the edge of the deep central pit, its elevator ropes hanging down. Time and light: night, torchlight.
+{maps:Prison Level 2}
+
+THE MOMENT
+Officer Bloodworth, killed only hours ago, has leapt up out of the pit as a zombie, grey and rotting, and grabbed Brand by the ankle: Brand is sliding over the edge into the dark. Lirael and Sazed have each grabbed one of Brand's arms and are hauling him back.
+
+CAST
+- {cast:Bloodworth} Here: a zombie, grey and rotting, with the wounds that killed him.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Sazed} Here: in drab prison fatigues.
+
+REFERENCES
+{references}
