@@ -1,0 +1,22 @@
+{tone}
+This scene is a letter from a friend arriving after a hard training day.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the edge of the training course, recruits heading off for the day. Time and light: early afternoon.
+{maps:Obstacle Course}
+
+THE MOMENT
+Erald, the elderly dwarf scribe now working the mail, digs a sealed envelope out of a bulging mail satchel and hands it to Lirael. Lirael, sweaty from training, reads the letter with a small smile: a short note with a little hand-drawn heart at the bottom. Sazed and Brand, in his power armor, look over his shoulder.
+
+CAST
+- {cast:Erald}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

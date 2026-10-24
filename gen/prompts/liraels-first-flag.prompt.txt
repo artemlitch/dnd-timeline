@@ -1,0 +1,21 @@
+{tone}
+This scene is a wizard winning an obstacle course by cheating with magic.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the end of the course: a tall wooden tower with a flag on top, and below it a long table laid with a hearty breakfast. Time and light: midday sun.
+{maps:Obstacle Course}
+
+THE MOMENT
+Lirael drifts gently down from the top of the tower under a feather fall spell, robes billowing, his flag clutched in one hand and a few brown hen feathers still floating around him. Below, at the breakfast table that is the course's prize, Dyll Strickland stands with his arms folded, grudgingly impressed. Far behind, other recruits are still struggling over the walls.
+
+CAST
+- {cast:Lirael}
+- {cast:Dyll Strickland}
+- The recruits: Sentinel recruits in black training gear.
+
+REFERENCES
+{references}

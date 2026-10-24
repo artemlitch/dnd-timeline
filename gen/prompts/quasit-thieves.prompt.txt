@@ -1,0 +1,21 @@
+{tone}
+This scene is a monk catching demons robbing the house.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/kitchen-and-stables}
+In this moment: the kitchen, pots knocked over and the party's belongings spilling out of stolen sacks. Time and light: night, lamplight from the kitchen hearth.
+{maps:Home Base}
+
+THE MOMENT
+Sazed holds a squirming quasit up by the scruff of its neck while four dead quasits lie among scattered sacks of stolen goods on the kitchen floor. Two more quasits scramble out through the open window with sacks over their shoulders. Brand, in his power armor, stands in the doorway glaring at the captive quasit, hand already on his weapon.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+
+REFERENCES
+{references}

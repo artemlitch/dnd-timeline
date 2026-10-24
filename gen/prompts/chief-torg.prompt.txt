@@ -1,0 +1,23 @@
+{tone}
+This scene is a tired police chief hearing that black ops is in his station.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/military-police-station}
+In this moment: the chief's cluttered office, files stacked on every surface. Time and light: morning.
+{maps:Wroat Military Police Station}
+
+THE MOMENT
+Chief Torg sits behind his overloaded desk, a cigarette in his mouth, barking an order at two beat cops in the doorway. In front of the desk Lirael has gone pale, staggered by the news that another friend has been murdered. Sazed and Brand, in his power armor, stand beside him.
+
+CAST
+- {cast:Chief Torg}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- The beat cops: two Brelish military police in dark uniforms with peaked caps and batons.
+
+REFERENCES
+{references}

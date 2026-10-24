@@ -1,0 +1,21 @@
+{tone}
+This scene is a magic bean erupting into a geyser of coffee.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:party-house/woods-out-back}
+In this moment: a clearing deep in the woods behind the house. Time and light: dusk, lanterns.
+{maps:Hobbstweedle Village}
+
+THE MOMENT
+From a freshly dug hole in the clearing, a tall geyser of steaming, dark brown coffee roars up into the air and rains down in a hot spray. Brand, in his power armor, holds a waterskin under the spray, delighted. Sazed sniffs a full cup, and Lirael fills a second waterskin, both serious and impressed.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+
+REFERENCES
+{references}

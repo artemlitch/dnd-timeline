@@ -1,0 +1,20 @@
+{tone}
+This scene is a grieving man confiding in a librarian.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/wroat-military-library}
+In this moment: the library's lock-up room, rows of metal lockers, one open. Time and light: night, lamps of continual flame.
+{maps:Military Library}
+
+THE MOMENT
+Lirael stands at his father's open locker holding a few personal effects, an old pocket watch and a worn scarf. Beside him the librarian Mercy listens solemnly, one hand on his arm, promising to search the records and tell no one.
+
+CAST
+- {cast:Lirael}
+- {cast:Mercy}
+
+REFERENCES
+{references}

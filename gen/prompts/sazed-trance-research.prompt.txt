@@ -1,0 +1,20 @@
+{tone}
+This scene is a monk researching late into the night.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/hobbstweedle-library}
+In this moment: a reading table deep in the library, stacked with books on trance states and possession. Time and light: late night, a single low lamp.
+{maps:Hobbstweedle Library}
+
+THE MOMENT
+Sazed sits hunched over the table among towers of open books, sketching a diagram in a notebook: a seated figure in a trance and a dark shape being drawn out of it. In the shadows behind him an elderly night librarian with a lantern holds out a slip of paper, pointing him on to another library.
+
+CAST
+- {cast:Sazed}
+- The night librarian: an elderly halfling woman in a knitted cardigan with a lantern.
+
+REFERENCES
+{references}

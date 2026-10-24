@@ -1,0 +1,23 @@
+{tone}
+This scene is questioning a murdered friend's corpse with magic.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/wroat-morgue}
+In this moment: the cold stone morgue, bodies on slabs under sheets. Time and light: morning, cold lamplight.
+{maps:Wroat From The Air}
+
+THE MOMENT
+Meriel's body lies on a slab under a sheet, a wound in her throat. A faint ghostly light glows on her face as her dead mouth moves, answering. Lirael leans close over her, grief-stricken, listening. Brand, in his power armor, holds a lit spell scroll; Sazed watches. In the background the morgue doctor stands with arms folded, disapproving.
+
+CAST
+- {cast:Meriel} Here: dead, pale and grey, under a sheet on a slab.
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The morgue doctor: a gaunt, balding man in a stained leather apron.
+
+REFERENCES
+{references}

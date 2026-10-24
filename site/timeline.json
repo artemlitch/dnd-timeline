@@ -4183,8 +4183,8 @@
         "Dyll Strickland",
         "Obstacle Course"
       ],
-      "img": "img/liraels-first-flag.jpg",
-      "img_version": 1
+      "img": "img/liraels-first-flag.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "keys-the-shark",
@@ -4275,8 +4275,8 @@
         "Gnomes",
         "Hobbstweedle"
       ],
-      "img": "img/gnome-cleaning-argument.jpg",
-      "img_version": 1
+      "img": "img/gnome-cleaning-argument.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "quasit-thieves",
@@ -4298,8 +4298,8 @@
         "Quasits",
         "Hobbstweedle"
       ],
-      "img": "img/quasit-thieves.jpg",
-      "img_version": 1
+      "img": "img/quasit-thieves.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sheldor-tells-of-xendrik",
@@ -4368,8 +4368,8 @@
         "Herbalist Kit",
         "Wroat"
       ],
-      "img": "img/herbalist-kit-retcon.jpg",
-      "img_version": 1
+      "img": "img/herbalist-kit-retcon.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "tauren-cannot-read",
@@ -4462,8 +4462,8 @@
         "Demon Village",
         "Invisibility Potion"
       ],
-      "img": "img/invisible-over-the-demon-village.jpg",
-      "img_version": 1
+      "img": "img/invisible-over-the-demon-village.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "invisible-approach-demon-village",
@@ -4486,8 +4486,8 @@
         "Imps",
         "Boranex"
       ],
-      "img": "img/invisible-approach-demon-village.jpg",
-      "img_version": 1
+      "img": "img/invisible-approach-demon-village.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-greets-a-quasit",
@@ -4509,8 +4509,8 @@
         "Imps",
         "Boranex"
       ],
-      "img": "img/brand-greets-a-quasit.jpg",
-      "img_version": 1
+      "img": "img/brand-greets-a-quasit.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "demon-village",
@@ -4580,8 +4580,8 @@
         "Boranex",
         "Loot"
       ],
-      "img": "img/bells-beans-and-sentinel-gear.jpg",
-      "img_version": 1
+      "img": "img/bells-beans-and-sentinel-gear.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "broken-portal",
@@ -4672,8 +4672,8 @@
         "Coffee",
         "Boranex"
       ],
-      "img": "img/coffee-geyser-bean.jpg",
-      "img_version": 1
+      "img": "img/coffee-geyser-bean.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "erald-fart-debrief",
@@ -4719,8 +4719,8 @@
         "Brand",
         "Sazed"
       ],
-      "img": "img/morkoth-in-the-workshop.jpg",
-      "img_version": 1
+      "img": "img/morkoth-in-the-workshop.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "morkoth-rope-expedition",
@@ -5033,8 +5033,8 @@
         "Inquisition",
         "Wroat"
       ],
-      "img": "img/stolen-shifter-books.jpg",
-      "img_version": 1
+      "img": "img/stolen-shifter-books.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "library-cards-for-everyone",
@@ -5632,8 +5632,8 @@
         "Dreamweaver",
         "Hobbstweedle"
       ],
-      "img": "img/sazed-trance-research.jpg",
-      "img_version": 1
+      "img": "img/sazed-trance-research.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "lirael-first-flight",
@@ -5793,8 +5793,8 @@
         "Lirael Sr",
         "Daily Grind"
       ],
-      "img": "img/letter-from-meriel.jpg",
-      "img_version": 1
+      "img": "img/letter-from-meriel.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "plants-have-souls",
@@ -5816,8 +5816,8 @@
         "Potions",
         "Herbalism"
       ],
-      "img": "img/plants-have-souls.jpg",
-      "img_version": 1
+      "img": "img/plants-have-souls.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "larkleaf-grow-op",
@@ -5838,8 +5838,8 @@
         "Brand",
         "Larkleaf"
       ],
-      "img": "img/larkleaf-grow-op.jpg",
-      "img_version": 1
+      "img": "img/larkleaf-grow-op.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "meriel-on-the-bridge",
@@ -5884,8 +5884,8 @@
         "The Even Hand",
         "Wroat"
       ],
-      "img": "img/wait-im-a-sentinel.jpg",
-      "img_version": 1
+      "img": "img/wait-im-a-sentinel.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "mercy-at-the-library",
@@ -5907,8 +5907,8 @@
         "Lirael Sr",
         "Wroat"
       ],
-      "img": "img/mercy-at-the-library.jpg",
-      "img_version": 1
+      "img": "img/mercy-at-the-library.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-even-hand-named",
@@ -5978,8 +5978,8 @@
         "Prowlstone",
         "Boranex"
       ],
-      "img": "img/nedira-signals-training.jpg",
-      "img_version": 1
+      "img": "img/nedira-signals-training.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "mercy-and-the-records",
@@ -6048,8 +6048,8 @@
         "Kal",
         "Wroat"
       ],
-      "img": "img/chief-torg.jpg",
-      "img_version": 1
+      "img": "img/chief-torg.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "meriel-speaks-from-the-morgue",
@@ -6071,8 +6071,8 @@
         "Obelisk",
         "Wroat"
       ],
-      "img": "img/meriel-speaks-from-the-morgue.jpg",
-      "img_version": 1
+      "img": "img/meriel-speaks-from-the-morgue.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "murphys-house",

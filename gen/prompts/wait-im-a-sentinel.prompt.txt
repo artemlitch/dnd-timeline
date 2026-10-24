@@ -1,0 +1,21 @@
+{tone}
+This scene is a man remembering mid-chase that he outranks the police.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/daily-grind-and-bridge}
+In this moment: the riverbank below the bridge near the cafe. Time and light: evening, lamplight on the water.
+{maps:Daily Grind}
+
+THE MOMENT
+Lirael sidesteps as a military police officer dives at him in a full tackle and sprawls past into the mud. Lirael holds up his Sentinel badge at arm's length. More officers run up behind. On the bank, two women point urgently at the dark river where a man jumped in.
+
+CAST
+- {cast:Lirael}
+- The military police: Brelish military police in dark uniforms with peaked caps and batons.
+- The women: two townswomen in period dresses and shawls.
+
+REFERENCES
+{references}

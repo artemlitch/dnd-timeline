@@ -1,0 +1,20 @@
+{tone}
+This scene is two adventurers failing at potion making.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/dining-room}
+In this moment: the dining table covered in stolen potion recipes, glass bottles, bundles of herbs, a pot and makeshift kitchen tools. Time and light: evening, lamps of continual flame.
+{maps:Home Base}
+
+THE MOMENT
+Brand, in his power armor, frowns at a notebook of copied potion recipes, while in front of him a pot of murky brown sludge smokes and bubbles over. Lirael, sitting across the table, holds up a kitchen spoon and a cracked teacup, the only tools they have, with a flat look.
+
+CAST
+- {cast:Brand}
+- {cast:Lirael}
+
+REFERENCES
+{references}

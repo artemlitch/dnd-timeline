@@ -1,0 +1,22 @@
+{tone}
+This scene is a silent invisible attack on a demon camp.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:demon-village/quasit-village}
+In this moment: the edge of the village among the huts. Time and light: morning, sun through the trees.
+{maps:Demon Village}
+
+THE MOMENT
+Behind a hut, an imp is yanked off its feet and silenced by a strike from nowhere: only a faint shimmering outline of a man, Sazed, invisible, glowing with the soft golden light of a blessing. A cambion beside him crumples to its knees, struck by attackers no one can see, two more faint shimmers with the same golden glow. A few steps away, quasits keep picking through stolen crates, unaware.
+
+CAST
+- {cast:Sazed} Here: invisible, only a faint shimmering outline with a soft golden glow.
+- The imp: tiny red devils with bat wings, small horns and stinging tails.
+- The cambion: tall half-demons with dark red skin, curling horns and leathery wings, in scavenged armour.
+- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+
+REFERENCES
+{references}

@@ -1,0 +1,20 @@
+{tone}
+This scene is a monk and an engineer arguing about whether plants have souls.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/kitchen-and-stables}
+In this moment: the kitchen table covered with an open herbalism kit, mortars and pestles, bundles of herbs and a simmering pot. Time and light: afternoon light through the window.
+{maps:Home Base}
+
+THE MOMENT
+Sazed holds a sprig of herbs up between two fingers with quiet reverence, explaining earnestly that it has a soul. Across the table Brand, in his power armor, grinds herbs in a mortar with perfect technique, giving Sazed a flat, utterly unconvinced look.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

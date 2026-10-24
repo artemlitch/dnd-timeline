@@ -1,0 +1,20 @@
+{tone}
+This scene is a dwarf refusing to let anyone else tidy his workshop.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/brands-workshop}
+In this moment: the workshop half-repaired after the morning's trap test, a hole in the ceiling, tools in neat piles that are not where he left them. Time and light: evening, lamps of continual flame.
+{maps:Home Base}
+
+THE MOMENT
+Brand, in his power armor, snatches a wrench out of the hands of a small gnome cleaner and jabs a finger at the neatly sorted shelves, outraged. The gnome, mop in the other hand, stares back, unimpressed. Other gnome cleaners with brooms, buckets and toolboxes freeze mid-task around the room.
+
+CAST
+- {cast:Brand}
+- The gnome cleaners: small gnomes in work aprons and rolled sleeves, with mops, brooms, buckets and toolboxes.
+
+REFERENCES
+{references}

@@ -1,0 +1,19 @@
+{tone}
+This scene is a wizard discovering a sea creature stealing tools.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/brands-workshop}
+In this moment: the workshop seen from above through an open trap door in the bear cage in the attic. The room is flooded ankle-deep, every shelf and bench stripped bare. Time and light: night, a single glowing light from Lirael's hand.
+{maps:Home Base}
+
+THE MOMENT
+Lirael leans down through the trap door, lit by the light in his hand, staring at the flooded, empty workshop below. In the middle of the floor a sack lies open, the Bag of Devouring, and a baby morkoth is halfway into it: a dog-sized creature with a pale, slick, scaly body, a ring of squid-like tentacles, a hooked beak and large glassy fish eyes, a wrench clutched in one tentacle.
+
+CAST
+- {cast:Lirael}
+
+REFERENCES
+{references}

@@ -1,0 +1,19 @@
+{tone}
+This scene is a man finding his people's stolen books in an enemy library.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/wroat-military-library}
+In this moment: a quiet back aisle of the library, one shelf filled with old books bound in bark and woven plant fibre. Time and light: late afternoon sun through tall windows, lamps of continual flame.
+{maps:Military Library}
+
+THE MOMENT
+Sazed stands in the aisle holding open an old book bound in bark and twine, its handmade paper rough and hand-inked. The whole shelf in front of him is lined with the same books, taken from shifter clans wiped out in the inquisition. His jaw is clenched and his knuckles are white on the cover, barely holding back his rage.
+
+CAST
+- {cast:Sazed}
+
+REFERENCES
+{references}

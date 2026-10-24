@@ -1,0 +1,20 @@
+{tone}
+This scene is two friends getting high in a hidden forest garden.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:boranex-forest/larkleaf-grow-op}
+In this moment: a hidden patch of tall leafy Larkleaf plants growing in rows among the trees. Time and light: late afternoon sun through the forest.
+{maps:Boranex Forest Night}
+
+THE MOMENT
+Sazed and Brand, in his power armor, sit side by side on a fallen log in the middle of the hidden grow-op, passing a chunky pipe carved from stone, smoke curling around them. Brand, eyes red and relaxed, points at the nearest plant and is still insisting it is just a plant. Sazed watches him with patient amusement.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

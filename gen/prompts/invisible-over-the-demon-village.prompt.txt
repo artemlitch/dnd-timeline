@@ -1,0 +1,24 @@
+{tone}
+This scene is adventurers turning invisible above an enemy camp.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:demon-village/quasit-village}
+In this moment: a ridge of ferns and pines above the hidden village of small demon huts, smoke rising among the trees. Time and light: dusk, the last light through the forest.
+{maps:Demon Village}
+
+THE MOMENT
+Sazed, Lirael and Brand crouch in the ferns on the ridge, each downing a potion of invisibility: Sazed is already fading to a half-transparent shimmer, Lirael is halfway gone, and Brand, in his power armor, is lifting the bottle to his lips. Below them the village is busy: imps flitting between huts, quasits picking through stolen crates, and cambions lounging by a fire.
+
+CAST
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand}
+- The imps: tiny red devils with bat wings, small horns and stinging tails.
+- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+- The cambions: tall half-demons with dark red skin, curling horns and leathery wings, in scavenged armour.
+
+REFERENCES
+{references}

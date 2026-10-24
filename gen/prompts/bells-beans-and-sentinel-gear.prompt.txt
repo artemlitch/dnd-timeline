@@ -1,0 +1,21 @@
+{tone}
+This scene is looting a destroyed demon camp.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:demon-village/quasit-village}
+In this moment: the wrecked village after the fight, dead imps, quasits and cambions among the huts, crates of stolen Sentinel gear spilling out: black uniforms, weapons and supplies. Time and light: afternoon.
+{maps:Demon Village}
+
+THE MOMENT
+Lirael holds open a small cloth bag, and the three of them lean in to look at seven strange, faintly glowing beans inside. Sazed has a string of little bells hanging from one hand. Brand, in his power armor, has a rolled scroll tucked under his arm.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

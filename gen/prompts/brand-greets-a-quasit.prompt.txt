@@ -1,0 +1,24 @@
+{tone}
+This scene is a dwarf ending a stealth mission by saying hello.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:demon-village/quasit-village}
+In this moment: the middle of the village, between the huts. Time and light: late morning.
+{maps:Demon Village}
+
+THE MOMENT
+Brand, in his power armor, stands in the open in the middle of the village with one hand raised in a friendly greeting, while more than a dozen imps and quasits swarm him from every side, clawing and stabbing uselessly against his shield and armor. Cambions charge in from the huts. At the edges of the mob, Sazed and Lirael, now visible again, rush in.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- The imps: tiny red devils with bat wings, small horns and stinging tails.
+- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+- The cambions: tall half-demons with dark red skin, curling horns and leathery wings, in scavenged armour.
+
+REFERENCES
+{references}

@@ -1,0 +1,20 @@
+{tone}
+This scene is night signals training in a forest.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:boranex-forest/night-training-ground}
+In this moment: a dark clearing in the forest. Time and light: night, moonlight.
+{maps:Boranex Forest Night}
+
+THE MOMENT
+Sazed flashes a shuttered lantern in quick bursts across the dark clearing, while a thin column of signal smoke rises from a small fire beside him. Nedira stands with his arms folded, watching approvingly, holding a bundle of letters and children's drawings tied with string.
+
+CAST
+- {cast:Sazed}
+- {cast:Nedira}
+
+REFERENCES
+{references}
