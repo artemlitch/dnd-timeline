@@ -1,0 +1,20 @@
+{tone}
+This scene is a man returning home to find no one remembers him.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:mirror-nightmares/nightmare-cannith-forge}
+In this moment: outside the family forge, a sign over the door bearing House Cannith's gorgon emblem. Time and light: grey day.
+{maps:Shadowmirror Cell}
+
+THE MOMENT
+Brand stands in the street outside his family's forge, staring up in horror at the sign over the door: it now carries House Cannith's gorgon emblem. Through the open door, the woman at the front desk who did not recognise him watches him with polite suspicion. Brand's face is stunned and lost.
+
+CAST
+- {cast:Brand}
+- The clerk: a neat human woman at a front desk, in a House Cannith uniform.
+
+REFERENCES
+{references}

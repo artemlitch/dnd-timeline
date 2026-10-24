@@ -1,0 +1,20 @@
+{tone}
+This scene is a son finding his lost father trapped behind a mirror.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:mirror-nightmares/nightmare-father-behind-mirror}
+In this moment: a familiar family living room, a worn armchair. Time and light: dim lamplight, the edges of the room already going black.
+{maps:Shadowmirror Cell}
+
+THE MOMENT
+Lirael has walked into his family home to find his long-missing father sitting in his favourite chair, but the chair and the old man are behind the glass of a tall mirror. Both press their hands to the glass from either side, unable to reach each other. His father looks old and tired. Behind his father, dark shapes of hands are reaching out of the blackness to drag him away.
+
+CAST
+- {cast:Lirael}
+- {cast:Lirael Sr} Here: old and tired, trapped behind the mirror's glass.
+
+REFERENCES
+{references}

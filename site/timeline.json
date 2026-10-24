@@ -2431,8 +2431,8 @@
         "Gelf",
         "Mara'bor"
       ],
-      "img": "img/something-in-the-clouds.jpg",
-      "img_version": 1
+      "img": "img/something-in-the-clouds.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "paxon-in-the-clearing",
@@ -2694,8 +2694,8 @@
         "Nightmares",
         "Childhood"
       ],
-      "img": "img/sazeds-nightmare.jpg",
-      "img_version": 1
+      "img": "img/sazeds-nightmare.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "liraels-nightmare",
@@ -2717,8 +2717,8 @@
         "Shadow Mirror",
         "Lirael's Father"
       ],
-      "img": "img/liraels-nightmare.jpg",
-      "img_version": 1
+      "img": "img/liraels-nightmare.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brands-nightmare",
@@ -2740,8 +2740,8 @@
         "Broadhelm Forge",
         "House Cannith"
       ],
-      "img": "img/brands-nightmare.jpg",
-      "img_version": 1
+      "img": "img/brands-nightmare.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "found-you",
@@ -2811,8 +2811,8 @@
         "Broadaxe",
         "Valley"
       ],
-      "img": "img/the-dying-aundairian.jpg",
-      "img_version": 1
+      "img": "img/the-dying-aundairian.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-stray-dog",
@@ -2834,8 +2834,8 @@
         "Dire Wolves",
         "Sazed"
       ],
-      "img": "img/the-stray-dog.jpg",
-      "img_version": 1
+      "img": "img/the-stray-dog.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "tripwire-and-red-flare",
@@ -2857,8 +2857,8 @@
         "Flare Arrows",
         "Aundair"
       ],
-      "img": "img/tripwire-and-red-flare.jpg",
-      "img_version": 1
+      "img": "img/tripwire-and-red-flare.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "harpy-on-the-cliff",
@@ -2881,8 +2881,8 @@
         "Harpy",
         "Hobgoblins"
       ],
-      "img": "img/harpy-on-the-cliff.jpg",
-      "img_version": 1
+      "img": "img/harpy-on-the-cliff.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "eeeee-the-dwarf-in-a-can",
@@ -2928,8 +2928,8 @@
         "Hobgoblin Captain",
         "Bear Trap"
       ],
-      "img": "img/eeeee-slain.jpg",
-      "img_version": 1
+      "img": "img/eeeee-slain.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-owlbear-pit",

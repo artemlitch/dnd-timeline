@@ -1,0 +1,22 @@
+{tone}
+This scene is travellers frozen by something huge passing overhead.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:yedani-mountains/road-under-the-clouds}
+In this moment: the freed prisoners strung out along the road on foot. Time and light: day, a low overcast sky.
+{maps:Forest Chase}
+
+THE MOMENT
+A deep rumble like a stampede shakes the ground, and a monstrous bellow tears across the sky. The whole group has stopped dead on the road and is staring up: inside the low grey clouds directly overhead, enormous shapes glow red and blue as something vast roars past toward the mountain. Lirael shields his eyes, Brand, in his power armor, braces, and Sazed crouches with a hand on the ground, feeling the tremor.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The freed prisoners: ragged men and women in drab prison fatigues.
+
+REFERENCES
+{references}

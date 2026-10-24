@@ -83,8 +83,13 @@ def small(path):
     out = ROOT / "gen/regen/refcache" / (path.stem + ".jpg")
     if not out.exists():
         out.parent.mkdir(parents=True, exist_ok=True)
-        subprocess.run(["sips", "-Z", "768", "-s", "format", "jpeg", "-s", "formatOptions", "85", str(path), "--out", str(out)],
-                       check=True, capture_output=True)
+        done = subprocess.run(["sips", "-Z", "768", "-s", "format", "jpeg", "-s", "formatOptions", "85", str(path), "--out", str(out)],
+                              capture_output=True)
+        if done.returncode:  # sips can't read some webp files
+            from PIL import Image as PILImage
+            im = PILImage.open(path).convert("RGB")
+            im.thumbnail((768, 768))
+            im.save(out, "JPEG", quality=85)
     return out
 
 

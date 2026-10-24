@@ -1,0 +1,23 @@
+{tone}
+This scene is a short brutal fight at the top of a cliff.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:yedani-mountains/cliff-and-open-field}
+In this moment: the top of the cliff, the log ramp below. Time and light: day.
+{maps:Yedani Valley Airship Sabotage}
+
+THE MOMENT
+EEEEE, the wild-eyed little dwarf from the can, hauls himself over the lip of the cliff, and Brand, in his power armor, meets him with a blow that sends him toppling back down, dead. A little way along the clifftop, Sazed has crept up behind the hobgoblin archer peering over the edge and strikes. Lirael watches the slope below, where the hobgoblin captain is still climbing.
+
+CAST
+- {cast:EEEEE}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- The hobgoblin archer: a tall hobgoblin soldier with grey-orange skin and a longbow.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is disarming a trap while a signal flare goes up.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:yedani-mountains/forest-trail-and-traps}
+In this moment: a forest trail, a tripwire strung low across it to a rack of loaded crossbows hidden in the brush. Time and light: day.
+{maps:Forest Chase}
+
+THE MOMENT
+Brand, in his power armor, kneels at the trap, carefully unhooking the tripwire from the crossbow rack. Lirael and Sazed crouch behind him. Above the trees behind them, a red flare arrow arcs into the sky, trailing red smoke, fired by the soldiers who found the dead wolves.
+
+CAST
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

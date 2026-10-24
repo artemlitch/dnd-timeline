@@ -1,0 +1,23 @@
+{tone}
+This scene is a dying soldier's last words in a valley.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:yedani-mountains/aundairian-valley-base}
+In this moment: a slope above the valley, two airships parked in a makeshift camp far below. Time and light: day.
+{maps:Yedani Valley Airship Sabotage}
+
+THE MOMENT
+On the slope, an Aundairian soldier lies dying beside the body of a huge dire wolf, his blue uniform torn and bloody. Sazed kneels beside him, holding his head, as he gasps out that a dog attacked him and his wolves. Lirael and Brand, in his power armor, stand over them, looking down a trail of blood that leads away into the trees.
+
+CAST
+- The dying soldier: a young human Aundairian soldier in a torn blue uniform, bloodied.
+- The dire wolf: a huge dead grey wolf.
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand}
+
+REFERENCES
+{references}

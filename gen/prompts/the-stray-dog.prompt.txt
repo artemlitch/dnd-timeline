@@ -1,0 +1,23 @@
+{tone}
+This scene is adopting a stray dog after a fight.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:yedani-mountains/forest-trail-and-traps}
+In this moment: a forest clearing, three dead dire wolves on the ground. Time and light: day.
+{maps:Forest Chase}
+
+THE MOMENT
+With the three dire wolves dead around them, Sazed kneels and holds out a strip of food to a scruffy, skinny grey dog, which creeps forward and takes it, tail starting to wag. Brand, in his power armor, gives it a cautious pat. Lirael, standing guard, has turned toward the trees: a squad of Aundairian soldiers is coming through the woods toward the howls.
+
+CAST
+- Scruffy: a scruffy, skinny, shaggy grey dog.
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+- The Aundairian soldiers: soldiers in blue Aundairian uniforms and caps with crossbows.
+
+REFERENCES
+{references}

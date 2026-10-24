@@ -1,0 +1,22 @@
+{tone}
+This scene is a magical sentry knocked out at the foot of a cliff.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:yedani-mountains/cliff-and-open-field}
+In this moment: the base of a high cliff, a felled log leaning against it as a ramp. Time and light: day.
+{maps:Yedani Valley Airship Sabotage}
+
+THE MOMENT
+A harpy guarding the cliff tumbles down out of the air, asleep from Lirael's spell, its wings folding, and Sazed is leaping in with his quarterstaff raised to finish it as it hits the ground. Lirael lowers his casting hand. Brand, in his power armor, is already at the foot of the log ramp.
+
+CAST
+- The harpy: a winged woman with the legs and talons of a vulture, ragged feathers and hooked claws.
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

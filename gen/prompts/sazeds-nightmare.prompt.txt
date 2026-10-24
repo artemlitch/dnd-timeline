@@ -1,0 +1,21 @@
+{tone}
+This scene is a child's nightmare of soldiers searching his home.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:mirror-nightmares/nightmare-childhood-hut}
+In this moment: the inside of a small wooden hut, seen from low on the floor under a bed. Time and light: night, firelight through the doorway.
+{maps:Shadowmirror Cell}
+
+THE MOMENT
+Seen from under a bed: a small shifter child lies hidden in the dark, his mother's hand clamped over his mouth to keep him silent. Through the gap, soldiers' boots stand in the open doorway as they look around the room. Behind the soldiers, one raises a hand glowing with the first spark of a fireball.
+
+CAST
+- The child: Sazed as a small shifter boy, about six, with wild reddish-brown hair.
+- His mother: a shifter woman with long dark hair, lying beside him under the bed.
+- The soldiers: soldiers in dark uniforms, seen only from the knees down, one with a fire-lit hand.
+
+REFERENCES
+{references}
