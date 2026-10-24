@@ -637,6 +637,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/thaldamir-begs-for-his-life.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/thaldamir-begs-for-his-life.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Thaldamir",
+    "Sazed",
+    "Brand",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 2 map"
+   ],
+   "cost": 0.03462875,
+   "at": "2026-10-24T07:35:56",
+   "draft": "gen/drafts/thaldamir-begs-for-his-life/20261024-073556-004000.jpg"
   }
  ],
  "brand-suits-up": [
@@ -666,6 +686,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/nightmares-in-the-mirror.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/nightmares-in-the-mirror.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Basement map"
+   ],
+   "cost": 0.0346095,
+   "at": "2026-10-24T07:35:54",
+   "draft": "gen/drafts/nightmares-in-the-mirror/20261024-073554-294000.jpg"
   }
  ],
  "chester-the-mimic": [
@@ -736,12 +775,59 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-cafeteria-rescue.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-cafeteria-rescue.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Lirael",
+    "Sazed",
+    "Elarian",
+    "Sorenson",
+    "Tauren",
+    "Leff",
+    "Rolick",
+    "Keys",
+    "Faird"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.034787,
+   "at": "2026-10-24T07:35:56",
+   "draft": "gen/drafts/the-cafeteria-rescue/20261024-073556-385000.jpg"
   }
  ],
  "out-through-the-broken-wall": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/out-through-the-broken-wall.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/out-through-the-broken-wall.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Elarian",
+    "Rex",
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.0346535,
+   "at": "2026-10-24T07:35:55",
+   "draft": "gen/drafts/out-through-the-broken-wall/20261024-073555-571000.jpg"
   }
  ],
  "grail-rises": [
@@ -858,6 +944,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/grails-meat-shield.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/grails-meat-shield.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "Grail Grimdell",
+    "Rex"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.03463325,
+   "at": "2026-10-24T07:35:56",
+   "draft": "gen/drafts/grails-meat-shield/20261024-073556-124000.jpg"
   }
  ],
  "lirael-pleads-with-damron": [
@@ -911,6 +1017,28 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/grails-lieutenants-fall.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/grails-lieutenants-fall.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Grail Grimdell",
+    "Rex",
+    "Warden Sharpe",
+    "Scud",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.034676,
+   "at": "2026-10-24T07:35:55",
+   "draft": "gen/drafts/grails-lieutenants-fall/20261024-073555-522000.jpg"
   }
  ],
  "grail-falls": [
@@ -953,6 +1081,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/down-from-the-roof.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/down-from-the-roof.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Erald",
+    "Chester",
+    "Thaldamir"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.0346275,
+   "at": "2026-10-24T07:35:55",
+   "draft": "gen/drafts/down-from-the-roof/20261024-073555-712000.jpg"
   }
  ],
  "sheldor-looks-for-cromwell": [
@@ -1064,6 +1213,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/damrons-ultimatum.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/damrons-ultimatum.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Damron Pink",
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Fumble Figgins"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Gate map"
+   ],
+   "cost": 0.0346355,
+   "at": "2026-10-24T07:35:52",
+   "draft": "gen/drafts/damrons-ultimatum/20261024-073552-705000.jpg"
   }
  ],
  "sheldor-and-the-snel-katar": [
@@ -1099,6 +1269,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/bluffing-the-mine-guards.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/bluffing-the-mine-guards.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Joerick",
+    "Spingel",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mine Entrance to Mara'bor map"
+   ],
+   "cost": 0.0346175,
+   "at": "2026-10-24T07:35:54",
+   "draft": "gen/drafts/bluffing-the-mine-guards/20261024-073554-575000.jpg"
   }
  ],
  "halien-stands-watch": [
@@ -1209,6 +1400,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/brand-and-the-old-king.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brand-and-the-old-king.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Wroat From The Air map"
+   ],
+   "cost": 0.03453375,
+   "at": "2026-10-24T07:35:54",
+   "draft": "gen/drafts/brand-and-the-old-king/20261024-073554-246000.jpg"
   }
  ],
  "ddt-and-the-dragonmarks": [

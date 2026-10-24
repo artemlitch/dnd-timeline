@@ -1354,8 +1354,8 @@
         "Thaldamir",
         "DarkWood"
       ],
-      "img": "img/thaldamir-begs-for-his-life.jpg",
-      "img_version": 1
+      "img": "img/thaldamir-begs-for-his-life.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "brand-suits-up",
@@ -1401,8 +1401,8 @@
         "Sazed",
         "Sharn"
       ],
-      "img": "img/nightmares-in-the-mirror.jpg",
-      "img_version": 1
+      "img": "img/nightmares-in-the-mirror.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "chester-the-mimic",
@@ -1448,8 +1448,8 @@
         "Faird",
         "DarkWood"
       ],
-      "img": "img/the-cafeteria-rescue.jpg",
-      "img_version": 1
+      "img": "img/the-cafeteria-rescue.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "out-through-the-broken-wall",
@@ -1472,8 +1472,8 @@
         "Zombies",
         "DarkWood"
       ],
-      "img": "img/out-through-the-broken-wall.jpg",
-      "img_version": 1
+      "img": "img/out-through-the-broken-wall.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "grail-rises",
@@ -1590,8 +1590,8 @@
         "Rolick",
         "Sazed"
       ],
-      "img": "img/grails-meat-shield.jpg",
-      "img_version": 1
+      "img": "img/grails-meat-shield.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "lirael-pleads-with-damron",
@@ -1660,8 +1660,8 @@
         "Magnot Whitlin",
         "Warden Sharpe"
       ],
-      "img": "img/grails-lieutenants-fall.jpg",
-      "img_version": 1
+      "img": "img/grails-lieutenants-fall.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "grail-falls",
@@ -1731,8 +1731,8 @@
         "Byll",
         "Brand"
       ],
-      "img": "img/down-from-the-roof.jpg",
-      "img_version": 1
+      "img": "img/down-from-the-roof.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sheldor-looks-for-cromwell",
@@ -1846,8 +1846,8 @@
         "Byll",
         "Cyriel"
       ],
-      "img": "img/damrons-ultimatum.jpg",
-      "img_version": 1
+      "img": "img/damrons-ultimatum.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sheldor-and-the-snel-katar",
@@ -1892,8 +1892,8 @@
         "Joerick",
         "Damron Pink"
       ],
-      "img": "img/bluffing-the-mine-guards.jpg",
-      "img_version": 1
+      "img": "img/bluffing-the-mine-guards.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "halien-stands-watch",
@@ -2008,8 +2008,8 @@
         "High Marshalls",
         "Old King"
       ],
-      "img": "img/brand-and-the-old-king.jpg",
-      "img_version": 1
+      "img": "img/brand-and-the-old-king.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "ddt-and-the-dragonmarks",

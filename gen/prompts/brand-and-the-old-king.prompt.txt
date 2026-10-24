@@ -1,0 +1,21 @@
+{tone}
+This scene is a memory of a secret royal council.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/brokenblade-castle-and-citadel}
+In this moment: the council chamber inside Brokenblade Castle, years ago, a long table of advisors. Time and light: day, light through tall windows.
+{maps:Wroat From The Air}
+
+THE MOMENT
+A memory from Brand's years as counsel to the old king: the aged king of Breland sits at the head of a long council table in Brokenblade Castle, the High Marshals in their uniforms around it. One marshal unrolls a proposal for a secret military unit outside the law. Brand, in his power armor, sits among them, a little younger, frowning at the proposal.
+
+CAST
+- {cast:Brand} Here: a little younger, his beard less grey.
+- The old king: an aged human king of Breland with a white beard, a heavy crown and a royal blue mantle.
+- The High Marshals: stern Brelish generals in dress uniforms with medals.
+
+REFERENCES
+{references}

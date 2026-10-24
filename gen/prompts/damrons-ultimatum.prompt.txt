@@ -1,0 +1,24 @@
+{tone}
+This scene is a guard sparing the prisoners but promising to kill them next time.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/gate-and-walls}
+In this moment: the gate standing open at dawn, horses and carriages waiting, the prison smoking behind. Time and light: dawn.
+{maps:Prison Gate}
+
+THE MOMENT
+Damron Pink stands at the gate, arms folded, jaw tight, telling the party they can take the horses and carriages, and that if he ever sees them again he will kill them. Lirael, Brand, in his power armor, and Sazed stand before him, battered and filthy. Behind Damron, Fumble Figgins and two guards load a wagon.
+
+CAST
+- {cast:Damron Pink}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Fumble Figgins}
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs and short swords.
+
+REFERENCES
+{references}

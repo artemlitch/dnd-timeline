@@ -1,0 +1,22 @@
+{tone}
+This scene is a gang leader dragged through prison bars and begging.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/cells-and-bunks}
+In this moment: a cellblock corridor, a gang brawl raging behind the bars. Time and light: night, torchlight.
+{maps:Prison Level 2}
+
+THE MOMENT
+A lashing vine of thorns from Sazed's hand has wrapped around Thaldamir and yanked the elf gang leader against the bars, and now he is on his knees, hands clasped, begging for his life and promising them millions of gold. Brand snaps a pair of cuffs on him, and Lirael holds the end of a chain to fix him to the wall.
+
+CAST
+- {cast:Thaldamir}
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues, without his power armor.
+- {cast:Lirael} Here: in drab prison fatigues.
+
+REFERENCES
+{references}

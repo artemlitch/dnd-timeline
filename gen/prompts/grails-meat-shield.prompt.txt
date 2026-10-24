@@ -1,0 +1,23 @@
+{tone}
+This scene is a necromancer using his zombies as a living shield.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the burning prison yard full of zombies. Time and light: night, firelight.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+Brand, in his power armor, swings at Grail Grimdell, but the blow lands on a zombie that has thrown itself between them: dark necromantic threads link Grail to his zombies, turning every hit meant for him onto them. Grail, half faded into invisibility, smirks. Behind them Rex has just fallen, and is already rising again as a grey zombie. Sazed is engulfed in a cloud of choking dust thrown by a zombie.
+
+CAST
+- {cast:Brand}
+- {cast:Grail Grimdell}
+- {cast:Rex} Here: just killed, rising as a grey zombie.
+- {cast:Sazed} Here: in drab prison fatigues.
+- The zombies: grey, rotting dead prison guards and prisoners in torn uniforms and fatigues.
+
+REFERENCES
+{references}

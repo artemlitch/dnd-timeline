@@ -1,0 +1,24 @@
+{tone}
+This scene is an escape down a blasted wall into a yard of rising dead.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: a huge hole blasted through the cafeteria wall above the yard, rubble spilling down. Time and light: night, firelight.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+The party rappels down ropes from the hole in the cafeteria wall into the prison yard: Lirael sliding down, Sazed dropping the last few feet, Brand in his power armor jumping. Elarian, blown out through the wall by the blast, lies in the rubble below. Rex, the hulking gang leader, slides down to join them. Across the yard, the dead are rising out of the ground.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Brand}
+- {cast:Elarian} Here: in drab prison fatigues. Lying hurt in the rubble.
+- {cast:Rex} Here: in drab prison fatigues.
+- The zombies: grey, rotting dead prison guards and prisoners in torn uniforms and fatigues.
+
+REFERENCES
+{references}

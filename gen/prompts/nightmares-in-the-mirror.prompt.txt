@@ -1,0 +1,21 @@
+{tone}
+This scene is a cursed mirror dragging three people into their nightmares.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison/secret-inventory-room}
+In this moment: the storeroom of confiscated gear, the tarp just pulled off the tall mirror in the corner. Time and light: night, lamplight.
+{maps:Prison Basement}
+
+THE MOMENT
+The tarp has slid off the tall mirror, and its glass shows three nightmares at once instead of reflections: a family walking away down a long pier, blood-red streets of Sharn full of smoke and marching soldiers in mechanical armor, and a burning shifter village ringed by soldiers. In front of it Lirael, Brand and Sazed reel back, sweating and stricken, each staring at his own nightmare. Sazed is already swinging his quarterstaff to smash the glass.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Brand} Here: in drab prison fatigues.
+- {cast:Sazed} Here: in drab prison fatigues.
+
+REFERENCES
+{references}

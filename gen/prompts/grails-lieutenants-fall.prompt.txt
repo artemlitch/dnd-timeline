@@ -1,0 +1,25 @@
+{tone}
+This scene is the named dead going down one after another.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the burning prison yard. Time and light: night, firelight.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+The party and the guards cut down Grail's best: zombie Warden Sharpe falls under Brand's armored fist, zombie Rex crashes down under Sazed's staff, and zombie Scud, the pyromaniac, stands wrapped in flames, burning to death and grinning with joy about it. In the background Grail Grimdell watches his lieutenants fall.
+
+CAST
+- {cast:Warden Sharpe} Here: a zombie, grey and rotting.
+- {cast:Rex} Here: a zombie, grey and rotting.
+- {cast:Scud} Here: a zombie, burning, grinning.
+- {cast:Grail Grimdell}
+- {cast:Brand}
+- {cast:Sazed} Here: in drab prison fatigues.
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs and short swords.
+
+REFERENCES
+{references}

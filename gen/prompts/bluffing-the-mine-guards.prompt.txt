@@ -1,0 +1,23 @@
+{tone}
+This scene is two gullible guards being talked into letting strangers through.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/mine-entrance}
+In this moment: the mine entrance in the mountainside, a barred gate and a guard post. Time and light: day.
+{maps:Mine Entrance to Mara'bor}
+
+THE MOMENT
+At the mine entrance to Mara'bor, Lirael does the talking, all confidence, while the two guards, Spingel and Joerick, scratch their heads and lift the barrier. Brand, in his power armor, and Sazed wait behind him, trying to look innocent, with a carriage of their freed friends behind them.
+
+CAST
+- {cast:Spingel}
+- {cast:Joerick}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

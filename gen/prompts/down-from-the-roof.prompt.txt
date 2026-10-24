@@ -1,0 +1,23 @@
+{tone}
+This scene is survivors floating down from a burning roof, except one.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/prison-yard}
+In this moment: the prison roof on fire above the yard. Time and light: night, firelight.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+Lirael, arms raised, floats a line of survivors gently down from the burning roof with feather fall: guards and prisoners drifting down like leaves, and Chester the mimic, a treasure chest with a big eye and a lolling tongue, bobbing down among them. Thaldamir is the exception: Lirael has let him drop, and the elf lies on the ground clutching a broken leg, howling, as Brand, in his power armor, winds up to knock him out. Erald, the nervous clerk, waves up at Chester.
+
+CAST
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Chester}
+- {cast:Thaldamir} Here: on the ground with a broken leg.
+- {cast:Brand}
+- {cast:Erald}
+
+REFERENCES
+{references}

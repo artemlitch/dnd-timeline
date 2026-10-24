@@ -1,0 +1,29 @@
+{tone}
+This scene is a desperate rescue in a prison cafeteria brawl.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:darkwood-prison/cafeteria}
+In this moment: the cafeteria wrecked, tables overturned, trays and food everywhere. Time and light: night, firelight.
+{maps:Prison Level 1}
+
+THE MOMENT
+The party has burst into the cafeteria to save their friends. Brand, in his power armor, blasts a thunderwave through the ranks of guards, flinging them across the room. Lirael fights with a blade of pure shadow. Sazed cracks a guard's skull with his quarterstaff. Their friends, Elarian, Sorenson, Tauren, Leff, Rolick, Keys and Faird, were backed into a corner and now surge forward with them.
+
+CAST
+- {cast:Brand}
+- {cast:Lirael} Here: in drab prison fatigues.
+- {cast:Sazed} Here: in drab prison fatigues.
+- {cast:Elarian} Here: in drab prison fatigues.
+- {cast:Sorenson} Here: in drab prison fatigues.
+- {cast:Tauren} Here: in drab prison fatigues.
+- {cast:Leff} Here: in drab prison fatigues.
+- {cast:Rolick} Here: in drab prison fatigues.
+- {cast:Keys} Here: in drab prison fatigues.
+- {cast:Faird} Here: in drab prison fatigues.
+- The guards: DarkWood prison guards in grey Brelish uniforms with clubs and short swords.
+
+REFERENCES
+{references}
