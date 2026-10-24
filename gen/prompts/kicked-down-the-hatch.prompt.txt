@@ -13,7 +13,7 @@ THE MOMENT
 Grail's brother tumbles head first down the cellar hatch where Lirael has just kicked him, and the party piles in on him. Skeletons are clawing up out of the floor around him as he conjures them. Sazed has snatched the blood-red gem necklace from his neck. Brand, in his power armor, swings at a skeleton.
 
 CAST
-- Grail's brother: a thin, pale adult man who looks much like Grail, gaunt and sharp-featured with black hair, in a black hooded robe.
+- {cast:Gelion Grimdell} Here: in a black hooded robe.
 - {cast:Lirael}
 - {cast:Sazed}
 - {cast:Brand}

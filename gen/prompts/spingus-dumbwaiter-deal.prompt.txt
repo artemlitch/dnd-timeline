@@ -17,7 +17,7 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
-- The quasit: a small, wiry green demon the size of a cat, with warty skin, little horns and clawed hands. Here: dead, dangling from Lirael's hand.
+- {cast:Quasit} Here: dead, dangling from Lirael's hand.
 
 REFERENCES
 {references}

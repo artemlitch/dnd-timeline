@@ -17,7 +17,7 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
-- The mud mephits: small winged creatures made of dripping mud.
+- {cast:Mud Mephit} Here: several of them.
 
 REFERENCES
 {references}

@@ -20,7 +20,7 @@ CAST
 - {cast:Brand} Here: unconscious and carried.
 - {cast:Screech} Here: unconscious and carried.
 - Warforged enforcers: tall constructs plated in steel and stone with crystal eyes, in green tabards.
-- Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
+- {cast:Clockwork Defender}
 - Sheldor's portrait is attached for reference only; Sheldor is not in this moment. Do not draw him.
 - Charlie Trundle's portrait is attached for reference only; Charlie Trundle is not in this moment. Do not draw him.
 

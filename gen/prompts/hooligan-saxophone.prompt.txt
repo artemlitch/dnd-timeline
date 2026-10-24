@@ -1,0 +1,22 @@
+{tone}
+This scene is a thief hypnotising his captors with a saxophone solo.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: a street on the walk to the task force headquarters. Time and light: night, streetlamps.
+{maps:Starilaskur}
+
+THE MOMENT
+Sazed grips the Soul Street Hooligan by the wrist, catching him with a hand in the party's packs. In the air above them blazes a huge, swirling hypnotic pattern of the Hooligan himself playing a roaring, fiery saxophone solo, and Sazed, Brand, in his power armor, and Lirael stare up at it, entranced and slack-jawed. The Hooligan grins, already slipping free, a stolen ring in his other hand and a fan of free show tickets held out to them.
+
+CAST
+- {cast:Soul Street Hooligan}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+
+REFERENCES
+{references}

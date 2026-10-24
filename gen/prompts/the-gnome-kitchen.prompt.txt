@@ -16,7 +16,7 @@ CAST
 - {cast:Brand}
 - {cast:Lirael}
 - The gnomes: small, mischievous gnome cooks and servants in white aprons and chef's caps.
-- The quasit: a small, wiry green demon the size of a cat, with warty skin, little horns and clawed hands. Here: strapped to a spinning wheel.
+- {cast:Quasit} Here: strapped to a spinning wheel.
 
 REFERENCES
 {references}

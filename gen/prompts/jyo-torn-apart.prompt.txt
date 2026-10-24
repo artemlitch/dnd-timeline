@@ -17,9 +17,9 @@ CAST
 - {cast:Cromwell} Here: downed on the roof.
 - {cast:Sazed}
 - {cast:Brand}
-- The Flock: changeling agents disguised as plague doctors, in beaked plague masks, wide-brimmed black hats, dark capes and long coats, white gloves.
+- {cast:The Flock} Here: several of them.
 - The bears: two huge brown bears, possessed, with blank black eyes.
-- The beholder: a floating orb-shaped aberration with one great central eye, a fanged mouth and a crown of writhing eyestalks.
+- {cast:Beholder}
 - {cast:The Moonwatch}
 
 REFERENCES

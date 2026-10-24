@@ -17,7 +17,7 @@ CAST
 - {cast:Skye}
 - {cast:Falken}
 - Carrk's portrait is attached for reference only; Carrk is not in this moment. Do not draw him.
-- Fang: a muscular young shifter man with long, wild dark brown hair with two braids, thick brows and amber eyes, a sleeveless sage-green tunic tied with a sash, dark trousers, white fur leg wraps and bronze bracers.
+- {cast:Fang}
 - The children: eight small shifter children aged two to five, with tousled hair, slightly pointed ears and big amber eyes, in ragged, dirty clothes.
 
 REFERENCES

@@ -14,7 +14,7 @@ A grizzled old human wizard in green robes sits slumped at his desk, a pipe droo
 
 CAST
 - The wizard: a frail, grizzled old human wizard with a lined face, white stubble and sharp green eyes, in worn green robes, a long wooden staff and a pipe.
-- The raven: a large glossy black raven.
+- {cast:Raven}
 
 REFERENCES
 {references}

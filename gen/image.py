@@ -201,8 +201,8 @@ def build(event_id, style=None, lineup=True, prompt_file=None):
     maps = maps_attached(prompt)
     prompt = re.sub(r"\{maps:([^}]+)\}", lambda m: MAP_NOTE.format(", ".join(n for n, _ in maps)), prompt)
     refs |= {n: small(f) for n, f in maps}
-    if in_sheet:
-        prompt = prompt.replace("draw from the reference portrait.", "draw from their figure in the character lineup.")
+    for n in in_sheet:
+        prompt = prompt.replace(f"{n}: draw from the reference portrait.", f"{n}: draw from their figure in the character lineup.")
     return Request(event_id, prompt, list(refs.items()), in_sheet, style)
 
 

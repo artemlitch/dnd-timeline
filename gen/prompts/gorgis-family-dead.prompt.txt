@@ -16,7 +16,7 @@ CAST
 - {cast:Sorenson}
 - {cast:Shmem Gorgis} Here he appears only in the painted family portrait on the wall.
 - Shemette Gorgis: an elderly man with long white hair, a white beard and round wire spectacles; seen only in the portrait.
-- Shmerly Gorgis: an elderly woman with grey hair pulled back, a worn kind face and a heavy knitted shawl; seen only in the portrait.
+- {cast:Shmerly Gorgis} Here: seen only in the portrait.
 - {cast:The Empyrean}
 
 REFERENCES

@@ -15,7 +15,7 @@ The Aundairian spies' carriage, piled high with newly bought weapons and armor, 
 CAST
 - {cast:Killian}
 - {cast:Kynds}
-- Darvok: a burly human Aundairian spy in a dark travelling coat.
+- {cast:Darvok}
 - {cast:EEEEE}
 - {cast:Sazed}
 - {cast:Lirael}

@@ -16,8 +16,8 @@ CAST
 - {cast:Sazed}
 - {cast:Brand}
 - {cast:Lirael}
-- The imps: tiny red devils with bat wings, small horns and stinging tails.
-- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+- {cast:Imp} Here: several of them.
+- {cast:Quasit} Here: several of them.
 - The townsfolk: Ardev townsfolk of many races.
 
 REFERENCES

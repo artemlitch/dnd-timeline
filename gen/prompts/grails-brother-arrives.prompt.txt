@@ -14,7 +14,7 @@ Lirael, wearing Grail's blood-red gem necklace and a black hooded robe, stands i
 
 CAST
 - {cast:Lirael} Here: wearing a black hooded robe and the blood-red gem necklace.
-- Grail's brother: a thin, pale adult man who looks much like Grail, gaunt and sharp-featured with black hair, in a black hooded robe.
+- {cast:Gelion Grimdell} Here: in a black hooded robe.
 - {cast:Brand}
 - {cast:Sazed}
 - Grail Grimdell's portrait is attached for reference only; Grail Grimdell is not in this moment. Do not draw him.

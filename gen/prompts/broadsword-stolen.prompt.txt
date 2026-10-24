@@ -17,7 +17,7 @@ CAST
 - {cast:Screech}
 - {cast:Lirael}
 - Sazed's portrait is attached for reference only; Sazed is invisible at this moment, planting the charge on the Broadaxe. Do not draw him.
-- The harpy: a winged woman with a vulture's legs and talons, ragged feathered wings, wild hair.
+- {cast:Harpy}
 - {cast:The Moonwatch}
 - {cast:The Broadaxe}
 

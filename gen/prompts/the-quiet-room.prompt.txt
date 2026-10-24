@@ -17,7 +17,7 @@ CAST
 - {cast:Elric}
 - {cast:Eloria}
 - {cast:Clockwork}
-- Foehammer: a weathered veteran woman pilot in a worn leather flight jacket, a dropship pilot who once flew dragons.
+- {cast:Foehammer}
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}

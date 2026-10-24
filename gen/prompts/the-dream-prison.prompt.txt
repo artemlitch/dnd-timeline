@@ -17,7 +17,7 @@ CAST
 - {cast:Felicia Sr}
 - {cast:Xera}
 - {cast:Fey-Lynn}
-- The Dreamweaver's beholder: a floating, dark purple-black aberration with a mass of long tentacles, each tipped with a pale glowing eye, a fanged maw and one great central eye.
+- {cast:Nightmare Beholder} Here: the Dreamweaver's beholder.
 
 REFERENCES
 {references}

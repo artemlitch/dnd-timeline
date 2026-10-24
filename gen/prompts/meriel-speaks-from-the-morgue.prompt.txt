@@ -17,7 +17,7 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
-- The morgue doctor: a gaunt, balding man in a stained leather apron.
+- {cast:Shifflin} Here: the morgue doctor, in a stained leather apron.
 
 REFERENCES
 {references}

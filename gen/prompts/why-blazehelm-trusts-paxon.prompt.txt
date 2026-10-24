@@ -16,7 +16,7 @@ CAST
 - {cast:Brand}
 - {cast:Blazehelm}
 - Paxon's portrait is attached for reference only; Paxon is not in this moment. Do not draw him.
-- Clockwork Defender: a hulking, round-bodied brass clockwork construct with a single glowing orange eye-core and heavy riveted plating.
+- {cast:Clockwork Defender}
 
 REFERENCES
 {references}

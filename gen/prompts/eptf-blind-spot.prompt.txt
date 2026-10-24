@@ -19,7 +19,7 @@ CAST
 - Lirael Sr's portrait is attached for reference only; Lirael Sr is not in this moment. Do not draw him.
 - {cast:Bulwark Broadhelm} Here he appears only as the painted portrait on the wall.
 - EPTF paladins: knights in polished silver plate armor with tabards, some aasimar with faintly glowing eyes.
-- Watchers of the Gate cultists: ragged warlocks in dark robes, behind bars.
+- {cast:Watchers of the Gate Cultist} Here: several of them, behind bars.
 
 REFERENCES
 {references}

@@ -14,7 +14,7 @@ Lirael has just sprung the obvious bear trap with a fire poker, and a polar bear
 
 CAST
 - {cast:Lirael} Here: on the floor under the polar bear.
-- The polar bear: a huge white polar bear.
+- {cast:Polar Bear}
 - {cast:Keys} Here: wild-shaped into a huge black bear.
 - {cast:Brand} Here: in nightclothes, without his power armor.
 

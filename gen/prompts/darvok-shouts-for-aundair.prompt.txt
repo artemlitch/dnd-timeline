@@ -13,7 +13,7 @@ THE MOMENT
 Darvok, just free of the charm and dazed, struggles in the grip of two police officers, shouting for Aundair. Sergeant Taggart watches him with a raised eyebrow. The party holds Killian aside. Jeff spits on a dead body on the cobbles.
 
 CAST
-- Darvok: a burly Aundairian agent in a torn blue coat.
+- {cast:Darvok} Here: his coat torn.
 - {cast:Taggart}
 - {cast:Killian}
 - {cast:Jeff}

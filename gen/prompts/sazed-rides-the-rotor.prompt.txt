@@ -18,8 +18,8 @@ CAST
 - {cast:Sazed}
 - {cast:Screech}
 - {cast:Brand} Here: with boot boosters on his power armor.
-- Hobgoblin captain: a tall, red-skinned hobgoblin with long black hair, yellow eyes and a hooked nose, in plate armor.
-- Harpies: winged women with bird talons and ragged feathered wings.
+- {cast:Hobgoblin} Here: their captain, in plate armor.
+- {cast:Harpy} Here: several of them.
 - {cast:The Moonwatch}
 - {cast:The Broadaxe}
 

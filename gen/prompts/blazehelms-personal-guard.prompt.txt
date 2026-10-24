@@ -15,7 +15,7 @@ Major Blazehelm stands at the head of the table, having just made Lirael, Brand 
 CAST
 - {cast:Blazehelm}
 - {cast:Clockwork}
-- Clockwork Defender: a hulking, round-bodied brass clockwork construct with a single glowing orange eye-core and heavy riveted plating, dented and half-repaired.
+- {cast:Clockwork Defender} Here: dented and half-repaired.
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}

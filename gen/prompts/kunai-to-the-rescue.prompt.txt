@@ -21,7 +21,7 @@ CAST
 - {cast:Tauren}
 - {cast:Cromwell}
 - {cast:Screech}
-- Foehammer: the Kunai's pilot, a lean, grey-scaled female reptilian humanoid with a long snout, a short dark crest, a purple top under a dark blue cape, leather and steel armor on her legs and claws, in smoked flying goggles, a former dragon rider.
+- {cast:Foehammer} Here: piloting the Kunai, in smoked flying goggles.
 - {cast:The Kunai}
 - {cast:The Moonwatch}
 

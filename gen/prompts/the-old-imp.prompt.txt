@@ -13,7 +13,7 @@ THE MOMENT
 A very old imp, wrinkled and stooped, with drooping wings, a white tuft of beard and spectacles, sits in a little rocking chair playing a squeaky tiny accordion and singing with great feeling. Sazed and Lirael grimace, and Brand, in his power armor, has his weapon raised, his patience gone.
 
 CAST
-- The old imp: a very old, wrinkled imp, a tiny red devil with drooping bat wings, small horns, a white tuft of beard and spectacles.
+- {cast:Imp} Here: very old and wrinkled, with drooping wings, a white tuft of beard and spectacles.
 - {cast:Sazed}
 - {cast:Lirael}
 - {cast:Brand}

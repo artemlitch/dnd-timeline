@@ -16,7 +16,7 @@ CAST
 - {cast:Screech}
 - {cast:Spingus Dillguard}
 - {cast:Dandy}
-- Fizbark: a small, wiry gnome cook in a stained apron with a pointed nose and messy hair.
+- {cast:Fizbark}
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}

@@ -10,14 +10,14 @@ In this moment: a quiet street of lower Ardev, the Moonwatch on the landing fiel
 {maps:Ardev Streets Night}
 
 THE MOMENT
-Lirael, Sazed and Brand, in his power armor, walk back toward the ship. High above, a great warforged eagle of plated bronze with glowing crystal eyes circles silently, watching them. Lirael glances up at it. Far behind them, The Right Hand stands at the end of the street, watching too.
+Lirael, Sazed and Brand, in his power armor, walk back toward the ship. High above, Daedalus, the warforged eagle, circles silently, watching them. Lirael glances up at it. Far behind them, The Right Hand stands at the end of the street, watching too.
 
 CAST
 - {cast:Lirael}
 - {cast:Sazed}
 - {cast:Brand}
-- Daedalus: a great warforged eagle of plated bronze and steel with glowing crystal eyes.
-- The Right Hand: a tall, lean figure in close-fitting bronze armour, a wide-brimmed pointed hat, a long blue cloak, a round shield with glowing blue runes and a glowing blue blade.
+- {cast:Daedalus}
+- {cast:The Right Hand}
 
 REFERENCES
 {references}

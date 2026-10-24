@@ -10,10 +10,10 @@ In this moment: between tall shelves of the library, a long reading table piled 
 {maps:Starilaskur}
 
 THE MOMENT
-Arkhan, the sharply dressed librarian, pulls a book from a high shelf mid-lecture. Sazed hands Skye a stack of war histories. Brand, in his power armor, pores over a book of lightning rail diagrams, and Lirael leans on the table beside Jeff.
+Arkhan, the owl-folk librarian, pulls a book from a high shelf mid-lecture. Sazed hands Skye a stack of war histories. Brand, in his power armor, pores over a book of lightning rail diagrams, and Lirael leans on the table beside Jeff.
 
 CAST
-- Arkhan: a stylish, sharply dressed military librarian.
+- {cast:Arkhan}
 - {cast:Sazed}
 - {cast:Skye}
 - {cast:Brand}

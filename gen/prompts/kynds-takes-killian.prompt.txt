@@ -21,7 +21,7 @@ CAST
 - {cast:Eloria}
 - {cast:Lirael}
 - {cast:Screech}
-- The hobgoblin soldiers: tall, grey-orange-skinned hobgoblins in Aundairian blue uniforms and breastplates, crossbows raised.
+- {cast:Hobgoblin} Here: several soldiers in Aundairian blue uniforms and breastplates, crossbows raised.
 - {cast:The Moonwatch}
 
 REFERENCES

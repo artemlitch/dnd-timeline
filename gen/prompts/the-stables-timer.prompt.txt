@@ -16,7 +16,7 @@ CAST
 - {cast:Brand} Here: in nightclothes, without his power armor.
 - {cast:Sazed}
 - {cast:Lirael}
-- The kruthik: a young kruthik, a dog-sized insect-like reptile with plated armour and sharp spiked limbs.
+- {cast:Kruthik}
 
 REFERENCES
 {references}

@@ -14,7 +14,7 @@ Captain Flowers sits behind his desk while The Right Hand, the House Cannith emi
 
 CAST
 - {cast:Captain Flowers}
-- The Right Hand: a composed human man, the emissary and bodyguard of the head of House Cannith, in a sharp dark coat bearing House Cannith's gorgon emblem.
+- {cast:The Right Hand}
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}

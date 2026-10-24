@@ -16,7 +16,7 @@ CAST
 - {cast:Lirael}
 - {cast:Screech}
 - {cast:Keys}
-- The deep gnomes: small gnomes with grey stone-coloured skin and bald heads, in work clothes.
+- {cast:Deep Gnome} Here: several of them, in work clothes.
 
 REFERENCES
 {references}

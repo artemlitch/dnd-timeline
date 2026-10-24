@@ -13,7 +13,7 @@ THE MOMENT
 Verona Sharpe, the warden's widow, calm and composed in mourning black, pours tea for the party, who are pretending to be Brelish army men. She has just told them they are too late: her husband is dead, and she knew exactly who he was. Lirael accepts his cup, uncomfortable. Brand, in his power armor, holds a delicate teacup in his gauntlet. Sazed stands by the mantelpiece, holding a folded letter he has found among the warden's things.
 
 CAST
-- Verona Sharpe: a dignified middle-aged human woman in a black mourning dress, grey hair pinned up.
+- {cast:Verona Sharpe} Here: in a black mourning dress.
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}

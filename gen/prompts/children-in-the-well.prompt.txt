@@ -16,7 +16,7 @@ CAST
 - {cast:Sazed}
 - {cast:Brand}
 - {cast:Skye}
-- Eldgrave: a huge treant, an ancient oak-like tree giant with a gnarled, scowling bark face, a long beard of mossy roots, thick knotted limbs and a crown of green leaves.
+- {cast:Eldgrave}
 - The children: eight small shifter children aged two to five, with tousled hair, slightly pointed ears and big amber eyes, in dirty, ragged clothes.
 
 REFERENCES

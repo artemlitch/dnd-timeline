@@ -17,7 +17,7 @@ CAST
 - {cast:Brand}
 - {cast:Sazed}
 - {cast:Paxon}
-- The quasit: a tiny demon with mottled green-grey skin, small horns, bat wings and claws; here dead and limp.
+- {cast:Quasit} Here: dead and limp.
 
 REFERENCES
 {references}

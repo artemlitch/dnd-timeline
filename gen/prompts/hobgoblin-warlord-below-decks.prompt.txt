@@ -17,7 +17,7 @@ CAST
 - {cast:Sazed}
 - {cast:Screech}
 - {cast:Brand}
-- The hobgoblin warlord: a towering hobgoblin with grey-orange skin, a heavy jaw and tusks, in black plate armor with Aundairian blue, a big sword.
+- {cast:Hobgoblin Warlord}
 - The soldiers: hobgoblins and humans in Aundairian blue uniforms and breastplates.
 - {cast:The Moonwatch}
 

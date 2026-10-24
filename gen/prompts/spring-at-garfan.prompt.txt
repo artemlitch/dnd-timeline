@@ -13,7 +13,7 @@ THE MOMENT
 Spring Sagewood, an old shifter druid, stands with both palms pressed to the trunk of Garfan, the vast warding tree, eyes closed, faint green light running along the bark under her hands. Without looking round she speaks to the visitors behind her. Sazed stands closest, glad to see her. Lirael and Brand, in his power armor, have both gone still and wary: she has just told them she can feel something attacking their minds.
 
 CAST
-- Spring Sagewood: an old shifter woman druid, small and wiry, with long grey braids threaded with leaves, a weathered kind face and robes of bark-brown wool.
+- {cast:Spring Sagewood}
 - {cast:Sazed}
 - {cast:Lirael}
 - {cast:Brand}

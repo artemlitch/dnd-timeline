@@ -16,7 +16,7 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
-- The raven: a glossy black raven.
+- {cast:Raven}
 
 REFERENCES
 {references}

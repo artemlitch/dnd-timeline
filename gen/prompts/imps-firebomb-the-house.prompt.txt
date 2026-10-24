@@ -19,8 +19,8 @@ CAST
 - {cast:Click Clack}
 - {cast:Leff}
 - {cast:Tauren}
-- Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
-- Imps: small red devils with bat wings, horns and barbed scorpion-like tails, here in oversized stolen black Sentinel uniforms.
+- {cast:Clockwork Defender}
+- {cast:Imp} Here: several of them, in oversized stolen black Sentinel uniforms.
 - Clockwork's portrait is attached for reference only; Clockwork, the warforged artificer, is not in this moment. Do not draw him.
 
 REFERENCES

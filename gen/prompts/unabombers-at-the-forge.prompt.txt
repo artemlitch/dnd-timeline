@@ -18,7 +18,7 @@ CAST
 - {cast:Sazed}
 - {cast:Lirael}
 - The changelings: pale, featureless shapeshifters in Starilaskur military police uniforms.
-- The gorgon: a huge bull covered in plates of iron scales, breathing green petrifying gas.
+- {cast:Gorgon} Here: breathing green petrifying gas.
 
 REFERENCES
 {references}

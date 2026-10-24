@@ -13,7 +13,7 @@ THE MOMENT
 Steve the Skycracker, an enormous blue dragon, hangs in the air right off the Moonwatch's bow, wings spread wide, jaws crackling with lightning, glaring down at the ship. A moment ago he tore the pirates apart. On the deck Lirael stands at the rail, staring straight into the dragon's eye, one hand at his temple, speaking to it with his mind. Screech grips the wheel behind him, and crewmen brace at the rails. Below deck, through an open hatch, Beezel is fast asleep in his hammock.
 
 CAST
-- Steve the Skycracker: a huge blue dragon with deep blue scales, a single great horn on his snout, frilled ears and lightning sparking between his teeth.
+- {cast:Steve the Skycracker} Here: in his huge dragon form.
 - {cast:Lirael}
 - {cast:Screech}
 - {cast:Beezel} Here: fast asleep in a hammock below deck.

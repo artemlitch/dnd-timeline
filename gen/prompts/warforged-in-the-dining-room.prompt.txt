@@ -18,7 +18,7 @@ CAST
 - {cast:Lirael}
 - Clockwork's portrait is attached for reference only; Clockwork is not in this moment. Do not draw him.
 - Warforged Enforcers: tall steel warforged soldiers with brass trim, a crested metal head with small green glowing eyes, a ragged green tabard, a longsword and a spiked wooden shield; here broken on the floor.
-- Clockwork Defender: a hulking, barrel-bodied brass clockwork construct with a single round glowing orange eye and riveted plates; here sparking and down on one knee, its chest open.
+- {cast:Clockwork Defender} Here: sparking and down on one knee, its chest open.
 - Warforged Spellcaster: a stone-grey warforged with glowing white eyes and a rune on its brow, in a long dark blue robe with gold trim, holding a staff topped with a pale blue crystal; here half-visible.
 - {cast:Keys} Here: in the form of a big black bear.
 - {cast:Leff}

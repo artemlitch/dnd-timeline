@@ -16,7 +16,7 @@ CAST
 - {cast:Sazed} Here: magically enlarged to giant size, covered in soot.
 - {cast:Brand}
 - {cast:Lirael}
-- The slaad: a frog-like monster with mottled red-grey skin and long claws, small now, about the size of a dog.
+- {cast:Slaad} Here: shrunk small, about the size of a dog.
 
 REFERENCES
 {references}

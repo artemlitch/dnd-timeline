@@ -1,18 +1,58 @@
 {
+ "Abishai": {
+  "file": "gen/refs/roll20/characters/black-abishai.png",
+  "source": "roll20",
+  "roll20": "Black Abishai"
+ },
  "Archimedes": {
   "file": "gen/refs/roll20/characters/archimedes.png",
   "source": "roll20",
   "roll20": "Archimedes"
+ },
+ "Arkhan": {
+  "file": "gen/refs/roll20/characters/chief-archivist-arkhan-fowler.png",
+  "source": "roll20",
+  "roll20": "Chief Archivist Arkhan Fowler"
  },
  "Art Broadhelm": {
   "file": "gen/refs/roll20/characters/art-broadhelm.png",
   "source": "roll20",
   "roll20": "Art Broadhelm"
  },
+ "Aundairian Archer": {
+  "file": "gen/refs/roll20/characters/aundairian-archer.png",
+  "source": "roll20",
+  "roll20": "Aundairian Archer"
+ },
+ "Aundairian Soldier": {
+  "file": "gen/refs/roll20/characters/aundairian-soldier.png",
+  "source": "roll20",
+  "roll20": "Aundairian Soldier"
+ },
  "Auntie Bees": {
   "file": "gen/refs/roll20/characters/auntie-bees-beatrix-honeydew.png",
   "source": "roll20",
   "roll20": "Auntie Bees (Beatrix Honeydew)"
+ },
+ "Auntie Threadwood": {
+  "file": "gen/refs/roll20/characters/ariane-auntie-threadwood.png",
+  "source": "roll20",
+  "roll20": "Ariane \"Auntie\" Threadwood"
+ },
+ "Baby Morkoth": {
+  "file": "gen/refs/roll20/characters/young-morkoth.png",
+  "source": "roll20",
+  "roll20": "Young Morkoth"
+ },
+ "Balor": {
+  "file": "gen/refs/roll20/characters/balor.png",
+  "source": "roll20",
+  "roll20": "Balor"
+ },
+ "Balthazar of the Wastes": {
+  "file": "gen/refs/roll20/characters/balthazar-of-the-wastes-the-last-face-you-ll-see.png",
+  "source": "roll20",
+  "roll20": "Balthazar of the Wastes, The Last Face You’ll See"
  },
  "Baron Hellsauce": {
   "file": "gen/refs/roll20/characters/baron-hellsauce.png",
@@ -29,10 +69,20 @@
   "source": "roll20",
   "roll20": "Petty Officer Felk \"Beezel\" Goodbarrel"
  },
+ "Beholder": {
+  "file": "gen/refs/roll20/characters/beholder.png",
+  "source": "roll20",
+  "roll20": "Beholder"
+ },
  "Bellatrix": {
   "file": "gen/refs/roll20/characters/bellatrix-snaggletooth.png",
   "source": "roll20",
   "roll20": "Bellatrix Snaggletooth"
+ },
+ "Bimble Niblet": {
+  "file": "gen/refs/roll20/characters/bimble-niblet.png",
+  "source": "roll20",
+  "roll20": "Bimble Niblet"
  },
  "Blazehelm": {
   "file": "gen/refs/roll20/characters/major-renaud-blazehelm.webp",
@@ -44,15 +94,40 @@
   "source": "roll20",
   "roll20": "Officer Bloodworth"
  },
+ "Bob the Blazebringer": {
+  "file": "gen/refs/roll20/characters/bob-the-blazebringer.png",
+  "source": "roll20",
+  "roll20": "Bob the Blazebringer"
+ },
+ "Bone Devil": {
+  "file": "gen/refs/roll20/characters/bone-devil.png",
+  "source": "roll20",
+  "roll20": "Bone Devil"
+ },
  "Brand": {
   "file": "gen/refs/brand.png",
   "source": "portrait you provided",
   "roll20": "Brand Broadhelm"
  },
+ "Brelish Soldier": {
+  "file": "gen/refs/roll20/characters/brelish-soldier.png",
+  "source": "roll20",
+  "roll20": "Brelish Soldier"
+ },
  "Brokk": {
   "file": "gen/refs/roll20/characters/brokk-broadhelm.png",
   "source": "roll20",
   "roll20": "Brokk Broadhelm"
+ },
+ "Brook Swifttongue": {
+  "file": "gen/refs/roll20/characters/initiate-brook-swifttongue.gif",
+  "source": "roll20",
+  "roll20": "Initiate  Brook Swifttongue"
+ },
+ "Bryn": {
+  "file": "gen/refs/roll20/characters/bryn-werebear.png",
+  "source": "roll20",
+  "roll20": "Bryn Werebear"
  },
  "Bulwark Broadhelm": {
   "file": "gen/refs/roll20/characters/bulwark-broadhelm.png",
@@ -64,6 +139,11 @@
   "source": "roll20",
   "roll20": "Byll and Cyriel Geldorf",
   "note": "one sheet covers Byll and Cyriel"
+ },
+ "Cambion": {
+  "file": "gen/refs/roll20/characters/cambion.png",
+  "source": "roll20",
+  "roll20": "Cambion"
  },
  "Captain Dane": {
   "file": "gen/refs/roll20/characters/captain-opal-dane-oriel.jpg",
@@ -79,6 +159,11 @@
   "file": "gen/refs/roll20/characters/the-ring-of-siberys-carrk-moonrunner.png",
   "source": "roll20",
   "roll20": "The Ring of Siberys, Carrk Moonrunner"
+ },
+ "Chain Devil": {
+  "file": "gen/refs/roll20/characters/chain-devil.png",
+  "source": "roll20",
+  "roll20": "Chain Devil"
  },
  "Charlie Trundle": {
   "file": "gen/refs/roll20/characters/petty-officer-charlie-trundle.png",
@@ -100,6 +185,11 @@
   "source": "roll20",
   "roll20": "Military Police Chief Torg Belfor"
  },
+ "Chip": {
+  "file": "gen/refs/roll20/characters/chip-seville.webp",
+  "source": "roll20",
+  "roll20": "Chip Seville"
+ },
  "Click Clack": {
   "file": "gen/refs/roll20/characters/click-clack.png",
   "source": "roll20",
@@ -109,6 +199,26 @@
   "file": "gen/refs/roll20/characters/master-sergeant-clockwork.png",
   "source": "roll20",
   "roll20": "Master Sergeant Clockwork"
+ },
+ "Clockwork Defender": {
+  "file": "gen/refs/roll20/characters/clockwork-defender.png",
+  "source": "roll20",
+  "roll20": "Clockwork Defender"
+ },
+ "Clockwork Wyrmling": {
+  "file": "gen/refs/roll20/characters/clockwork-wyrmling.png",
+  "source": "roll20",
+  "roll20": "Clockwork Wyrmling"
+ },
+ "Covenant of Emberfall Druid": {
+  "file": "gen/refs/roll20/characters/covenant-of-emberfall-druid.png",
+  "source": "roll20",
+  "roll20": "Covenant of Emberfall Druid"
+ },
+ "Craig Jensen": {
+  "file": "gen/refs/roll20/characters/private-craig-jensen.png",
+  "source": "roll20",
+  "roll20": "Private Craig Jensen"
  },
  "Cromwell": {
   "file": "gen/refs/roll20/characters/cromwell-thorne.webp",
@@ -121,6 +231,11 @@
   "roll20": "Byll and Cyriel Geldorf",
   "note": "one sheet covers Byll and Cyriel"
  },
+ "Daedalus": {
+  "file": "gen/refs/roll20/characters/daedalus.png",
+  "source": "roll20",
+  "roll20": "Daedalus"
+ },
  "Damron Pink": {
   "file": "gen/refs/roll20/characters/damron-pink.png",
   "source": "roll20",
@@ -132,10 +247,35 @@
   "source": "roll20",
   "roll20": "Chef Dandy Jones"
  },
+ "Darvok": {
+  "file": "gen/refs/roll20/characters/sergeant-darvok-geldread.png",
+  "source": "roll20",
+  "roll20": "Sergeant Darvok Geldread"
+ },
+ "Deep Gnome": {
+  "file": "gen/refs/roll20/characters/deep-gnome.png",
+  "source": "roll20",
+  "roll20": "Deep Gnome"
+ },
  "Dell Quickfoot": {
   "file": "gen/refs/roll20/characters/dell-quickfoot.webp",
   "source": "roll20",
   "roll20": "Dell Quickfoot"
+ },
+ "Dream Eater": {
+  "file": "gen/refs/roll20/characters/dream-eater.png",
+  "source": "roll20",
+  "roll20": "Dream Eater"
+ },
+ "Duergar": {
+  "file": "gen/refs/roll20/characters/duergar.png",
+  "source": "roll20",
+  "roll20": "Duergar"
+ },
+ "Dwarzel": {
+  "file": "gen/refs/roll20/characters/private-dwarzel-hellfoot.webp",
+  "source": "roll20",
+  "roll20": "Private Dwarzel Hellfoot"
  },
  "Dyll Strickland": {
   "file": "gen/refs/roll20/characters/gunnery-sergeant-dyll-strickland.webp",
@@ -151,6 +291,11 @@
   "file": "gen/refs/roll20/characters/rip-elarian-flasandrienn.png",
   "source": "roll20",
   "roll20": "RIP Elarian Flasandrienn"
+ },
+ "Eldgrave": {
+  "file": "gen/refs/roll20/characters/eldgrave-the-forest-guardian.png",
+  "source": "roll20",
+  "roll20": "Eldgrave the Forest Guardian"
  },
  "Eleanor": {
   "file": "gen/refs/roll20/characters/master-chief-eleanor-squierwood.png",
@@ -202,6 +347,11 @@
   "source": "roll20",
   "roll20": "Elder Vult, Falken Sagewood"
  },
+ "Fang": {
+  "file": "gen/refs/roll20/characters/outlander-fang-duskwalker.png",
+  "source": "roll20",
+  "roll20": "Outlander Fang Duskwalker"
+ },
  "Fark": {
   "file": "gen/refs/roll20/characters/fark-nomead.png",
   "source": "roll20",
@@ -228,10 +378,40 @@
   "source": "roll20",
   "roll20": "Fey-Lynn Kel"
  },
+ "Figaro Figgins": {
+  "file": "gen/refs/roll20/characters/baby-figaro-figgins.png",
+  "source": "roll20",
+  "roll20": "Baby Figaro Figgins"
+ },
  "Filgar": {
   "file": "gen/refs/roll20/characters/filgar-wicktail.png",
   "source": "roll20",
   "roll20": "Filgar Wicktail"
+ },
+ "Fiona Bloodworth": {
+  "file": "gen/refs/roll20/characters/fiona-bloodworth.png",
+  "source": "roll20",
+  "roll20": "Fiona Bloodworth"
+ },
+ "Fizbark": {
+  "file": "gen/refs/roll20/characters/chef-fizbark-zilven.png",
+  "source": "roll20",
+  "roll20": "Chef Fizbark Zilven"
+ },
+ "Flip and Flop Figgins": {
+  "file": "gen/refs/roll20/characters/flip-and-flop-figgins.png",
+  "source": "roll20",
+  "roll20": "Flip and Flop Figgins"
+ },
+ "Foehammer": {
+  "file": "gen/refs/roll20/characters/petty-officer-foehammer-marcius-zaggerford.png",
+  "source": "roll20",
+  "roll20": "Petty Officer \"Foehammer\" Marcius Zaggerford"
+ },
+ "Fogen": {
+  "file": "gen/refs/roll20/characters/fogen-zaggerfold.webp",
+  "source": "roll20",
+  "roll20": "Fogen Zaggerfold"
  },
  "Fumble Figgins": {
   "file": "gen/refs/roll20/characters/fumble-figgins.png",
@@ -244,6 +424,11 @@
   "source": "roll20",
   "roll20": "Petty Officer Gauss Hog"
  },
+ "Gazriel Grimdell": {
+  "file": "gen/refs/roll20/characters/gazriel-grimdell.webp",
+  "source": "roll20",
+  "roll20": "Gazriel Grimdell"
+ },
  "Gelard Greenly": {
   "file": "gen/refs/roll20/characters/gelard-greenly.png",
   "source": "roll20",
@@ -254,29 +439,109 @@
   "source": "roll20",
   "roll20": "Master Chief Gelf Ironhard"
  },
+ "Gelion Grimdell": {
+  "file": "gen/refs/roll20/characters/gelion-grimdell.webp",
+  "source": "roll20",
+  "roll20": "Gelion Grimdell"
+ },
+ "Geraldine Grimdell": {
+  "file": "gen/refs/roll20/characters/geraldine-grimdell.png",
+  "source": "roll20",
+  "roll20": "Geraldine Grimdell"
+ },
+ "Ghoul": {
+  "file": "gen/refs/roll20/characters/ghoul.png",
+  "source": "roll20",
+  "roll20": "Ghoul"
+ },
  "Glade Amberwood": {
   "file": null,
   "source": "not found in Roll20 (closest: Skye Amberwood, a different character)"
+ },
+ "Gorgon": {
+  "file": "gen/refs/roll20/characters/gorgon.png",
+  "source": "roll20",
+  "roll20": "Gorgon"
  },
  "Grail Grimdell": {
   "file": "gen/refs/roll20/characters/grail-grimdell.webp",
   "source": "roll20",
   "roll20": "Grail Grimdell"
  },
+ "Grave Grimdell": {
+  "file": "gen/refs/roll20/characters/grave-grimdell.webp",
+  "source": "roll20",
+  "roll20": "Grave Grimdell"
+ },
  "Grib Grimley": {
   "file": "gen/refs/roll20/characters/grib-grimley.png",
   "source": "roll20",
   "roll20": "Grib Grimley"
+ },
+ "Gribble Goblin": {
+  "file": "gen/refs/roll20/characters/gribble-goblin.png",
+  "source": "roll20",
+  "roll20": "Gribble Goblin"
+ },
+ "Griffith": {
+  "file": "gen/refs/roll20/characters/private-griffith-mount-gale.jpg",
+  "source": "roll20",
+  "roll20": "Private Griffith Mount-Gale"
  },
  "Gynn": {
   "file": "gen/refs/roll20/characters/gynn-daemon-glabrezu.png",
   "source": "roll20",
   "roll20": "Gynn Daemon - Glabrezu"
  },
+ "Harpy": {
+  "file": "gen/refs/roll20/characters/harpy.png",
+  "source": "roll20",
+  "roll20": "Harpy"
+ },
  "Helena Braithwind": {
   "file": "gen/refs/roll20/characters/helena-braithwind.gif",
   "source": "roll20",
   "roll20": "Helena Braithwind"
+ },
+ "Hellfire Engine": {
+  "file": "gen/refs/roll20/characters/hellfire-engine.png",
+  "source": "roll20",
+  "roll20": "Hellfire Engine"
+ },
+ "Helmed Horror": {
+  "file": "gen/refs/roll20/characters/helmed-horror.png",
+  "source": "roll20",
+  "roll20": "Helmed Horror"
+ },
+ "Hippogriff": {
+  "file": "gen/refs/roll20/characters/hip-griffin-the-hippogriff.png",
+  "source": "roll20",
+  "roll20": "Hip Griffin the Hippogriff"
+ },
+ "Hobgoblin": {
+  "file": "gen/refs/roll20/characters/hobgoblin.png",
+  "source": "roll20",
+  "roll20": "Hobgoblin"
+ },
+ "Hobgoblin Warlord": {
+  "file": "gen/refs/roll20/characters/hobgoblin-warlord.png",
+  "source": "roll20",
+  "roll20": "Hobgoblin Warlord"
+ },
+ "Ice Mephit": {
+  "file": "gen/refs/roll20/characters/ice-mephit.png",
+  "source": "roll20",
+  "roll20": "Ice Mephit"
+ },
+ "Imp": {
+  "file": "gen/refs/roll20/characters/imp.png",
+  "source": "roll20",
+  "roll20": "Imp"
+ },
+ "Jarvis": {
+  "file": "gen/refs/roll20/characters/jarvis-the-gnome-ceremorph.webp",
+  "source": "roll20",
+  "roll20": "Jarvis the Gnome Ceremorph"
  },
  "Jazz": {
   "file": "gen/refs/roll20/characters/private-jazz-chism.png",
@@ -304,6 +569,11 @@
   "source": "roll20",
   "roll20": "Private Kal Valvier"
  },
+ "Kari Bloodworth": {
+  "file": "gen/refs/roll20/characters/kari-bloodworth.png",
+  "source": "roll20",
+  "roll20": "Kari Bloodworth"
+ },
  "Keys": {
   "file": "gen/refs/roll20/characters/petty-officer-keys.png",
   "source": "roll20",
@@ -313,6 +583,11 @@
   "file": "gen/refs/roll20/characters/captain-killian-gavrin.png",
   "source": "roll20",
   "roll20": "Captain Killian Gavrin"
+ },
+ "Kruthik": {
+  "file": "gen/refs/roll20/characters/young-kruthik.png",
+  "source": "roll20",
+  "roll20": "Young Kruthik"
  },
  "Kynds": {
   "file": "gen/refs/roll20/characters/corporal-kynds-earling.webp",
@@ -324,6 +599,11 @@
   "source": "roll20",
   "roll20": "Petty Officer Leff"
  },
+ "Lilya": {
+  "file": "gen/refs/roll20/characters/lilya-the-guide.png",
+  "source": "roll20",
+  "roll20": "Lilya The Guide"
+ },
  "Lirael": {
   "file": "gen/refs/lirael.png",
   "source": "portrait you provided",
@@ -334,10 +614,35 @@
   "source": "roll20",
   "roll20": "Lirael Xal'ri Sr."
  },
+ "Lucius Selbane": {
+  "file": "gen/refs/roll20/characters/high-marshall-lucius-selbane.png",
+  "source": "roll20",
+  "roll20": "High Marshall Lucius Selbane"
+ },
  "Lug Murzog": {
   "file": "gen/refs/roll20/characters/petty-officer-lug-murzog.webp",
   "source": "roll20",
   "roll20": "Petty Officer Lug Murzog"
+ },
+ "Lyra Flowers": {
+  "file": "gen/refs/roll20/characters/lyra-flowers.png",
+  "source": "roll20",
+  "roll20": "Lyra Flowers"
+ },
+ "Magma Mephit": {
+  "file": "gen/refs/roll20/characters/magma-mephit.png",
+  "source": "roll20",
+  "roll20": "Magma Mephit"
+ },
+ "Magnot Whitlin": {
+  "file": "gen/refs/roll20/characters/magnot-whitlin.png",
+  "source": "roll20",
+  "roll20": "Magnot Whitlin"
+ },
+ "Mauradia Flowers": {
+  "file": "gen/refs/roll20/characters/mauradia-flowers.png",
+  "source": "roll20",
+  "roll20": "Mauradia Flowers"
  },
  "Mercy": {
   "file": "gen/refs/roll20/characters/librarian-mercy.png",
@@ -349,6 +654,16 @@
   "source": "roll20",
   "roll20": "Librarian Meriel"
  },
+ "Milton Gravewood": {
+  "file": "gen/refs/roll20/characters/milton-gravewood.webp",
+  "source": "roll20",
+  "roll20": "Milton Gravewood"
+ },
+ "Mimic": {
+  "file": "gen/refs/roll20/characters/mimic.png",
+  "source": "roll20",
+  "roll20": "Mimic"
+ },
  "Monty O'Brien": {
   "file": "gen/refs/roll20/characters/chief-of-engineering-monty-o-brien.png",
   "source": "roll20",
@@ -359,10 +674,25 @@
   "source": "roll20",
   "roll20": "Morganth Hilt"
  },
+ "Morkoth": {
+  "file": "gen/refs/roll20/characters/morkoth.png",
+  "source": "roll20",
+  "roll20": "Morkoth"
+ },
  "Mr. Beaks": {
   "file": "gen/refs/roll20/characters/mr-beaks.png",
   "source": "roll20",
   "roll20": "Mr Beaks"
+ },
+ "Mud Mephit": {
+  "file": "gen/refs/roll20/characters/mud-mephit.png",
+  "source": "roll20",
+  "roll20": "Mud Mephit"
+ },
+ "Mug Bloodworth": {
+  "file": "gen/refs/roll20/characters/mug-bloodworth.png",
+  "source": "roll20",
+  "roll20": "Mug Bloodworth"
  },
  "Murphy Gravewood": {
   "file": "gen/refs/roll20/characters/private-murphy-gravewood.png",
@@ -390,10 +720,55 @@
   "source": "roll20",
   "roll20": "Neer Valvier"
  },
+ "Nightmare Beholder": {
+  "file": "gen/refs/roll20/characters/nightmare-beholder.png",
+  "source": "roll20",
+  "roll20": "Nightmare Beholder"
+ },
+ "Oberoth": {
+  "file": "gen/refs/roll20/characters/oberoth-the-guardian-of-ardev.png",
+  "source": "roll20",
+  "roll20": "Oberoth the Guardian of Ardev"
+ },
+ "Owlbear": {
+  "file": "gen/refs/roll20/characters/owlbear.png",
+  "source": "roll20",
+  "roll20": "Owlbear"
+ },
  "Paxon": {
   "file": "gen/refs/roll20/characters/chief-petty-officer-smildar-paxon.png",
   "source": "roll20",
   "roll20": "Chief Petty Officer Smildar Paxon"
+ },
+ "Pigeon": {
+  "file": "gen/refs/roll20/characters/pigeon.png",
+  "source": "roll20",
+  "roll20": "Pigeon"
+ },
+ "Polar Bear": {
+  "file": "gen/refs/roll20/characters/polar-bear.png",
+  "source": "roll20",
+  "roll20": "Polar Bear"
+ },
+ "Quasit": {
+  "file": "gen/refs/roll20/characters/quasit.png",
+  "source": "roll20",
+  "roll20": "Quasit"
+ },
+ "Ragnarok of Eberron": {
+  "file": "gen/refs/roll20/characters/ragnarok-of-eberron-bringer-of-untimely-doom.png",
+  "source": "roll20",
+  "roll20": "Ragnarok of Eberron, Bringer of Untimely Doom"
+ },
+ "Raven": {
+  "file": "gen/refs/roll20/characters/raven.png",
+  "source": "roll20",
+  "roll20": "Raven"
+ },
+ "Raven Hawktooth": {
+  "file": "gen/refs/roll20/characters/captain-raven-hawktooth.webp",
+  "source": "roll20",
+  "roll20": "Captain Raven Hawktooth"
  },
  "Rex": {
   "file": "gen/refs/roll20/characters/rex.webp",
@@ -404,6 +779,16 @@
   "file": "gen/refs/roll20/characters/rolick-erenside.png",
   "source": "roll20",
   "roll20": "Rolick Erenside"
+ },
+ "Rory Threadwood": {
+  "file": "gen/refs/roll20/characters/private-rory-threadwood.png",
+  "source": "roll20",
+  "roll20": "Private Rory Threadwood"
+ },
+ "Rufus": {
+  "file": "gen/refs/roll20/characters/rufus-the-dog.png",
+  "source": "roll20",
+  "roll20": "Rufus the Dog"
  },
  "Sazed": {
   "file": "gen/refs/sazed.png",
@@ -425,30 +810,75 @@
   "source": "roll20",
   "roll20": "Petty Officer Sheldor Higgins"
  },
+ "Shifflin": {
+  "file": "gen/refs/roll20/characters/military-police-morgue-doctor-shifflin.png",
+  "source": "roll20",
+  "roll20": "Military Police Morgue Doctor Shifflin"
+ },
  "Shmem Gorgis": {
   "file": "gen/refs/roll20/characters/shmem-gorgis.png",
   "source": "roll20",
   "roll20": "Shmem Gorgis"
+ },
+ "Shmerly Gorgis": {
+  "file": "gen/refs/roll20/characters/shmerly-gorgis.png",
+  "source": "roll20",
+  "roll20": "Shmerly Gorgis"
+ },
+ "Shmette Gorgis": {
+  "file": "gen/refs/roll20/characters/shmette-gorgis.webp",
+  "source": "roll20",
+  "roll20": "Shmette Gorgis"
  },
  "Shrimp Diggery": {
   "file": "gen/refs/roll20/characters/shrimp-diggery.png",
   "source": "roll20",
   "roll20": "Shrimp Diggery"
  },
+ "Silvania": {
+  "file": "gen/refs/roll20/characters/head-butler-silvania-alfaine.png",
+  "source": "roll20",
+  "roll20": "Head Butler Silvania Alfaine"
+ },
+ "Skeleton Knight": {
+  "file": "gen/refs/roll20/characters/skeleton-knight.png",
+  "source": "roll20",
+  "roll20": "Skeleton Knight"
+ },
  "Skye": {
   "file": "gen/refs/roll20/characters/skye-amberwood.png",
   "source": "roll20",
   "roll20": "Skye Amberwood"
+ },
+ "Slaad": {
+  "file": "gen/refs/roll20/characters/dad-slaad.png",
+  "source": "roll20",
+  "roll20": "Dad Slaad"
  },
  "Smarmy Joe": {
   "file": "gen/refs/roll20/characters/shmarmy-joe.webp",
   "source": "roll20",
   "roll20": "Shmarmy Joe"
  },
+ "Snarky Chark": {
+  "file": "gen/refs/roll20/characters/snarky-chark.png",
+  "source": "roll20",
+  "roll20": "Snarky Chark"
+ },
+ "Snivel Fargus": {
+  "file": "gen/refs/roll20/characters/private-snivel-fargus.png",
+  "source": "roll20",
+  "roll20": "Private Snivel Fargus"
+ },
  "Sorenson": {
   "file": "gen/refs/roll20/characters/petty-officer-sorenson-hilderguard.png",
   "source": "roll20",
   "roll20": "Petty Officer Sorenson Hilderguard"
+ },
+ "Soul Street Hooligan": {
+  "file": "gen/refs/roll20/characters/bootsy-soul-street-hooligan-mahone.png",
+  "source": "roll20",
+  "roll20": "Bootsy \"Soul Street Hooligan\" Mahone"
  },
  "Spingel": {
   "file": "gen/refs/roll20/characters/guards-joerick-and-spingel.png",
@@ -461,10 +891,25 @@
   "source": "roll20",
   "roll20": "Chef Spingus Dillguard"
  },
+ "Spring Sagewood": {
+  "file": "gen/refs/roll20/characters/elder-aryth-spring-sagewood.png",
+  "source": "roll20",
+  "roll20": "Elder Aryth, Spring Sagewood"
+ },
+ "Steve the Skycracker": {
+  "file": "gen/refs/roll20/characters/steve-the-skycracker.webp",
+  "source": "roll20",
+  "roll20": "Steve the Skycracker"
+ },
  "Taggart": {
   "file": "gen/refs/roll20/characters/sergeant-jack-taggart.png",
   "source": "roll20",
   "roll20": "Sergeant Jack Taggart"
+ },
+ "Task Force Paladin": {
+  "file": "gen/refs/roll20/characters/anti-planar-task-force-paladin.png",
+  "source": "roll20",
+  "roll20": "Anti-Planar Task Force Paladin"
  },
  "Tauren": {
   "file": "gen/refs/roll20/characters/petty-officer-tauren-whitlock.png",
@@ -497,15 +942,30 @@
   "source": "roll20",
   "roll20": "The Even Hand"
  },
+ "The Flock": {
+  "file": "gen/refs/roll20/characters/the-flock.png",
+  "source": "roll20",
+  "roll20": "The Flock"
+ },
  "The Rat Man": {
   "file": "gen/refs/roll20/characters/the-rat-man-pick-wick-pendleton.webp",
   "source": "roll20",
   "roll20": "The Rat Man (Pick-Wick Pendleton)"
  },
+ "The Right Hand": {
+  "file": "gen/refs/roll20/characters/the-right-hand.png",
+  "source": "roll20",
+  "roll20": "The Right Hand"
+ },
  "The Skull Knight": {
   "file": "gen/refs/roll20/characters/the-skull-knight.png",
   "source": "roll20",
   "roll20": "The Skull Knight"
+ },
+ "Thimble Figgins": {
+  "file": "gen/refs/roll20/characters/thimble-figgins.png",
+  "source": "roll20",
+  "roll20": "Thimble Figgins"
  },
  "Topek": {
   "file": "gen/refs/roll20/characters/topek-and-wylon-weresharks.webp",
@@ -518,15 +978,50 @@
   "source": "roll20",
   "roll20": "Turckle Churckle"
  },
+ "Verona Sharpe": {
+  "file": "gen/refs/roll20/characters/verona-sharpe.webp",
+  "source": "roll20",
+  "roll20": "Verona Sharpe"
+ },
  "Warden Sharpe": {
   "file": "gen/refs/roll20/characters/warden-sharpe.webp",
   "source": "roll20",
   "roll20": "Warden Sharpe"
  },
+ "Watchers of the Gate Cultist": {
+  "file": "gen/refs/roll20/characters/watchers-of-the-gate-cultist.webp",
+  "source": "roll20",
+  "roll20": "Watchers of the Gate Cultist"
+ },
+ "Wendel": {
+  "file": "gen/refs/roll20/characters/wendel-waresfinder-wanovanko.png",
+  "source": "roll20",
+  "roll20": "Wendel \"Waresfinder\" Wanovanko"
+ },
+ "Wererat": {
+  "file": "gen/refs/roll20/characters/wererat.png",
+  "source": "roll20",
+  "roll20": "Wererat"
+ },
+ "White Abishai": {
+  "file": "gen/refs/roll20/characters/white-abishai.png",
+  "source": "roll20",
+  "roll20": "White Abishai"
+ },
+ "White Stag": {
+  "file": "gen/refs/roll20/characters/white-stag.png",
+  "source": "roll20",
+  "roll20": "White Stag"
+ },
  "Wilford Chism": {
   "file": "gen/refs/roll20/characters/wilford-chism.webp",
   "source": "roll20",
   "roll20": "Wilford Chism"
+ },
+ "Willow": {
+  "file": "gen/refs/roll20/characters/willow-wilhelm.webp",
+  "source": "roll20",
+  "roll20": "Willow Wilhelm"
  },
  "Wylon": {
   "file": "gen/refs/roll20/characters/topek-and-wylon-weresharks.webp",

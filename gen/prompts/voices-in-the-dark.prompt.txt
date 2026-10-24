@@ -16,7 +16,7 @@ CAST
 - {cast:Sazed}
 - {cast:Brand}
 - {cast:Lirael}
-- The bone devil: a huge, magically enlarged bone devil, skeletal and gaunt with a scorpion tail and ragged wings.
+- {cast:Bone Devil} Here: magically enlarged to huge size.
 
 REFERENCES
 {references}

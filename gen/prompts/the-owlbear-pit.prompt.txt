@@ -15,7 +15,7 @@ Brand, in his power armor, has just crashed down through a trapdoor in the fores
 CAST
 - {cast:Brand}
 - {cast:Sazed} Here: only his face, peering down through the hole above.
-- The owlbear: a huge, shaggy beast with a bear's body, an owl's hooked beak and feathered head, and great claws.
+- {cast:Owlbear}
 
 REFERENCES
 {references}

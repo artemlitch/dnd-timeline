@@ -16,9 +16,9 @@ CAST
 - {cast:Lirael}
 - {cast:Morganth}
 - {cast:Auntie Bees}
-- The Right Hand: a tall, lean figure in close-fitting bronze armour, a wide-brimmed pointed hat, a long blue cloak, a round shield with glowing blue runes and a glowing blue blade.
+- {cast:The Right Hand}
 - {cast:Xera}
-- The stag: a great stag melting into a tree trunk.
+- {cast:White Stag} Here: melting into a tree trunk.
 - The band: goblins playing instruments on a small stage.
 
 REFERENCES

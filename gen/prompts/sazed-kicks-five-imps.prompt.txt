@@ -15,8 +15,8 @@ Sazed is a blur of motion through the pack of demons, one foot connecting with a
 CAST
 - {cast:Sazed}
 - {cast:Brand}
-- The imps: tiny red devils with bat wings, small horns and stinging tails.
-- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+- {cast:Imp} Here: several of them.
+- {cast:Quasit} Here: several of them.
 
 REFERENCES
 {references}

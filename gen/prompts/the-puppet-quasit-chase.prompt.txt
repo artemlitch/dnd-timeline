@@ -16,7 +16,7 @@ CAST
 - {cast:Lirael}
 - {cast:Sazed}
 - {cast:Brand}
-- The quasit: a small, wiry green demon the size of a cat, with warty skin, little horns and clawed hands. Here: dead, puppeted by a glowing magical hand.
+- {cast:Quasit} Here: dead, puppeted by a glowing magical hand.
 - The gnomes: small, mischievous gnome cooks and servants in white aprons and chef's caps.
 
 REFERENCES

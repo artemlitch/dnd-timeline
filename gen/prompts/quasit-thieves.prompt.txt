@@ -15,7 +15,7 @@ Sazed holds a squirming quasit up by the scruff of its neck while four dead quas
 CAST
 - {cast:Sazed}
 - {cast:Brand}
-- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+- {cast:Quasit} Here: several of them.
 
 REFERENCES
 {references}

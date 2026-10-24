@@ -14,7 +14,7 @@ The memory Lirael has finally let himself see: the Watchers of the Gate, robed w
 
 CAST
 - {cast:Lirael} Here: possessed, his eyes black and empty, drenched in blood.
-- The Watchers of the Gate: warlocks in pale, star-embroidered robes.
+- {cast:Watchers of the Gate Cultist} Here: several of them, in pale, star-embroidered robes.
 - Maldroc Daelmourn: the Grand Warlock, an older drow man in ornate robes and a silver circlet.
 
 REFERENCES

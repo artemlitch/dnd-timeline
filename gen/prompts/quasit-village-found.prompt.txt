@@ -14,9 +14,9 @@ Sazed lies flat in the undergrowth on a rise above the clearing, parting the bra
 
 CAST
 - {cast:Sazed}
-- The quasits: small, wiry green demons with warty skin, little horns and clawed hands.
-- The imps: small red-skinned devils with bat wings, little horns and barbed stinger tails.
-- The cambion: a tall half-demon with ashen red skin, small curved horns, ragged bat wings and burning eyes.
+- {cast:Quasit} Here: several of them.
+- {cast:Imp} Here: several of them.
+- {cast:Cambion}
 
 REFERENCES
 {references}

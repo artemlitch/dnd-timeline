@@ -17,8 +17,8 @@ CAST
 - {cast:Sorenson}
 - {cast:Barry Baritone}
 - {cast:Art Broadhelm}
-- Silvania: a female tiefling with lavender skin, curling dark ram-like horns, pointed ears and a long black braid, in a white shirt with full puffed sleeves, a black waistcoat and a wide black belt.
-- Gribble Goblin: a wiry goblin bard with a spiky red mohawk, big ears and a toothy grin, in spiked brown leather, playing a battered guitar.
+- {cast:Silvania}
+- {cast:Gribble Goblin} Here: playing a battered guitar.
 - Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw him.
 - {cast:The Empyrean}
 

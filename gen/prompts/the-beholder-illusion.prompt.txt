@@ -14,7 +14,7 @@ A huge beholder hangs in the middle of the entrance hall, its great central eye 
 
 CAST
 - {cast:Sazed}
-- The beholder: an illusion of a huge floating orb with one great eye, a fanged maw and writhing eyestalks, shimmering slightly.
+- {cast:Beholder} Here: an illusion, shimmering slightly.
 - The gnomes: small, mischievous gnome cooks and servants in white aprons and chef's caps.
 - The guests: off-duty Sentinels of many races in party clothes.
 

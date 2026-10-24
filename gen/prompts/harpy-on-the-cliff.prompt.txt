@@ -13,7 +13,7 @@ THE MOMENT
 A harpy guarding the cliff tumbles down out of the air, asleep from Lirael's spell, its wings folding, and Sazed is leaping in with his quarterstaff raised to finish it as it hits the ground. Lirael lowers his casting hand. Brand, in his power armor, is already at the foot of the log ramp.
 
 CAST
-- The harpy: a winged woman with the legs and talons of a vulture, ragged feathers and hooked claws.
+- {cast:Harpy}
 - {cast:Lirael}
 - {cast:Sazed}
 - {cast:Brand}

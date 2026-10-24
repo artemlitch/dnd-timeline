@@ -13,7 +13,7 @@ THE MOMENT
 The last cambion, beaten and bleeding, is forced to his knees in the dirt. A moment ago he seized Lirael's and Sazed's minds and was thrown back out: both of them are still reeling, Lirael clutching his head, Sazed shaking it off, eyes hard. Brand, in his power armor, the only one whose mind held, has his gauntlet at the cambion's throat. The cambion, sneering but beaten, jerks his head toward the forest path behind the huts as he admits the demons came through a portal that broke behind them.
 
 CAST
-- The cambion: a tall half-demon with ashen red skin, small curved horns, ragged bat wings and burning eyes, in stolen scraps of Sentinel gear.
+- {cast:Cambion} Here: in stolen scraps of Sentinel gear.
 - {cast:Brand}
 - {cast:Lirael}
 - {cast:Sazed}

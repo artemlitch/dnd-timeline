@@ -16,7 +16,7 @@ CAST
 - {cast:Brand}
 - {cast:Sazed}
 - {cast:The Empyrean}
-- Daedalus: a warforged eagle of brass and steel plates with glowing eyes.
+- {cast:Daedalus}
 - Thaddeus Cannith's portrait is attached for reference only; Thaddeus Cannith is not in this moment. Do not draw him.
 
 REFERENCES

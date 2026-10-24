@@ -16,7 +16,7 @@ CAST
 - {cast:Click Clack}
 - {cast:Lirael}
 - {cast:Sazed}
-- The imps: tiny red devils with bat wings, small horns and stinging tails, invisible except where the dust clings.
+- {cast:Imp} Here: invisible except where the glittering dust clings.
 - The firefighting warforged: big plated constructs with crystal eyes, working hoses.
 
 REFERENCES

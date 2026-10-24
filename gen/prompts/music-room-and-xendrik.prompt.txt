@@ -18,8 +18,8 @@ CAST
 - {cast:Sheldor}
 - {cast:Sazed}
 - {cast:Smarmy Joe}
-- Deep gnomes: small grey-blue-skinned gnomes with big noses and long white beards or bald heads.
-- Duergar: stocky grey-skinned dwarves, bald, with bushy white beards.
+- {cast:Deep Gnome} Here: several of them.
+- {cast:Duergar} Here: several of them.
 - Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw him.
 
 REFERENCES

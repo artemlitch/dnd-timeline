@@ -17,7 +17,7 @@ CAST
 - {cast:Brand}
 - {cast:Sazed}
 - {cast:Lirael}
-- The hobgoblin archer: a tall hobgoblin soldier with grey-orange skin and a longbow.
+- {cast:Hobgoblin} Here: an archer with a longbow.
 
 REFERENCES
 {references}

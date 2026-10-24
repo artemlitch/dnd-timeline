@@ -18,7 +18,8 @@ CAST
 - {cast:Jyo}
 - {cast:Brand}
 - {cast:Mustang}
-- The two hostages, small and seen only through the portal: Xera, a young drow woman with long silver-white hair, and Fey-Lynn, a drow woman with very long straight white hair and a gold circlet.
+- {cast:Xera} Here: a hostage, small and seen only through the portal.
+- {cast:Fey-Lynn} Here: a hostage, small and seen only through the portal.
 - {cast:The Moonwatch}
 
 REFERENCES

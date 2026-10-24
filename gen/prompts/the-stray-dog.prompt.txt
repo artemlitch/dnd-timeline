@@ -17,7 +17,7 @@ CAST
 - {cast:Sazed}
 - {cast:Brand}
 - {cast:Lirael}
-- The Aundairian soldiers: soldiers in blue Aundairian uniforms and caps with crossbows.
+- {cast:Aundairian Soldier} Here: several of them, with crossbows.
 
 REFERENCES
 {references}

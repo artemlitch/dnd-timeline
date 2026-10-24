@@ -13,7 +13,7 @@ THE MOMENT
 A gorgon, a huge bull of interlocking iron plates, is wedged in the smashed doorway. Ember blasts it with a flamethrower while Brand, in his power armor and glowing with haste, fires his shoulder missile launcher into it. Lirael dives aside from its horns, and Sazed vaults in from behind.
 
 CAST
-- The gorgon: a huge bull made of interlocking iron plates, with green vapour leaking from its nostrils.
+- {cast:Gorgon}
 - {cast:Ember}
 - {cast:Brand}
 - {cast:Lirael}

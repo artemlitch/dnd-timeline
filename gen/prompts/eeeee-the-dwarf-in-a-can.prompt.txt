@@ -16,7 +16,7 @@ CAST
 - {cast:EEEEE}
 - {cast:Brand}
 - {cast:Sazed}
-- The hobgoblins: tall, muscular hobgoblin soldiers with grey-orange skin, in dark leather and chain armor, with swords, spears and bows; their captain is the biggest, in a plumed helm.
+- {cast:Hobgoblin} Here: a squad of them; their captain is the biggest, in a plumed helm.
 - Lirael's portrait is attached for reference only; Lirael is not in this moment. Do not draw him.
 
 REFERENCES

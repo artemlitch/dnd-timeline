@@ -16,7 +16,7 @@ CAST
 - {cast:Sazed}
 - {cast:Brand}
 - {cast:Lirael}
-- Eldgrave: an ancient, towering treant of gnarled oak, with a bark face, deep-set eyes, mossy beard and branch arms.
+- {cast:Eldgrave}
 
 REFERENCES
 {references}

@@ -16,7 +16,7 @@ CAST
 - {cast:Brand}
 - {cast:Lirael}
 - {cast:Sazed}
-- Grail's brother: a thin, pale adult man who looks much like Grail, in a black hooded robe with a blood-red gem necklace, now an awakened zombie with grey, rotting skin and glowing eyes.
+- {cast:Gelion Grimdell} Here: an awakened zombie with grey, rotting skin and glowing eyes, in a black hooded robe with a blood-red gem necklace.
 - Grail Grimdell's portrait is attached for reference only; Grail Grimdell is not in this moment. Do not draw him.
 
 REFERENCES

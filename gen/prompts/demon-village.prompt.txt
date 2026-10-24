@@ -16,8 +16,8 @@ CAST
 - {cast:Brand}
 - {cast:Lirael}
 - {cast:Sazed}
-- The imps: small red-skinned devils with bat wings, little horns and barbed stinger tails.
-- The quasits: small, wiry green demons with warty skin, little horns and clawed hands.
+- {cast:Imp} Here: several of them.
+- {cast:Quasit} Here: several of them.
 
 REFERENCES
 {references}

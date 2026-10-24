@@ -18,7 +18,7 @@ CAST
 - {cast:Brand}
 - {cast:Sazed}
 - {cast:Lirael}
-- Hobgoblin prisoner: a burly hobgoblin with orange-red skin and a flat face, in a rumpled Aundairian soldier's uniform.
+- {cast:Hobgoblin} Here: a prisoner in a rumpled Aundairian soldier's uniform.
 - {cast:The Moonwatch}
 - {cast:The Kingsblade}
 

@@ -13,7 +13,13 @@ const prompts = fs.readdirSync(dir).filter(f => f.endsWith('.prompt.txt'))
 
 const framings = new Set(Object.keys(json('gen/world/framing.json')));
 const settings = new Map(json('gen/world/settings.json').map(s => [s.id, new Set((s.sublocations || []).map(x => x.id))]));
-const castNames = new Set([...Object.keys(json('gen/world/cast.json')), ...Object.keys(json('gen/world/ships.json'))]);
+const portraits = Object.entries(json('gen/regen/portraits.json')).filter(([, p]) => p && p.file).map(([name]) => name);
+const castNames = new Set([...Object.keys(json('gen/world/cast.json')), ...Object.keys(json('gen/world/ships.json')), ...portraits]);
+// "The quasits" is the Quasit portrait, but "the bears" is not The Bear
+const bare = name => name.toLowerCase().trim().replace(/^the /, '');
+const titled = new Map(portraits.filter(n => n.startsWith('The ')).map(n => [bare(n), n]));
+const kinds = new Map(portraits.filter(n => !n.startsWith('The ')).map(n => [bare(n).replace(/s$/, ''), n]));
+const portraitFor = name => titled.get(bare(name)) || kinds.get(bare(name).replace(/s$/, ''));
 const mapPages = new Map(json('gen/refs/roll20/maps/index.json').map(p => [p.page.trim(), p.maps.length]));
 
 const offenders = (check) => prompts.flatMap(p => { const problem = check(p); return problem ? [`${p.id}: ${problem}`] : []; });
@@ -74,6 +80,24 @@ test('every {cast:Name} is in cast.json or ships.json', () => {
     const unknown = [...text.matchAll(/\{cast:([^}]+)\}/g)].map(m => m[1].trim()).filter(n => !castNames.has(n));
     return unknown.length ? `unknown cast ${unknown.join(', ')}` : null;
   }));
+});
+
+test('nobody with a portrait is described by hand instead of {cast:Name}', () => {
+  expectNone(offenders(({ text }) => {
+    const cast = text.split('\nCAST')[1] || '';
+    const byHand = [...cast.matchAll(/^- (?!\{cast:)([^:\n]+):/gm)].map(m => m[1])
+      .filter(portraitFor).map(n => `${n} -> {cast:${portraitFor(n)}}`);
+    return byHand.length ? byHand.join(', ') : null;
+  }));
+});
+
+test('soul street hooligan has a portrait', () => {
+  assert.ok(portraits.includes('Soul Street Hooligan'));
+});
+
+test('someone outside the lineup is told to draw from their own portrait', () => {
+  const out = require('node:child_process').execFileSync('python3', ['-I', 'gen/image.py', 'hooligan-saxophone', '--print'], { cwd: ROOT, encoding: 'utf8' });
+  assert.match(out, /Soul Street Hooligan: draw from the reference portrait\./);
 });
 
 test('every placeholder is one image.py fills', () => {

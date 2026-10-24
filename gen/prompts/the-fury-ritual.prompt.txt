@@ -18,13 +18,14 @@ Among the hanging dead are Turckle the dwarf barkeep and the elderly Valvier cou
 
 CAST
 - The captive, Felicia Jr (no portrait attached): a young adult drow woman with grey-blue skin, messy short white hair, long pointed ears and pale green eyes; here unclothed and bound on the altar as described above, so none of her usual outfit (no top, sash, skirt or belt) is worn.
-- Fark: a succubus mid-transformation, slim and pale-skinned with long black hair, pointed ears and icy pale blue eyes, dark leathery wings and curling horns tearing out of her, in scant dark red clothing and choker necklaces.
+- {cast:Fark} Here: mid-transformation into her true succubus form, dark leathery wings and curling horns tearing out of her.
 - {cast:Gynn}
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
 - {cast:Turckle}
-- Neer and Elk Valvier: an elderly couple, now dead and hanging.
+- {cast:Neer} Here: dead and hanging.
+- {cast:Elk} Here: dead and hanging.
 
 REFERENCES
 {references}

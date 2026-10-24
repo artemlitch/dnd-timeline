@@ -16,7 +16,7 @@ CAST
 - {cast:Cromwell}
 - {cast:Sazed}
 - {cast:The Moonwatch}
-- The Flock: soldiers in long dark coats and beaked plague-doctor masks.
+- {cast:The Flock} Here: several of them.
 
 REFERENCES
 {references}

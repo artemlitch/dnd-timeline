@@ -17,7 +17,7 @@ CAST
 - {cast:Brand} Here: paralysed.
 - {cast:Sazed}
 - {cast:Cromwell}
-- The Dream Eater: a tall shape of black, swirling smoke and whipping tendrils, with a skull-like head full of jagged teeth and long clawed arms.
+- {cast:Dream Eater}
 - {cast:Screech} Here: caged and lifeless.
 - {cast:Elric} Here: caged and lifeless.
 - {cast:Sheldor} Here: caged and lifeless.

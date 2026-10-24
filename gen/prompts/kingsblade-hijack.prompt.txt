@@ -22,7 +22,7 @@ CAST
 - {cast:Cromwell}
 - {cast:Lirael}
 - {cast:Nedira}
-- Clockwork Defender: a hulking guardian construct of brass and iron plates, a round brass head with a single glowing orange eye.
+- {cast:Clockwork Defender}
 - {cast:The Kingsblade}
 
 REFERENCES

@@ -19,7 +19,9 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
-- Fiona Bloodworth and her children: a tired human woman with two small children, Mug and Kari, at a table in the bar.
+- {cast:Fiona Bloodworth} Here: tired, at a table in the bar with her two small children.
+- {cast:Mug Bloodworth}
+- {cast:Kari Bloodworth}
 
 REFERENCES
 {references}

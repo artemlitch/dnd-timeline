@@ -14,7 +14,7 @@ Lirael has just fitted the lodestone into his father's wayfinder compass, and it
 
 CAST
 - {cast:Lirael}
-- Lilya: the glowing, translucent apparition of a young drow girl of about ten, with long white hair, in a simple old-fashioned dress.
+- {cast:Lilya} Here: a glowing, translucent ghost.
 - {cast:Brand}
 - {cast:Sazed}
 

@@ -16,7 +16,7 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Mustang} Here: lying broken, his chest plate torn open.
-- The beholder: a floating orb-shaped aberration with one great central eye, a fanged mouth and a crown of writhing eyestalks.
+- {cast:Beholder} Here: frozen in the hypnotic pattern, eyestalks limp.
 
 REFERENCES
 {references}

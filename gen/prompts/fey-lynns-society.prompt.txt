@@ -10,7 +10,7 @@ In this moment: the Kel House basement set up for the Magic Society, a long tabl
 {maps:Kel Basement}
 
 THE MOMENT
-Lirael, at the table, has just explained that his detect thoughts spell lets him tell who is possessed. Fey-Lynn, at the head of the table, leans toward him, fascinated, but for one instant a flash of anger crosses her face, and Sazed, standing behind Lirael, catches it and narrows his eyes. Around the table the other members watch: Wilford Chism, the Silver Flame priest, Neebus Flit, an old woman, Auntie Threadwood, and The Right Hand. On the stairs Brand is walking out of the meeting.
+Lirael, at the table, has just explained that his detect thoughts spell lets him tell who is possessed. Fey-Lynn, at the head of the table, leans toward him, fascinated, but for one instant a flash of anger crosses her face, and Sazed, standing behind Lirael, catches it and narrows his eyes. Around the table the other members watch: Wilford Chism, the Silver Flame priest, Neebus Flit, Auntie Threadwood, and The Right Hand. On the stairs Brand is walking out of the meeting.
 
 CAST
 - {cast:Fey-Lynn}
@@ -19,8 +19,8 @@ CAST
 - {cast:Brand}
 - {cast:Wilford Chism}
 - {cast:Neebus}
-- Auntie Threadwood: an old human woman with grey hair in a bun, shawl over her shoulders.
-- The Right Hand: a composed human man, the emissary and bodyguard of the head of House Cannith, in a sharp dark coat bearing House Cannith's gorgon emblem.
+- {cast:Auntie Threadwood}
+- {cast:The Right Hand}
 
 REFERENCES
 {references}

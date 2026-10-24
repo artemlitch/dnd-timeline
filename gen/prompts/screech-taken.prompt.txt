@@ -16,7 +16,7 @@ CAST
 - {cast:Brand}
 - {cast:Elric}
 - {cast:Screech}
-- The imps: small winged devils, invisible here, seen only as faint shimmering outlines stealing food.
+- {cast:Imp} Here: invisible, seen only as faint shimmering outlines stealing food.
 
 REFERENCES
 {references}

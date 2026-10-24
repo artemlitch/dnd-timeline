@@ -17,7 +17,7 @@ CAST
 - {cast:Brand}
 - {cast:The Broadaxe}
 - The Broadsword: a sister Aundairian warship of the same design as the Broadaxe.
-- The Aundairian soldiers: soldiers in blue Aundairian uniforms.
+- {cast:Aundairian Soldier} Here: several of them.
 - The harpies: winged women with the legs and talons of vultures, ragged feathers and hooked claws.
 
 REFERENCES

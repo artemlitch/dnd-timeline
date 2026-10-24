@@ -14,7 +14,7 @@ In the chaos of the explosion and the raging smoke elemental, a brown hen flaps 
 
 CAST
 - {cast:Lirael} Here: he is entirely a chicken, an ordinary brown hen, not a drow.
-- The Aundairian soldiers: soldiers in blue Aundairian uniforms.
+- {cast:Aundairian Soldier} Here: several of them.
 
 REFERENCES
 {references}

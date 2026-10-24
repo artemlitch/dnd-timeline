@@ -17,7 +17,7 @@ CAST
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
-- The Flock changeling: a male changeling in his true form, pale grey skin, smooth near-featureless face, colourless eyes, thin white hair, in a torn dark uniform; just raised from the dead.
+- {cast:The Flock} Here: one of them, unmasked in his true changeling form: pale grey skin, a smooth near-featureless face, colourless eyes, thin white hair, a torn dark uniform; just raised from the dead.
 - {cast:The Moonwatch}
 
 REFERENCES

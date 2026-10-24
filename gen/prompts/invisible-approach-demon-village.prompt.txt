@@ -14,9 +14,9 @@ Behind a hut, an imp is yanked off its feet and silenced by a strike from nowher
 
 CAST
 - {cast:Sazed} Here: invisible, only a faint shimmering outline with a soft golden glow.
-- The imp: tiny red devils with bat wings, small horns and stinging tails.
-- The cambion: tall half-demons with dark red skin, curling horns and leathery wings, in scavenged armour.
-- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+- {cast:Imp}
+- {cast:Cambion}
+- {cast:Quasit} Here: several of them.
 
 REFERENCES
 {references}

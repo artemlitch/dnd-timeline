@@ -10,10 +10,10 @@ Time and light: day, light through high windows.
 {maps:Starilaskur}
 
 THE MOMENT
-Arkhan, the awkward, sharply dressed young librarian, stands behind the checkout desk with an open ledger, tapping one entry in irritation: the trance-state books were taken out by Gelard Greenly, who never returns anything. Lirael leans over the ledger, reading Gelard's long list of borrowed books on the Dreamweaver and possession, his Sentinel badge still in his hand. Behind him Brand, in his power armor, and Sazed carry tall stacks of books to check out.
+Arkhan, the owl-folk librarian, stands behind the checkout desk with an open ledger, tapping one entry in irritation: the trance-state books were taken out by Gelard Greenly, who never returns anything. Lirael leans over the ledger, reading Gelard's long list of borrowed books on the Dreamweaver and possession, his Sentinel badge still in his hand. Behind him Brand, in his power armor, and Sazed carry tall stacks of books to check out.
 
 CAST
-- Arkhan: an awkward, bookish young human librarian, thin and stiff, in a sharply tailored waistcoat and cravat, spectacles on a chain.
+- {cast:Arkhan}
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}

@@ -19,7 +19,7 @@ CAST
 - {cast:Sazed}
 - {cast:Topek}
 - {cast:Wylon}
-- The bone devil: a huge, emaciated, bone-white devil with skin stretched over a skeletal frame, a skull-like head with long fangs, ragged bat wings, long clawed arms and a long barbed scorpion tail.
+- {cast:Bone Devil}
 
 REFERENCES
 {references}

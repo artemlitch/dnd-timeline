@@ -13,7 +13,7 @@ THE MOMENT
 Milton Gravewood, a ruined older man, sits slumped on the church steps clutching an empty bottle. Brand, in his power armor, offers him a job with an open hand, and Lirael presses a few gold coins into his palm. Milton is already looking past them down the street, toward the liquor store.
 
 CAST
-- Milton Gravewood: a ruined, unshaven older human man in a stained coat, a former smith, red-eyed from drink.
+- {cast:Milton Gravewood} Here: unshaven and red-eyed from drink, in a stained coat.
 - {cast:Brand}
 - {cast:Lirael}
 - The mercenaries: Dragons Claw mercenaries.

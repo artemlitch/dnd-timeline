@@ -13,7 +13,7 @@ THE MOMENT
 Bimble Niblet, the little quasit Sazed spared, now in a tiny clean robe, rises on tiptoe to touch Sazed's forehead with a clawed hand, and soft holy light spreads over Sazed. Sazed looks down at him, surprised. Wilford Chism waits by the basement door behind them.
 
 CAST
-- Bimble Niblet: a small wiry green demon the size of a cat, with warty skin, little horns, clawed hands and a long barbed tail, in a tiny clean robe.
+- {cast:Bimble Niblet} Here: in a tiny clean robe.
 - {cast:Sazed}
 - {cast:Wilford Chism}
 

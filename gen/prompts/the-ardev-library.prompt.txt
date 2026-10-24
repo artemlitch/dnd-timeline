@@ -16,7 +16,7 @@ CAST
 - {cast:Sazed}
 - {cast:Lirael}
 - {cast:Brand}
-- Chip: the librarian, a real chipmunk, small and furry, in a tiny knitted cardigan and round spectacles.
+- {cast:Chip}
 - Carrk's portrait is attached for reference only; Carrk is not in this moment. Do not draw him.
 
 REFERENCES

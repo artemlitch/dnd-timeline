@@ -18,7 +18,8 @@ CAST
 - {cast:Screech}
 - {cast:Elric}
 - The warforged enforcers: heavy constructs plated in metal and stone with crystal eyes, not fully repaired.
-- The clockwork defender: a hulking construct, half its armor plating missing mid-repair. The warforged spellcaster: a slimmer construct with glowing runes.
+- {cast:Clockwork Defender} Here: half its armor plating missing mid-repair.
+- The warforged spellcaster: a slimmer construct with glowing runes.
 
 REFERENCES
 {references}

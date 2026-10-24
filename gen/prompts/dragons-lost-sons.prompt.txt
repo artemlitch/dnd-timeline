@@ -13,8 +13,8 @@ THE MOMENT
 Two dragons have landed on the Moonwatch and the whole ship lists under them: Steve the Skycracker, a huge blue dragon, perched across the bow, and his friend Bob the Blazebringer, an even bigger red dragon, clinging to the stern rail, smoke curling from his nostrils. Steve lowers his great head over the deck and glares at the party, who have just stumbled up from their cabins in nightclothes: Lirael, Brand, without his armor, and Sazed. The crew peek out of the hatches in terror.
 
 CAST
-- Steve the Skycracker: a huge blue dragon with deep blue scales, a single great horn on his snout, frilled ears and lightning sparking between his teeth.
-- Bob the Blazebringer: an even larger red dragon with crimson scales, swept-back horns and smoke curling from his nostrils.
+- {cast:Steve the Skycracker} Here: in his huge dragon form.
+- {cast:Bob the Blazebringer} Here: in his huge dragon form, even larger than Steve.
 - {cast:Lirael} Here: in nightclothes.
 - {cast:Brand} Here: in nightclothes, without his power armor.
 - {cast:Sazed} Here: in nightclothes.

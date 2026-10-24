@@ -13,7 +13,7 @@ THE MOMENT
 Before the closed dragon skull stands a row of clockwork wyrmlings: small mechanical dragons of tarnished brass and bronze, with riveted plates, exposed gears and leathery metal-ribbed wings, crouched motionless on guard, their eyes faintly lit. Lirael, Brand and Sazed stop at the edge of the light and look at them, deciding whether to push on. Sazed holds out an arm to keep the others back, Brand peers at the wyrmlings' mechanisms with professional interest, and Lirael glances back the way they came, toward the secret passage up to the Hobbstweedle cemetery.
 
 CAST
-- Clockwork wyrmling: a small dragon built entirely of brass and bronze machinery, gears and pistons visible, metal wings, about the size of a large dog.
+- {cast:Clockwork Wyrmling}
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}
