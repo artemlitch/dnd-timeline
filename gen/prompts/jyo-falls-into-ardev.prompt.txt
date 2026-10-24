@@ -1,0 +1,20 @@
+{tone}
+This scene is a stranger arriving to find the town turned against his friend.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lower-ardev}
+In this moment: a street at the edge of lower Ardev, a smouldering fire just put out. Time and light: morning.
+{maps:Lower Ardev}
+
+THE MOMENT
+Jyo, covered in dust, stands reading a newspaper with a lurid front page, a drawing of a drow summoning demons, his face darkening. Around him sour-faced townsfolk mutter and point toward the airship on the landing field in the distance.
+
+CAST
+- {cast:Jyo}
+- The townsfolk: Ardev townsfolk of many races, hostile.
+
+REFERENCES
+{references}

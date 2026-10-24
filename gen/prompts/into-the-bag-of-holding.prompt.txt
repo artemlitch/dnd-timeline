@@ -1,0 +1,22 @@
+{tone}
+This scene is an ambush on a speeding train roof.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:even-hand-train/train-roof-and-underside}
+In this moment: the roof of a speeding lightning rail, lightning crackling along the cars, open country rushing past. Time and light: morning.
+{maps:Lightning Rail 4}
+
+THE MOMENT
+Cromwell appears in a puff of silver mist on the train roof and shoves a Flock soldier off the edge. Below, the car's doors stand open with more of the Flock crowding in. Far off in the sky, the Moonwatch blinks an urgent light signal, and Sazed, climbing out onto the roof, turns to read it.
+
+CAST
+- {cast:Cromwell}
+- {cast:Sazed}
+- {cast:The Moonwatch}
+- The Flock: soldiers in long dark coats and beaked plague-doctor masks.
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is clearing a ship of tracking charms.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/flight-deck}
+In this moment: the open deck. Time and light: afternoon.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Mr. Beaks the pigeon flutters down onto the rail, back from his decoy flight. Brand, in his power armor, throws a handful of small glowing charms into an open arcane safe. Behind him, the crew blocks Filgar from slinking below deck.
+
+CAST
+- {cast:Mr. Beaks}
+- {cast:Brand}
+- {cast:Filgar}
+- The crew: the Moonwatch's crew.
+
+REFERENCES
+{references}

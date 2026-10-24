@@ -1,0 +1,21 @@
+{tone}
+This scene is a dead father speaking in a dream.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: a cramped crew cabin. Time and light: night, a sliver of moonlight.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Lirael sleeps restlessly in his bunk. Above him, in a haze of dream mist, the face and shoulders of his father hang in the dark, lips forming two words. On the floor beside the bunk, Felicia Jr is curled up asleep on a pile of blankets, as she did as a child.
+
+CAST
+- {cast:Lirael}
+- {cast:Lirael Sr} Here: only a misty dream vision of his face and shoulders.
+- {cast:Felicia Jr}
+
+REFERENCES
+{references}

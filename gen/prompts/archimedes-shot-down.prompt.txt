@@ -1,0 +1,23 @@
+{tone}
+This scene is smuggling rescued children aboard an airship under a spy's eye.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/landing-gear-hatch}
+In this moment: under the Moonwatch's hull on the dark landing field, the landing-gear hatch open. Time and light: deep night, moonlight.
+{maps:The Moonwatch}
+
+THE MOMENT
+Sazed boosts a scared shifter child up through the open landing-gear hatch, while Skye and the other children huddle close behind him. Above, Brand, in his power armor, has just shot down Archimedes, the warforged owl, which tumbles out of the night sky trailing sparks.
+
+CAST
+- {cast:Sazed}
+- {cast:Skye}
+- {cast:Brand}
+- {cast:Archimedes} Here: shot, tumbling out of the sky trailing sparks.
+- The children: young shifter children in ragged clothes.
+
+REFERENCES
+{references}

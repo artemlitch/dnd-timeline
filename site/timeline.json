@@ -8746,8 +8746,8 @@
         "Sazed",
         "The Right Hand"
       ],
-      "img": "img/archimedes-shot-down.jpg",
-      "img_version": 1
+      "img": "img/archimedes-shot-down.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-gate-dream",
@@ -8771,8 +8771,8 @@
         "Sazed",
         "Brand"
       ],
-      "img": "img/the-gate-dream.jpg",
-      "img_version": 1
+      "img": "img/the-gate-dream.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "xeras-window",
@@ -8867,8 +8867,8 @@
         "Lirael",
         "Morganth"
       ],
-      "img": "img/jyo-falls-into-ardev.jpg",
-      "img_version": 1
+      "img": "img/jyo-falls-into-ardev.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "mustang-full-of-arrows",
@@ -8963,8 +8963,8 @@
         "Plague Soldiers",
         "Astral Plane"
       ],
-      "img": "img/ball-bearings-and-the-safe.jpg",
-      "img_version": 1
+      "img": "img/ball-bearings-and-the-safe.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-even-hand-on-the-roof",
@@ -9349,8 +9349,8 @@
         "The Flock",
         "Moonwatch"
       ],
-      "img": "img/into-the-bag-of-holding.jpg",
-      "img_version": 1
+      "img": "img/into-the-bag-of-holding.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-dream-prison",
@@ -9422,8 +9422,8 @@
         "Mustang",
         "Moonwatch"
       ],
-      "img": "img/protection-and-pattern.jpg",
-      "img_version": 1
+      "img": "img/protection-and-pattern.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "skull-knight-arrives",
@@ -9567,8 +9567,8 @@
         "Brand",
         "Moonwatch"
       ],
-      "img": "img/mr-beaks-returns.jpg",
-      "img_version": 1
+      "img": "img/mr-beaks-returns.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "skye-reunion",
@@ -9637,8 +9637,8 @@
         "Compass",
         "Magic Society"
       ],
-      "img": "img/i-tag-ye-cosmic.jpg",
-      "img_version": 1
+      "img": "img/i-tag-ye-cosmic.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "lilya-the-guide",
@@ -9685,8 +9685,8 @@
         "Brand",
         "House Cannith"
       ],
-      "img": "img/curfew-in-ardev.jpg",
-      "img_version": 1
+      "img": "img/curfew-in-ardev.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bimble-repents",
@@ -9710,8 +9710,8 @@
         "The Rat Man",
         "Silver Flame"
       ],
-      "img": "img/bimble-repents.jpg",
-      "img_version": 1
+      "img": "img/bimble-repents.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "wilford-and-the-stranger-evil",

@@ -1,0 +1,21 @@
+{tone}
+This scene is a monk storming an armored carriage at speed.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:even-hand-train/armored-carriage}
+In this moment: the upper floor of the racing armored carriage, an arcane safe with glowing runes bolted to the floor. Time and light: midday, light through the shaking windows.
+{maps:Road Chase}
+
+THE MOMENT
+Sazed drives a burning plague soldier to the floor with a final strike. Felicia Jr, battered, scrambles back against the wall. Beside them stands a heavy safe covered in glowing runes. Through the hatch below, more plague soldiers sprawl on a floor covered in ball bearings.
+
+CAST
+- {cast:Sazed}
+- {cast:Felicia Jr}
+- The plague soldiers: soldiers in long dark coats and beaked plague-doctor masks.
+
+REFERENCES
+{references}

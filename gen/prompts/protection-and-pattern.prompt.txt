@@ -1,0 +1,22 @@
+{tone}
+This scene is a hypnotic spell freezing a beholder.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:even-hand-train/turtle-fortress}
+In this moment: the deck of the giant turtle-shaped mobile fortress, anti-air guns firing at the sky. Time and light: daylight through smoke.
+{maps:Mobile Fortress}
+
+THE MOMENT
+A swirling, shimmering hypnotic pattern of colours fills the air, and a beholder hangs frozen in it, eyestalks limp. Lirael holds the spell with both hands. In the foreground Brand, in his power armor, wrenches open Mustang's metal chest and pulls out a glowing rune. Black, choking mist creeps across the deck.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Mustang} Here: lying broken, his chest plate torn open.
+- The beholder: a floating orb-shaped aberration with one great central eye, a fanged mouth and a crown of writhing eyestalks.
+
+REFERENCES
+{references}

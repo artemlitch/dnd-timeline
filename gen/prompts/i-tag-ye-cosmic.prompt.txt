@@ -1,0 +1,21 @@
+{tone}
+This scene is a hidden note from a dead father.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: the den, the obelisk blazing with light, a small door open in the wall beside it. Time and light: night, the obelisk's glow.
+{maps:Lireal Sr Den/Basement}
+
+THE MOMENT
+The obelisk blazes fully lit, its runes shining. In the little door that has opened in the wall, Lirael holds a folded note from his father, reading it, while Sazed and Brand, in his power armor, lean in over his shoulders.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}
