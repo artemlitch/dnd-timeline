@@ -1,0 +1,22 @@
+{tone}
+This scene is a fake monster scattering party guests.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/entrance-hall}
+In this moment: the mansion's grand entrance hall packed with partying Sentinels. Time and light: night, lamplight and party lights.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+A huge beholder hangs in the middle of the entrance hall, its great central eye and writhing eyestalks glaring, and guests are screaming and scattering, spilling drinks. Sazed alone walks straight at it and kicks right through it: the illusion breaks apart in sparkles around his leg. Behind a pillar, a trio of gnomes giggle at their prank.
+
+CAST
+- {cast:Sazed}
+- The beholder: an illusion of a huge floating orb with one great eye, a fanged maw and writhing eyestalks, shimmering slightly.
+- The gnomes: small, mischievous gnome cooks and servants in white aprons and chef's caps.
+- The guests: off-duty Sentinels of many races in party clothes.
+
+REFERENCES
+{references}

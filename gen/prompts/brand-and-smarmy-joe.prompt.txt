@@ -1,0 +1,22 @@
+{tone}
+This scene is an unlikely friendship at a party.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/music-room-and-stage}
+In this moment: the music room, a band playing on the stage behind. Time and light: night, lamplight and party lights.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Brand, in his power armor, sits at a table with Smarmy Joe, the bullywug bandleader, both of them deep in drink and conversation, Joe's webbed hand on Brand's shoulder as he tells him how he never fit in among the bullywugs. At the next table Lirael flinches as a gnome blasts a fog horn right in his ear and runs off cackling.
+
+CAST
+- {cast:Brand}
+- {cast:Smarmy Joe}
+- {cast:Lirael}
+- The gnomes: small, mischievous gnome cooks and servants in white aprons and chef's caps.
+
+REFERENCES
+{references}

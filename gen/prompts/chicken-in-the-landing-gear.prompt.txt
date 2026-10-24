@@ -1,0 +1,20 @@
+{tone}
+This scene is a man turned chicken sneaking aboard an enemy airship.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:moonwatch/landing-gear-hatch}
+In this moment: the Aundairian warship hovering low over its camp, its landing gear open; nearby, its sister ship burning in the sky. Time and light: day, smoke and firelight.
+{maps:The Moonwatch}
+
+THE MOMENT
+In the chaos of the explosion and the raging smoke elemental, a brown hen flaps furiously up toward the open landing gear of the hovering Aundairian warship. Below it, Aundairian soldiers run in confusion across the camp, none of them looking at the chicken.
+
+CAST
+- {cast:Lirael} Here: he is entirely a chicken, an ordinary brown hen, not a drow.
+- The Aundairian soldiers: soldiers in blue Aundairian uniforms.
+
+REFERENCES
+{references}

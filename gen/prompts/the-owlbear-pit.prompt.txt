@@ -1,0 +1,21 @@
+{tone}
+This scene is a man falling through a trap into a monster's den.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:yedani-mountains/owlbear-cave}
+In this moment: a dark cave under the forest floor, a hole of daylight in the roof. Time and light: day, a shaft of light through the hole.
+{maps:Owlbear Cave}
+
+THE MOMENT
+Brand, in his power armor, has just crashed down through a trapdoor in the forest floor into a cave, landing in a heap of dirt and branches. In the dark behind him an owlbear rears up, huge and feathered, beak open in a screech. A rope tied off above drops down through the hole beside Brand, Sazed's face peering down after it.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed} Here: only his face, peering down through the hole above.
+- The owlbear: a huge, shaggy beast with a bear's body, an owl's hooked beak and feathered head, and great claws.
+
+REFERENCES
+{references}

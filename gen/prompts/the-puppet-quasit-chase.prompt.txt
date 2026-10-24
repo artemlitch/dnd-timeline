@@ -1,0 +1,23 @@
+{tone}
+This scene is a dead demon puppeted through a dining room to fool a mob.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/dumbwaiter-and-dining-room}
+In this moment: the upstairs dining room, a long table of eating gnomes and a crystal chandelier. Time and light: night, candlelight and the chandelier.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+A dead quasit bounces jerkily across the dining table, worked like a puppet by a faint glowing magical hand, and a mob of gnomes leaps up from their dinner to chase it. Lirael runs after it, pretending to chase too. Sazed climbs out of the dumbwaiter hatch behind them. Brand, in his power armor, swings up through the air on a thorny vine wrapped round the chandelier, the broken dumbwaiter behind him.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- The quasit: a small, wiry green demon the size of a cat, with warty skin, little horns and clawed hands. Here: dead, puppeted by a glowing magical hand.
+- The gnomes: small, mischievous gnome cooks and servants in white aprons and chef's caps.
+
+REFERENCES
+{references}

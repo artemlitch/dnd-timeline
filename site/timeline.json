@@ -2672,8 +2672,8 @@
         "Aundair",
         "Kingsblade"
       ],
-      "img": "img/sazed-confides-in-nedira.jpg",
-      "img_version": 1
+      "img": "img/sazed-confides-in-nedira.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sazeds-nightmare",
@@ -2951,8 +2951,8 @@
         "Owlbear",
         "Traps"
       ],
-      "img": "img/the-owlbear-pit.jpg",
-      "img_version": 1
+      "img": "img/the-owlbear-pit.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "crossing-the-river",
@@ -3071,8 +3071,8 @@
         "Broadsword",
         "Blazehelm"
       ],
-      "img": "img/chicken-in-the-landing-gear.jpg",
-      "img_version": 1
+      "img": "img/chicken-in-the-landing-gear.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "pilot-overboard",
@@ -3408,8 +3408,8 @@
         "Cromwell",
         "Blazehelm's Mansion"
       ],
-      "img": "img/the-beholder-illusion.jpg",
-      "img_version": 1
+      "img": "img/the-beholder-illusion.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-quiet-room",
@@ -3550,8 +3550,8 @@
         "Gnomes",
         "Bullywugs"
       ],
-      "img": "img/brand-and-smarmy-joe.jpg",
-      "img_version": 1
+      "img": "img/brand-and-smarmy-joe.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sazed-and-nedira-prowlstone",
@@ -3598,8 +3598,8 @@
         "Lirael",
         "Khyber Powder"
       ],
-      "img": "img/the-gnome-kitchen.jpg",
-      "img_version": 1
+      "img": "img/the-gnome-kitchen.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "dwarven-roulette",
@@ -3621,8 +3621,8 @@
         "Gnomes",
         "Dwarven Roulette"
       ],
-      "img": "img/dwarven-roulette.jpg",
-      "img_version": 1
+      "img": "img/dwarven-roulette.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "quasits-in-the-storage-room",
@@ -3645,8 +3645,8 @@
         "Lirael",
         "Janitor's Key"
       ],
-      "img": "img/quasits-in-the-storage-room.jpg",
-      "img_version": 1
+      "img": "img/quasits-in-the-storage-room.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "spingus-dumbwaiter-deal",
@@ -3668,8 +3668,8 @@
         "Lirael",
         "Generals"
       ],
-      "img": "img/spingus-dumbwaiter-deal.jpg",
-      "img_version": 1
+      "img": "img/spingus-dumbwaiter-deal.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-puppet-quasit-chase",
@@ -3692,8 +3692,8 @@
         "Gnomes",
         "Dumbwaiter"
       ],
-      "img": "img/the-puppet-quasit-chase.jpg",
-      "img_version": 1
+      "img": "img/the-puppet-quasit-chase.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-potion-room",

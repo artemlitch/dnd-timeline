@@ -1,0 +1,23 @@
+{tone}
+This scene is a deal struck with a gnome chef.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/mansion-kitchen}
+In this moment: the kitchen by the dumbwaiter hatch in the wall. Time and light: night, lamplight and party lights.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Spingus Dillguard, the gnome head chef, leans against the dumbwaiter hatch with a sly grin, holding up three fingers for the three generals upstairs, naming his price. Lirael leans in, already scheming, the dead quasit dangling from his hand. Brand, in his power armor, and Sazed look at the tiny dumbwaiter, doubtful.
+
+CAST
+- {cast:Spingus Dillguard}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The quasit: a small, wiry green demon the size of a cat, with warty skin, little horns and clawed hands. Here: dead, dangling from Lirael's hand.
+
+REFERENCES
+{references}

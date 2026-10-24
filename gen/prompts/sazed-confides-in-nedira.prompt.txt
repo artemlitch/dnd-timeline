@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet late-night talk between two shifters on a warship's bridge.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:kingsblade/bridge}
+In this moment: the warship's bridge at night, a skeleton crew at the controls and charts. Time and light: night, the glow of instrument lamps.
+{maps:Kingsblade Bridge}
+
+THE MOMENT
+Sazed, still a little drunk, has slipped up to the bridge to find Nedira, the shifter among the bridge crew. The two stand together at the great forward window, the dark mountains outside. Nedira leans toward him, speaking quietly: the Sentinels have been protecting shifter clans. Sazed listens, guarded but moved. Behind them a crewman at the wheel pretends not to listen.
+
+CAST
+- {cast:Sazed}
+- {cast:Nedira}
+- The crew: Sentinel airship crew in dark blue uniforms.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is a drinking game with one bad drink.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/mansion-kitchen}
+In this moment: a kitchen table with six tankards of beer. Time and light: night, lamplight and party lights.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Lirael and the gnome head chef Spingus Dillguard face off across a table of six tankards in dwarven roulette. Lirael has just taken a big swig of his pick, and his face is twisting in horror: it is not beer. Spingus slaps the table laughing. A ring of gnome cooks cheers.
+
+CAST
+- {cast:Lirael}
+- {cast:Spingus Dillguard}
+- The gnomes: small, mischievous gnome cooks and servants in white aprons and chef's caps.
+
+REFERENCES
+{references}

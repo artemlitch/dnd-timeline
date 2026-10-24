@@ -2059,6 +2059,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/sazed-confides-in-nedira.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/sazed-confides-in-nedira.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Nedira"
+   ],
+   "refs": [
+    "Character lineup",
+    "Kingsblade Bridge map"
+   ],
+   "cost": 0.0345915,
+   "at": "2026-10-24T08:01:53",
+   "draft": "gen/drafts/sazed-confides-in-nedira/20261024-080153-563000.jpg"
   }
  ],
  "sazeds-nightmare": [
@@ -2323,6 +2341,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-owlbear-pit.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-owlbear-pit.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Owlbear Cave map"
+   ],
+   "cost": 0.0345735,
+   "at": "2026-10-24T08:01:54",
+   "draft": "gen/drafts/the-owlbear-pit/20261024-080154-270000.jpg"
   }
  ],
  "crossing-the-river": [
@@ -2409,6 +2445,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/chicken-in-the-landing-gear.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/chicken-in-the-landing-gear.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Moonwatch map"
+   ],
+   "cost": 0.0345505,
+   "at": "2026-10-24T08:01:59",
+   "draft": "gen/drafts/chicken-in-the-landing-gear/20261024-080159-693000.jpg"
   }
  ],
  "pilot-overboard": [
@@ -2823,6 +2876,23 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-beholder-illusion.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-beholder-illusion.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.03455275,
+   "at": "2026-10-24T08:01:57",
+   "draft": "gen/drafts/the-beholder-illusion/20261024-080157-632000.jpg"
   }
  ],
  "the-quiet-room": [
@@ -2932,6 +3002,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/brand-and-smarmy-joe.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brand-and-smarmy-joe.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Smarmy Joe"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.0345825,
+   "at": "2026-10-24T08:01:56",
+   "draft": "gen/drafts/brand-and-smarmy-joe/20261024-080156-268000.jpg"
   }
  ],
  "sazed-and-nedira-prowlstone": [
@@ -2962,30 +3051,124 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-gnome-kitchen.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-gnome-kitchen.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.03457025,
+   "at": "2026-10-24T08:01:53",
+   "draft": "gen/drafts/the-gnome-kitchen/20261024-080153-127000.jpg"
   }
  ],
  "dwarven-roulette": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/dwarven-roulette.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/dwarven-roulette.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Spingus Dillguard"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.0345685,
+   "at": "2026-10-24T08:02:02",
+   "draft": "gen/drafts/dwarven-roulette/20261024-080202-985000.jpg"
   }
  ],
  "quasits-in-the-storage-room": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/quasits-in-the-storage-room.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/quasits-in-the-storage-room.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Brand",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.0345995,
+   "at": "2026-10-24T08:02:00",
+   "draft": "gen/drafts/quasits-in-the-storage-room/20261024-080200-995000.jpg"
   }
  ],
  "spingus-dumbwaiter-deal": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/spingus-dumbwaiter-deal.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/spingus-dumbwaiter-deal.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Spingus Dillguard",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.03462975,
+   "at": "2026-10-24T08:02:03",
+   "draft": "gen/drafts/spingus-dumbwaiter-deal/20261024-080203-971000.jpg"
   }
  ],
  "the-puppet-quasit-chase": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-puppet-quasit-chase.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-puppet-quasit-chase.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Top Floor map"
+   ],
+   "cost": 0.03461525,
+   "at": "2026-10-24T08:01:52",
+   "draft": "gen/drafts/the-puppet-quasit-chase/20261024-080152-393000.jpg"
   }
  ],
  "the-potion-room": [
