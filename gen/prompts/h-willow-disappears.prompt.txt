@@ -1,0 +1,20 @@
+{tone}
+This scene is a woman's last warning before she vanished.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a shifter camp in the Aundairian woods, an open chest of stolen gold by the fire. Time and light: night, firelight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Willow stands over the young shifters gathered around a chest of stolen Aundairian gold, warning them, one hand raised. The young shifters laugh. Behind her, the dark forest waits.
+
+CAST
+- {cast:Willow}
+- The young shifters: brash young shifters with wild hair, pointed ears and bestial features.
+
+REFERENCES
+{references}

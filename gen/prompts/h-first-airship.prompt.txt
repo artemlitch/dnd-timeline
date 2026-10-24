@@ -1,0 +1,19 @@
+{tone}
+This scene is the first elemental airship going into battle.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: the skies over a battlefield in Aundair, armies clashing far below. Time and light: afternoon.
+{maps:Khorvaire Map}
+
+THE MOMENT
+The first elemental airship, a wooden warship held aloft by a great glowing ring of bound elemental fire around its hull, sails over the battlefield and fires down on the troops below. Soldiers on the ground stare up at it in shock.
+
+CAST
+- The soldiers: soldiers of the Five Nations in their colours.
+
+REFERENCES
+{references}

@@ -3116,5 +3116,18 @@
    2048
   ],
   "canon_sources": []
+ },
+ {
+  "id": "khorvaire",
+  "name": "Khorvaire",
+  "aliases": [
+   "the Five Nations",
+   "Galifar"
+  ],
+  "status": "canon",
+  "analog": null,
+  "look": "The continent of Khorvaire in the century of the Last War: the Five Nations of the old kingdom of Galifar, Aundair, Breland, Cyre, Karrnath and Thrane, at war with one another. Rolling farmland and forests scarred by old battlefields, walled towns, House Cannith's arcane forges and lightning rails, and in the war's last decades, elemental airships.",
+  "periods": [],
+  "sublocations": []
  }
 ]

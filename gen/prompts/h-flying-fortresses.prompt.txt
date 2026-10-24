@@ -1,0 +1,20 @@
+{tone}
+This scene is the first flying fortress rising into the sky.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: the skies over Breland's green and golden hills. Time and light: midday.
+{maps:Khorvaire Map}
+
+THE MOMENT
+A vast flying fortress, a whole military base of stone walls, towers and gun emplacements on a floating island of rock bound with glowing arcane rings, rises over the hills. Soldiers drill in ranks on its battlements, and a crowd of House Cannith artificers on the ground below watches it lift.
+
+CAST
+- The artificers: House Cannith artificers in work aprons and goggles.
+- The soldiers: Brelish soldiers in dark blue uniforms.
+
+REFERENCES
+{references}

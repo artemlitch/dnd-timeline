@@ -1,0 +1,24 @@
+{tone}
+This scene is a family of young necromancers vanishing into the night.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor}
+In this moment: a village lane at night, a family house with a lit doorway. Time and light: night, moonlight and lantern light.
+{maps:Mara'bor Outside}
+
+THE MOMENT
+The five Grimdell siblings, young and grim, slip away down the dark lane carrying packs, one of them clutching a book of necromancy. In the lit doorway behind them their mother watches them go, turning a strange glowing necklace over in her fingers.
+
+CAST
+- {cast:Grave Grimdell} Here: young.
+- {cast:Grail Grimdell} Here: young.
+- {cast:Gelion Grimdell} Here: young.
+- {cast:Geraldine Grimdell} Here: young.
+- Gelyia Grimdell: the fifth sibling, a pale young woman in black.
+- The mother: a gaunt older woman in black, hung with many strange necklaces.
+
+REFERENCES
+{references}

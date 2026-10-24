@@ -1,0 +1,19 @@
+{tone}
+This scene is great guns raised on a capital's wall.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:wroat/wall-and-guns}
+In this moment: the wall of Wroat beside Brokenblade Castle and the Citadel, the river below. Time and light: midday.
+{maps:Wroat From The Air}
+
+THE MOMENT
+Enormous arcane guns are being hoisted by cranes and teams of workers into emplacements along the city wall, their barrels pointing at the sky. Brokenblade Castle and the Citadel rise behind them on their island in the river.
+
+CAST
+- The workers: Brelish soldiers and House Cannith engineers.
+
+REFERENCES
+{references}

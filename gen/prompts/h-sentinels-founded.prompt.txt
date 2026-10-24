@@ -1,0 +1,21 @@
+{tone}
+This scene is a king handing out the first gold badges.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/brokenblade-castle-and-citadel}
+In this moment: a private chamber in the castle. Time and light: afternoon.
+{maps:Wroat From The Air}
+
+THE MOMENT
+The King of Breland presses a gold badge into the hand of Blazehelm, then a younger officer, while a small group of hand-picked soldiers stand at attention, the first Sentinels.
+
+CAST
+- The king: King Boranex of Breland, a broad, grey-bearded human king in a crown.
+- {cast:Blazehelm} Here: younger.
+- The first Sentinels: hand-picked soldiers of several races in black uniforms.
+
+REFERENCES
+{references}

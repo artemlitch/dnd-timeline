@@ -1,0 +1,22 @@
+{tone}
+This scene is a dwarf inventor convicted of a treason he did not commit.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/brokenblade-castle-and-citadel}
+In this moment: the king's court in the castle, a crowded gallery. Time and light: morning light through tall windows.
+{maps:Wroat From The Air}
+
+THE MOMENT
+Brand stands in chains before the old king's judgment seat, guards on either side, his power armor nowhere in sight. In the front of the gallery, Thaddeus Cannith, forty years younger, watches with folded arms and the faintest smile.
+
+CAST
+- {cast:Brand} Here: in chains and plain prisoner's clothes, without his power armor.
+- {cast:Thaddeus Cannith} Here: forty years younger.
+- The king: an old Brelish king on his judgment seat, crowned, grey-bearded.
+- The guards: royal guards in Brelish livery.
+
+REFERENCES
+{references}

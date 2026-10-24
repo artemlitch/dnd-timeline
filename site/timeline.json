@@ -387,7 +387,8 @@
         "Cyre"
       ],
       "major": false,
-      "img": "media/five-nations.jpg"
+      "img": "img/h-jarot-dies.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-flying-fortresses",
@@ -408,7 +409,8 @@
         "Technology"
       ],
       "major": false,
-      "img": "media/flying-fortress.jpg"
+      "img": "img/h-flying-fortresses.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-grimdells-vanish",
@@ -429,7 +431,8 @@
         "Necromancy"
       ],
       "major": false,
-      "img": "media/art2.jpg"
+      "img": "img/h-grimdells-vanish.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-brand-framed",
@@ -450,7 +453,8 @@
         "Broadhelm Forge"
       ],
       "major": false,
-      "img": "media/character.jpg"
+      "img": "img/h-brand-framed.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-warforged-created",
@@ -471,7 +475,8 @@
         "Clockwork"
       ],
       "major": false,
-      "img": "media/hero-battle.jpg"
+      "img": "img/h-warforged-created.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-walls-fell",
@@ -493,7 +498,8 @@
         "Gelf"
       ],
       "major": false,
-      "img": "media/hero-battle.jpg"
+      "img": "img/h-walls-fell.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-guns-of-wroat",
@@ -513,7 +519,8 @@
         "Breland"
       ],
       "major": false,
-      "img": "media/floating-city.jpg"
+      "img": "img/h-guns-of-wroat.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-sentinels-founded",
@@ -534,7 +541,8 @@
         "Breland"
       ],
       "major": false,
-      "img": "media/party-art.jpg"
+      "img": "img/h-sentinels-founded.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-willow-disappears",
@@ -556,7 +564,8 @@
         "Sazed"
       ],
       "major": false,
-      "img": "media/art2.jpg"
+      "img": "img/h-willow-disappears.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-first-airship",
@@ -577,7 +586,8 @@
         "Aundair"
       ],
       "major": false,
-      "img": "media/airship-combat.jpg"
+      "img": "img/h-first-airship.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-lirael-sr-obsession",

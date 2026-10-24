@@ -1,0 +1,20 @@
+{tone}
+This scene is the first warforged waking in a creation forge.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a House Cannith creation forge: a huge glowing furnace-womb of brass and stone, cables and arcane machinery. Time and light: the forge's glow.
+{maps:Cannith Forge Ardev}
+
+THE MOMENT
+A newly made warforged, a tall humanoid construct of plated stone and metal with a crystal glowing in its forehead, steps out of the opening creation forge, its eyes lighting up for the first time. House Cannith artificers in goggles and aprons step back, awed.
+
+CAST
+- The warforged: a tall, newly made warforged construct of plated stone and dark metal, with crystal eyes.
+- The artificers: House Cannith artificers in goggles and aprons.
+
+REFERENCES
+{references}

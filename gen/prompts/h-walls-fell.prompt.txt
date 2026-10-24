@@ -1,0 +1,21 @@
+{tone}
+This scene is dragons breaking the walls of a capital.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:wroat/wall-and-guns}
+In this moment: the walls of Wroat on the river, broken open, the city beyond. Time and light: dawn, smoke and fire.
+{maps:Wroat From The Air}
+
+THE MOMENT
+Great dragons dive on the walls of Wroat, breathing fire and lightning, and whole sections of the wall crumble into the river. Brelish soldiers fight back from the ruins with spears and ballistas, and at their head two officers lead the charge into the breach.
+
+CAST
+- The dragons: several huge dragons of different colours.
+- The soldiers: Brelish soldiers in dark blue uniforms.
+- The officers: a High Marshall in a plumed helm, and a dwarf officer with a braided beard.
+
+REFERENCES
+{references}

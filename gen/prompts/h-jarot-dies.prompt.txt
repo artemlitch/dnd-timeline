@@ -1,0 +1,19 @@
+{tone}
+This scene is the death of a king splitting a kingdom into war.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: the great throne hall of the old kingdom of Galifar, banners of five nations along the walls, the throne empty and draped in black. Time and light: midday light through high windows.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Around the empty, black-draped throne stand the five royal heirs, each under their own nation's banner: a young princess of Cyre reaching for the crown on its cushion, and four princes and princesses refusing her, hands on their sword hilts, glaring at one another. Through the tall windows behind them, armies are already massing on the plain.
+
+CAST
+- The heirs: five royal siblings in rich court clothes of their nations' colours, a princess of Cyre, a prince of Thrane, a prince of Karrnath, a princess of Breland and a prince of Aundair.
+
+REFERENCES
+{references}
