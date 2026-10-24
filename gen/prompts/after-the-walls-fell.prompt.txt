@@ -1,0 +1,21 @@
+{tone}
+This scene is discovering a hidden war memorial deep underground.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:tomb-of-centarrel/soldiers-graves}
+In this moment: the long underground hall of graves; on the far wall, a great carved stone relief of dragons falling from the sky over a walled city whose walls are breaking. Time and light: deep night underground, the light of a single lantern.
+{maps:Tomb of Centarrel 3}
+
+THE MOMENT
+Lirael, Sazed and Brand, in his power armor, walk slowly between the long rows of soldiers' headstones, lantern raised, looking up in silence at the huge carved relief of the dragons' fall at the end of the hall.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

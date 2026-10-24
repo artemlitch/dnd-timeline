@@ -1,0 +1,24 @@
+{tone}
+This scene is a crew dinner aboard an airship.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/galley}
+In this moment: the ship's galley, a long table crowded with dishes. Time and light: night, warm lamplight.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+The crew sits around the crowded table at dinner. Sorenson talks animatedly with his hands. Dandy stands at the head of the table in his apron, ladle raised, making a grand point. Spingus Dillguard, the gnome chef, pours drinks. Lirael, Sazed and Brand, in his power armor, eat and listen.
+
+CAST
+- {cast:Sorenson}
+- {cast:Dandy}
+- {cast:Spingus Dillguard}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

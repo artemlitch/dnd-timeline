@@ -1,0 +1,20 @@
+{tone}
+This scene is testing a cursed mirror on a secret detour.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/flight-deck}
+In this moment: the open deck high over the Yedani mountains, a grim prison built into a mountainside far below. Time and light: afternoon.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Brand, in his power armor, stands at the rail with his eyes glowing faintly as he casts detect good and evil, holding up a small hand mirror. Its glass holds only a faint dark shimmer. Sazed, at the ship's controls, glances at it, then down at the prison far below.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+
+REFERENCES
+{references}

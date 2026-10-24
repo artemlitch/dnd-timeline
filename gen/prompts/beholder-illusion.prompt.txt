@@ -1,0 +1,23 @@
+{tone}
+This scene is swapping a painting while an illusion distracts the guards.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/main-hall}
+In this moment: the grand main hall at night, portraits on the walls. Time and light: night, a few lamps of continual flame.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+Dandy, with both hands raised, conjures a huge illusory beholder floating in the middle of the hall, its great central eye and writhing eyestalks glowing. Mansion guards stare up at it, frozen. Behind them, unseen, Brand, in his power armor, and Sazed hoist a large framed portrait of Paxon onto the wall.
+
+CAST
+- {cast:Dandy}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Paxon} Here: not present in person, only painted in the large framed portrait.
+- The guards: mansion guards in black Sentinel uniforms.
+
+REFERENCES
+{references}

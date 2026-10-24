@@ -1,0 +1,23 @@
+{tone}
+This scene is a chef enraged that a rival's cookie is good.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/galley}
+In this moment: the galley late at night, flour everywhere, a tray of fresh cookies. Time and light: midnight, lamplight.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Dandy, in his apron, has just bitten into one of Erald's cookies, and his face twists with fury at how good it is. Erald, in his robe, calmly holds out the tray. Lirael watches from the doorway. At the far end of the table, Sazed shows Brand, in his power armor, how to use a herbalism kit.
+
+CAST
+- {cast:Dandy}
+- {cast:Erald}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

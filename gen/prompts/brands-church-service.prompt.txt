@@ -1,0 +1,20 @@
+{tone}
+This scene is a visiting cleric leading a service in a church that lost its priest.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/hobbstweedle-church}
+In this moment: inside the small village church, pews of Sentinels in black uniforms. Time and light: late afternoon light through the windows, candles.
+{maps:Hobbstweedle Village}
+
+THE MOMENT
+Brand, in his power armor, stands at the pulpit leading the service, his holy core glowing softly. Below him the congregation of Sentinels listens. Off to one side, an old memorial of the church's last priest, a cleric killed in an air raid, sits draped in black cloth with candles burning before it.
+
+CAST
+- {cast:Brand}
+- The congregation: Sentinels of many races in black uniforms.
+
+REFERENCES
+{references}

@@ -6870,8 +6870,8 @@
         "Aundair",
         "Hobbstweedle"
       ],
-      "img": "img/brands-church-service.jpg",
-      "img_version": 1
+      "img": "img/brands-church-service.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "erald-delivers-the-map",
@@ -6963,8 +6963,8 @@
         "Comprehend Languages",
         "Mansion"
       ],
-      "img": "img/potion-room-amulet.jpg",
-      "img_version": 1
+      "img": "img/potion-room-amulet.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "tomb-of-centarrel",
@@ -7057,8 +7057,8 @@
         "Khorvaire",
         "Wroat"
       ],
-      "img": "img/after-the-walls-fell.jpg",
-      "img_version": 1
+      "img": "img/after-the-walls-fell.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "beholder-illusion",
@@ -7080,8 +7080,8 @@
         "Gnomes",
         "Mansion"
       ],
-      "img": "img/beholder-illusion.jpg",
-      "img_version": 1
+      "img": "img/beholder-illusion.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "portrait-unveiled",
@@ -7172,8 +7172,8 @@
         "Moonwatch",
         "Hobbstweedle"
       ],
-      "img": "img/goodbyes-at-the-airfield.jpg",
-      "img_version": 1
+      "img": "img/goodbyes-at-the-airfield.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "moonwatch-crew-roles",
@@ -7319,8 +7319,8 @@
         "Mirrors",
         "Moonwatch"
       ],
-      "img": "img/detour-over-yedani-prison.jpg",
-      "img_version": 1
+      "img": "img/detour-over-yedani-prison.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "sorenson-confides",
@@ -7368,8 +7368,8 @@
         "Sazed",
         "Beezel"
       ],
-      "img": "img/the-fourth-look.jpg",
-      "img_version": 1
+      "img": "img/the-fourth-look.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "cromwell-the-stowaway",
@@ -7413,8 +7413,8 @@
         "Sazed",
         "Moonwatch"
       ],
-      "img": "img/mirrors-overboard.jpg",
-      "img_version": 1
+      "img": "img/mirrors-overboard.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "beezel-and-the-books",
@@ -7458,8 +7458,8 @@
         "Ardev",
         "Moonwatch"
       ],
-      "img": "img/dandys-dinner.jpg",
-      "img_version": 1
+      "img": "img/dandys-dinner.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "canuck-songs",
@@ -7506,8 +7506,8 @@
         "Sazed",
         "Brand"
       ],
-      "img": "img/the-cookie-feud.jpg",
-      "img_version": 1
+      "img": "img/the-cookie-feud.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "steve-the-skycracker",

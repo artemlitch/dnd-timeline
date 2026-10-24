@@ -1,0 +1,22 @@
+{tone}
+This scene is a crew throwing cursed mirrors off an airship.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/flight-deck}
+In this moment: the open deck above the clouds. Time and light: dusk.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Lirael and Brand, in his power armor, heave a crate of mirrors over the rail, the glass flashing as it tumbles into the clouds. In the foreground Chester, the living safe, holds a small makeup mirror up toward Sazed, who stands braced, fists clenched, face straining as he fights off the nightmare pulling at him from the glass.
+
+CAST
+- {cast:Chester}
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand}
+
+REFERENCES
+{references}

@@ -1,0 +1,23 @@
+{tone}
+This scene is saying goodbye to friends leaving for war.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/hobbstweedle-airfield}
+In this moment: the airfield lawn, a large Brelish warship loading troops at its gangway. Time and light: midday.
+{maps:Air Field Hobbstweedle}
+
+THE MOMENT
+Sentinel friends in black uniforms climb the gangway of the large warship, turning to wave. Lirael, Sazed and Brand, in his power armor, wave back from the lawn. Behind them the Moonwatch waits on its landing gear for their own departure.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:The Moonwatch}
+- The friends: Sentinels of many races in black uniforms with packs.
+
+REFERENCES
+{references}

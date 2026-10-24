@@ -1,0 +1,21 @@
+{tone}
+This scene is a night raid on a guarded potion room.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/potion-room}
+In this moment: shelves of bottles in every colour, an alchemy bench. Time and light: night, the glow of the potions.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+Lirael holds up an amulet on a chain, its pale stone glowing faintly. Sazed sniffs an unstoppered potion and recoils at the smell. Brand, in his power armor, stuffs a rolled scroll and armfuls of bottles into a sack. Behind them the door is just ajar.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}
