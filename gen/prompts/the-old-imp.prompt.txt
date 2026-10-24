@@ -1,0 +1,22 @@
+{tone}
+This scene is a harmless old demon driving everyone mad with a song.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:demon-village/old-imps-hut}
+In this moment: a tiny cramped hut in the forest, cluttered with odds and ends. Time and light: afternoon light through the doorway.
+{maps:Imp Shack}
+
+THE MOMENT
+A very old imp, wrinkled and stooped, with drooping wings, a white tuft of beard and spectacles, sits in a little rocking chair playing a squeaky tiny accordion and singing with great feeling. Sazed and Lirael grimace, and Brand, in his power armor, has his weapon raised, his patience gone.
+
+CAST
+- The old imp: a very old, wrinkled imp, a tiny red devil with drooping bat wings, small horns, a white tuft of beard and spectacles.
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand}
+
+REFERENCES
+{references}

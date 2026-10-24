@@ -1,0 +1,23 @@
+{tone}
+This scene is revealing invisible imps with a handful of magic dust.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/gauss-hogs-house}
+In this moment: the smoking ruin of the burned house, firefighting warforged hosing down the last flames. Time and light: midnight, firelight and smoke.
+{maps:Exploding House}
+
+THE MOMENT
+Click Clack flings a handful of glittering dust into the empty air, and it settles on an invisible imp, outlining its little winged body in sparkles mid-flight. Lirael points at it. Outside, through the broken wall, Sazed sprints toward a tree whose branches rustle with no wind, the second invisible imp hiding in it.
+
+CAST
+- {cast:Click Clack}
+- {cast:Lirael}
+- {cast:Sazed}
+- The imps: tiny red devils with bat wings, small horns and stinging tails, invisible except where the dust clings.
+- The firefighting warforged: big plated constructs with crystal eyes, working hoses.
+
+REFERENCES
+{references}

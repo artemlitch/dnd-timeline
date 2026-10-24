@@ -1,0 +1,21 @@
+{tone}
+This scene is investigators finding proof of an old explosion.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:demon-village/broken-circle}
+In this moment: the ancient broken teleportation circle in the forest, its strange markings cracked and scattered. Time and light: midday sun through the trees.
+{maps:Broken Portal}
+
+THE MOMENT
+Sazed kneels at the edge of the shattered circle, running his fingers over faint, weathered scorch marks radiating outward across the stones. Brand, in his power armor, crouches to examine a blasted chunk of carved stone, and Lirael stands looking at the long, faded blast pattern stretching into the trees.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+
+REFERENCES
+{references}

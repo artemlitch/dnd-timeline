@@ -1,0 +1,22 @@
+{tone}
+This scene is a man thought dead walking up to report his house exploded.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/military-police-station}
+In this moment: the street outside the police station, the party's carriage waiting at the kerb. Time and light: night, streetlamps of continual flame.
+{maps:Wroat Street}
+
+THE MOMENT
+Gauss Hog, soot-streaked and dishevelled but very much alive, walks up the street toward the station to report that his house blew up. Brand, in his power armor, and Sazed, waiting on the carriage, stare at him, then Brand leans down urgently, waving him aboard. Click Clack stands by the horses.
+
+CAST
+- {cast:Gauss Hog} Here: soot-streaked and dishevelled.
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Click Clack}
+
+REFERENCES
+{references}

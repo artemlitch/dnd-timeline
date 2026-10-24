@@ -1,0 +1,23 @@
+{tone}
+This scene is a dream training fight against shadow copies of yourself.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle}
+In this moment: inside a shared training dream: a pale, misty dreamscape version of the training grounds, the ground drifting and reshaping. Time and light: a sourceless dream light.
+{maps:Dream Training}
+
+THE MOMENT
+Lirael, Sazed and Brand each fight a dark shadow copy of themselves: grey, smoky doubles with the same faces and gear. The shadow Lirael has just thrown a smokepowder bomb, and the blast is hurling the real Sazed and Lirael backward, their bodies dissolving into light as they wake. Brand, in his power armor, braces alone against his own shadow double. At the edge of the dream, Feldor Windrake and Eloria watch.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Feldor Windrake}
+- {cast:Eloria}
+
+REFERENCES
+{references}

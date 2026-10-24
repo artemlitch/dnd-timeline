@@ -1,0 +1,20 @@
+{tone}
+This scene is a warforged opening a filing cabinet by brute force.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/military-police-station}
+In this moment: the station's records room, rows of heavy wooden filing cabinets. Time and light: night, lamps of continual flame.
+{maps:Wroat Military Police Station}
+
+THE MOMENT
+Click Clack, proudly sure his ordinary key is a master key, has jammed it into the lock of a filing cabinet drawer and wrenched it round with sheer strength: the lock mechanism bursts apart in a spray of brass pieces and the drawer jolts open. Lirael stands beside him, wincing.
+
+CAST
+- {cast:Click Clack}
+- {cast:Lirael}
+
+REFERENCES
+{references}

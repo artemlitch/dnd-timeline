@@ -1,0 +1,22 @@
+{tone}
+This scene is a rooftop lookout turning into a chase.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/murphys-house}
+In this moment: the roof of the crime-scene house, the busy Wroat street below and a row of houses across it. Time and light: midday.
+{maps:Crime Scene House}
+
+THE MOMENT
+Sazed leaps off the edge of the roof toward the street, chasing a dark figure in a black suit slipping into an alley below. Across the street, a bright glint of binocular lenses flashes from an upstairs window. Brand, in his power armor, crouches at the roof edge behind him, about to jump down onto the roof of their carriage parked below, where Lirael is running out to climb aboard.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+- The dark figure: a man in a black suit, his face hidden, seen from behind.
+
+REFERENCES
+{references}

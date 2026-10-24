@@ -1,0 +1,20 @@
+{tone}
+This scene is an awkward, gentle walk home after a night at the bar.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/village-entrance-and-alleys}
+In this moment: a quiet lane of village houses under the trees, the bar's light and noise behind them. Time and light: late night, a few lamps of continual flame.
+{maps:Hobbstweedle Village}
+
+THE MOMENT
+Brand, in his power armor, walks beside Eleanor down the quiet lane, talking. Eleanor, arms folded against the cold, gives him a small, reluctant smile, warming to him a little.
+
+CAST
+- {cast:Brand}
+- {cast:Eleanor}
+
+REFERENCES
+{references}

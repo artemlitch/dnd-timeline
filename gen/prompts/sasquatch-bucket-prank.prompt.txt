@@ -1,0 +1,23 @@
+{tone}
+This scene is a drill sergeant falling for a prank.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house}
+In this moment: the front door of the party's house. Time and light: afternoon.
+{maps:Home Base}
+
+THE MOMENT
+Gunnery Sergeant Dyll Strickland stands at the door, deadly serious, holding out an empty bucket and urgently demanding that the party relieve themselves in it so he can track a sasquatch. Brand, in his power armor, Sazed and Lirael stare at the bucket. Behind a hedge, two gnomes clutch each other, shaking with silent laughter.
+
+CAST
+- {cast:Dyll Strickland}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+- The gnomes: two small prankster gnome cooks in aprons.
+
+REFERENCES
+{references}

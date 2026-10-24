@@ -1,0 +1,20 @@
+{tone}
+This scene is a woman being sent home, a choice that will come back to haunt them.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: the front step of the house. Time and light: afternoon, long shadows.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+Bellatrix, annoyed and impatient, hauls her bag down the front step, finally allowed to leave. Gelf stands in the doorway behind her, watching her go. A long shadow falls across the step behind her.
+
+CAST
+- {cast:Bellatrix}
+- {cast:Gelf}
+
+REFERENCES
+{references}
