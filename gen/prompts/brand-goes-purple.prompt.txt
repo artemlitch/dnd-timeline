@@ -1,0 +1,20 @@
+{tone}
+This scene is a dwarf disguised by being painted purple.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/lower-deck-and-storage}
+In this moment: the lower deck, paint pots and brushes everywhere. Time and light: morning light through a porthole.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Brand stands with his arms out while Zenya, beaming, finishes painting his whole power armor, beard and face a loud, bright purple. He wears a small feathered hat of slight disguise. Brand glares down at himself, deeply unimpressed. The result is purple, not subtle.
+
+CAST
+- {cast:Brand} Here: his power armor, beard and face painted bright purple, a small feathered hat on his head.
+- {cast:Zenya} Here: holding a dripping paintbrush.
+
+REFERENCES
+{references}

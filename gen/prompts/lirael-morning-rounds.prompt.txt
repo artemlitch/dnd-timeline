@@ -1,0 +1,21 @@
+{tone}
+This scene is a quiet early-morning check on a strange new crewmate.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/crew-cabins}
+In this moment: a small crew cabin, the corridor beyond it. Time and light: before dawn, a single lamp.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Lirael leans in the doorway of Elfina's small cabin, speaking quietly. Elfina sits cross-legged on her bunk, her arms and face covered in painted runes, listening. Down the corridor behind him, Felicia Jr sits on the floor of her own cabin, absorbed in a stack of sorcery books.
+
+CAST
+- {cast:Lirael}
+- {cast:Elfina} Here: her arms and face covered in painted runes.
+- {cast:Felicia Jr}
+
+REFERENCES
+{references}

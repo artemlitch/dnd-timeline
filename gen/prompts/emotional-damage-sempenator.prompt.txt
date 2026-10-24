@@ -1,0 +1,21 @@
+{tone}
+This scene is two inventors pushing a tea machine to full emotional damage.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/galley}
+In this moment: the galley at night, taken over by a huge contraption of brass pipes, gauges, kettles and a big dial. Time and light: the middle of the night, lamplight and steam.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Dandy, in his apron, blasts a fire bolt into a small combustion engine Brand has bolted onto his tea machine in place of its hand crank. The machine's big dial swings all the way to its red maximum. Brand, in his power armor, and Dandy each hold a steaming teacup to their lips, and around their heads float small ghostly squirrels, jeering at them. Both men look deeply offended.
+
+CAST
+- {cast:Dandy}
+- {cast:Brand}
+- The squirrels: small, translucent, ghostly squirrels, hallucinations, sneering and pointing.
+
+REFERENCES
+{references}

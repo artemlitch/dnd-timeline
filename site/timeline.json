@@ -11565,8 +11565,8 @@
         "Tea Machine",
         "Moonwatch"
       ],
-      "img": "img/emotional-damage-sempenator.jpg",
-      "img_version": 1
+      "img": "img/emotional-damage-sempenator.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "thaddeus-nightmare",
@@ -11611,8 +11611,8 @@
         "Felicia Jr",
         "Knowledge Curse"
       ],
-      "img": "img/lirael-morning-rounds.jpg",
-      "img_version": 1
+      "img": "img/lirael-morning-rounds.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "felicia-confronts-elfina",
@@ -11729,8 +11729,8 @@
         "Hat of Slight Disguise",
         "Thaddeus Cannith"
       ],
-      "img": "img/brand-goes-purple.jpg",
-      "img_version": 1
+      "img": "img/brand-goes-purple.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "animal-messenger",
@@ -11873,8 +11873,8 @@
         "Silver Flame",
         "Stones Throw"
       ],
-      "img": "img/reconciliation-day.jpg",
-      "img_version": 1
+      "img": "img/reconciliation-day.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "murderer-leaves-ardev",

@@ -1,0 +1,21 @@
+{tone}
+This scene is a priest learning that a little girl's village is gone.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/silver-flame-church}
+In this moment: the church, coffins laid out for funerals, candles burning. Time and light: afternoon light through the windows.
+{maps:Silver Flame Church}
+
+THE MOMENT
+Wilford Chism kneels to Skye's height, his hand on her shoulder, his face falling as she tells him her village was attacked. Sazed stands beside Skye, grave. Behind them, coffins wait for the funerals Wilford is preparing.
+
+CAST
+- {cast:Wilford Chism}
+- {cast:Skye}
+- {cast:Sazed}
+
+REFERENCES
+{references}
