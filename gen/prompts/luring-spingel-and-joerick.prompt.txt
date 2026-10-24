@@ -1,0 +1,23 @@
+{tone}
+This scene is a trick with a dead man's voice.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/abandoned-house}
+In this moment: a boarded-up abandoned house in the cave village. Time and light: evening, dim lamplight.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+The two guards, Spingel and Joerick, are frantically prying the boards off the abandoned house's front door, convinced they can hear Officer Bloodworth trapped inside, banging and calling for help: a ghostly image of his face flickers in the window, an illusion. Hidden around the corner of the house, Lirael holds up a hand to keep the illusion going, and Brand, in his power armor, grins, holding a small tinkered stone that crackles with his own impression of Bloodworth's voice.
+
+CAST
+- {cast:Spingel}
+- {cast:Joerick}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Bloodworth} Here: only as a faint illusion of his face in the window.
+
+REFERENCES
+{references}

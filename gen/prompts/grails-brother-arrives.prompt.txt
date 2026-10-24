@@ -1,0 +1,23 @@
+{tone}
+This scene is a con artist pretending to be a dead man for his brother.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/grails-cellar}
+In this moment: the black-and-purple cellar lair. Time and light: midnight, candlelight.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Lirael, wearing Grail's blood-red gem necklace and a black hooded robe, stands in the cellar playing Grail reborn. Grail's brother, gaunt and black-robed, circles him suspiciously, then breaks into a delighted grin, exclaiming that their mother was always trying new things with the necklaces. In the shadows by the stairs, Brand, in his power armor, and Sazed keep very still.
+
+CAST
+- {cast:Lirael} Here: wearing a black hooded robe and the blood-red gem necklace.
+- Grail's brother: a thin, pale adult man who looks much like Grail, gaunt and sharp-featured with black hair, in a black hooded robe.
+- {cast:Brand}
+- {cast:Sazed}
+- Grail Grimdell's portrait is attached for reference only; Grail Grimdell is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

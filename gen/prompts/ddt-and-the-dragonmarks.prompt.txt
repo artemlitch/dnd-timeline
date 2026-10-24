@@ -1,0 +1,22 @@
+{tone}
+This scene is a late-night puzzle over a mysterious signature.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/elrics-house}
+In this moment: Elric's small kitchen, a lamp on the table, cold mugs of tea. Time and light: late night, lamplight.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Lirael sits bolt upright at the table, jabbing a finger at a crumpled note signed with three letters, struck by a sudden idea: the first D could be the D' that begins the name of a dragonmarked house. Brand, in his power armor, leans in with an old book of noble house sigils open in his hands. Sazed, half asleep in his chair, opens one eye.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Grail Grimdell's portrait is attached for reference only; Grail Grimdell is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

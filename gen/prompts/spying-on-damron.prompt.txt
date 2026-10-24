@@ -1,0 +1,25 @@
+{tone}
+This scene is eavesdropping on a furious guard captain through a window.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/bloodworth-bar}
+In this moment: a lane outside two houses in the cave village, a lit window. Time and light: evening, lamplight from the windows.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Crouched under a window, Lirael, Brand and Sazed peer in at Damron Pink, who is screaming at the two guards Spingel and Joerick for letting them into the village, shoving a bag of scrolls into their hands. Across the lane, through the window of a small bar, a woman and two children sit at a table.
+
+CAST
+- {cast:Damron Pink}
+- {cast:Spingel}
+- {cast:Joerick}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- Fiona Bloodworth and her children: a tired human woman with two small children, Mug and Kari, at a table in the bar.
+
+REFERENCES
+{references}

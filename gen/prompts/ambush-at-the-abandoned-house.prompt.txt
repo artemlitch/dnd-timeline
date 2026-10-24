@@ -1,0 +1,23 @@
+{tone}
+This scene is an ambush with sleep magic and a leap over a river.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:marabor/village-river}
+In this moment: the river running through the cave village beside the abandoned house. Time and light: evening, lamplight.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Spingel lies asleep in the dirt by the abandoned house. Joerick, battered and bleeding, has just misty-stepped across the river in a puff of silver mist to run for help, but Lirael is in mid-leap over the water after him, hand already casting sleep, and Joerick's eyes are rolling shut. Sazed and Brand, in his power armor, run up behind.
+
+CAST
+- {cast:Spingel} Here: asleep on the ground.
+- {cast:Joerick} Here: battered and bleeding.
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

@@ -1,0 +1,24 @@
+{tone}
+This scene is a trap sprung on a necromancer at a cellar hatch.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:marabor/grails-cellar}
+In this moment: the cellar lair below an open hatch. Time and light: midnight, candlelight.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Grail's brother tumbles head first down the cellar hatch where Lirael has just kicked him, and the party piles in on him. Skeletons are clawing up out of the floor around him as he conjures them. Sazed has snatched the blood-red gem necklace from his neck. Brand, in his power armor, swings at a skeleton.
+
+CAST
+- Grail's brother: a thin, pale adult man who looks much like Grail, gaunt and sharp-featured with black hair, in a black hooded robe.
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- The skeletons: yellowed human skeletons with rusted swords.
+- Grail Grimdell's portrait is attached for reference only; Grail Grimdell is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

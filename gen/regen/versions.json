@@ -1423,6 +1423,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/ddt-and-the-dragonmarks.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/ddt-and-the-dragonmarks.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.034584,
+   "at": "2026-10-24T07:38:53",
+   "draft": "gen/drafts/ddt-and-the-dragonmarks/20261024-073853-894000.jpg"
   }
  ],
  "elric-throws-a-spoon": [
@@ -1448,24 +1467,108 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/verona-sharpes-tea.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/verona-sharpes-tea.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Warden Sharpe",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03462475,
+   "at": "2026-10-24T07:38:51",
+   "draft": "gen/drafts/verona-sharpes-tea/20261024-073851-599000.jpg"
   }
  ],
  "spying-on-damron": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/spying-on-damron.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/spying-on-damron.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Joerick",
+    "Spingel",
+    "Damron Pink",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03465725,
+   "at": "2026-10-24T07:38:52",
+   "draft": "gen/drafts/spying-on-damron/20261024-073852-474000.jpg"
   }
  ],
  "luring-spingel-and-joerick": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/luring-spingel-and-joerick.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/luring-spingel-and-joerick.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Bloodworth",
+    "Spingel",
+    "Joerick"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03464025,
+   "at": "2026-10-24T07:38:56",
+   "draft": "gen/drafts/luring-spingel-and-joerick/20261024-073856-748000.jpg"
   }
  ],
  "ambush-at-the-abandoned-house": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/ambush-at-the-abandoned-house.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/ambush-at-the-abandoned-house.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Joerick",
+    "Spingel",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03464575,
+   "at": "2026-10-24T07:38:56",
+   "draft": "gen/drafts/ambush-at-the-abandoned-house/20261024-073856-062000.jpg"
   }
  ],
  "grails-cellar": [
@@ -1497,6 +1600,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/calling-grails-brother.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/calling-grails-brother.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Spingel",
+    "Joerick"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.034649,
+   "at": "2026-10-24T07:38:51",
+   "draft": "gen/drafts/calling-grails-brother/20261024-073851-435000.jpg"
   }
  ],
  "bag-of-devouring": [
@@ -1609,18 +1733,75 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/grails-brother-arrives.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/grails-brother-arrives.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03461225,
+   "at": "2026-10-24T07:38:51",
+   "draft": "gen/drafts/grails-brother-arrives/20261024-073851-371000.jpg"
   }
  ],
  "kicked-down-the-hatch": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/kicked-down-the-hatch.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/kicked-down-the-hatch.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03460675,
+   "at": "2026-10-24T07:38:51",
+   "draft": "gen/drafts/kicked-down-the-hatch/20261024-073851-387000.jpg"
   }
  ],
  "the-brother-dies-to-rise": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-brother-dies-to-rise.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-brother-dies-to-rise.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Lirael",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03460075,
+   "at": "2026-10-24T07:38:52",
+   "draft": "gen/drafts/the-brother-dies-to-rise/20261024-073852-619000.jpg"
   }
  ],
  "gelion-into-the-bag": [
@@ -1650,6 +1831,29 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/marabor-abandoned.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/marabor-abandoned.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, a muted palette. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Spingel",
+    "Joerick",
+    "Elric",
+    "Gelf"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Outside map"
+   ],
+   "cost": 0.034646,
+   "at": "2026-10-24T07:38:51",
+   "draft": "gen/drafts/marabor-abandoned/20261024-073851-286000.jpg"
   }
  ],
  "something-in-the-clouds": [

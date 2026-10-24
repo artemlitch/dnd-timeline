@@ -2030,8 +2030,8 @@
         "House Thuranni",
         "Dragonmarked Houses"
       ],
-      "img": "img/ddt-and-the-dragonmarks.jpg",
-      "img_version": 1
+      "img": "img/ddt-and-the-dragonmarks.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "elric-throws-a-spoon",
@@ -2075,8 +2075,8 @@
         "Elric",
         "Mara'bor"
       ],
-      "img": "img/verona-sharpes-tea.jpg",
-      "img_version": 1
+      "img": "img/verona-sharpes-tea.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "spying-on-damron",
@@ -2099,8 +2099,8 @@
         "Fiona Bloodworth",
         "Mara'bor"
       ],
-      "img": "img/spying-on-damron.jpg",
-      "img_version": 1
+      "img": "img/spying-on-damron.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "luring-spingel-and-joerick",
@@ -2124,8 +2124,8 @@
         "Bloodworth",
         "Mara'bor"
       ],
-      "img": "img/luring-spingel-and-joerick.jpg",
-      "img_version": 1
+      "img": "img/luring-spingel-and-joerick.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "ambush-at-the-abandoned-house",
@@ -2148,8 +2148,8 @@
         "Joerick",
         "Mara'bor"
       ],
-      "img": "img/ambush-at-the-abandoned-house.jpg",
-      "img_version": 1
+      "img": "img/ambush-at-the-abandoned-house.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "grails-cellar",
@@ -2195,8 +2195,8 @@
         "Sending Stone",
         "Gelion Grimdell"
       ],
-      "img": "img/calling-grails-brother.jpg",
-      "img_version": 1
+      "img": "img/calling-grails-brother.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "bag-of-devouring",
@@ -2315,8 +2315,8 @@
         "Grail's Necklace",
         "Mara'bor"
       ],
-      "img": "img/grails-brother-arrives.jpg",
-      "img_version": 1
+      "img": "img/grails-brother-arrives.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "kicked-down-the-hatch",
@@ -2338,8 +2338,8 @@
         "Sazed",
         "Grail's Necklace"
       ],
-      "img": "img/kicked-down-the-hatch.jpg",
-      "img_version": 1
+      "img": "img/kicked-down-the-hatch.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-brother-dies-to-rise",
@@ -2361,8 +2361,8 @@
         "Grail's Necklace",
         "Zombies"
       ],
-      "img": "img/the-brother-dies-to-rise.jpg",
-      "img_version": 1
+      "img": "img/the-brother-dies-to-rise.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "gelion-into-the-bag",
@@ -2409,8 +2409,8 @@
         "Elric",
         "Gelf"
       ],
-      "img": "img/marabor-abandoned.jpg",
-      "img_version": 1
+      "img": "img/marabor-abandoned.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "something-in-the-clouds",

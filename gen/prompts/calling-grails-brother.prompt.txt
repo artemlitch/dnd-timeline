@@ -1,0 +1,24 @@
+{tone}
+This scene is an impersonation over a magic stone.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/abandoned-house}
+In this moment: a dark room in the abandoned house, the two captured guards tied and gagged in the corner. Time and light: evening, a single candle.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Lirael holds the necromancer's black, skull-carved sending stone close to his mouth, doing his best impression of Grail Grimdell, voice ragged, claiming the prison fight is turning against him. Brand, in his power armor, and Sazed lean in, barely containing themselves. In the corner the gagged guards Spingel and Joerick stare.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Spingel} Here: tied and gagged.
+- {cast:Joerick} Here: tied and gagged.
+- Grail Grimdell's portrait is attached for reference only; Grail Grimdell is not in this moment. Do not draw him.
+
+REFERENCES
+{references}

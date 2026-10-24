@@ -1,0 +1,22 @@
+{tone}
+This scene is a necromancer killing himself to come back stronger.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:marabor/abandoned-house}
+In this moment: the ground floor of the abandoned house, broken skeleton bones on the floor. Time and light: midnight, the violet glow of faerie fire.
+{maps:Mara'bor Inside}
+
+THE MOMENT
+Grail's brother, outlined in clinging violet faerie fire that gave away his invisibility, has the blood-red gem necklace around his neck and drives a dagger into his own chest, eyes wild. Sazed lies downed on the floor at his feet. Lirael and Brand, in his power armor, rush in, too late to stop him.
+
+CAST
+- Grail's brother: a thin, pale adult man who looks much like Grail, gaunt and sharp-featured with black hair, in a black hooded robe. Here: glowing violet with faerie fire, stabbing himself.
+- {cast:Sazed} Here: downed on the floor.
+- {cast:Lirael}
+- {cast:Brand}
+
+REFERENCES
+{references}

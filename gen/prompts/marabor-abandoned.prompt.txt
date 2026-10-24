@@ -1,0 +1,25 @@
+{tone}
+This scene is a hidden village found suddenly empty.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:marabor}
+In this moment: the cave village's lanes deserted, doors hanging open, belongings left behind. Time and light: early morning.
+{maps:Mara'bor Outside}
+
+THE MOMENT
+The party steps out of the abandoned house into a silent, empty village: everyone is gone. Lirael turns slowly, looking down the deserted lane. Brand, in his power armor, cuts the ropes on the two guards Spingel and Joerick, who stumble away. Sazed stands with Elric and Gelf, who point the way out.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Spingel}
+- {cast:Joerick}
+- {cast:Elric}
+- {cast:Gelf}
+
+REFERENCES
+{references}
