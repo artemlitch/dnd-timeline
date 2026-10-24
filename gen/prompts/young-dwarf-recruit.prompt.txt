@@ -1,0 +1,23 @@
+{tone}
+This scene is young recruits signing up for war on a busy night street.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: a lively street at night, taverns open, a recruitment table under a lamp. Time and light: night, lamplight and tavern glow.
+{maps:Starilaskur}
+
+THE MOMENT
+A line of eager young recruits stands at the recruitment table. A young dwarf recruit grins and salutes, eyeing Skye. Brand, in his power armor, Lirael and Skye return the salute as they pass. Down the street, military police drag away a struggling draft dodger.
+
+CAST
+- The recruits: eager young men of many races, one a young dwarf with a fresh haircut.
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Skye}
+- The military police: Brelish military police in dark uniforms with peaked caps and batons.
+
+REFERENCES
+{references}

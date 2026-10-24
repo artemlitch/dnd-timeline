@@ -1,0 +1,20 @@
+{tone}
+This scene is a dwarf fixing a stranger's roof with magic.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur}
+In this moment: the roof of a small family house on a Starilaskur street. Time and light: morning.
+{maps:Starilaskur}
+
+THE MOMENT
+Brand, in his power armor, stands on the roof casting mending on a hole, a ladder stuck halfway through it. Below, a husband and wife who own the house watch, arms folded, slowly impressed.
+
+CAST
+- {cast:Brand}
+- The couple: a sceptical townsman and his wife.
+
+REFERENCES
+{references}

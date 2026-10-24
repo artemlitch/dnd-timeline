@@ -1,0 +1,23 @@
+{tone}
+This scene is a charmed prisoner waking up and giving the game away.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: the wrecked town square after the fight, overturned tables, a body on the ground. Time and light: before dawn, lamplight.
+{maps:Starilaskur}
+
+THE MOMENT
+Darvok, just free of the charm and dazed, struggles in the grip of two police officers, shouting for Aundair. Sergeant Taggart watches him with a raised eyebrow. The party holds Killian aside. Jeff spits on a dead body on the cobbles.
+
+CAST
+- Darvok: a burly Aundairian agent in a torn blue coat.
+- {cast:Taggart}
+- {cast:Killian}
+- {cast:Jeff}
+- The police: Brelish military police in dark uniforms with peaked caps and batons.
+
+REFERENCES
+{references}

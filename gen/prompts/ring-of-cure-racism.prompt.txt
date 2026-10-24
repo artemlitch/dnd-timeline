@@ -1,0 +1,21 @@
+{tone}
+This scene is two dwarves nearly blasting a drow for a crude joke.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/starilaskur-broadhelm-forge}
+In this moment: inside the dwarven forge, glowing furnaces, weapons and armour on the walls. Time and light: night, forge-glow.
+{maps:Starilaskur}
+
+THE MOMENT
+Lirael has just made a crude joke, and both Broadhelms whip around at once, Brand, in his power armor, and Ember, each with a crackling thunder gauntlet raised at him. Lirael throws his hands up, grinning nervously. On the workbench between them sits a small ring.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Ember}
+
+REFERENCES
+{references}

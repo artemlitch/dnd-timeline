@@ -1,0 +1,20 @@
+{tone}
+This scene is a monk hiding above a station master's desk.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/station-masters-office}
+In this moment: the station master's office high above the old station, a wall of big levers and switches behind the desk, piles of paperwork. Time and light: afternoon, lamplight.
+{maps:Military Railway Junction}
+
+THE MOMENT
+Chaton E'Clair, an orange tabaxi station master, scribbles at his paperwork, ears twitching. Above him, Sazed clings to the rafters, motionless, studying the wall of switches behind the desk.
+
+CAST
+- {cast:Chaton}
+- {cast:Sazed}
+
+REFERENCES
+{references}

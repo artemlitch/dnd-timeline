@@ -1,0 +1,25 @@
+{tone}
+This scene is a furious captain and a police sergeant taking charge.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur}
+In this moment: the street outside the forge, a cordon of police holding back a drunken crowd, and a vast glowing dome of sigils rising over the whole town. Time and light: dusk.
+{maps:Starilaskur}
+
+THE MOMENT
+Captain Dane, furious, jabs a finger at the party. Sergeant Taggart steps between them, calm, holding up a hand to her. Brand, in his power armor, Lirael and Sazed wait. In the crowd, a drunk Jeff waves.
+
+CAST
+- {cast:Captain Dane}
+- {cast:Taggart}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Jeff}
+- The crowd: drunk townsfolk of many races.
+
+REFERENCES
+{references}

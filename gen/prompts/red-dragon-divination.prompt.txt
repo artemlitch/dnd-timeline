@@ -1,0 +1,22 @@
+{tone}
+This scene is a divination answered by blinding light.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/chapel-to-dol-arrah}
+In this moment: a makeshift chapel on the ship built from random items: crates, candles and a scrap-metal sunburst. Time and light: morning.
+{maps:Below Deck Moonwatch}
+
+THE MOMENT
+Lirael kneels in the makeshift chapel, engulfed in a bright, blinding light as the divination answers him. Eloria stands beside her chapel watching. Skye bounces with excitement in the doorway, and Sazed looks at her, relieved.
+
+CAST
+- {cast:Lirael}
+- {cast:Eloria}
+- {cast:Skye}
+- {cast:Sazed}
+
+REFERENCES
+{references}

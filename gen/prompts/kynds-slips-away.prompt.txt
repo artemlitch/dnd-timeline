@@ -1,0 +1,21 @@
+{tone}
+This scene is a monk losing a fugitive across the rooftops.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: the rooftops above narrow alleys, chimneys and laundry lines. Time and light: before dawn.
+{maps:Starilaskur}
+
+THE MOMENT
+Sazed crouches on a rooftop edge, scanning the maze of alleys below for a fleeing halfling. Below, a police officer points down one alley. Far off, a tiny figure slips around a corner and is gone.
+
+CAST
+- {cast:Sazed}
+- The officer: one of the Brelish military police in dark uniforms with peaked caps and batons.
+- {cast:Kynds} Here: tiny in the distance, fleeing round a corner.
+
+REFERENCES
+{references}

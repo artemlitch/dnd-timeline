@@ -1,0 +1,21 @@
+{tone}
+This scene is sneaking into a railway junction hidden in a bag.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/railway-junction-underground-station}
+In this moment: an employees-only door in the railway junction, a tripwire across the stairs going down. Time and light: midday, dim lamplight.
+{maps:Military Railway Junction}
+
+THE MOMENT
+Brand, in a black stealth suit, kneels picking the lock of the employees-only door. Behind him, Lirael's illusion of a trash can stands in the corridor, and a hand is reaching out of an open bag of holding behind it: Sazed climbing out.
+
+CAST
+- {cast:Brand} Here: in a black stealth suit instead of his power armor.
+- {cast:Lirael}
+- {cast:Sazed} Here: climbing out of a bag of holding.
+
+REFERENCES
+{references}
