@@ -1,0 +1,20 @@
+{tone}
+This scene is a village attacked by masked changelings in the night.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: a small drow village in the woods at night, houses burning. Time and light: night, firelight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+The Flock sweep through the burning village, dragging drow villagers from their homes. One changeling, running, is caught by two others and shoved toward a swirling dark portal at the edge of the trees.
+
+CAST
+- {cast:The Flock} Here: many of them.
+- The villagers: drow villagers in nightclothes, fleeing.
+
+REFERENCES
+{references}

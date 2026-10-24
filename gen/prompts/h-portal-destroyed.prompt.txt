@@ -1,0 +1,25 @@
+{tone}
+This scene is a regiment blowing up an ancient portal.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:demon-village/broken-circle}
+In this moment: the ancient teleportation circle in the forest, glowing with strange markings. Time and light: night, the circle's glow.
+{maps:Broken Portal}
+
+THE MOMENT
+A great concussion bomb detonates on the glowing circle, the blast tearing its stones apart. Soldiers of the Royal Ardev Regiment dive for cover behind the trees, led by Captain Flowers. In the flash, small imps and quasits that had just come through tumble out across the forest floor, stranded.
+
+CAST
+- {cast:Captain Flowers} Here: younger, in regiment uniform.
+- {cast:Murphy Gravewood} Here: a young soldier in regiment uniform.
+- {cast:Gauss Hog} Here: a young soldier in regiment uniform.
+- {cast:Kal Valvier} Here: a young soldier in regiment uniform.
+- The regiment: young conscript soldiers in Brelish uniforms.
+- {cast:Imp} Here: several of them.
+- {cast:Quasit} Here: several of them.
+
+REFERENCES
+{references}

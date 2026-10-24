@@ -1,0 +1,20 @@
+{tone}
+This scene is children hiding in a well while their village burns.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:stones-throw/stones-throw-well}
+In this moment: the village burning in the night, bodies with radiant burns in the lane, the old stone well in the middle. Time and light: night, firelight and white radiant light.
+{maps:Stones Throw}
+
+THE MOMENT
+Looking down into the dark well: ten-year-old Skye clings to the wet stones with eight small children huddled below her, all staring up in silent terror. Above the rim, the sky glows with fire and blinding white radiant light.
+
+CAST
+- {cast:Skye} Here: ten years old.
+- The children: eight small shifter children.
+
+REFERENCES
+{references}

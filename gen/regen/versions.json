@@ -11291,6 +11291,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/freeing-elfina.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/freeing-elfina.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Elfina",
+    "Sazed",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Starilaskur map"
+   ],
+   "cost": 0.03461125,
+   "at": "2026-10-24T11:59:45",
+   "draft": "gen/drafts/freeing-elfina/20261024-115945-076000.jpg"
   }
  ],
  "witches-waltz": [
@@ -11320,6 +11340,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/lirael-in-the-cart.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/lirael-in-the-cart.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Witchs Waltz map"
+   ],
+   "cost": 0.0346055,
+   "at": "2026-10-24T12:01:45",
+   "draft": "gen/drafts/lirael-in-the-cart/20261024-120145-751000.jpg"
   }
  ],
  "kynds-takes-killian": [
@@ -11986,6 +12025,166 @@
    "cost": 0.03414925,
    "at": "2026-10-24T11:56:06",
    "draft": "gen/drafts/h-first-airship/20261024-115606-859000.jpg"
+  }
+ ],
+ "h-lirael-sr-obsession": [
+  {
+   "version": 2,
+   "file": "site/img/h-lirael-sr-obsession.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-lirael-sr-obsession.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael Sr",
+    "Felicia Sr",
+    "Lirael"
+   ],
+   "refs": [
+    "Character lineup",
+    "Lireal Sr Secret Office map"
+   ],
+   "cost": 0.0345815,
+   "at": "2026-10-24T11:59:46",
+   "draft": "gen/drafts/h-lirael-sr-obsession/20261024-115946-274000.jpg"
+  }
+ ],
+ "h-lirael-sr-vanishes": [
+  {
+   "version": 2,
+   "file": "site/img/h-lirael-sr-vanishes.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-lirael-sr-vanishes.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Lireal Sr Den/Basement map"
+   ],
+   "cost": 0.03419975,
+   "at": "2026-10-24T11:59:45",
+   "draft": "gen/drafts/h-lirael-sr-vanishes/20261024-115945-198000.jpg"
+  }
+ ],
+ "h-watchers-massacre": [
+  {
+   "version": 2,
+   "file": "site/img/h-watchers-massacre.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-watchers-massacre.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Elfina"
+   ],
+   "refs": [
+    "Character lineup",
+    "Watchers of the Gate Cultist",
+    "The Witchs Waltz map"
+   ],
+   "cost": 0.03486275,
+   "at": "2026-10-24T11:59:49",
+   "draft": "gen/drafts/h-watchers-massacre/20261024-115949-956000.jpg"
+  }
+ ],
+ "h-stones-throw-founded": [
+  {
+   "version": 2,
+   "file": "site/img/h-stones-throw-founded.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-stones-throw-founded.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Skye"
+   ],
+   "refs": [
+    "Character lineup",
+    "Covenant of Emberfall Druid",
+    "Stones Throw map"
+   ],
+   "cost": 0.03481475,
+   "at": "2026-10-24T11:59:48",
+   "draft": "gen/drafts/h-stones-throw-founded/20261024-115948-143000.jpg"
+  }
+ ],
+ "h-bravewind-attacked": [
+  {
+   "version": 2,
+   "file": "site/img/h-bravewind-attacked.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-bravewind-attacked.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "The Flock",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.0344745,
+   "at": "2026-10-24T11:59:46",
+   "draft": "gen/drafts/h-bravewind-attacked/20261024-115946-535000.jpg"
+  }
+ ],
+ "h-portal-destroyed": [
+  {
+   "version": 2,
+   "file": "site/img/h-portal-destroyed.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-portal-destroyed.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Captain Flowers",
+    "Murphy Gravewood",
+    "Gauss Hog",
+    "Kal Valvier"
+   ],
+   "refs": [
+    "Character lineup",
+    "Imp",
+    "Quasit",
+    "Broken Portal map"
+   ],
+   "cost": 0.03521175,
+   "at": "2026-10-24T11:59:46",
+   "draft": "gen/drafts/h-portal-destroyed/20261024-115946-817000.jpg"
+  }
+ ],
+ "h-regiment-disbanded": [
+  {
+   "version": 2,
+   "file": "site/img/h-regiment-disbanded.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-regiment-disbanded.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Captain Flowers",
+    "Murphy Gravewood",
+    "Gauss Hog",
+    "Kal Valvier"
+   ],
+   "refs": [
+    "Character lineup",
+    "Wroat Street map"
+   ],
+   "cost": 0.03459125,
+   "at": "2026-10-24T11:59:50",
+   "draft": "gen/drafts/h-regiment-disbanded/20261024-115950-553000.jpg"
+  }
+ ],
+ "h-stones-throw-massacre": [
+  {
+   "version": 2,
+   "file": "site/img/h-stones-throw-massacre.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-stones-throw-massacre.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Skye"
+   ],
+   "refs": [
+    "Character lineup",
+    "Stones Throw map"
+   ],
+   "cost": 0.03452325,
+   "at": "2026-10-24T12:01:10",
+   "draft": "gen/drafts/h-stones-throw-massacre/20261024-120110-753000.jpg"
   }
  ]
 }

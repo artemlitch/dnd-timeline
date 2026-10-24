@@ -1,0 +1,19 @@
+{tone}
+This scene is a missing man's empty study.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: the den, abandoned: a cold cup on the desk, a stack of unreturned library books, a journal left open at a handwritten poem, and in the corner a small black stone obelisk. Time and light: before dawn, moonlight through the window.
+{maps:Lireal Sr Den/Basement}
+
+THE MOMENT
+The den is empty. Lirael Sr's chair is pushed back from the desk as if he just stood up, his journal lies open at a last poem, and the small black obelisk in the corner catches the moonlight.
+
+CAST
+- No one: the den is empty; Lirael Sr is gone.
+
+REFERENCES
+{references}

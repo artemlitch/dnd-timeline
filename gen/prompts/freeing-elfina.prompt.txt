@@ -1,0 +1,22 @@
+{tone}
+This scene is a freed prisoner asking strange questions.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/square-alleys-and-mine-works}
+In this moment: a Starilaskur street at night, a glowing dome of sigils over the town. Time and light: night, streetlamps and the dome's glow.
+{maps:Starilaskur}
+
+THE MOMENT
+Elfina walks free beside the party, clutching a handful of pamphlets about kind gods, asking earnestly what they sacrificed for their powers. Brand, in his power armor, hands her another pamphlet. Sazed and Lirael exchange a look.
+
+CAST
+- {cast:Elfina}
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Lirael}
+
+REFERENCES
+{references}

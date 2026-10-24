@@ -1,0 +1,21 @@
+{tone}
+This scene is a father consumed by an obsession.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: the secret office, every wall pinned with notes, sketches of a dark mirror and maps, plates of untouched food. Time and light: late night, a single guttering lamp.
+{maps:Lireal Sr Secret Office}
+
+THE MOMENT
+Lirael Sr hunches over his desk, gaunt and hollow-eyed, scribbling in a journal under sketches of a dark mirror and a shadowy figure. In the doorway behind him, Felicia Sr watches him with worry, one hand on the shoulder of her son Lirael, about to send him after his father.
+
+CAST
+- {cast:Lirael Sr} Here: gaunt, unshaven and hollow-eyed.
+- {cast:Felicia Sr}
+- {cast:Lirael}
+
+REFERENCES
+{references}

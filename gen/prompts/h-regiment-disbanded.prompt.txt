@@ -1,0 +1,23 @@
+{tone}
+This scene is a regiment's flag lowered for the last time.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat}
+In this moment: a parade ground in Wroat, the city walls behind. Time and light: midday, grey sky.
+{maps:Wroat Street}
+
+THE MOMENT
+The regiment's banner is lowered for the last time. Captain Flowers salutes his men, then turns away with his kit bag. Murphy Gravewood, Gauss Hog and Kal Valvier stand together in the thinning ranks, watching him go.
+
+CAST
+- {cast:Captain Flowers}
+- {cast:Murphy Gravewood}
+- {cast:Gauss Hog}
+- {cast:Kal Valvier}
+- The regiment: Brelish soldiers in uniform.
+
+REFERENCES
+{references}

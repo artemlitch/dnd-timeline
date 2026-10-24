@@ -1,0 +1,21 @@
+{tone}
+This scene is friends finding a terrified man hiding in a cart.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/witches-waltz}
+In this moment: a street outside the cult hall, an old wooden handcart against a wall. Time and light: night, streetlamps.
+{maps:The Witchs Waltz}
+
+THE MOMENT
+Lirael huddles in the bed of an old wooden handcart, knees pulled up, face wet with tears, shaking after the vision of what he did. Sazed kneels at the side of the cart, a steady hand on his shoulder, talking him down, and Brand, in his power armor, leans on the cart beside them. Behind them, the dark doorway of the cult hall.
+
+CAST
+- {cast:Lirael} Here: crying and shaking.
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is a possessed man destroying a cult.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/witches-waltz}
+In this moment: the cult hall of the Watchers of the Gate: shattered mirrors, a burning library, bodies everywhere. Time and light: deep night, firelight.
+{maps:The Witchs Waltz}
+
+THE MOMENT
+Lirael stands in the middle of the hall, possessed, his eyes black and empty, drenched in blood among the torn remains of the Watchers. Behind him the cult's library burns and every mirror is shattered. In the shadows behind a pillar a young woman, Elfina, hides, staring in terror.
+
+CAST
+- {cast:Lirael} Here: possessed, his eyes black and empty, drenched in blood.
+- {cast:Watchers of the Gate Cultist} Here: many of them, dead and torn apart.
+- {cast:Elfina} Here: hiding behind a pillar, terrified.
+
+REFERENCES
+{references}

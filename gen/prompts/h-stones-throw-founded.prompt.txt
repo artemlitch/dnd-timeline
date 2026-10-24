@@ -1,0 +1,22 @@
+{tone}
+This scene is a shifter clan founding a new village.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:stones-throw}
+In this moment: a forest clearing where the first log houses of a new village are going up. Time and light: midday.
+{maps:Stones Throw}
+
+THE MOMENT
+Glade, the clan leader, raises the first roof beam with his clan around him, cheering. His young daughter Skye, about nine, sits on a stack of logs watching. At the edge of the clearing, a druid in Covenant robes walks away, angry, cast out.
+
+CAST
+- Glade: a broad, rugged shifter man with long wild brown hair and sideburns, Skye's father.
+- {cast:Skye} Here: about nine years old.
+- {cast:Covenant of Emberfall Druid}
+- The clan: shifters of all ages with wild hair and bestial features.
+
+REFERENCES
+{references}

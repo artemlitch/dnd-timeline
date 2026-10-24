@@ -609,7 +609,8 @@
         "Ardev"
       ],
       "major": false,
-      "img": "media/character.jpg"
+      "img": "img/h-lirael-sr-obsession.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-lirael-sr-vanishes",
@@ -630,7 +631,8 @@
         "Blazehelm"
       ],
       "major": false,
-      "img": "media/art2.jpg"
+      "img": "img/h-lirael-sr-vanishes.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-watchers-massacre",
@@ -653,7 +655,8 @@
         "Elfina"
       ],
       "major": false,
-      "img": "media/hero-battle.jpg"
+      "img": "img/h-watchers-massacre.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-stones-throw-founded",
@@ -675,7 +678,8 @@
         "Skye"
       ],
       "major": false,
-      "img": "media/khorvaire-map.jpg"
+      "img": "img/h-stones-throw-founded.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-bravewind-attacked",
@@ -697,7 +701,8 @@
         "Dreamweaver"
       ],
       "major": false,
-      "img": "media/art2.jpg"
+      "img": "img/h-bravewind-attacked.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-portal-destroyed",
@@ -719,7 +724,8 @@
         "Hobbstweedle"
       ],
       "major": false,
-      "img": "media/hero-battle.jpg"
+      "img": "img/h-portal-destroyed.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-regiment-disbanded",
@@ -741,7 +747,8 @@
         "Wroat"
       ],
       "major": false,
-      "img": "media/five-nations.jpg"
+      "img": "img/h-regiment-disbanded.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "h-stones-throw-massacre",
@@ -764,7 +771,8 @@
         "Shifters"
       ],
       "major": false,
-      "img": "media/art2.jpg"
+      "img": "img/h-stones-throw-massacre.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "wizard-and-the-raven",
@@ -11411,8 +11419,8 @@
         "The Fury",
         "Sovereign Host"
       ],
-      "img": "img/freeing-elfina.jpg",
-      "img_version": 1
+      "img": "img/freeing-elfina.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "witches-waltz",
@@ -11460,8 +11468,8 @@
         "Witches Waltz",
         "Mirrors"
       ],
-      "img": "img/lirael-in-the-cart.jpg",
-      "img_version": 1
+      "img": "img/lirael-in-the-cart.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "kynds-takes-killian",
