@@ -1,0 +1,21 @@
+{tone}
+This scene is a sneaky raid on a locked room of potions.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:blazehelms-mansion/potion-room}
+In this moment: shelves of glowing bottles in every colour, an alchemy bench. Time and light: night, lamplight and the glow of the potions.
+{maps:Mansion Top Floor}
+
+THE MOMENT
+Brand, in his power armor, is hunched over the alchemy bench scribbling potion recipes into a notebook, utterly absorbed, bottles lined up in front of him. Lirael holds up a small bottle of shimmering, half-transparent liquid, a potion of invisibility. Sazed stands at the door, peering out through the crack, keeping watch.
+
+CAST
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

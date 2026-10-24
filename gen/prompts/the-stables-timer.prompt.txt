@@ -1,0 +1,22 @@
+{tone}
+This scene is a race against a ticking countdown.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/kitchen-and-stables}
+In this moment: the stables behind the kitchen; the kitchen fireplace's back wall has been smashed open into the stable. Time and light: morning, every room lit though the lights were left off.
+{maps:Home Base}
+
+THE MOMENT
+Brand has just smashed through the back of the kitchen fireplace into the stables, bricks flying, and dives at a ticking clockwork countdown timer on the wall. Sazed strikes down a young kruthik, a scuttling insect-like reptile with plated armour and sharp limbs. Behind them a faint glowing hand, Lirael's mage hand, floats a key out of a broken glass box.
+
+CAST
+- {cast:Brand} Here: in nightclothes, without his power armor.
+- {cast:Sazed}
+- {cast:Lirael}
+- The kruthik: a young kruthik, a dog-sized insect-like reptile with plated armour and sharp spiked limbs.
+
+REFERENCES
+{references}

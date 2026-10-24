@@ -1,0 +1,21 @@
+{tone}
+This scene is mixing two potions to see the invisible.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house}
+In this moment: a small room with a table holding four potion bottles, red, yellow, blue and purple, and a dwarvish rune carved on the wall. Time and light: morning, every room lit though the lights were left off.
+{maps:Home Base}
+
+THE MOMENT
+Brand has just mixed the blue and yellow potions into a green one and downed it, and his eyes widen: floating in the middle of the room, visible only to him, is a ghostly glimmer of a key. Lirael and Sazed squint at the empty air where he points, each holding a cup of the green potion.
+
+CAST
+- {cast:Brand} Here: in nightclothes, without his power armor.
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

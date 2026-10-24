@@ -1,0 +1,24 @@
+{tone}
+This scene is a gnome turning a dance floor into chaos.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:blazehelms-mansion/music-room-and-stage}
+In this moment: the music room packed with dancers, a band on the stage. Time and light: night, stage lights and lamplight.
+{maps:Mansion Main Floor}
+
+THE MOMENT
+On stage Valhalla Eriksson's band plays hard while Spingus Dillguard, the gnome chef, flings a huge sack of ball bearings across the dance floor: dancers' feet shoot out from under them and they go down in heaps. Sazed, trying to relax at the edge of the floor, stares at the two hundred ball bearings Spingus just pressed into his hands. Brand, in his power armor, stands by the wall, too shy to speak to the pretty dwarf woman beside him.
+
+CAST
+- {cast:Spingus Dillguard}
+- {cast:Sazed}
+- {cast:Brand}
+- The dwarf woman: a beautiful dwarf woman with braided auburn hair in a fine dress.
+- Valhalla Eriksson and her band: a fierce dwarf singer with a horned helm and a band on stage.
+- The dancers: party guests of many races.
+
+REFERENCES
+{references}

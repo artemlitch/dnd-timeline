@@ -1,0 +1,22 @@
+{tone}
+This scene is recruits tearing through a military obstacle course.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the course: a climbing wall, a jump wall, a pool of rough water and training dummies. Time and light: day.
+{maps:Obstacle Course}
+
+THE MOMENT
+Sazed races ahead through the rough water and knocks a training dummy flat. Behind him Brand, in his power armor, drops with a huge splash into the water, the thorny vine he was climbing on dissolving in his hand. Back at the climbing wall Keys the dwarf is stuck halfway up. Dyll Strickland stands at the edge, bellowing.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Keys}
+- {cast:Dyll Strickland}
+
+REFERENCES
+{references}

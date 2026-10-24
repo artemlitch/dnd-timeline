@@ -1,0 +1,21 @@
+{tone}
+This scene is a man politely asking his reflection to step aside.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/dining-room}
+In this moment: a tall mirror filling the kitchen doorway; dead constructs on the dining room floor. Time and light: morning, every room lit though the lights were left off.
+{maps:Home Base}
+
+THE MOMENT
+Lirael stands before the mirrored door and his reflection, with a small courteous bow, steps out of the frame to one side, holding out a red key to him. Sazed watches, astonished. In the background Brand, in nightclothes, is bolting down a cloth sack to a spout in the wall with a bolt gun, its mouth swirling dark.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand} Here: in nightclothes, without his power armor.
+
+REFERENCES
+{references}

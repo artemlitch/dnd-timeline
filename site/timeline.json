@@ -3715,8 +3715,8 @@
         "Potion of Invisibility",
         "Potion Recipes"
       ],
-      "img": "img/the-potion-room.jpg",
-      "img_version": 1
+      "img": "img/the-potion-room.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "paxons-room-and-the-teleporter",
@@ -3785,8 +3785,8 @@
         "Brand",
         "Sazed"
       ],
-      "img": "img/valhalla-eriksson-ball-bearings.jpg",
-      "img_version": 1
+      "img": "img/valhalla-eriksson-ball-bearings.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "tauren-finds-faith",
@@ -3926,8 +3926,8 @@
         "Locked House",
         "Keys"
       ],
-      "img": "img/locked-in-by-metal-plates.jpg",
-      "img_version": 1
+      "img": "img/locked-in-by-metal-plates.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "warforged-in-the-dining-room",
@@ -3973,8 +3973,8 @@
         "Polar Bear",
         "Brand's Workshop"
       ],
-      "img": "img/polar-bear-in-the-ceiling.jpg",
-      "img_version": 1
+      "img": "img/polar-bear-in-the-ceiling.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-mirrored-door",
@@ -3997,8 +3997,8 @@
         "Stabilizing Syringes",
         "Red Key"
       ],
-      "img": "img/the-mirrored-door.jpg",
-      "img_version": 1
+      "img": "img/the-mirrored-door.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-stables-timer",
@@ -4021,8 +4021,8 @@
         "Lirael",
         "Stables"
       ],
-      "img": "img/the-stables-timer.jpg",
-      "img_version": 1
+      "img": "img/the-stables-timer.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-four-potions",
@@ -4044,8 +4044,8 @@
         "See Invisibility",
         "Invisible Key"
       ],
-      "img": "img/the-four-potions.jpg",
-      "img_version": 1
+      "img": "img/the-four-potions.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "the-strange-rooms",
@@ -4067,8 +4067,8 @@
         "Brand",
         "Hobbstweedle"
       ],
-      "img": "img/the-strange-rooms.jpg",
-      "img_version": 1
+      "img": "img/the-strange-rooms.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "dyll-strickland-dressing-down",
@@ -4138,8 +4138,8 @@
         "Dyll Strickland",
         "Obstacle Course"
       ],
-      "img": "img/obstacle-course-begins.jpg",
-      "img_version": 1
+      "img": "img/obstacle-course-begins.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "liraels-rod-and-chicken",
@@ -4161,8 +4161,8 @@
         "Ring of Chicken",
         "Obstacle Course"
       ],
-      "img": "img/liraels-rod-and-chicken.jpg",
-      "img_version": 1
+      "img": "img/liraels-rod-and-chicken.v2.jpg",
+      "img_version": 2
     },
     {
       "id": "liraels-first-flag",

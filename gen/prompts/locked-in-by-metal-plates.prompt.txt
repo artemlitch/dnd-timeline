@@ -1,0 +1,21 @@
+{tone}
+This scene is waking up trapped in a house turned into a test.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house}
+In this moment: the front hall of the house; a heavy steel plate now covers the front door, with three coloured keyholes. Time and light: morning, every room lit though the lights were left off.
+{maps:Home Base}
+
+THE MOMENT
+A heavy metal plate has just slammed down over the doorway behind Sazed with a crash, cutting off the sound of their friends fighting on the other side. Lirael and Brand, still without his armor in his nightclothes, stare at the steel plate sealing the front door, set with three keyholes, red, blue and green. Light glows from under every door in the hall.
+
+CAST
+- {cast:Sazed}
+- {cast:Lirael}
+- {cast:Brand} Here: in nightclothes, without his power armor.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is exploring a house where every room breaks the rules.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/shrink-and-enlarge-rooms}
+In this moment: a room whose magic makes anyone inside it giant. Time and light: morning, every room lit though the lights were left off.
+{maps:Home Base}
+
+THE MOMENT
+Brand has stepped into the last room and grown enormous, hunched against the ceiling, grinning with delight. Through the doorway behind him, Sazed's library is upside down, books and chairs resting on the ceiling. Lirael holds up a tiny, shrunken mouse on his palm, just fished out of a chest.
+
+CAST
+- {cast:Brand} Here: in nightclothes, without his power armor, grown giant.
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

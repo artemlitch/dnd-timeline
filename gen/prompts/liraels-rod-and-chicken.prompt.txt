@@ -1,0 +1,19 @@
+{tone}
+This scene is a wizard cheating an obstacle course with magic.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the tall jump wall of the course. Time and light: day.
+{maps:Obstacle Course}
+
+THE MOMENT
+Lirael hangs from an iron rod fixed in mid-air above the jump wall, and in the same instant he is turning into a brown hen to flap the last stretch to the top. A faint glowing hand, his mage hand, plucks a key off the top of the wall.
+
+CAST
+- {cast:Lirael} Here: mid-transformation into a brown hen, half drow, half chicken.
+
+REFERENCES
+{references}

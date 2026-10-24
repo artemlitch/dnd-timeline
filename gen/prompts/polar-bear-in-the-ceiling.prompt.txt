@@ -1,0 +1,22 @@
+{tone}
+This scene is a bear dropping out of the ceiling onto a man.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:party-house/brands-workshop}
+In this moment: a tinkerer's workshop of tools and half-built devices, a sprung bear trap on the floor. Time and light: morning, every room lit though the lights were left off.
+{maps:Home Base}
+
+THE MOMENT
+Lirael has just sprung the obvious bear trap with a fire poker, and a polar bear has dropped from a hatch in the ceiling right on top of him, mauling him on the floor. Through the doorway a huge black bear, Keys in bear form, is charging in to help. Brand grabs a heavy wrench from the bench.
+
+CAST
+- {cast:Lirael} Here: on the floor under the polar bear.
+- The polar bear: a huge white polar bear.
+- {cast:Keys} Here: wild-shaped into a huge black bear.
+- {cast:Brand} Here: in nightclothes, without his power armor.
+
+REFERENCES
+{references}
