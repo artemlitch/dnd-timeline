@@ -3253,6 +3253,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/tauren-finds-faith.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/tauren-finds-faith.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Tauren"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mansion Main Floor map"
+   ],
+   "cost": 0.03460175,
+   "at": "2026-10-24T12:48:06",
+   "draft": "gen/drafts/tauren-finds-faith/20261024-124806-203000.jpg"
   }
  ],
  "sauna-with-dyll-strickland": [
@@ -3391,6 +3409,28 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/warforged-in-the-dining-room.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/warforged-in-the-dining-room.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "Lirael",
+    "Leff",
+    "Tauren"
+   ],
+   "refs": [
+    "Character lineup",
+    "Clockwork Defender",
+    "Home Base map"
+   ],
+   "cost": 0.03505375,
+   "at": "2026-10-24T12:48:07",
+   "draft": "gen/drafts/warforged-in-the-dining-room/20261024-124807-886000.jpg"
   }
  ],
  "polar-bear-in-the-ceiling": [
@@ -3909,6 +3949,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/tauren-cannot-read.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/tauren-cannot-read.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Tauren"
+   ],
+   "refs": [
+    "Character lineup",
+    "Home Base map"
+   ],
+   "cost": 0.03457725,
+   "at": "2026-10-24T12:48:05",
+   "draft": "gen/drafts/tauren-cannot-read/20261024-124805-724000.jpg"
   }
  ],
  "quasit-village-found": [
@@ -7565,6 +7623,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/xera-harassed.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-harassed.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Xera",
+    "Turckle",
+    "Ellis",
+    "Felicia Jr"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Turckle and Churckle map"
+   ],
+   "cost": 0.034666,
+   "at": "2026-10-24T12:48:07",
+   "draft": "gen/drafts/xera-harassed/20261024-124807-189000.jpg"
   }
  ],
  "ants-and-birds": [
@@ -7926,18 +8005,73 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/stealing-the-hit-piece.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/stealing-the-hit-piece.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Grib Grimley"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Ardev Watch map"
+   ],
+   "cost": 0.0345965,
+   "at": "2026-10-24T12:48:08",
+   "draft": "gen/drafts/stealing-the-hit-piece/20261024-124808-094000.jpg"
   }
  ],
  "the-candle-test": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-candle-test.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-candle-test.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Xera"
+   ],
+   "refs": [
+    "Character lineup",
+    "Below Deck Moonwatch map"
+   ],
+   "cost": 0.034618,
+   "at": "2026-10-24T12:48:05",
+   "draft": "gen/drafts/the-candle-test/20261024-124805-335000.jpg"
   }
  ],
  "the-abandoned-house": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-abandoned-house.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-abandoned-house.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Abandoned House map"
+   ],
+   "cost": 0.03463975,
+   "at": "2026-10-24T12:48:06",
+   "draft": "gen/drafts/the-abandoned-house/20261024-124806-000000.jpg"
   }
  ],
  "mausoleum-of-ardev": [
@@ -8271,6 +8405,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-chicken-gambit.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-chicken-gambit.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Gynn"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mausoleum of Ardev map"
+   ],
+   "cost": 0.03468425,
+   "at": "2026-10-24T12:48:06",
+   "draft": "gen/drafts/the-chicken-gambit/20261024-124806-606000.jpg"
   }
  ],
  "felicias-fire": [
@@ -8641,6 +8795,24 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/xeras-window.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xeras-window.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Xera"
+   ],
+   "refs": [
+    "Character lineup",
+    "Kel Upstairs 2 map"
+   ],
+   "cost": 0.03460525,
+   "at": "2026-10-24T12:48:07",
+   "draft": "gen/drafts/xeras-window/20261024-124807-877000.jpg"
   }
  ],
  "phase-two": [
@@ -8848,6 +9020,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-even-hand-on-the-roof.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-even-hand-on-the-roof.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "The Even Hand",
+    "Mustang",
+    "Jyo"
+   ],
+   "refs": [
+    "Character lineup",
+    "Road Chase map"
+   ],
+   "cost": 0.03463325,
+   "at": "2026-10-24T12:48:05",
+   "draft": "gen/drafts/the-even-hand-on-the-roof/20261024-124805-180000.jpg"
   }
  ],
  "leap-from-the-carriage": [
@@ -9241,6 +9433,27 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/the-dream-prison.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-dream-prison.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Felicia Sr",
+    "Xera",
+    "Fey-Lynn"
+   ],
+   "refs": [
+    "Character lineup",
+    "Nightmare Beholder",
+    "Dream Prison map"
+   ],
+   "cost": 0.03491475,
+   "at": "2026-10-24T12:48:18",
+   "draft": "gen/drafts/the-dream-prison/20261024-124818-212000.jpg"
   }
  ],
  "jyo-torn-apart": [
@@ -10142,6 +10355,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/stones-throw-children-home.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/stones-throw-children-home.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Skye",
+    "Falken"
+   ],
+   "refs": [
+    "Character lineup",
+    "Fang",
+    "Hearthsfire map"
+   ],
+   "cost": 0.03489975,
+   "at": "2026-10-24T12:48:07",
+   "draft": "gen/drafts/stones-throw-children-home/20261024-124807-307000.jpg"
   }
  ],
  "spring-at-garfan": [
@@ -10284,6 +10517,26 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/xera-kisses-lirael.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/xera-kisses-lirael.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Xera",
+    "Felicia Jr",
+    "Eloria"
+   ],
+   "refs": [
+    "Character lineup",
+    "Below Deck Moonwatch map"
+   ],
+   "cost": 0.034644,
+   "at": "2026-10-24T12:48:18",
+   "draft": "gen/drafts/xera-kisses-lirael/20261024-124818-655000.jpg"
   }
  ],
  "paxon-junction-call": [
