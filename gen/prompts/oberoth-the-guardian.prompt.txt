@@ -1,0 +1,26 @@
+{tone}
+This scene is a guardian creature barging into a fight, shot in the face.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:mausoleum-of-alton-ardev/mausoleum-main-chamber}
+In this moment: the glowing main chamber of the tomb, a fountain of blue-lit water, carved murals. Time and light: blue glow from the fountain.
+{maps:Mausoleum of Ardev}
+
+THE MOMENT
+Oberoth the Guardian, a huge ancient guardian beast, barges into the chamber with Shrimp Diggery and Snarky Chark riding on its back, roaring for the intruders to leave. Mustang fires two shots straight into its face. Around them the party fights abishai, scaled draconic devils with leathery wings, near the portal.
+
+CAST
+- Oberoth: a huge ancient guardian beast of the tomb.
+- {cast:Shrimp Diggery}
+- Snarky Chark: a ghoul like Shrimp, riding beside him.
+- {cast:Mustang}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- The abishai: scaled draconic devils with leathery wings and long tails.
+
+REFERENCES
+{references}

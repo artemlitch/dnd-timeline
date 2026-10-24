@@ -1,0 +1,22 @@
+{tone}
+This scene is divine visions before the final room.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:mausoleum-of-alton-ardev/bone-devil-room}
+In this moment: a stone chamber, carved murals on the walls; through an archway, an enlarged bone devil strains to reach them but cannot fit. Time and light: underground, the glow of divine light.
+{maps:Mausoleum of Ardev}
+
+THE MOMENT
+Sazed and Brand, in his power armor, each stand transfixed, bathed in a beam of holy light as their gods speak to them. Lirael's eyes and hands blaze with new power from within. Through the arch behind them, a huge bone devil, a tall skeletal devil with a scorpion tail and ragged wings, claws at the too-small doorway.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Lirael}
+- The bone devil: a huge, magically enlarged bone devil, skeletal and gaunt with a scorpion tail and ragged wings.
+
+REFERENCES
+{references}

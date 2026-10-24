@@ -1,0 +1,22 @@
+{tone}
+This scene is a monk killing five demons in seconds.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:mausoleum-of-alton-ardev/mausoleum-entrance}
+In this moment: the entrance to the mausoleum, stone steps leading down, imps and quasits gathered there. Time and light: midday, sunlight into the stairway.
+{maps:Mausoleum of Ardev}
+
+THE MOMENT
+Sazed is a blur of motion through the pack of demons, one foot connecting with an imp's head while four more imps and quasits are already flying away broken from his kicks. Brand, in his power armor, behind him, smashes the last quasit.
+
+CAST
+- {cast:Sazed}
+- {cast:Brand}
+- The imps: tiny red devils with bat wings, small horns and stinging tails.
+- The quasits: small wiry green demons the size of a cat, with warty skin, little horns, clawed hands and long barbed tails.
+
+REFERENCES
+{references}

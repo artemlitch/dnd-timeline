@@ -1,0 +1,23 @@
+{tone}
+This scene is an uncle failing to save his stubborn nephew.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: outside the tavern at night, the Moonwatch's gangway lowered nearby, stray animals milling around. Time and light: deep night, lamplight.
+{maps:The Turckle and Churckle}
+
+THE MOMENT
+Brokk stands with his arms folded, flatly refusing to board, Barry Baritone looming beside him. Brand, in his power armor, throws up his hands in defeat. Behind them, through the tavern's lit window, Jeff is already raising a drink.
+
+CAST
+- {cast:Brokk}
+- {cast:Brand}
+- {cast:Barry Baritone}
+- {cast:Jeff}
+- The strays: a few stray cats and dogs.
+
+REFERENCES
+{references}

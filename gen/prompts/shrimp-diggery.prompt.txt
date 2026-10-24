@@ -1,0 +1,23 @@
+{tone}
+This scene is trading with a ghoul who drinks holy water.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:mausoleum-of-alton-ardev}
+In this moment: a stone crypt room, a secret passage opening in the wall. Time and light: underground, lamplight.
+{maps:Mausoleum of Ardev}
+
+THE MOMENT
+Shrimp Diggery swigs from a bottle of holy water, steam rising from his burning lips, while handing over a crate of bottles to Lirael and Brand, in his power armor. Behind them, Sazed turns sharply toward the shadows, where three mud mephits, small winged creatures made of dripping mud, are creeping in to ambush.
+
+CAST
+- {cast:Shrimp Diggery}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The mud mephits: small winged creatures made of dripping mud.
+
+REFERENCES
+{references}

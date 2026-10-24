@@ -1,0 +1,22 @@
+{tone}
+This scene is a hard newspaper interview in a late-night tavern.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: a booth in the tavern, empty glasses on the table. Time and light: late night, warm lamplight.
+{maps:The Turckle and Churckle}
+
+THE MOMENT
+Lirael, the drow, sits in the booth answering questions from Helena Braithwind, who scribbles in her notebook. Beside the booth, Elk and Neer lean in, listening, proud.
+
+CAST
+- {cast:Lirael}
+- {cast:Helena Braithwind}
+- {cast:Elk}
+- {cast:Neer}
+
+REFERENCES
+{references}

@@ -1,0 +1,25 @@
+{tone}
+This scene is a spell calming a brawl in the town square.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev/ardev-square}
+In this moment: the town square at night, a goblin band playing on a small stage, townsfolk dancing, children handing out flyers. Time and light: night, lanterns.
+{maps:Ardev Square}
+
+THE MOMENT
+Lirael stands in the middle of the square, hands raised, a soft wave of calm spreading from him. Around him a brawl is freezing mid-swing: Morganth lowers his weapon, Auntie Bees stops, and the townsfolk relax. Only The Right Hand still glares at Lirael, resentful. Xera dances near the stage. At the edge of the square, a great stag vanishes into a tree.
+
+CAST
+- {cast:Lirael}
+- {cast:Morganth}
+- {cast:Auntie Bees}
+- The Right Hand: a tall, lean figure in close-fitting bronze armour, a wide-brimmed pointed hat, a long blue cloak, a round shield with glowing blue runes and a glowing blue blade.
+- {cast:Xera}
+- The stag: a great stag melting into a tree trunk.
+- The band: goblins playing instruments on a small stage.
+
+REFERENCES
+{references}

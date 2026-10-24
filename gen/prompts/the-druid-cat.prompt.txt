@@ -1,0 +1,24 @@
+{tone}
+This scene is a stray cat revealing itself as a druid with a warning.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-clocktower}
+In this moment: the top of the clocktower, the great clock face and gears around them, the whole town spread out below. Time and light: before dawn, dark blue sky.
+{maps:Ardev Clocktower}
+
+THE MOMENT
+A grey stray cat on Sazed's shoulder bristles, ears flat, staring toward the castle on the hill. Beezel crouches nose to nose with the cat, listening to its urgent warning. Brand, in his power armor, and Lirael stand behind at the clockwork, and a mechanical owl perches on a gear above them.
+
+CAST
+- {cast:Sazed}
+- {cast:Beezel}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Archimedes}
+- The cat: a scruffy grey stray cat.
+
+REFERENCES
+{references}

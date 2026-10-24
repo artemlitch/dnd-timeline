@@ -1,0 +1,22 @@
+{tone}
+This scene is recruiting a strange beekeeper to defend the town.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-fair-grounds}
+In this moment: the fairgrounds, tents and stalls, beehives everywhere. Time and light: evening.
+{maps:Fairgrounds}
+
+THE MOMENT
+Auntie Bees, surrounded by a buzzing cloud of bees, clasps her hands with delight as she agrees to help defend Ardev. Lirael, Sazed and Brand, in his power armor, stand before her, Brand swatting at a bee on his helmet.
+
+CAST
+- {cast:Auntie Bees}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

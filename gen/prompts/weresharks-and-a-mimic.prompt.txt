@@ -1,0 +1,23 @@
+{tone}
+This scene is sneaking past old friends who seem wrong.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:mausoleum-of-alton-ardev}
+In this moment: a dim stone hall deep in the mausoleum, an old chest against the wall. Time and light: underground, a single lantern.
+{maps:Mausoleum of Ardev#2}
+
+THE MOMENT
+Lirael, Sazed and Brand, in his power armor, press flat into a shadowed alcove as Topek and Wylon walk past along the hall, their eyes blank and strange. Lirael watches them with growing unease. In the foreground an old wooden chest against the wall has a faint row of teeth along its lid.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Topek}
+- {cast:Wylon}
+
+REFERENCES
+{references}
