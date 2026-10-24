@@ -1,0 +1,22 @@
+{tone}
+This scene is two friends clearing the air on a night flight.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:moonwatch/flight-deck}
+In this moment: the deck at night, the elemental ring at the stern roaring brighter as the ship boosts, clouds streaking past. Time and light: night, the blue glow of the boost.
+{maps:Main Deck Moonwatch}
+
+THE MOMENT
+Brand, in his power armor, and Sazed stand together at the rail, talking frankly. The ship surges forward on its boost, the blue flame at the stern roaring. Behind them, Eloria sits with her eyes closed, cupping a glowing ring in both hands as she fills it with spells.
+
+CAST
+- {cast:Brand}
+- {cast:Sazed}
+- {cast:Eloria}
+- {cast:The Moonwatch}
+
+REFERENCES
+{references}

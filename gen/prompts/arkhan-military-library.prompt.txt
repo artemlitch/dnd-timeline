@@ -1,0 +1,24 @@
+{tone}
+This scene is research in a military library.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/starilaskur-military-library}
+In this moment: between tall shelves of the library, a long reading table piled with books. Time and light: afternoon light through high windows.
+{maps:Starilaskur}
+
+THE MOMENT
+Arkhan, the sharply dressed librarian, pulls a book from a high shelf mid-lecture. Sazed hands Skye a stack of war histories. Brand, in his power armor, pores over a book of lightning rail diagrams, and Lirael leans on the table beside Jeff.
+
+CAST
+- Arkhan: a stylish, sharply dressed military librarian.
+- {cast:Sazed}
+- {cast:Skye}
+- {cast:Brand}
+- {cast:Lirael}
+- {cast:Jeff}
+
+REFERENCES
+{references}

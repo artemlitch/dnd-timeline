@@ -1,0 +1,23 @@
+{tone}
+This scene is a paladin captain drawing her sword on a man she blames for a massacre.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/eptf-headquarters}
+In this moment: the task force headquarters, armed paladins around them. Time and light: morning.
+{maps:EPTK Holding Cells}
+
+THE MOMENT
+Captain Dane has drawn her sword and holds it toward Lirael, furious, her eyes glowing faintly as she casts detect magic over him. Lirael stands his ground with his hands open. Paladins of the task force close in around them with blades half drawn, and Sazed and Brand, in his power armor, stand tense behind Lirael.
+
+CAST
+- {cast:Captain Dane}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- The paladins: task force paladins in plate armour.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is elders debating whether to strip a ranger of his ring.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hearthsfire/elders-meeting}
+In this moment: the elders' meeting place in the hidden shifter village, a ring of seats around a fire under the trees. Time and light: night, firelight.
+{maps:Hearthsfire}
+
+THE MOMENT
+Falken, the old elder, sits with his hands folded, weighing the matter. The Bear stands and points angrily, arguing Carrk should lose his ring. Sazed steps forward between them, vouching for Carrk, his face troubled.
+
+CAST
+- {cast:Falken}
+- {cast:The Bear}
+- {cast:Sazed}
+
+REFERENCES
+{references}

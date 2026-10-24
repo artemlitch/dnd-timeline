@@ -1,0 +1,20 @@
+{tone}
+This scene is an old elder telling why his people fled their homeland.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hearthsfire/elders-meeting}
+In this moment: by the dying embers of the fire, everyone else gone to bed. Time and light: deep night, embers.
+{maps:Hearthsfire}
+
+THE MOMENT
+Falken sits hunched by the embers, telling his story, his face lined with old grief for the son he has not seen in years. Sazed sits across the fire from him, listening intently.
+
+CAST
+- {cast:Falken}
+- {cast:Sazed}
+
+REFERENCES
+{references}

@@ -10041,6 +10041,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/raven-call-illusion.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/raven-call-illusion.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Hearthsfire Forest map"
+   ],
+   "cost": 0.034575,
+   "at": "2026-10-24T11:29:48",
+   "draft": "gen/drafts/raven-call-illusion/20261024-112948-009000.jpg"
   }
  ],
  "hearthsfire": [
@@ -10074,6 +10093,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/carrk-on-trial.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/carrk-on-trial.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Falken",
+    "The Bear"
+   ],
+   "refs": [
+    "Character lineup",
+    "Hearthsfire map"
+   ],
+   "cost": 0.034588,
+   "at": "2026-10-24T11:29:52",
+   "draft": "gen/drafts/carrk-on-trial/20261024-112952-098000.jpg"
   }
  ],
  "carrk-at-moon-stones": [
@@ -10135,12 +10173,48 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/bear-warns-of-carrk.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/bear-warns-of-carrk.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "The Bear"
+   ],
+   "refs": [
+    "Character lineup",
+    "Hearthsfire map"
+   ],
+   "cost": 0.034549,
+   "at": "2026-10-24T11:29:54",
+   "draft": "gen/drafts/bear-warns-of-carrk/20261024-112954-976000.jpg"
   }
  ],
  "falkens-exile-story": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/falkens-exile-story.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/falkens-exile-story.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Falken"
+   ],
+   "refs": [
+    "Character lineup",
+    "Hearthsfire map"
+   ],
+   "cost": 0.03454925,
+   "at": "2026-10-24T11:29:49",
+   "draft": "gen/drafts/falkens-exile-story/20261024-112949-150000.jpg"
   }
  ],
  "skye-becomes-initiate": [
@@ -10171,6 +10245,25 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/brand-and-sazed-on-industry.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/brand-and-sazed-on-industry.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Sazed",
+    "Eloria"
+   ],
+   "refs": [
+    "Character lineup",
+    "Main Deck Moonwatch map"
+   ],
+   "cost": 0.0346315,
+   "at": "2026-10-24T11:29:52",
+   "draft": "gen/drafts/brand-and-sazed-on-industry/20261024-112952-486000.jpg"
   }
  ],
  "flock-changeling-questioned": [
@@ -10211,12 +10304,51 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/griffith-guides-them-in.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/griffith-guides-them-in.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Starilaskur map"
+   ],
+   "cost": 0.03462,
+   "at": "2026-10-24T11:29:51",
+   "draft": "gen/drafts/griffith-guides-them-in/20261024-112951-195000.jpg"
   }
  ],
  "paladins-draw-steel": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/paladins-draw-steel.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/paladins-draw-steel.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Captain Dane",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "EPTK Holding Cells map"
+   ],
+   "cost": 0.03461725,
+   "at": "2026-10-24T11:29:50",
+   "draft": "gen/drafts/paladins-draw-steel/20261024-112950-463000.jpg"
   }
  ],
  "truth-amulet-eptf": [
@@ -10325,18 +10457,80 @@
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/elfina-postpones-despair.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/elfina-postpones-despair.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Captain Dane",
+    "Elfina"
+   ],
+   "refs": [
+    "Character lineup",
+    "EPTK Holding Cells map"
+   ],
+   "cost": 0.03459125,
+   "at": "2026-10-24T11:29:51",
+   "draft": "gen/drafts/elfina-postpones-despair/20261024-112951-654000.jpg"
   }
  ],
  "bulwark-broadhelm": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/bulwark-broadhelm.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/bulwark-broadhelm.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Captain Dane",
+    "Bulwark Broadhelm",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "EPTK Holding Cells map"
+   ],
+   "cost": 0.034632,
+   "at": "2026-10-24T11:29:52",
+   "draft": "gen/drafts/bulwark-broadhelm/20261024-112952-981000.jpg"
   }
  ],
  "arkhan-military-library": [
   {
    "version": 1,
    "note": "first batch"
+  },
+  {
+   "version": 2,
+   "file": "site/img/arkhan-military-library.v2.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/arkhan-military-library.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Skye",
+    "Brand",
+    "Lirael",
+    "Jeff"
+   ],
+   "refs": [
+    "Character lineup",
+    "Starilaskur map"
+   ],
+   "cost": 0.0346385,
+   "at": "2026-10-24T11:29:50",
+   "draft": "gen/drafts/arkhan-military-library/20261024-112950-507000.jpg"
   }
  ],
  "gelards-books": [

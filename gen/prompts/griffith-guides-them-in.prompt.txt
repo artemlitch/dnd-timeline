@@ -1,0 +1,24 @@
+{tone}
+This scene is a halfling on a hippogriff guiding an airship in to land.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:starilaskur/starilaskur-airfield}
+In this moment: above the airfield of a busy mining and military town, a cliff and mine works below. Time and light: morning.
+{maps:Starilaskur}
+
+THE MOMENT
+Griffith, a halfling in flight goggles and a scarf, rides a hippogriff alongside the Moonwatch, waving it in to land with a pair of signal flags. On the deck, Lirael, Sazed and Brand, in his power armor, watch, impressed.
+
+CAST
+- Griffith: a cheerful halfling air guide in flight goggles, a leather jacket and a scarf.
+- The hippogriff: a hippogriff with an eagle's head and wings and a horse's body.
+- {cast:The Moonwatch}
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+
+REFERENCES
+{references}

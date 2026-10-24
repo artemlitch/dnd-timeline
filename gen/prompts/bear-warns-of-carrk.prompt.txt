@@ -1,0 +1,20 @@
+{tone}
+This scene is a private warning in the dark.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:hearthsfire}
+In this moment: beneath the great trees of the village, away from the fires. Time and light: past midnight, moonlight and distant firelight.
+{maps:Hearthsfire}
+
+THE MOMENT
+The Bear leans close to Sazed in the dark, one heavy hand on his shoulder, speaking low and grave. Sazed listens, his jaw set, uneasy.
+
+CAST
+- {cast:The Bear}
+- {cast:Sazed}
+
+REFERENCES
+{references}

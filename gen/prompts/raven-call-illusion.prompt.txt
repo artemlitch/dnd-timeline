@@ -1,0 +1,22 @@
+{tone}
+This scene is passing through a hidden village's illusion by bird call.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:bears-wood/hearthsfire-illusion}
+In this moment: deep in an old forest, a shimmering, nearly invisible wall of illusion between two great trees. Time and light: evening, golden light through the trees.
+{maps:Hearthsfire Forest}
+
+THE MOMENT
+A raven glides straight through the shimmering illusion wall, which ripples like water. Lirael has already stepped halfway through after it. Brand, in his power armor, is mid-caw, an awful croak, cupping his hands to his mouth. Sazed stands with his eyes closed and head tilted back, making the old raven call he learned as a child, and from beyond the illusion a raven answers.
+
+CAST
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Sazed}
+- The raven: a glossy black raven.
+
+REFERENCES
+{references}

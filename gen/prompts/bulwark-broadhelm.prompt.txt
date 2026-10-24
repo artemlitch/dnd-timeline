@@ -1,0 +1,23 @@
+{tone}
+This scene is a dwarf learning his family's warforged died a hero.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/eptf-headquarters}
+In this moment: a memorial wall in the task force headquarters with portraits of the fallen. Time and light: afternoon.
+{maps:EPTK Holding Cells}
+
+THE MOMENT
+Brand, in his power armor, stands before a framed portrait of the warforged Bulwark Broadhelm on the memorial wall, quietly moved. Captain Dane stands nearby with arms folded, watching the party with suspicion. Lirael and Sazed edge toward the door.
+
+CAST
+- {cast:Brand}
+- {cast:Bulwark Broadhelm} Here: only in a framed portrait on the wall.
+- {cast:Captain Dane}
+- {cast:Lirael}
+- {cast:Sazed}
+
+REFERENCES
+{references}

@@ -1,0 +1,22 @@
+{tone}
+This scene is a promise to a prisoner on the edge of despair.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/eptf-headquarters}
+In this moment: a holding cell in the task force headquarters. Time and light: afternoon, light through a barred window.
+{maps:EPTK Holding Cells}
+
+THE MOMENT
+Elfina sits on the cell's bench, hollow-eyed, gripping the bars. Lirael crouches on the other side, his hand over hers, promising they will come back. Behind him Brand, in his power armor, turns to ask Captain Dane something.
+
+CAST
+- {cast:Elfina}
+- {cast:Lirael}
+- {cast:Brand}
+- {cast:Captain Dane}
+
+REFERENCES
+{references}
