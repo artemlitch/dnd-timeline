@@ -525,6 +525,45 @@
   ]
  },
  {
+  "page": "Big Moonwatch",
+  "id": "-P2LHmnPpE9u-8zZ2QOO",
+  "archived": false,
+  "maps": [
+   {
+    "file": "big-moonwatch.jpg",
+    "layer": "map",
+    "w": 3710,
+    "h": 2660
+   }
+  ]
+ },
+ {
+  "page": "Big Moonwatch Attack",
+  "id": "-P2ejsz9YIgzj1SY_xXp",
+  "archived": false,
+  "maps": [
+   {
+    "file": "big-moonwatch-attack.jpg",
+    "layer": "map",
+    "w": 3710,
+    "h": 2660
+   }
+  ]
+ },
+ {
+  "page": "Black Galifar Ship",
+  "id": "-Owjh-VWFBPu1_c0NTVj",
+  "archived": false,
+  "maps": [
+   {
+    "file": "black-galifar-ship.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
   "page": "Boranex Forest Night",
   "id": "-Nt5-fxp_5rsUNY3vYxf",
   "archived": false,
@@ -739,6 +778,19 @@
     "file": "clockworks-shop.webp",
     "layer": "map",
     "w": 2520,
+    "h": 1750
+   }
+  ]
+ },
+ {
+  "page": "Cobra Class",
+  "id": "-OwpPhEziL0Pd0ef5bId",
+  "archived": false,
+  "maps": [
+   {
+    "file": "cobra-class.png",
+    "layer": "map",
+    "w": 2380,
     "h": 1750
    }
   ]
@@ -1239,6 +1291,19 @@
   ]
  },
  {
+  "page": "Galient Class",
+  "id": "-Owj_V34pKkUozNu0n_p",
+  "archived": false,
+  "maps": [
+   {
+    "file": "galient-class.png",
+    "layer": "map",
+    "w": 2520,
+    "h": 1750
+   }
+  ]
+ },
+ {
   "page": "Gelf, Elric & Screechs House",
   "id": "-NyMUhU4NouH1cae-7hr",
   "archived": false,
@@ -1279,6 +1344,19 @@
     "layer": "map",
     "w": 25550,
     "h": 20650
+   }
+  ]
+ },
+ {
+  "page": "Gold Galifar Ship",
+  "id": "-Owjh1-K14r463nqUncJ",
+  "archived": false,
+  "maps": [
+   {
+    "file": "gold-galifar-ship.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
    }
   ]
  },
@@ -2018,6 +2096,19 @@
   "maps": [
    {
     "file": "kingsblade-main-deck.webp",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
+  "page": "Kingsblade Overview",
+  "id": "-NjzXU5vn6gLDv8JonSW",
+  "archived": false,
+  "maps": [
+   {
+    "file": "kingsblade-overview.webp",
     "layer": "map",
     "w": 3500,
     "h": 1820
@@ -2985,6 +3076,19 @@
   ]
  },
  {
+  "page": "Python Class",
+  "id": "-Owj_XwkgVIKhxvlJQbx",
+  "archived": false,
+  "maps": [
+   {
+    "file": "python-class.png",
+    "layer": "map",
+    "w": 3640,
+    "h": 2940
+   }
+  ]
+ },
+ {
   "page": "Road Chase",
   "id": "-OBO7dEQBHCkI4l5puI6",
   "archived": false,
@@ -2998,7 +3102,7 @@
   ]
  },
  {
-  "page": "Sayzia’s Elixir Emporium",
+  "page": "Sayzia\u2019s Elixir Emporium",
   "id": "-NxW1PtzdC7ZsXcgaPzE",
   "archived": false,
   "maps": [
@@ -3033,6 +3137,19 @@
     "layer": "map",
     "w": 1750,
     "h": 4340
+   }
+  ]
+ },
+ {
+  "page": "Sidewinder Class",
+  "id": "-Owj_WWaSrjIWIucvebV",
+  "archived": false,
+  "maps": [
+   {
+    "file": "sidewinder-class.png",
+    "layer": "map",
+    "w": 1120,
+    "h": 1120
    }
   ]
  },
@@ -3104,6 +3221,19 @@
     "layer": "map",
     "w": 630,
     "h": 1610
+   }
+  ]
+ },
+ {
+  "page": "Small Brelish Ship",
+  "id": "-Owj_TD5Xcqd3-0WGpQi",
+  "archived": false,
+  "maps": [
+   {
+    "file": "small-brelish-ship.webp",
+    "layer": "map",
+    "w": 1890,
+    "h": 1120
    }
   ]
  },
@@ -3243,6 +3373,19 @@
   ]
  },
  {
+  "page": "TPOD Overview",
+  "id": "-NurGeBIllxqRPLqlcBo",
+  "archived": false,
+  "maps": [
+   {
+    "file": "tpod-overview.png",
+    "layer": "map",
+    "w": 3500,
+    "h": 1820
+   }
+  ]
+ },
+ {
   "page": "TPOD War Room",
   "id": "-O4Gz_Vpxihy15pzvZHf",
   "archived": false,
@@ -3321,6 +3464,32 @@
   ]
  },
  {
+  "page": "The Broadaxe",
+  "id": "-NjzVQDz0YeUoo0hj6dW",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-broadaxe-2.jpg",
+    "layer": "map",
+    "w": 2100,
+    "h": 1470
+   }
+  ]
+ },
+ {
+  "page": "The Eternal Night",
+  "id": "-P1Nt2PgHfGIloQ2_vuD",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-eternal-night.webp",
+    "layer": "map",
+    "w": 1610,
+    "h": 1610
+   }
+  ]
+ },
+ {
   "page": "The Eternal Night Bridge",
   "id": "-OwjQhptRRYlgMuRRnnG",
   "archived": false,
@@ -3356,6 +3525,32 @@
     "layer": "map",
     "w": 3500,
     "h": 2520
+   }
+  ]
+ },
+ {
+  "page": "The Kason",
+  "id": "-O0I60aipb5mtwSm02Rv",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-kason.webp",
+    "layer": "objects",
+    "w": 1750,
+    "h": 1050
+   }
+  ]
+ },
+ {
+  "page": "The Moonwatch",
+  "id": "-NjzV4UfAiUdH30bjlmf",
+  "archived": false,
+  "maps": [
+   {
+    "file": "the-moonwatch.jpg",
+    "layer": "map",
+    "w": 2170,
+    "h": 1750
    }
   ]
  },

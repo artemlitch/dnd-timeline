@@ -7,7 +7,7 @@ FRAMING
 SETTING
 {setting:moonwatch/landing-gear-hatch}
 In this moment: under the Moonwatch's hull on the dark landing field, the landing-gear hatch open. Time and light: deep night, moonlight.
-{maps:Ardev}
+{maps:The Moonwatch}
 
 THE MOMENT
 Sazed boosts a scared shifter child up through the open landing-gear hatch, while Skye and the other children huddle close behind him. Above, Brand, in his power armor, has just shot down Archimedes, the warforged owl, which tumbles out of the night sky trailing sparks.
