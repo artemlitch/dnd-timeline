@@ -198,6 +198,24 @@
    "prompt": "gen/prompts/halien-talks-with-elric.prompt.txt",
    "cost": 0.0348125,
    "at": "2026-10-23T10:59:28"
+  },
+  {
+   "version": 5,
+   "file": "site/img/halien-talks-with-elric.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/halien-talks-with-elric.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Gelf",
+    "Elric"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 2 map"
+   ],
+   "cost": 0.0345535,
+   "at": "2026-10-25T08:52:03",
+   "draft": "gen/drafts/halien-talks-with-elric/20261025-085203-116000.jpg"
   }
  ],
  "lirael-plays-cromwell": [
@@ -248,6 +266,26 @@
    "cost": 0.034646,
    "at": "2026-10-23T16:09:48",
    "draft": "gen/drafts/newbie-night/20261023-160948-752000.jpg"
+  },
+  {
+   "version": 3,
+   "file": "site/img/newbie-night.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/newbie-night.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "Bloodworth"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.03466,
+   "at": "2026-10-25T08:52:09",
+   "draft": "gen/drafts/newbie-night/20261025-085209-998000.jpg"
   }
  ],
  "initiation-night": [

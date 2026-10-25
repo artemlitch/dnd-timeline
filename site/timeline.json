@@ -962,8 +962,8 @@
         "Sentinels",
         "DarkWood"
       ],
-      "img": "img/halien-talks-with-elric.v4.jpg",
-      "img_version": 4
+      "img": "img/halien-talks-with-elric.v5.jpg",
+      "img_version": 5
     },
     {
       "id": "lirael-plays-cromwell",
@@ -1010,8 +1010,8 @@
         "Sazed",
         "DarkWood"
       ],
-      "img": "img/newbie-night.v2.jpg",
-      "img_version": 2
+      "img": "img/newbie-night.v3.jpg",
+      "img_version": 3
     },
     {
       "id": "initiation-night",
