@@ -8,7 +8,7 @@ SETTING
 {setting:broadaxe/broadaxe-rotor}
 {setting:yedani-mountains/aundairian-valley-base}
 In this moment: the Broadaxe sits in the Aundairian camp, its big rotor blades sweeping round at speed as it readies to lift off. The lighter Broadsword is parked beside it. Behind them is the waterfall. Harpies circle along the cliff face, and on the cliff top a hobgoblin captain points down, telling them where the intruders are. Aundairian soldiers and hobgoblins move about the camp below. Time and light: around midday.
-{maps:The Broadaxe|Yedani Valley Airship Sabotage}
+{maps:Yedani Valley Airship Sabotage}
 
 THE MOMENT
 Sazed, made invisible by the potion he drank, crouches on the rotor housing of the Broadaxe with the blades whipping past inches from his head. Show him as a faint, glassy shimmer in the air, his outline just visible like heat haze, the smokepowder satchel and its fuse visible in his ghostly hands as he plants the charge. Nobody on the ship has seen him.

@@ -75,6 +75,15 @@ test('every map is a Roll20 page that exists, and #n points at an image on it', 
   }));
 });
 
+test('no prompt attaches a top-down picture of a whole ship as its map', () => {
+  const wholeShip = /Overview$|^The Moonwatch$|^The Broadaxe$|^Big Moonwatch/;
+  expectNone(offenders(({ text }) => {
+    const m = text.match(/\{maps:([^}]+)\}/);
+    const ships = m ? m[1].split('|').map(p => p.split('#')[0].trim()).filter(p => wholeShip.test(p)) : [];
+    return ships.length ? ships.join(', ') : null;
+  }));
+});
+
 test('every {cast:Name} is in cast.json or ships.json', () => {
   expectNone(offenders(({ text }) => {
     const unknown = [...text.matchAll(/\{cast:([^}]+)\}/g)].map(m => m[1].trim()).filter(n => !castNames.has(n));

@@ -7,7 +7,7 @@ FRAMING
 SETTING
 {setting:moonwatch/landing-gear-hatch}
 In this moment: the Aundairian warship hovering low over its camp, its landing gear open; nearby, its sister ship burning in the sky. Time and light: day, smoke and firelight.
-{maps:The Moonwatch}
+{maps:Yedani Valley Airship Sabotage}
 
 THE MOMENT
 In the chaos of the explosion and the raging smoke elemental, a brown hen flaps furiously up toward the open landing gear of the hovering Aundairian warship. Below it, Aundairian soldiers run in confusion across the camp, none of them looking at the chicken.
