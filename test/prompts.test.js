@@ -103,7 +103,10 @@ test('soul street hooligan has a portrait', () => {
 });
 
 test('someone outside the lineup is told to draw from their own portrait', () => {
-  const out = require('node:child_process').execFileSync('python3', ['-I', 'gen/image.py', 'hooligan-saxophone', '--print'], { cwd: ROOT, encoding: 'utf8' });
+  const code = "import sys; sys.path.insert(0, 'gen'); from image import lineup_wording; "
+    + "print(lineup_wording('Sazed: draw from the reference portrait. Soul Street Hooligan: draw from the reference portrait.', ['Sazed']))";
+  const out = require('node:child_process').execFileSync('python3', ['-I', '-c', code], { cwd: ROOT, encoding: 'utf8' });
+  assert.match(out, /Sazed: draw from their figure in the character lineup\./);
   assert.match(out, /Soul Street Hooligan: draw from the reference portrait\./);
 });
 
