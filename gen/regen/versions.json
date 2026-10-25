@@ -496,6 +496,27 @@
    "prompt": "gen/prompts/saving-elric-galen.prompt.txt",
    "cost": 0.035748,
    "at": "2026-10-23T11:03:33"
+  },
+  {
+   "version": 4,
+   "file": "site/img/saving-elric-galen.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/saving-elric-galen.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Elric",
+    "Sazed",
+    "Lirael",
+    "Brand",
+    "Byll"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.03470175,
+   "at": "2026-10-25T08:53:58",
+   "draft": "gen/drafts/saving-elric-galen/20261025-085358-031000.jpg"
   }
  ],
  "zombie-bloodworth-in-the-pit": [
@@ -619,6 +640,26 @@
    "prompt": "gen/prompts/talking-past-the-barricade.prompt.txt",
    "cost": 0.035447,
    "at": "2026-10-23T11:03:46"
+  },
+  {
+   "version": 4,
+   "file": "site/img/talking-past-the-barricade.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/talking-past-the-barricade.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Elric",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Level 1 map"
+   ],
+   "cost": 0.03466025,
+   "at": "2026-10-25T08:56:00",
+   "draft": "gen/drafts/talking-past-the-barricade/20261025-085600-919000.jpg"
   }
  ],
  "wardens-secret": [
