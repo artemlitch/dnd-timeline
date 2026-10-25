@@ -17,7 +17,7 @@ CAST
 - {cast:Mr. Beaks}
 - {cast:Skye}
 - {cast:Sazed}
-- {cast:Brand} Here he is painted entirely purple and wears a cowboy hat.
+- {cast:Brand} Here: he is painted entirely purple and wears a cowboy hat.
 - {cast:Rufus}
 - The female bird: a sleek, slender female pigeon with soft grey and cream feathers.
 - The Bloodsinger's portrait is attached for reference only; the Bloodsinger is not in this moment. Do not draw him.

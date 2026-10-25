@@ -13,14 +13,14 @@ THE MOMENT
 In the quiet after the fight, two men kneel among the corpses. In the foreground Sorenson kneels in the mud over the body of Shmem Gorgis, his friend and tuba player. Shmem died in the riot, his body was burned in a hasty send-off, and then the necromancer raised him as a zombie that the party had to put down: his corpse is scorched, grey and rotting, with a fatal wound to the head. Sorenson holds Shmem's charred hand, head bowed, and Shmem's dented brass tuba lies in the mud beside them. A few steps away Leff, the huge half-orc, kneels over the zombified body of Rex, the gang leader he looked up to, gently closing his eyes with one enormous hand. Behind them, Lirael, Brand and Sazed stand bloodied and exhausted, catching their breath and watching in silence. Near the wall lies the body of the zombie Rolick.
 
 CAST
-- {cast:Sorenson} Here in drab grey prisoner fatigues, with no instruments.
-- {cast:Shmem Gorgis} Here he is dead: a scorched, rotting zombie corpse.
+- {cast:Sorenson} Here: in drab grey prisoner fatigues, with no instruments.
+- {cast:Shmem Gorgis} Here: he is dead: a scorched, rotting zombie corpse.
 - {cast:Leff}
-- {cast:Rex} Here he is dead: a rotting zombie corpse.
-- {cast:Rolick} Here he is dead: a rotting zombie corpse.
-- {cast:Lirael} Here in torn, bloody grey prisoner fatigues, not his coat.
+- {cast:Rex} Here: he is dead: a rotting zombie corpse.
+- {cast:Rolick} Here: he is dead: a rotting zombie corpse.
+- {cast:Lirael} Here: in torn, bloody grey prisoner fatigues, not his coat.
 - {cast:Brand}
-- {cast:Sazed} Here in torn, bloody grey prisoner fatigues, not his covert ops suit.
+- {cast:Sazed} Here: in torn, bloody grey prisoner fatigues, not his covert ops suit.
 
 REFERENCES
 {references}

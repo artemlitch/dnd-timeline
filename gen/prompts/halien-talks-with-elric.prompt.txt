@@ -13,7 +13,7 @@ THE MOMENT
 Halien, a prisoner in drab fatigues, stands close against the iron bars of his cell, speaking low. Outside the bars Elric Galen, one of the prison guards, leans in with his lantern held down so it lights only their two faces, listening and glancing down the corridor to check no one is watching. Neither looks like a prisoner and a guard; they look like two men sharing a secret.
 
 CAST
-- {cast:Gelf} Here he is undercover as the prisoner Halien Habberschmidt, in drab prison fatigues.
+- {cast:Gelf} Here: he is undercover as the prisoner Halien Habberschmidt, in drab prison fatigues.
 - {cast:Elric}
 
 REFERENCES

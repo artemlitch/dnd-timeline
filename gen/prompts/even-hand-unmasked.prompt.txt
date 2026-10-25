@@ -15,7 +15,7 @@ The Even Hand has just finished his work: Kal Valvier's headless body lies on th
 CAST
 - {cast:The Even Hand}
 - {cast:Click Clack}
-- {cast:Kal Valvier} Here dead and beheaded.
+- {cast:Kal Valvier} Here: dead and beheaded.
 - {cast:Sazed}
 
 REFERENCES

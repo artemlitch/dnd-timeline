@@ -18,9 +18,9 @@ CAST
 - {cast:Paxon}
 - {cast:Lug Murzog}
 - {cast:Blazehelm}
-- {cast:Brand} Here he is unconscious and tied up.
-- {cast:Elric} Here he is unconscious and tied up.
-- {cast:Screech} Here he is unconscious and tied up.
+- {cast:Brand} Here: he is unconscious and tied up.
+- {cast:Elric} Here: he is unconscious and tied up.
+- {cast:Screech} Here: he is unconscious and tied up.
 - {cast:Lirael}
 - {cast:Sazed}
 

@@ -14,7 +14,7 @@ THE MOMENT
 Sazed, the ship's communications officer, stands on the open flight deck holding a glowing sending stone at chest height. Paxon is not physically there: he appears only as a small, faint, translucent apparition of his head and shoulders rising from the stone's glow, briskly reporting that the lightning rail was switched on from the Starilaskur Military Railway Junction at midnight on the 21st. Lirael and Brand lean in on either side to listen. Behind them Screech holds the helm.
 
 CAST
-- {cast:Paxon} Here he appears only as the faint apparition rising from the sending stone.
+- {cast:Paxon} Here: he appears only as the faint apparition rising from the sending stone.
 - {cast:Sazed}
 - {cast:Lirael}
 - {cast:Brand}

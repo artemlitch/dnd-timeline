@@ -13,7 +13,7 @@ THE MOMENT
 Brand lies asleep in his bunk, out of his armor, twisting in the sheets, sweating, his face clenched. His nightmare fills the cabin around him, as real as the furniture: at the foot of the bunk stands Sorenson, a one-man band, mandolin in hand, bass drum and cymbal on his back, grinning and singing at the top of his lungs that Thaddeus is coming to town. Behind Sorenson, out of the darkness at the back of the cabin, looms Thaddeus D'Cannith, the House Cannith heir who framed Brand and sent him to prison for forty years, much larger than life, cold and smiling, looking down at the sleeping dwarf.
 
 CAST
-- {cast:Brand} Here he is asleep, out of his armor, in a plain nightshirt.
+- {cast:Brand} Here: he is asleep, out of his armor, in a plain nightshirt.
 - {cast:Sorenson}
 - {cast:Thaddeus Cannith}
 

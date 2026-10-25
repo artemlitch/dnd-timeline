@@ -91,6 +91,13 @@ test('nobody with a portrait is described by hand instead of {cast:Name}', () =>
   }));
 });
 
+test('every "Here" after a {cast:Name} has the colon image.py looks for', () => {
+  expectNone(offenders(({ text }) => {
+    const bad = [...text.matchAll(/\{cast:[^}]+\}\s+Here(?!:)\S*\s+\S+/g)].map(m => m[0]);
+    return bad.length ? bad.join(', ') : null;
+  }));
+});
+
 test('soul street hooligan has a portrait', () => {
   assert.ok(portraits.includes('Soul Street Hooligan'));
 });

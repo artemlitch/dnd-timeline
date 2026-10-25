@@ -13,7 +13,7 @@ THE MOMENT
 Brand, an old dwarf woken from sleep, out of his armor, the water up to his beard, wrestles the mouth of the Bag of Devouring, an ordinary-looking cloth sack, down over the gushing spout to plug it. Lirael hurls a bolt of fire at the locked door, bursting into steam against the wet wood, while Leff and Tauren pound on the door with their bare fists. Sazed points across the room at the water seeping through the outline of the secret door. Beside it Keys, wild-shaped into a black bear, rears up out of the water to smash at it.
 
 CAST
-- {cast:Brand} Here he is NOT in his power armor: he has just woken up, in his nightclothes.
+- {cast:Brand} Here: he is NOT in his power armor: he has just woken up, in his nightclothes.
 - {cast:Lirael}
 - {cast:Leff}
 - {cast:Tauren}

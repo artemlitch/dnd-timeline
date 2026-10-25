@@ -13,11 +13,11 @@ THE MOMENT
 In the chaos the elf Elarian has just been grabbed and dragged off an upper ledge, and he is landing hard among the guards on the floor below, still fighting. Lirael has cast feather fall, and he, Brand, Scud and Leff have stepped off the ledge after him: the four of them drift gently down through the air in a slow, weightless fall, prison fatigues billowing, hair and beards floating up, while the fight rages directly beneath their feet. Lirael has a hand outstretched, the old dwarf Brand, without any armor yet, scowls down at the guards, Scud cups a small flame in his palm, and the huge Leff already has his fists raised to land swinging.
 
 CAST
-- {cast:Lirael} Here he wears drab prison fatigues, not his Sentinel coat.
-- {cast:Brand} Here he is NOT in his power armor yet: he wears drab prison fatigues.
-- {cast:Scud} Here he wears drab prison fatigues.
-- {cast:Leff} Here he wears drab prison fatigues.
-- {cast:Elarian} Here he wears drab prison fatigues.
+- {cast:Lirael} Here: he wears drab prison fatigues, not his Sentinel coat.
+- {cast:Brand} Here: he is NOT in his power armor yet: he wears drab prison fatigues.
+- {cast:Scud} Here: he wears drab prison fatigues.
+- {cast:Leff} Here: he wears drab prison fatigues.
+- {cast:Elarian} Here: he wears drab prison fatigues.
 
 REFERENCES
 {references}

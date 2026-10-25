@@ -14,7 +14,7 @@ Charlie Trundle, a captured Sentinel, sits tied to a post, bruised from the figh
 
 CAST
 - {cast:Lirael}
-- {cast:Charlie Trundle} Here he is bound and bruised, his smile gone.
+- {cast:Charlie Trundle} Here: he is bound and bruised, his smile gone.
 - {cast:Brand}
 - {cast:Sazed}
 - Gelf's portrait is attached for reference only; Gelf is not in this moment. Do not draw them.

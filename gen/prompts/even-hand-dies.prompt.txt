@@ -17,7 +17,7 @@ CAST
 - {cast:Felicia Sr}
 - {cast:Brand}
 - {cast:Sazed}
-- {cast:Lirael} Here possessed: blank, glowing eyes, turned against his friends.
+- {cast:Lirael} Here: possessed: blank, glowing eyes, turned against his friends.
 
 REFERENCES
 {references}

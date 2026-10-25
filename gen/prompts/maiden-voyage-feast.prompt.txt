@@ -13,7 +13,7 @@ THE MOMENT
 The party has been reunited with their friends from the prison and everyone is very drunk. Down the middle of the hall Lirael, who has turned himself into a chicken with a magic ring, races flapping and squawking between the table legs, a hen running for its life, with a pack of gnome cooks in white aprons diving after it, arms outstretched, knocking over stools. Standing on a bench, Sorenson plays a rousing song about the prison fight on his mandolin, drum and cymbal on his back, and Leff, Tauren, Keys and Erald pound the table and sing along with tankards raised. On the floor nearby, Brand kneels in front of Chester, a mimic shaped like a treasure chest, with lockpicks in the keyhole of its lid; Chester's big eye rolls up in delight and its long tongue hangs out. In a quiet corner away from it all, Sazed sits alone at the end of a bench writing in a new leather journal, ignoring the chaos.
 
 CAST
-- {cast:Lirael} Here he is entirely a chicken: an ordinary brown hen, not a drow.
+- {cast:Lirael} Here: he is entirely a chicken: an ordinary brown hen, not a drow.
 - {cast:Sorenson}
 - {cast:Brand}
 - {cast:Chester}

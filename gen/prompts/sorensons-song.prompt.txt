@@ -13,7 +13,7 @@ THE MOMENT
 Sorenson sits alone on the rim of the fountain with Shmem's big brass tuba in his arms, the instrument his late friend taught him to play. He has been playing the song he wrote for Shmem over and over, and it still does not sound right; he has just lowered the mouthpiece, frustrated and close to tears. Lirael, Brand and Sazed, a little drunk, have wandered out of the party and stand in front of him, listening as he tells them about Shmem. At that moment Captain Feldor Windrake, pipe in his mouth, steps out of the shadows of the path where he overheard everything, and offers with a grin that he plays bass and that Sorenson should come and jam with the band. Sorenson looks up at him, surprised and hopeful.
 
 CAST
-- {cast:Sorenson} Here he holds a big brass tuba instead of his mandolin.
+- {cast:Sorenson} Here: he holds a big brass tuba instead of his mandolin.
 - {cast:Feldor Windrake}
 - {cast:Lirael}
 - {cast:Brand}

@@ -18,7 +18,7 @@ CAST
 - {cast:Felicia Jr}
 - {cast:Lirael}
 - {cast:Screech}
-- {cast:Beezel} Here he has wild-shaped into a huge black-furred gorilla.
+- {cast:Beezel} Here: he has wild-shaped into a huge black-furred gorilla.
 - {cast:Jeff}
 - {cast:Brand}
 - {cast:Sorenson}

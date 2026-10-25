@@ -13,7 +13,7 @@ THE MOMENT
 A small spider has just crawled out of the gap by the safe's missing hinges onto the floor. It is Jyo, in spider form. The captors are on full alert because of it: The Even Hand has Fey-Lynn by the hair with a blade at her throat, and Mustang holds Xera in front of him with his heavy blade at hers, both of them glaring down at the tiny spider on the floorboards and threatening it. The two women are terrified. The spider is scuttling toward the door at the end of the car, which leads out onto the roof.
 
 CAST
-- {cast:Jyo} Here he is only a small spider; draw him as a spider, not as a man.
+- {cast:Jyo} Here: he is only a small spider; draw him as a spider, not as a man.
 - {cast:Mustang}
 - Brand's portrait is attached for reference only; Brand is not in this moment. Do not draw him.
 - {cast:The Even Hand}

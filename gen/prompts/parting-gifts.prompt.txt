@@ -16,7 +16,7 @@ CAST
 - {cast:Eleanor}
 - {cast:Brand}
 - {cast:Clockwork}
-- {cast:Sazed} Here his sleeve is pushed up for the tattoo.
+- {cast:Sazed} Here: his sleeve is pushed up for the tattoo.
 - {cast:Lirael}
 - {cast:Eloria}
 - {cast:Sheldor}

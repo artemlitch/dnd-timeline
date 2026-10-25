@@ -13,7 +13,7 @@ THE MOMENT
 Brand, bloodied and battered, only just healed back from unconsciousness by Sazed, holds up a glowing sending stone in his palm. Paxon is not physically there: he appears only as a small, faint, translucent apparition of his head and shoulders rising from the stone's glow, speaking urgently, telling them Lirael and his mother are being arrested on bogus charges and that the train runs on a black-booked line. Sazed kneels by the open safe, looking from the astral void to the stone. Felicia Jr sits hunched on a crate, white-knuckled and barely holding on, her mother and brother both taken.
 
 CAST
-- {cast:Paxon} Here he appears only as the faint apparition rising from the sending stone.
+- {cast:Paxon} Here: he appears only as the faint apparition rising from the sending stone.
 - {cast:Brand}
 - {cast:Sazed}
 - {cast:Felicia Jr}

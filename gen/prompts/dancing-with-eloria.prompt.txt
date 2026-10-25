@@ -18,7 +18,7 @@ CAST
 - {cast:Eleanor}
 - {cast:Brand}
 - {cast:Lirael}
-- {cast:Gauss Hog} Here he wears a new black Sentinel uniform instead of his armor.
+- {cast:Gauss Hog} Here: he wears a new black Sentinel uniform instead of his armor.
 
 REFERENCES
 {references}

@@ -14,11 +14,11 @@ Zenya, a chatty drow woman who has decided to redecorate the ship, proudly unfur
 
 CAST
 - {cast:Zenya}
-- {cast:Chester} Here he is in the form of a heavy iron safe, not a wooden chest, with the same eye, teeth and tongue.
+- {cast:Chester} Here: he is in the form of a heavy iron safe, not a wooden chest, with the same eye, teeth and tongue.
 - {cast:Sazed}
 - {cast:Eloria}
 - {cast:Skye}
-- {cast:Killian} Here he is unconscious and tied to a chair.
+- {cast:Killian} Here: he is unconscious and tied to a chair.
 - {cast:The Moonwatch}
 
 REFERENCES

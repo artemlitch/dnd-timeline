@@ -19,11 +19,11 @@ CAST
 - {cast:Brand}
 - {cast:Sazed}
 - {cast:Cromwell}
-- {cast:Screech} Here he is unconscious and tied up.
-- {cast:Elric} Here he is unconscious and tied up.
-- {cast:Sheldor} Here he is unconscious and tied up.
-- {cast:Charlie Trundle} Here he is unconscious and tied up.
-- {cast:Gelf} Here he is unconscious and tied up.
+- {cast:Screech} Here: he is unconscious and tied up.
+- {cast:Elric} Here: he is unconscious and tied up.
+- {cast:Sheldor} Here: he is unconscious and tied up.
+- {cast:Charlie Trundle} Here: he is unconscious and tied up.
+- {cast:Gelf} Here: he is unconscious and tied up.
 
 REFERENCES
 {references}

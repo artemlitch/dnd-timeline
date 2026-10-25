@@ -14,7 +14,7 @@ Sorenson has come straight from a fancy dinner aboard the Empyrean to visit Shem
 
 CAST
 - {cast:Sorenson}
-- {cast:Shmem Gorgis} Here he appears only in the painted family portrait on the wall.
+- {cast:Shmem Gorgis} Here: he appears only in the painted family portrait on the wall.
 - Shemette Gorgis: an elderly man with long white hair, a white beard and round wire spectacles; seen only in the portrait.
 - {cast:Shmerly Gorgis} Here: seen only in the portrait.
 - {cast:The Empyrean}

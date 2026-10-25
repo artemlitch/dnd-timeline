@@ -14,7 +14,7 @@ Clockwork, the Sentinels' warforged artificer, bends over the body of The Even H
 
 CAST
 - {cast:Clockwork}
-- {cast:The Even Hand} Here only as the dead, split-open warforged body on the workbench.
+- {cast:The Even Hand} Here: only as the dead, split-open warforged body on the workbench.
 - {cast:Lirael}
 - {cast:Brand}
 - {cast:Sazed}

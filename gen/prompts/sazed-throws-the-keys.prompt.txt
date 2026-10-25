@@ -14,7 +14,7 @@ Sazed has just dodged the rolling spike log and snatched every recruit's key off
 
 CAST
 - {cast:Sazed}
-- {cast:Keys} Here he is in his dwarf form, soaking wet.
+- {cast:Keys} Here: he is in his dwarf form, soaking wet.
 - {cast:Sheldor}
 - {cast:Sorenson}
 - {cast:Dyll Strickland}

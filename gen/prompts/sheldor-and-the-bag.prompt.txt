@@ -13,8 +13,8 @@ THE MOMENT
 Brand, an old dwarf woken from sleep, out of his armor and in his nightclothes, is held down by two Sentinels in black uniforms while Sheldor, the drow, holds open the Bag of Devouring: an ordinary-looking cloth sack whose open mouth is a swirling blue portal into somewhere else. Brand's mouth is wide open in a scream that makes no sound, because one of the Sentinels has cast silence on the room. He has just hurled his alarm clock with his one free hand, and the half-orc Sentinel catches it neatly in mid-air. A heartbeat from now they will shove him headfirst into the bag.
 
 CAST
-- {cast:Brand} Here he is NOT in his power armor: he is in nightclothes, his hair and beard wild from sleep.
-- {cast:Sheldor} Here his face is blank and strange: he is possessed.
+- {cast:Brand} Here: he is NOT in his power armor: he is in nightclothes, his hair and beard wild from sleep.
+- {cast:Sheldor} Here: his face is blank and strange: he is possessed.
 - {cast:Lug Murzog} Here: in a black Sentinel uniform.
 - {cast:Charlie Trundle} Here: in a black Sentinel uniform.
 

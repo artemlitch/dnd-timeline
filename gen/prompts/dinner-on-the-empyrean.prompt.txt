@@ -13,7 +13,7 @@ THE MOMENT
 After their recording session, Thaddeus D'Cannith has brought the musicians to dinner on his ship and had them play a set. At the end of the room the band plays for the table: Sorenson on his mandolin, Barry Baritone, a big brass construct, booming out a bass line through the huge tuba bell on his shoulder, and Gribble Goblin, a goblin bard, wailing on his guitar. At the head of the table Thaddeus, heir of House Cannith, leans back in his chair applauding slowly, charming and smiling but with cold eyes; around his neck hangs a heavy anti-magic amulet. Beside him sits Art Broadhelm, the dwarf who built the ship. Silvania, a strikingly beautiful tiefling head butler, refills Thaddeus's glass. Sorenson glances sideways at his host mid-song, uneasy.
 
 CAST
-- {cast:Thaddeus Cannith} Here he wears a heavy anti-magic amulet on a chain around his neck.
+- {cast:Thaddeus Cannith} Here: he wears a heavy anti-magic amulet on a chain around his neck.
 - {cast:Sorenson}
 - {cast:Barry Baritone}
 - {cast:Art Broadhelm}
