@@ -1154,6 +1154,30 @@
    "prompt": "gen/prompts/mourning-the-fallen.prompt.txt",
    "cost": 0.03678375,
    "at": "2026-10-23T11:04:57"
+  },
+  {
+   "version": 3,
+   "file": "site/img/mourning-the-fallen.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/mourning-the-fallen.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sorenson",
+    "Leff",
+    "Rex",
+    "Shmem Gorgis",
+    "Rolick",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.0348085,
+   "at": "2026-10-25T09:01:52",
+   "draft": "gen/drafts/mourning-the-fallen/20261025-090152-047000.jpg"
   }
  ],
  "down-from-the-roof": [
