@@ -1934,8 +1934,8 @@
         "Kingsblade",
         "Mara'bor"
       ],
-      "img": "img/halien-stands-watch.v3.jpg",
-      "img_version": 3
+      "img": "img/halien-stands-watch.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "wild-cart-ride",
@@ -1956,8 +1956,8 @@
         "Mara'bor",
         "Brand"
       ],
-      "img": "img/wild-cart-ride.v3.jpg",
-      "img_version": 3
+      "img": "img/wild-cart-ride.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "elrics-supper",
@@ -1984,7 +1984,7 @@
     },
     {
       "id": "elric-reveals-sentinels",
-      "img": "img/elric-reveals-sentinels.v4.jpg",
+      "img": "img/elric-reveals-sentinels.v5.jpg",
       "title": "Elric Reveals the Sentinels",
       "year": 993,
       "month": 1,
@@ -2004,7 +2004,7 @@
         "Sentinels",
         "DarkWood"
       ],
-      "img_version": 4
+      "img_version": 5
     },
     {
       "id": "brand-and-the-old-king",
@@ -2070,8 +2070,8 @@
         "Lirael",
         "Mara'bor"
       ],
-      "img": "img/elric-throws-a-spoon.v3.jpg",
-      "img_version": 3
+      "img": "img/elric-throws-a-spoon.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "verona-sharpes-tea",
@@ -2260,8 +2260,8 @@
         "Joerick",
         "Mara'bor"
       ],
-      "img": "img/gelf-in-the-closet.v4.jpg",
-      "img_version": 4
+      "img": "img/gelf-in-the-closet.v5.jpg",
+      "img_version": 5
     },
     {
       "id": "gelf-tells-all",
@@ -2285,12 +2285,12 @@
         "Blazehelm",
         "Grimdells"
       ],
-      "img": "img/gelf-tells-all.v4.jpg",
-      "img_version": 4
+      "img": "img/gelf-tells-all.v5.jpg",
+      "img_version": 5
     },
     {
       "id": "rotten-potatoes",
-      "img": "img/rotten-potatoes.v4.jpg",
+      "img": "img/rotten-potatoes.v5.jpg",
       "title": "Rotten Potatoes",
       "year": 993,
       "month": 1,
@@ -2311,7 +2311,7 @@
         "Elric",
         "Mara'bor"
       ],
-      "img_version": 4
+      "img_version": 5
     },
     {
       "id": "grails-brother-arrives",
@@ -2472,12 +2472,12 @@
         "Elric",
         "Kingsblade"
       ],
-      "img": "img/paxon-in-the-clearing.v3.jpg",
-      "img_version": 3
+      "img": "img/paxon-in-the-clearing.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "the-kingsblade",
-      "img": "img/the-kingsblade.v4.jpg",
+      "img": "img/the-kingsblade.v5.jpg",
       "title": "The Kingsblade Revealed",
       "year": 993,
       "month": 1,
@@ -2497,7 +2497,7 @@
         "Gelf",
         "Elric"
       ],
-      "img_version": 4
+      "img_version": 5
     },
     {
       "id": "the-sentinels-explained",
@@ -2520,8 +2520,8 @@
         "King Ir'Wynarn",
         "Kingsblade"
       ],
-      "img": "img/the-sentinels-explained.v3.jpg",
-      "img_version": 3
+      "img": "img/the-sentinels-explained.v4.jpg",
+      "img_version": 4
     },
     {
       "id": "prison-was-a-sentinel-trial",

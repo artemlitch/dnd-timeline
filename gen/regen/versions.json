@@ -1412,6 +1412,27 @@
    "prompt": "gen/prompts/halien-stands-watch.prompt.txt",
    "cost": 0.03576625,
    "at": "2026-10-23T10:59:37"
+  },
+  {
+   "version": 4,
+   "file": "site/img/halien-stands-watch.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/halien-stands-watch.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Gelf",
+    "Elric",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mine Entrance to Mara'bor map"
+   ],
+   "cost": 0.03464975,
+   "at": "2026-10-25T09:17:03",
+   "draft": "gen/drafts/halien-stands-watch/20261025-091703-580000.jpg"
   }
  ],
  "wild-cart-ride": [
@@ -1431,6 +1452,26 @@
    "prompt": "gen/prompts/wild-cart-ride.prompt.txt",
    "cost": 0.03542325,
    "at": "2026-10-23T11:03:45"
+  },
+  {
+   "version": 4,
+   "file": "site/img/wild-cart-ride.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/wild-cart-ride.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Elric",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Collapsed Mine map"
+   ],
+   "cost": 0.03463,
+   "at": "2026-10-25T09:17:07",
+   "draft": "gen/drafts/wild-cart-ride/20261025-091707-088000.jpg"
   }
  ],
  "elrics-supper": [
@@ -1497,6 +1538,26 @@
    "prompt": "gen/prompts/elric-reveals-sentinels.prompt.txt",
    "cost": 0.03575325,
    "at": "2026-10-23T10:59:28"
+  },
+  {
+   "version": 5,
+   "file": "site/img/elric-reveals-sentinels.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/elric-reveals-sentinels.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Elric",
+    "Lirael",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.034632,
+   "at": "2026-10-25T09:17:01",
+   "draft": "gen/drafts/elric-reveals-sentinels/20261025-091701-371000.jpg"
   }
  ],
  "brand-and-the-old-king": [
@@ -1564,6 +1625,26 @@
    "prompt": "gen/prompts/elric-throws-a-spoon.prompt.txt",
    "cost": 0.0354255,
    "at": "2026-10-23T11:03:21"
+  },
+  {
+   "version": 4,
+   "file": "site/img/elric-throws-a-spoon.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/elric-throws-a-spoon.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Elric",
+    "Sazed",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03463325,
+   "at": "2026-10-25T09:17:05",
+   "draft": "gen/drafts/elric-throws-a-spoon/20261025-091705-489000.jpg"
   }
  ],
  "verona-sharpes-tea": [
@@ -1776,6 +1857,27 @@
    "prompt": "gen/prompts/gelf-in-the-closet.prompt.txt",
    "cost": 0.0357725,
    "at": "2026-10-23T10:59:27"
+  },
+  {
+   "version": 5,
+   "file": "site/img/gelf-in-the-closet.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/gelf-in-the-closet.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Gelf",
+    "Elric",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03465275,
+   "at": "2026-10-25T09:17:02",
+   "draft": "gen/drafts/gelf-in-the-closet/20261025-091702-292000.jpg"
   }
  ],
  "gelf-tells-all": [
@@ -1803,6 +1905,27 @@
    "prompt": "gen/prompts/gelf-tells-all.prompt.txt",
    "cost": 0.035764,
    "at": "2026-10-23T10:59:34"
+  },
+  {
+   "version": 5,
+   "file": "site/img/gelf-tells-all.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/gelf-tells-all.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Gelf",
+    "Elric",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03464425,
+   "at": "2026-10-25T09:17:02",
+   "draft": "gen/drafts/gelf-tells-all/20261025-091702-262000.jpg"
   }
  ],
  "rotten-potatoes": [
@@ -1830,6 +1953,27 @@
    "prompt": "gen/prompts/rotten-potatoes.prompt.txt",
    "cost": 0.036451,
    "at": "2026-10-23T10:59:12"
+  },
+  {
+   "version": 5,
+   "file": "site/img/rotten-potatoes.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/rotten-potatoes.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Damron Pink",
+    "Fumble Figgins",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mara'bor Inside map"
+   ],
+   "cost": 0.03474375,
+   "at": "2026-10-25T09:17:02",
+   "draft": "gen/drafts/rotten-potatoes/20261025-091702-575000.jpg"
   }
  ],
  "grails-brother-arrives": [
@@ -2001,6 +2145,28 @@
    "prompt": "gen/prompts/paxon-in-the-clearing.prompt.txt",
    "cost": 0.03576475,
    "at": "2026-10-23T10:59:33"
+  },
+  {
+   "version": 4,
+   "file": "site/img/paxon-in-the-clearing.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/paxon-in-the-clearing.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Gelf",
+    "Paxon",
+    "Elric",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Dead Wood Clearing map"
+   ],
+   "cost": 0.034655,
+   "at": "2026-10-25T09:17:02",
+   "draft": "gen/drafts/paxon-in-the-clearing/20261025-091702-455000.jpg"
   }
  ],
  "the-kingsblade": [
@@ -2028,6 +2194,28 @@
    "prompt": "gen/prompts/the-kingsblade.prompt.txt",
    "cost": 0.0363755,
    "at": "2026-10-23T10:59:17"
+  },
+  {
+   "version": 5,
+   "file": "site/img/the-kingsblade.v5.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-kingsblade.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand",
+    "Gelf",
+    "Blazehelm",
+    "Elric",
+    "Lirael",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Dead Wood Clearing map"
+   ],
+   "cost": 0.03466225,
+   "at": "2026-10-25T09:23:20",
+   "draft": "gen/drafts/the-kingsblade/20261025-092320-408000.jpg"
   }
  ],
  "the-sentinels-explained": [
@@ -2047,6 +2235,27 @@
    "prompt": "gen/prompts/the-sentinels-explained.prompt.txt",
    "cost": 0.03606575,
    "at": "2026-10-23T11:03:10"
+  },
+  {
+   "version": 4,
+   "file": "site/img/the-sentinels-explained.v4.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/the-sentinels-explained.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Blazehelm",
+    "Paxon",
+    "Lirael",
+    "Brand",
+    "Sazed"
+   ],
+   "refs": [
+    "Character lineup",
+    "Dead Wood Clearing map"
+   ],
+   "cost": 0.03468125,
+   "at": "2026-10-25T09:23:19",
+   "draft": "gen/drafts/the-sentinels-explained/20261025-092319-185000.jpg"
   }
  ],
  "prison-was-a-sentinel-trial": [
