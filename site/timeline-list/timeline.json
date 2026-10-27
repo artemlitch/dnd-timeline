@@ -1,0 +1,5628 @@
+[
+ {
+  "n": 1,
+  "storyline": "history",
+  "date": {
+   "year": null
+  },
+  "doc_date": "Unknown",
+  "title": "Creation of Eberron, Khyber, and Siberys",
+  "sidebar": [
+   "According to myth, the Progenitor Wyrms create reality and the thirteen planes. Khyber turns against the others and tears Siberys apart.",
+   "Eberron coils around Khyber and becomes the living world and prison of the Dragon Below. Siberys’s shattered body becomes the golden ring of dragonshards surrounding the world, while Khyber becomes the vast world beneath."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 2,
+  "storyline": "history",
+  "date": {
+   "year": -100000
+  },
+  "doc_date": "-100,000 BG",
+  "title": "Couatls bind the demon lords beneath Khyber",
+  "sidebar": [
+   "Recognizing that the war against Khyber’s fiends cannot otherwise be won, the couatls sacrifice most of their number to bind the most powerful demon lords and the majority of the fiends beneath Khyber.",
+   "The surviving dragons withdraw to Argonnessen to contemplate the Draconic Prophecy, leaving the bound fiends imprisoned below the world."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 3,
+  "storyline": "history",
+  "date": {
+   "year": -40000
+  },
+  "doc_date": "-40,000 BG",
+  "title": "Quori invade Xen’drik; Dal Quor is thrown out of planar alignment",
+  "sidebar": [
+   "The quori invade Xen’drik from Dal Quor, the Plane of Dreams, beginning a devastating war against the giants.",
+   "The giants ultimately use immensely powerful magic to throw Dal Quor out of planar alignment and seal it away from Eberron. The magical backlash devastates Xen’drik and sinks large portions of the continent beneath the sea."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 4,
+  "storyline": "history",
+  "date": {
+   "year": -16000
+  },
+  "doc_date": "-16,000 BG",
+  "title": "Vvaraak teaches druidic magic; the first Gatekeepers arise",
+  "sidebar": [
+   "The dragon Vvaraak, acting in response to a portion of the Draconic Prophecy, begins teaching druidic magic to the orcs of western Khorvaire. These orcs become the first Gatekeeper druids.",
+   "The Gatekeepers are dedicated to protecting the natural world from extraplanar horrors, fiends, and aberrations. They maintain the ancient dimensional seals to hold back the Daelkyr and other extraplanar entities.",
+   "Note the Gatekeepers are a distinct group from the Watchers of the Gate.",
+   "Around the same era, the Dhakaani unite the goblinoid nations of Khorvaire into the great Dhakaani Empire."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 5,
+  "storyline": "history",
+  "date": {
+   "year": -8000
+  },
+  "doc_date": "-8,000 BG",
+  "title": "First Incursion / Daelkyr War",
+  "sidebar": [
+   "The daelkyr invade Eberron from Xoriat, devastating western Khorvaire. The Gatekeeper druids ultimately defeat the invasion by sealing the portals to Xoriat and trapping the remaining daelkyr beneath the world.",
+   "The Wroat Military Library records identify this Daelkyr War as the First Incursion: the Dreamweaver first appears during the conflict and makes its first known attempt to build an empire in the material plane through large-scale possession.",
+   "Sources: Wroat Military Library Dreamweaver Books (played library information) + supplied Eberron setting timeline; -8,000 date supplied by the GM"
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 6,
+  "storyline": "history",
+  "date": {
+   "year": -2600
+  },
+  "doc_date": "-2,600 BG",
+  "title": "House Vol is destroyed; Lady Vol becomes the lich Queen of the Dead",
+  "sidebar": [
+   "Elves and dragons unite to destroy House Vol, the elven line that bears the Mark of Death, bringing the house to ruin.",
+   "Lady Vol survives as the lich Queen of the Dead."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 7,
+  "storyline": "history",
+  "date": {
+   "year": -2500
+  },
+  "doc_date": "-2,500 BG",
+  "title": "The future Five Nations emerge",
+  "sidebar": [
+   "Human settlements expand across central Khorvaire, carving territory out of lands still controlled by goblinoid peoples.",
+   "These settlements develop into the political foundations of the Five Nations that will later dominate central Khorvaire."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 8,
+  "storyline": "history",
+  "date": {
+   "year": -1500
+  },
+  "doc_date": "-1,500 BG",
+  "title": "Second Incursion; The Twelve is established",
+  "sidebar": [
+   "According to the Wroat Military Library records, the Second Incursion occurs when the Goblin Empire of Scurr is culled from the central landmass of Khorvaire.",
+   "Those records state that the Obelisk and the Gate are created during the Second Incursion as weapons intended to fight the Dreamweaver.",
+   "The dragonmarked houses establish the Twelve as a shared institution for cooperation, magical research and the development of dragonmarked industries.",
+   "Over the centuries, the Twelve becomes one of the central institutions behind the technological and arcane development of the dragonmarked houses.",
+   "Sources: Wroat Military Library Dreamweaver Books (played library information) + supplied Eberron setting timeline (Wizards of the Coast)"
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 9,
+  "storyline": "history",
+  "date": {
+   "year": -50
+  },
+  "doc_date": "-50 BG",
+  "title": "Founding of the Kingdom of Galifar",
+  "sidebar": [
+   "The Kingdom of Galifar is established roughly four decades before the Third Incursion.",
+   "This date is an approximate reconstruction rather than a date stated directly in the Dreamweaver library text."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 10,
+  "storyline": "history",
+  "date": {
+   "year": -7
+  },
+  "doc_date": "-7 BG",
+  "title": "Third Incursion",
+  "sidebar": [
+   "Creed Odeon is described in the Wroat Military Library records as creating the Shadowmirror in an attempt to control the Dreamweaver, causing the Third Incursion.",
+   "Those records describe the Third Incursion as resulting in the destruction of the Kingdom of Galifar and the death of King Galifar I.",
+   "The Skull Knight is said in those records to end the Third Incursion using the Obelisk and the Gate."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 11,
+  "storyline": "history",
+  "date": {
+   "year": 1
+  },
+  "doc_date": "1 YK",
+  "title": "Refounding / Reconstitution of Galifar",
+  "sidebar": [
+   "The Kingdom of Galifar is reconstituted by Galifar II in the year 1, seven years after the Third Incursion."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 12,
+  "storyline": "history",
+  "date": {
+   "year": 299
+  },
+  "doc_date": "299 YK",
+  "title": "The Church of the Silver Flame is founded",
+  "sidebar": [
+   "The Church of the Silver Flame is founded, establishing the religious institution that will become one of the great powers of Khorvaire.",
+   "The faith later becomes especially dominant in Thrane and profoundly shapes the political and religious history of the continent."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 13,
+  "storyline": "history",
+  "date": {
+   "year": 489
+  },
+  "doc_date": "489 YK",
+  "title": "Alton Ardev founds Ardev",
+  "sidebar": [
+   "Alton Ardev establishes the settlement that becomes Ardev as a refuge for drow, goblinoids and others rejected elsewhere.",
+   "The community grows both above and below ground, laying the foundation for modern Ardev and Lower Ardev."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 14,
+  "storyline": "history",
+  "date": {
+   "year": 680
+  },
+  "doc_date": "680 YK",
+  "title": "Broadhelm Smithery is founded",
+  "sidebar": [
+   "Ulnar and Kathla Broadhelm establish the Broadhelm Smithery in the Blackcap Mountains in 680 YK.",
+   "Over the following centuries the Broadhelm name grows into a household name across Breland, laying the foundation for Brand’s family legacy."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 15,
+  "storyline": "history",
+  "date": {
+   "year": 778
+  },
+  "doc_date": "778 YK",
+  "title": "Brand Broadhelm is born",
+  "sidebar": [
+   "Brand Broadhelm is born, approximately 215 years before the current campaign year."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 16,
+  "storyline": "history",
+  "date": {
+   "year": 811
+  },
+  "doc_date": "811 YK",
+  "title": "The first lightning rail connects Flamekeep and Fairhaven",
+  "sidebar": [
+   "The first lightning rail line begins operation, connecting Flamekeep in Thrane with Fairhaven in Aundair.",
+   "The new transportation system marks the beginning of the lightning rail network that will eventually bind much of central Khorvaire together."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 17,
+  "storyline": "history",
+  "date": {
+   "year": 832
+  },
+  "doc_date": "832 YK",
+  "title": "The Silver Purge begins",
+  "sidebar": [
+   "The Church of the Silver Flame launches the great inquisition against Lycanthropes and Shifters, beginning the campaign later known as the Silver Purge.",
+   "The purge continues for roughly fifty years and kills virtually all Lycanthropes and Shifters across Khorvaire, leaving a lasting legacy of fear and persecution."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 18,
+  "storyline": "history",
+  "date": {
+   "year": 833
+  },
+  "doc_date": "833 YK",
+  "title": "Brand enters Brelish military service",
+  "sidebar": [
+   "The Brelish Army approaches the Broadhelms for an arms contract roughly 160 years before the campaign.",
+   "Brand takes the opportunity to represent the family directly, trains with the Brelish military and establishes his own military forge in Sharn."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 19,
+  "storyline": "history",
+  "date": {
+   "year": 845
+  },
+  "doc_date": "845 YK",
+  "title": "King Jarot begins the central Khorvaire lightning-rail project",
+  "sidebar": [
+   "King Jarot begins an ambitious public-works project intended to connect the heart of Khorvaire through an expanded lightning-rail network.",
+   "The project accelerates the transformation of the Five Nations into an increasingly interconnected industrial society."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 20,
+  "storyline": "history",
+  "date": {
+   "year": 865
+  },
+  "doc_date": "865 YK",
+  "title": "Lightning rail lines connect the Five Nations and neighboring regions",
+  "sidebar": [
+   "The expanding lightning-rail network now connects the Five Nations with Zilargo, the Mror Holds and the Talenta Plains.",
+   "The system becomes one of the major arteries for civilian travel, commerce and military movement across Khorvaire."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 21,
+  "storyline": "history",
+  "date": {
+   "year": 893
+  },
+  "doc_date": "893 YK",
+  "title": "King Jarot dies; the 100 Years War begins",
+  "sidebar": [
+   "King Jarot of Galifar dies. The succession should pass to Mishann of Cyre, but several of her siblings reject the appointment.",
+   "The dispute fractures Galifar and the Five Nations turn the armies and new technologies amassed under Jarot against one another, beginning the 100 YearsWar."
+  ],
+  "images": [
+   {
+    "event": "h-jarot-dies",
+    "title": "King Jarot Dies, the War Begins",
+    "img": "img/h-jarot-dies.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 22,
+  "storyline": "history",
+  "date": {
+   "year": 893
+  },
+  "doc_date": "893 YK",
+  "title": "First conflict with Karrnath",
+  "sidebar": [
+   "During the first battle of the 100 Years War and the first conflict with Karrnath, a squad wearing armor made by Brand is wiped out by an undead force.",
+   "Brand blames himself for their death and turns away from frontline service toward military engineering."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 23,
+  "storyline": "history",
+  "date": {
+   "year": 893
+  },
+  "doc_date": "893 YK",
+  "title": "Brand begins developing his prototype armor",
+  "sidebar": [
+   "Brand begins developing a suit of armor intended not only to protect its wearer, but also the people around them.",
+   "The project combines Brand’s engineering skill with his devotion to Onatar and becomes the central work of the next forty years."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 24,
+  "storyline": "history",
+  "date": {
+   "year": 897
+  },
+  "doc_date": "897 YK",
+  "title": "Kaius I allies Karrnath with the Blood of Vol and becomes a vampire",
+  "sidebar": [
+   "Desperate to save Karrnath from the devastation of the War, Kaius I pledges his kingdom to the Blood of Vol.",
+   "The alliance brings Karrnath deeper into necromantic warfare, and Kaius I is transformed into a vampire by Vol."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 25,
+  "storyline": "history",
+  "date": {
+   "year": 912
+  },
+  "doc_date": "912 YK",
+  "title": "Mobile Fortresses enter the war",
+  "sidebar": [
+   "House Cannith creates the giant hovering mobile military bases.",
+   "By the current campaign Breland operates five of these fortress-scale military platforms."
+  ],
+  "images": [
+   {
+    "event": "h-flying-fortresses",
+    "title": "House Cannith Builds Flying Fortresses",
+    "img": "img/h-flying-fortresses.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 26,
+  "storyline": "history",
+  "date": {
+   "year": 913
+  },
+  "doc_date": "913 YK",
+  "title": "The Grimdell family disappears from active operations",
+  "sidebar": [
+   "The Grimdell necromancy family, already notorious for centuries of activity, disappears from the known conflict roughly twenty years into the War."
+  ],
+  "images": [
+   {
+    "event": "h-grimdells-vanish",
+    "title": "The Grimdell Family Disappears",
+    "img": "img/h-grimdells-vanish.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 27,
+  "storyline": "history",
+  "date": {
+   "year": 914
+  },
+  "doc_date": "914 YK",
+  "title": "Thrane becomes a Silver Flame theocracy",
+  "sidebar": [
+   "King Thalin of Thrane dies, and the Church of the Silver Flame assumes political control of the nation.",
+   "The Keeper of the Flame becomes Thrane’s supreme leader, establishing the theocratic government that rules the nation during the War."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 28,
+  "storyline": "history",
+  "date": {
+   "year": 933
+  },
+  "doc_date": "933 YK",
+  "title": "Brand completes his prototype armor",
+  "sidebar": [
+   "After forty years of development, Brand completes a functioning prototype of his protective armor.",
+   "The prototype works, but he has not yet found a way to reproduce it safely and refuses to release the plans until he can."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 29,
+  "storyline": "history",
+  "date": {
+   "year": 953
+  },
+  "doc_date": "953 YK",
+  "title": "Sazed is born",
+  "sidebar": [
+   "Sazed is born, approximately 40 years before the current campaign year."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 30,
+  "storyline": "history",
+  "date": {
+   "year": 953
+  },
+  "doc_date": "953 YK",
+  "title": "Brand Broadhelm is imprisoned",
+  "sidebar": [
+   "After refusing to surrender his prototype armor plans, Brand is framed by Thaddeus d’Cannith and convicted of aiding and abetting a Thranish assassination attempt against King Boranex Ir’Wynarn.",
+   "Brand’s armor is confiscated and he begins the forty-year imprisonment that ends with the Darkwood campaign opening."
+  ],
+  "images": [
+   {
+    "event": "h-brand-framed",
+    "title": "Brand Broadhelm Framed for Treason",
+    "img": "img/h-brand-framed.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 31,
+  "storyline": "history",
+  "date": {
+   "year": 953
+  },
+  "doc_date": "953 YK",
+  "title": "Ember begins work on Brand’s replacement armor",
+  "sidebar": [
+   "After Brand is imprisoned in 953 YK, Ember Broadhelm begins work on a replacement suit for him. She continues refining it throughout his imprisonment; in 993 YK she reveals the unfinished armor at the Broadhelm Forge, where Brand’s Onatar-given core is able to power it."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 32,
+  "storyline": "history",
+  "date": {
+   "year": 960
+  },
+  "doc_date": "960 YK",
+  "title": "Sazed’s childhood shifter village is destroyed by the Silver Flame",
+  "sidebar": [
+   "At age seven, Sazed’s shifter village outside Passage is attacked and destroyed by Silver Flame forces, killing his family.",
+   "The children are hidden during the attack and later rescued by the Loreguards. Sazed is taken in and trained among them, beginning the path that shapes his later service."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 33,
+  "storyline": "history",
+  "date": {
+   "year": 961
+  },
+  "doc_date": "961 YK",
+  "title": "King Boranex takes his own life; Boranel becomes King of Breland",
+  "sidebar": [
+   "In 961 YK, King Boranex’s two eldest sons are killed fighting Aundair around Cragwar. A month later, already ailing and grief-stricken, Boranex takes his own life.",
+   "His third son Boranel is hurriedly summoned from Sharn and crowned King of Breland."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 34,
+  "storyline": "history",
+  "date": {
+   "year": 961
+  },
+  "doc_date": "961 YK",
+  "title": "Boranex Forest is planted in King Boranex’s honor",
+  "sidebar": [
+   "Shortly after King Boranex’s death, the forest outside Wroat is planted and named in his honor. By 993 YK, thirty-two years after his death, it has grown into a thriving forest."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 35,
+  "storyline": "history",
+  "date": {
+   "year": 965
+  },
+  "doc_date": "965 YK",
+  "title": "House Cannith perfects the modern warforged",
+  "sidebar": [
+   "House Cannith perfects the modern-era warforged: sentient living constructs designed for service in the War.",
+   "Their existence becomes increasingly important to the campaign through characters such as Clockwork, Mustang, Bulwark and the Right Hand.",
+   "Sources: Main campaign opening world primer + supplied Eberron setting timeline"
+  ],
+  "images": [
+   {
+    "event": "h-warforged-created",
+    "title": "The Warforged Are Created",
+    "img": "img/h-warforged-created.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 36,
+  "storyline": "history",
+  "date": {
+   "year": 968,
+   "month": 4,
+   "day": 8
+  },
+  "doc_date": "8th–13th of Eyre, 968 YK",
+  "title": "The attack on Wroat / Day the Walls Fell",
+  "sidebar": [
+   "Brelish military graves encountered by the party are dated from the 8th through the 13th of Eyre, 968 YK.",
+   "A Wroat memorial names 13 Eyre 968 as “The Day the Walls Fell.”"
+  ],
+  "images": [
+   {
+    "event": "h-walls-fell",
+    "title": "The Day the Walls Fell",
+    "img": "img/h-walls-fell.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 37,
+  "storyline": "history",
+  "date": {
+   "year": 969
+  },
+  "doc_date": "969 YK",
+  "title": "Haruuc’s rebellion creates Darguun",
+  "sidebar": [
+   "Haruuc Shaarat’kor leads a hobgoblin rebellion against the forces of Cyre and Breland in southeastern Khorvaire.",
+   "The rebellion succeeds in creating the independent goblinoid nation of Darguun."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 38,
+  "storyline": "history",
+  "date": {
+   "year": 969,
+   "month": 12
+  },
+  "doc_date": "Early Vult, 969 YK",
+  "title": "Battle of Fells Gate / Mindflayer Incursion",
+  "sidebar": [
+   "A Mindflayer incursion from Khyber reaches toward the surface and is driven back by Brelish forces at Fells Gate.",
+   "Myconid forces then attack the battlefield with invasive spores, leaving the site contaminated and forcing Fells Gate to be sealed.",
+   "Geralt Gilderfawn’s journal, found decades later by the B-Team, records the aftermath from the 3rd through the 7th of Vult 969."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 39,
+  "storyline": "history",
+  "date": {
+   "year": 970
+  },
+  "doc_date": "970s YK",
+  "title": "The Covenant of Emberfall is founded in Thrane",
+  "sidebar": [
+   "The shifter village of FaltenStep is wiped out during a surge of Silver Flame extremism in Thrane. Shifters are driven from the country, and communities that refuse to leave are destroyed; Breland accepts shifters who flee across the border.",
+   "The Bloodsinger, son of FaltenStep’s village chief, responds by founding the Covenant of Emberfall and dedicating it to the preservation of the shifter bloodline.",
+   "The Covenant grows quickly among disaffected and radicalized shifters and becomes infamous in Thrane for attacks on the military, the Silver Flame church and the general populace.",
+   "As Thranish authorities close in, the Covenant slips across the border into Breland. Its ideology remains violently opposed to the Silver Flame and to the modern industrial society the Bloodsinger believes is destroying shifter life."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 40,
+  "storyline": "history",
+  "date": {
+   "year": 970
+  },
+  "doc_date": "970 YK",
+  "title": "Lirael is born",
+  "sidebar": [
+   "Lirael is born, approximately 23 years before the current campaign year."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 41,
+  "storyline": "history",
+  "date": {
+   "year": 971
+  },
+  "doc_date": "971 YK",
+  "title": "The Guns of Wroat are installed",
+  "sidebar": [
+   "Breland installs the massive elemental artillery batteries known as the Guns of Wroat in reaction to the Day the Walls Fell.",
+   "Their presence becomes central to Wroat’s defenses and later helps make the Aundairian Skyfire Raid catastrophically expensive."
+  ],
+  "images": [
+   {
+    "event": "h-guns-of-wroat",
+    "title": "The Guns of Wroat Are Raised",
+    "img": "img/h-guns-of-wroat.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 42,
+  "storyline": "history",
+  "date": {
+   "year": 972
+  },
+  "doc_date": "972 YK",
+  "title": "The first Sentinel team is formed",
+  "sidebar": [
+   "The surviving legacy of the Redcloak Battalion is reorganized into the first Sentinel team.",
+   "The B-Team learns this while crossing the old Fells Gate battlefield, turning the ruins into a direct piece of their own unit’s history."
+  ],
+  "images": [
+   {
+    "event": "h-sentinels-founded",
+    "title": "The King Founds the Sentinels",
+    "img": "img/h-sentinels-founded.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 43,
+  "storyline": "history",
+  "date": {
+   "year": 972
+  },
+  "doc_date": "972 YK",
+  "title": "Blazehelm disappears from public records",
+  "sidebar": [
+   "Blazehelm vanishes from official records. Stories about the Brelish war hero continue among soldiers, while Aundair publicly claims he was never real even as its intelligence services continue to treat him as a possible living target."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 44,
+  "storyline": "history",
+  "date": {
+   "year": 978
+  },
+  "doc_date": "978 YK",
+  "title": "Canuck (exact day not stated)",
+  "sidebar": [
+   "A post-credits flashback shows teenage Delman Swordblade, years before he becomes Screech, living in the snowy village of Canuck.",
+   "Nine-year-old Cordy excitedly demonstrates new magic, accidentally escalating from harmless sparks to repeatedly firebolting Delman’s bed and model ship.",
+   "The scene establishes the affectionate sibling relationship between Screech and Cordy, and Canuck as a strangely insulated, wholesome corner of the setting."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 45,
+  "storyline": "history",
+  "date": {
+   "year": 980
+  },
+  "doc_date": "980 YK",
+  "title": "Elemental airships enter military service; Queen Aurala begins her reign of Aundair",
+  "sidebar": [
+   "The first generation of practical elemental airships begins seeing combat. Aundair initially takes the lead in developing aerial warfare and builds the largest air fleet, beginning an escalating arms race among the Five Nations. In 980 YK, Queen Aurala begins her reign over Aundair.",
+   "Sources: Main campaign opening world primer; supplied Eberron setting timeline (Wizards of the Coast)"
+  ],
+  "images": [
+   {
+    "event": "h-first-airship",
+    "title": "First Elemental Airship in Combat",
+    "img": "img/h-first-airship.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 46,
+  "storyline": "history",
+  "date": {
+   "year": 983
+  },
+  "doc_date": "983 YK",
+  "title": "A shifter hideout known to Sazed is exposed",
+  "sidebar": [
+   "A former shifter hideout known to Sazed is discovered or compromised. A decade later, during the lightning-rail crisis, Sazed chooses it as a place to hide the rescued shifters precisely because its age may make it less obvious."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 47,
+  "storyline": "history",
+  "date": {
+   "year": 983
+  },
+  "doc_date": "983 YK",
+  "title": "The attack on Prowlstone / Battle of the Eldritch Groves",
+  "sidebar": [
+   "While operating as a Loreguard undercover in the Brelish military under the guise of an Aundairian spy, Sazed learns that fighting is moving toward the shifter village of Prowlstone.",
+   "Instead of passing the military intelligence along as ordered, Sazed warns Prowlstone. The warning gives the village time to prepare and defend itself; Nedira is there when the warning arrives.",
+   "Years later, Prowlstone’s letters and drawings show marriages, births and children growing up — an entire generation whose lives were made possible by the warning.",
+   "Sazed’s decision blows his cover with the Brelish military, which identifies him as an Aundairian spy; his true allegiance as a Loreguard remains concealed. The Battle of the Eldritch Groves ends in a Brelish defeat, although Blazehelm later tells Sazed the battle was already a lost fight and his missing report did not cause the defeat."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 48,
+  "storyline": "history",
+  "date": {
+   "year": 983
+  },
+  "doc_date": "983 YK",
+  "title": "Sazed is imprisoned",
+  "sidebar": [
+   "Following the Prowlstone warning and the Battle of the Eldritch Groves, Sazed is detained after his Aundairian cover collapses.",
+   "Kynds visits him during the initial detention. Sazed is later transferred to Breland and begins roughly a decade of imprisonment, separated from the Loreguards and the communities he swore to protect."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 49,
+  "storyline": "history",
+  "date": {
+   "year": 983
+  },
+  "doc_date": "983 YK",
+  "title": "The Grimdell family resurfaces",
+  "sidebar": [
+   "After decades out of sight, the Grimdell family becomes an active problem again. By the opening of the campaign they are known to have worked with House Thuranni."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 50,
+  "storyline": "history",
+  "date": {
+   "year": 985
+  },
+  "doc_date": "985 YK",
+  "title": "Willow disappears",
+  "sidebar": [
+   "Willow warns the younger shifters to stop directly embezzling money and supplies from the Aundairian government, then disappears. Falken Sagewood tells Sazed in 993 YK that Willow has not been seen for eight years."
+  ],
+  "images": [
+   {
+    "event": "h-willow-disappears",
+    "title": "Willow Disappears",
+    "img": "img/h-willow-disappears.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 51,
+  "storyline": "history",
+  "date": {
+   "year": 985
+  },
+  "doc_date": "985 YK",
+  "title": "Hearthsfire is founded in Breland",
+  "sidebar": [
+   "After Sazed is captured, younger Loreguards grow increasingly reckless, diverting Aundairian military money and supplies to shifter communities. Willow warns them to stop, then leaves without notice. In 985 YK, the aging elders abandon Aundair for safer Breland and found Hearthsfire, while the younger Loreguards remain behind—including Falken’s son Hale. Falken has not heard from Hale or the Aundairian clan in the eight years since; by 993 YK, only Falken and Spring remain of Hearthsfire’s founding elders."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 52,
+  "storyline": "history",
+  "date": {
+   "year": 986
+  },
+  "doc_date": "986 YK",
+  "title": "The Daughters of Sora Kell invade western Breland",
+  "sidebar": [
+   "The Daughters of Sora Kell lead an army of trolls, ogres, gnolls and other monstrous forces into western Breland.",
+   "The invasion establishes the military and political reality that will soon become the nation of Droaam on Breland’s western frontier."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 53,
+  "storyline": "history",
+  "date": {
+   "year": 987
+  },
+  "doc_date": "987 YK",
+  "title": "Boranel abandons western Breland; Droaam declares sovereignty",
+  "sidebar": [
+   "Unable to fight both Droaam’s forces and Breland’s enemies, King Boranel withdraws Brelish settlers and forces from the territory west of the Graywall Mountains.",
+   "The Daughters of Sora Kell declare the sovereignty of Droaam, permanently reshaping Breland’s western frontier."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 54,
+  "storyline": "history",
+  "date": {
+   "year": 990
+  },
+  "doc_date": "990 YK",
+  "title": "Lirael Sr. begins his Dreamweaver investigation",
+  "sidebar": [
+   "Lirael Sr., then a powerful wizard, Brelish general and head of the Ardev Magic Society, becomes obsessed with proving the Dreamweaver is real.",
+   "He comes to believe someone inside the Brelish military is trying to capture the entity and use it, and focuses increasingly on the Shadowmirror as the only thing capable of controlling it.",
+   "His research begins consuming his military duties and the direction of the Magic Society."
+  ],
+  "images": [
+   {
+    "event": "h-lirael-sr-obsession",
+    "title": "Lirael Sr Fixates on the Dreamweaver",
+    "img": "img/h-lirael-sr-obsession.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 55,
+  "storyline": "history",
+  "date": {
+   "year": 991
+  },
+  "doc_date": "991 YK",
+  "title": "Kaius III begins ruling Karrnath",
+  "sidebar": [
+   "Kaius III begins his rule of Karrnath upon reaching his twentieth birthday.",
+   "He becomes the current reigning monarch of Karrnath."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 56,
+  "storyline": "history",
+  "date": {
+   "year": 991
+  },
+  "doc_date": "991 YK",
+  "title": "Lirael Sr. is discharged and disappears",
+  "sidebar": [
+   "Lirael Sr. investigates military superiors, is caught and discharged after his behavior and conspiracy research overwhelm his normal duties.",
+   "He withdraws almost completely into the investigation, meets with the Watchers of the Gate in Starilaskur and then disappears.",
+   "His final hidden poem is dated the day before his disappearance, leaving a trail Lirael eventually begins following."
+  ],
+  "images": [
+   {
+    "event": "h-lirael-sr-vanishes",
+    "title": "Lirael Sr Vanishes",
+    "img": "img/h-lirael-sr-vanishes.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 57,
+  "storyline": "history",
+  "date": {
+   "year": 991
+  },
+  "doc_date": "991 YK",
+  "title": "Xera receives a mysterious necklace in an unaddressed letter",
+  "sidebar": [
+   "Xera Kel receives a necklace in an unaddressed letter. Roughly a year later, Lirael identifies the necklace as dangerous and asks her to give it to him."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 58,
+  "storyline": "history",
+  "date": {
+   "year": 992
+  },
+  "doc_date": "992 YK",
+  "title": "Jaela Daran, age five, becomes Keeper of the Silver Flame",
+  "sidebar": [
+   "At the age of five, Jaela Daran assumes the power and office of Keeper of the Silver Flame.",
+   "Her accession places a very young Keeper at the head of the Silver Flame and the Thranish government."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 59,
+  "storyline": "history",
+  "date": {
+   "year": 992
+  },
+  "doc_date": "992 YK",
+  "title": "Lirael is imprisoned after the Sharn Magic Society attack",
+  "sidebar": [
+   "The Dreamweaver possesses Lirael during the Watchers of the Gate ritual at the Witches Waltz. Under its control, he kills the Watchers involved and burns their library.",
+   "Later, while still under Dreamweaver possession, Lirael goes to the Sharn Magic Society for his initiation. He attacks the society and kills its head, Vena Belladonna.",
+   "Lirael is imprisoned for the Sharn Magic Society attack and Vena Belladonna’s murder. At the start of the campaign he remembers only fragments; the full truth is recovered much later."
+  ],
+  "images": [
+   {
+    "event": "h-watchers-massacre",
+    "title": "Massacre of the Watchers of the Gate",
+    "img": "img/h-watchers-massacre.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 60,
+  "storyline": "history",
+  "date": {
+   "year": 992
+  },
+  "doc_date": "992 YK",
+  "title": "Glade leaves Hearthsfire and founds Stones Throw",
+  "sidebar": [
+   "Glade Amberwood leaves Hearthsfire to create Stones Throw and pursue closer integration with Brelish society. Falken Sagewood says he warned Glade against the move."
+  ],
+  "images": [
+   {
+    "event": "h-stones-throw-founded",
+    "title": "Glade Founds Stones Throw",
+    "img": "img/h-stones-throw-founded.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 61,
+  "storyline": "history",
+  "date": {
+   "year": 992,
+   "month": 3,
+   "day": 12
+  },
+  "doc_date": "12th of Therendor, 992 YK",
+  "title": "The Skyfire Raid",
+  "sidebar": [
+   "The Kason, with Norm Twosteel and Dwarzel Hellfoot aboard, spots a large Aundairian airship fleet approaching Wroat.",
+   "At the Guns of Wroat, Kal Valvier nervously mans the defenses while Captain Flowers steadies him.",
+   "Breland’s prepared air defenses and newer fleet blunt the Aundairian raid after a costly battle. The event later matters personally because the bombing killed Fogen Zaggerford, the former priest of the Hobbstweedle church."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 62,
+  "storyline": "history",
+  "date": {
+   "year": 992,
+   "month": 12,
+   "day": 11
+  },
+  "doc_date": "11th of Vult, 992 YK",
+  "title": "Bravewind is attacked",
+  "sidebar": [
+   "Bravewind is attacked. A changeling who escapes the village is later kidnapped and put through a possession portal; after being revived by the party, he identifies Bravewind and gives the date of the attack."
+  ],
+  "images": [
+   {
+    "event": "h-bravewind-attacked",
+    "title": "Bravewind Attacked",
+    "img": "img/h-bravewind-attacked.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 63,
+  "storyline": "history",
+  "date": {
+   "year": 992,
+   "month": 12
+  },
+  "doc_date": "Vult 992 YK",
+  "title": "Richard and Bill disappear while heading toward Ardev",
+  "sidebar": [
+   "Steve the Skycracker and Bob the Blazebringer say their sons Richard and Bill went missing roughly six weeks before the party’s return to Ardev. The young dragons were last seen heading toward Ardev."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 64,
+  "storyline": "history",
+  "date": {
+   "year": 992,
+   "month": 12,
+   "day": 17
+  },
+  "doc_date": "17th of Vult, 992 YK",
+  "title": "Royal Ardev Regiment’s unrecorded exercise",
+  "sidebar": [
+   "Shortly after the Hobbstweedle demon appearances, the Royal Ardev Regiment conducts a nighttime exercise in the Boranex Forest, supposedly a dry run for a torch-and-burn operation in Thrane.",
+   "Paxon later discovers there is no corresponding exercise or operation in the Wroat military records.",
+   "The regiment is disbanded four days later; several members never leave Breland and continue receiving military pay.",
+   "Gauss Hog later reveals that the training exercise was a cover story.",
+   "Captain Flowers later reveals the regiment had received a black order to destroy the demon portal outside Hobbstweedle, and he never learned who issued it."
+  ],
+  "images": [
+   {
+    "event": "h-portal-destroyed",
+    "title": "Royal Ardev Regiment Destroys the Portal",
+    "img": "img/h-portal-destroyed.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 65,
+  "storyline": "history",
+  "date": {
+   "year": 992,
+   "month": 12,
+   "day": 21
+  },
+  "doc_date": "21st of Vult, 992 YK",
+  "title": "Royal Ardev Regiment is disbanded",
+  "sidebar": [
+   "The Royal Ardev Regiment is disbanded four days after its unrecorded Boranex Forest exercise.",
+   "The surviving paperwork later becomes a major clue because the regiment’s members remain in Breland and some continue receiving military pay despite the unit’s dissolution."
+  ],
+  "images": [
+   {
+    "event": "h-regiment-disbanded",
+    "title": "The Regiment Is Disbanded",
+    "img": "img/h-regiment-disbanded.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 66,
+  "storyline": "history",
+  "date": {
+   "year": 992,
+   "month": 12
+  },
+  "doc_date": "Vult 992 YK",
+  "title": "Captain Gelford Flowers is reassigned back to Ardev; the Dragon’s Claw arrives",
+  "sidebar": [
+   "After the Royal Ardev Regiment is disbanded, Flowers is sent back to Ardev to replace the police captain who had recently died. Soon after his reassignment, Dragon’s Claw mercenaries arrive in Ardev."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 67,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 6
+  },
+  "doc_date": "6th of Zarantyr, 993 YK",
+  "title": "Darkwood Prison / campaign begins",
+  "sidebar": [
+   "Brand, Lirael and Sazed are transferred into Darkwood Prison, beginning the campaign on the 6th of Zarantyr."
+  ],
+  "images": [
+   {
+    "event": "wizard-and-the-raven",
+    "title": "The Wizard and the Raven",
+    "img": "img/wizard-and-the-raven.v2.jpg"
+   },
+   {
+    "event": "train-to-darkwood",
+    "title": "Waking on the Prison Train",
+    "img": "img/train-to-darkwood.v2.jpg"
+   },
+   {
+    "event": "fresh-fish-at-the-gates",
+    "title": "Fresh Fish at the Gates",
+    "img": "img/fresh-fish-at-the-gates.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "wizard-and-the-raven"
+  ]
+ },
+ {
+  "n": 68,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 6
+  },
+  "doc_date": "6th of Zarantyr, 993 YK",
+  "title": "Darkwood Prison / campaign begins",
+  "sidebar": [
+   "Their first day establishes the prison’s gangs, guards, torture and disappearing prisoners, along with early relationships involving Leff, Tauren, Sorenson, Keys, Faird, Elric, Gelf, Sheldor and the other prisoners around them."
+  ],
+  "images": [
+   {
+    "event": "halien-talks-with-elric",
+    "title": "Halien Talks with Elric Galen",
+    "img": "img/halien-talks-with-elric.v5.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 69,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 6
+  },
+  "doc_date": "6th of Zarantyr, 993 YK",
+  "title": "Darkwood Prison / campaign begins",
+  "sidebar": [
+   "Their equipment has been confiscated, Sazed is tortured, Lirael uses the sending stone and the party begins learning how the prison’s factions and guards fit together."
+  ],
+  "images": [
+   {
+    "event": "bloodworth-takes-their-treasures",
+    "title": "Bloodworth Takes Their Treasures",
+    "img": "img/bloodworth-takes-their-treasures.v2.jpg"
+   },
+   {
+    "event": "sending-stone-in-the-wall",
+    "title": "A Sending Stone Behind the Wall",
+    "img": "img/sending-stone-in-the-wall.v2.jpg"
+   },
+   {
+    "event": "sazed-tortured-by-bloodworth",
+    "title": "Bloodworth Tortures Sazed",
+    "img": "img/sazed-tortured-by-bloodworth.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 70,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 6
+  },
+  "doc_date": "6th of Zarantyr, 993 YK",
+  "title": "Darkwood Prison / campaign begins",
+  "sidebar": [
+   "By late on the 6th the prisoners are being moved toward the initiation known as Newbie Night, but the fight itself has not yet begun."
+  ],
+  "images": [
+   {
+    "event": "thaldamir-snaps-his-fingers",
+    "title": "Thaldamir Snaps His Fingers",
+    "img": "img/thaldamir-snaps-his-fingers.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 71,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 7
+  },
+  "doc_date": "7th of Zarantyr, 993 YK",
+  "title": "Newbie Night / Darkwood breakout / Mara’bor / Stones Throw destroyed by the Silver Flame",
+  "sidebar": [
+   "At approximately 01:00, Newbie Night erupts into a fight and the party turns the initiation against the guards, beginning the prison break. The ensuing riot leads them through the prison, back to their confiscated gear and into the discovery of the necromancy operation before the battles with Grail Grimdell and his raised prisoners and guards end with the burning prison’s escape."
+  ],
+  "images": [
+   {
+    "event": "lirael-plays-cromwell",
+    "title": "Lirael Plays Cromwell",
+    "img": "img/lirael-plays-cromwell.v2.jpg"
+   },
+   {
+    "event": "newbie-night",
+    "title": "Newbie Night",
+    "img": "img/newbie-night.v3.jpg"
+   },
+   {
+    "event": "initiation-night",
+    "title": "Initiation Night Becomes a Prison Break",
+    "img": "img/initiation-night.v2.jpg"
+   },
+   {
+    "event": "the-alarm-is-pulled",
+    "title": "The Alarm Is Pulled",
+    "img": "img/the-alarm-is-pulled.v2.jpg"
+   },
+   {
+    "event": "snatched-off-the-ledge",
+    "title": "Snatched Off the Ledge",
+    "img": "img/snatched-off-the-ledge.v2.jpg"
+   },
+   {
+    "event": "sazed-breaks-out-swinging",
+    "title": "Sazed Breaks Out Swinging",
+    "img": "img/sazed-breaks-out-swinging.v2.jpg"
+   },
+   {
+    "event": "shmem-gorgis-dies",
+    "title": "Shmem Gorgis Dies",
+    "img": "img/shmem-gorgis-dies.v2.jpg"
+   },
+   {
+    "event": "byll-and-cyriel-spared",
+    "title": "Byll and Cyriel Are Spared",
+    "img": "img/byll-and-cyriel-spared.v2.jpg"
+   },
+   {
+    "event": "sorenson-gets-the-tuba",
+    "title": "Sorenson Gets Shmem's Tuba",
+    "img": "img/sorenson-gets-the-tuba.v3.jpg"
+   },
+   {
+    "event": "saving-elric-galen",
+    "title": "Saving Elric Galen",
+    "img": "img/saving-elric-galen.v4.jpg"
+   },
+   {
+    "event": "zombie-bloodworth-in-the-pit",
+    "title": "Zombie Bloodworth in the Pit",
+    "img": "img/zombie-bloodworth-in-the-pit.v2.jpg"
+   },
+   {
+    "event": "rex-and-thaldamir-gang-war",
+    "title": "Rex and Thaldamir's Gang War",
+    "img": "img/rex-and-thaldamir-gang-war.v2.jpg"
+   },
+   {
+    "event": "cutting-the-pit-elevator",
+    "title": "Cutting the Pit Elevator",
+    "img": "img/cutting-the-pit-elevator.v2.jpg"
+   },
+   {
+    "event": "lirael-plays-both-sides",
+    "title": "Lirael Plays Both Sides of the Riot",
+    "img": "img/lirael-plays-both-sides.v2.jpg"
+   },
+   {
+    "event": "talking-past-the-barricade",
+    "title": "Talking Past the Barricade",
+    "img": "img/talking-past-the-barricade.v4.jpg"
+   },
+   {
+    "event": "wardens-secret",
+    "title": "Warden Sharpe's Confession",
+    "img": "img/wardens-secret.v2.jpg"
+   },
+   {
+    "event": "erald-names-the-necromancer",
+    "title": "Erald Dwelve Names the Necromancer",
+    "img": "img/erald-names-the-necromancer.v2.jpg"
+   },
+   {
+    "event": "thaldamir-begs-for-his-life",
+    "title": "Thaldamir Begs for His Life",
+    "img": "img/thaldamir-begs-for-his-life.v2.jpg"
+   },
+   {
+    "event": "brand-suits-up",
+    "title": "Brand Suits Up",
+    "img": "img/brand-suits-up.v2.jpg"
+   },
+   {
+    "event": "nightmares-in-the-mirror",
+    "title": "Nightmares in the Mirror",
+    "img": "img/nightmares-in-the-mirror.v2.jpg"
+   },
+   {
+    "event": "chester-the-mimic",
+    "title": "Chester the Mimic's Gift",
+    "img": "img/chester-the-mimic.v4.jpg"
+   },
+   {
+    "event": "the-cafeteria-rescue",
+    "title": "The Cafeteria Rescue",
+    "img": "img/the-cafeteria-rescue.v2.jpg"
+   },
+   {
+    "event": "out-through-the-broken-wall",
+    "title": "Out Through the Broken Wall",
+    "img": "img/out-through-the-broken-wall.v2.jpg"
+   },
+   {
+    "event": "grail-rises",
+    "title": "Grail Grimdell Raises the Dead",
+    "img": "img/grail-rises.v2.jpg"
+   },
+   {
+    "event": "the-horde-overwhelms-brand",
+    "title": "The Horde Overwhelms Brand",
+    "img": "img/the-horde-overwhelms-brand.v2.jpg"
+   },
+   {
+    "event": "brand-kills-grail",
+    "title": "Brand Kills Grail Grimdell",
+    "img": "img/brand-kills-grail.v2.jpg"
+   },
+   {
+    "event": "grails-final-form",
+    "title": "Grail's Final Form",
+    "img": "img/grails-final-form.v2.jpg"
+   },
+   {
+    "event": "grails-meat-shield",
+    "title": "Invisible Grail and the Meat Shield",
+    "img": "img/grails-meat-shield.v2.jpg"
+   },
+   {
+    "event": "lirael-pleads-with-damron",
+    "title": "Lirael Talks Damron Pink Around",
+    "img": "img/lirael-pleads-with-damron.v2.jpg"
+   },
+   {
+    "event": "bloodworth-dies-a-third-time",
+    "title": "Bloodworth Dies a Third Time",
+    "img": "img/bloodworth-dies-a-third-time.v2.jpg"
+   },
+   {
+    "event": "grails-lieutenants-fall",
+    "title": "Grail's Lieutenants Fall",
+    "img": "img/grails-lieutenants-fall.v2.jpg"
+   },
+   {
+    "event": "grail-falls",
+    "title": "Brand's Seeking Shot Ends Grail",
+    "img": "img/grail-falls.v2.jpg"
+   },
+   {
+    "event": "mourning-the-fallen",
+    "title": "Mourning the Fallen",
+    "img": "img/mourning-the-fallen.v3.jpg"
+   },
+   {
+    "event": "down-from-the-roof",
+    "title": "Down from the Roof, Except Thaldamir",
+    "img": "img/down-from-the-roof.v2.jpg"
+   },
+   {
+    "event": "sheldor-looks-for-cromwell",
+    "title": "Sheldor Looks for Cromwell",
+    "img": "img/sheldor-looks-for-cromwell.v2.jpg"
+   },
+   {
+    "event": "grails-necklace",
+    "title": "Grail's Necklace",
+    "img": "img/grails-necklace.v2.jpg"
+   },
+   {
+    "event": "ddt-note",
+    "title": "The Note Signed DDT",
+    "img": "img/ddt-note.v2.jpg"
+   },
+   {
+    "event": "darkwood-explodes",
+    "title": "Cool Guys Don't Look at Explosions",
+    "img": "img/darkwood-explodes.v2.jpg"
+   },
+   {
+    "event": "damrons-ultimatum",
+    "title": "Damron Pink's Ultimatum",
+    "img": "img/damrons-ultimatum.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "nightmares-in-the-mirror",
+   "chester-the-mimic"
+  ]
+ },
+ {
+  "n": 72,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 7
+  },
+  "doc_date": "7th of Zarantyr, 993 YK",
+  "title": "Newbie Night / Darkwood breakout / Mara’bor / Stones Throw destroyed by the Silver Flame",
+  "sidebar": [
+   "Following the DDT lead, the party reaches Mara’bor. Elric and Gelf reveal their connection to the Sentinels; after going to sleep around 06:30 and waking around 14:30, the party investigates the village, the Sharpe and Bloodworth leads and Grail’s hidden cellar, including the Bag of Devouring incident and contact with Grail’s brother."
+  ],
+  "images": [
+   {
+    "event": "sheldor-and-the-snel-katar",
+    "title": "Sheldor Teaches the Snel Katar",
+    "img": "img/sheldor-and-the-snel-katar.v2.jpg"
+   },
+   {
+    "event": "bluffing-the-mine-guards",
+    "title": "Bluffing the Mine Guards",
+    "img": "img/bluffing-the-mine-guards.v2.jpg"
+   },
+   {
+    "event": "halien-stands-watch",
+    "title": "Halien Stands Watch",
+    "img": "img/halien-stands-watch.v4.jpg"
+   },
+   {
+    "event": "wild-cart-ride",
+    "title": "A Wild Cart Ride Down",
+    "img": "img/wild-cart-ride.v4.jpg"
+   },
+   {
+    "event": "elrics-supper",
+    "title": "Supper at Elric's House",
+    "img": "img/elrics-supper.v4.jpg"
+   },
+   {
+    "event": "elric-reveals-sentinels",
+    "title": "Elric Reveals the Sentinels",
+    "img": "img/elric-reveals-sentinels.v5.jpg"
+   },
+   {
+    "event": "brand-and-the-old-king",
+    "title": "Brand Remembers the Old King's Council",
+    "img": "img/brand-and-the-old-king.v2.jpg"
+   },
+   {
+    "event": "ddt-and-the-dragonmarks",
+    "title": "DDT and the Dragonmarked Houses",
+    "img": "img/ddt-and-the-dragonmarks.v2.jpg"
+   },
+   {
+    "event": "elric-throws-a-spoon",
+    "title": "Elric Throws a Spoon",
+    "img": "img/elric-throws-a-spoon.v4.jpg"
+   },
+   {
+    "event": "verona-sharpes-tea",
+    "title": "Tea with the Warden's Widow",
+    "img": "img/verona-sharpes-tea.v2.jpg"
+   },
+   {
+    "event": "spying-on-damron",
+    "title": "Spying on Damron's House",
+    "img": "img/spying-on-damron.v2.jpg"
+   },
+   {
+    "event": "luring-spingel-and-joerick",
+    "title": "Bloodworth's Voice from the Abandoned House",
+    "img": "img/luring-spingel-and-joerick.v2.jpg"
+   },
+   {
+    "event": "ambush-at-the-abandoned-house",
+    "title": "Ambush at the Abandoned House",
+    "img": "img/ambush-at-the-abandoned-house.v2.jpg"
+   },
+   {
+    "event": "grails-cellar",
+    "title": "Grail's Lair Under the Floor",
+    "img": "img/grails-cellar.v2.jpg"
+   },
+   {
+    "event": "bag-of-devouring",
+    "title": "The Bag of Devouring",
+    "img": "img/bag-of-devouring.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 73,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 7
+  },
+  "doc_date": "7th of Zarantyr, 993 YK",
+  "title": "Newbie Night / Darkwood breakout / Mara’bor / Stones Throw destroyed by the Silver Flame",
+  "sidebar": [
+   "Through the afternoon and evening, Elric and Gelf reveal more about the Sentinels and the Darkwood operation while Damron searches Mara’bor for the party. The group hides in Grail’s cellar and stakes it out for his brother; the 7th ends with them waiting there immediately before Gelion Grimdell arrives at midnight. Elsewhere on the 7th, Stones Throw is destroyed by the Silver Flame."
+  ],
+  "images": [
+   {
+    "event": "calling-grails-brother",
+    "title": "Calling Grail's Brother",
+    "img": "img/calling-grails-brother.v2.jpg"
+   },
+   {
+    "event": "gelf-in-the-closet",
+    "title": "Gelf Behind the Closet Door",
+    "img": "img/gelf-in-the-closet.v5.jpg"
+   },
+   {
+    "event": "gelf-tells-all",
+    "title": "Gelf Tells All",
+    "img": "img/gelf-tells-all.v5.jpg"
+   },
+   {
+    "event": "rotten-potatoes",
+    "title": "Rotten Potatoes",
+    "img": "img/rotten-potatoes.v5.jpg"
+   },
+   {
+    "event": "h-stones-throw-massacre",
+    "title": "Stones Throw Massacre",
+    "img": "img/h-stones-throw-massacre.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 74,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 7
+  },
+  "doc_date": "7th of Zarantyr, 993 YK",
+  "title": "Newbie Night / Darkwood breakout / Mara’bor / Stones Throw destroyed by the Silver Flame",
+  "sidebar": [
+   "Player-only material on the same date shows Elerian blasted through the prison wall and killed, then revived by the awakened zombie Crek Lobo. Crek explains that he had tried to expose the domestic zombie-army operation before being mutilated and enslaved, and the two later find a tunnel leading deeper beneath the Yedani Mountains."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 75,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "At exactly 00:00, Gelion Grimdell arrives at the Mara’bor cellar. The party’s deception breaks into a fight; Gelion becomes an awakened zombie and is ultimately forced into the Bag of Devouring and consumed."
+  ],
+  "images": [
+   {
+    "event": "grails-brother-arrives",
+    "title": "Grail's Brother Comes to Call",
+    "img": "img/grails-brother-arrives.v2.jpg"
+   },
+   {
+    "event": "kicked-down-the-hatch",
+    "title": "Kicked Down the Hatch",
+    "img": "img/kicked-down-the-hatch.v2.jpg"
+   },
+   {
+    "event": "the-brother-dies-to-rise",
+    "title": "The Brother Dies to Rise",
+    "img": "img/the-brother-dies-to-rise.v2.jpg"
+   },
+   {
+    "event": "gelion-into-the-bag",
+    "title": "Into the Bag of Devouring",
+    "img": "img/gelion-into-the-bag.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 76,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "The party emerges to find Mara’bor abandoned, releases the captured guards and leaves with Elric and Gelf. After roughly a forty-minute walk they reach the concealed Sentinel perimeter, meet Smildar Paxon and pass through the illusion surrounding the Kingsblade encampment at about 01:30."
+  ],
+  "images": [
+   {
+    "event": "marabor-abandoned",
+    "title": "Mara'bor Abandoned",
+    "img": "img/marabor-abandoned.v2.jpg"
+   },
+   {
+    "event": "something-in-the-clouds",
+    "title": "Something Bellows in the Clouds",
+    "img": "img/something-in-the-clouds.v2.jpg"
+   },
+   {
+    "event": "paxon-in-the-clearing",
+    "title": "Chief Petty Officer Paxon",
+    "img": "img/paxon-in-the-clearing.v4.jpg"
+   },
+   {
+    "event": "the-kingsblade",
+    "title": "The Kingsblade Revealed",
+    "img": "img/the-kingsblade.v5.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 77,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "Major Renaud Blazehelm formally welcomes them, explains the Sentinels as a top-secret extra-judicial Brelish special-forces arm reporting only to the King and High Marshals, and debriefs the Darkwood operation and the Grimdell/Thuranni connections."
+  ],
+  "images": [
+   {
+    "event": "the-sentinels-explained",
+    "title": "Through the Illusion: The Sentinels",
+    "img": "img/the-sentinels-explained.v4.jpg"
+   },
+   {
+    "event": "prison-was-a-sentinel-trial",
+    "title": "The Prison Was a Trial",
+    "img": "img/prison-was-a-sentinel-trial.v3.jpg"
+   },
+   {
+    "event": "grimdells-and-house-thuranni",
+    "title": "The Grimdells and House Thuranni",
+    "img": "img/grimdells-and-house-thuranni.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 78,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "Brand, Lirael and Sazed receive individual offers to join and meet more of the Kingsblade crew, including Screech, Feldor and Nedira; Sazed reveals his history as an Aundairian spy."
+  ],
+  "images": [
+   {
+    "event": "blazehelms-offers",
+    "title": "Blazehelm's Three Offers",
+    "img": "img/blazehelms-offers.v3.jpg"
+   },
+   {
+    "event": "maiden-voyage-feast",
+    "title": "Feast Aboard the Kingsblade",
+    "img": "img/maiden-voyage-feast.v2.jpg"
+   },
+   {
+    "event": "tour-of-the-kingsblade",
+    "title": "Touring the Kingsblade",
+    "img": "img/tour-of-the-kingsblade.v3.jpg"
+   },
+   {
+    "event": "sazed-confides-in-nedira",
+    "title": "Sazed's Confession and Nedira",
+    "img": "img/sazed-confides-in-nedira.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 79,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "The new Sentinels prepare to sabotage or capture the Aundairian Broadsword and Broadaxe. Their nightmares end with the giant eye telling them: “Found you.”"
+  ],
+  "images": [
+   {
+    "event": "mission-against-killian-gavrin",
+    "title": "Mission: Broadsword and Broadaxe",
+    "img": "img/mission-against-killian-gavrin.v3.jpg"
+   },
+   {
+    "event": "sazeds-nightmare",
+    "title": "Sazed's Nightmare: The Burning Hut",
+    "img": "img/sazeds-nightmare.v2.jpg"
+   },
+   {
+    "event": "liraels-nightmare",
+    "title": "Lirael's Nightmare: Father Behind Glass",
+    "img": "img/liraels-nightmare.v2.jpg"
+   },
+   {
+    "event": "brands-nightmare",
+    "title": "Brand's Nightmare: The Cannith Forge",
+    "img": "img/brands-nightmare.v2.jpg"
+   },
+   {
+    "event": "found-you",
+    "title": "Found You",
+    "img": "img/found-you.v2.jpg"
+   },
+   {
+    "event": "blazehelms-whiskey",
+    "title": "Breakfast and Blazehelm's Whiskey",
+    "img": "img/blazehelms-whiskey.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 80,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "Beginning around 14:30, the main party conducts the Yedani Valley airship sabotage mission, battles Aundairian forces and ultimately steals the ship that becomes the Moonwatch."
+  ],
+  "images": [
+   {
+    "event": "the-dying-aundairian",
+    "title": "The Dying Aundairian",
+    "img": "img/the-dying-aundairian.v2.jpg"
+   },
+   {
+    "event": "the-stray-dog",
+    "title": "Saving the Stray Dog",
+    "img": "img/the-stray-dog.v2.jpg"
+   },
+   {
+    "event": "tripwire-and-red-flare",
+    "title": "The Tripwire and the Red Flare",
+    "img": "img/tripwire-and-red-flare.v2.jpg"
+   },
+   {
+    "event": "harpy-on-the-cliff",
+    "title": "The Harpy on the Cliff",
+    "img": "img/harpy-on-the-cliff.v2.jpg"
+   },
+   {
+    "event": "the-owlbear-pit",
+    "title": "Brand in the Owlbear Pit",
+    "img": "img/the-owlbear-pit.v2.jpg"
+   },
+   {
+    "event": "crossing-the-river",
+    "title": "Crossing the Raging River",
+    "img": "img/crossing-the-river.v3.jpg"
+   },
+   {
+    "event": "sazed-rides-the-rotor",
+    "title": "Sazed Rides the Rotor",
+    "img": "img/sazed-rides-the-rotor.v3.jpg"
+   },
+   {
+    "event": "broadsword-stolen",
+    "title": "Leap onto the Broadsword",
+    "img": "img/broadsword-stolen.v3.jpg"
+   },
+   {
+    "event": "broadaxe-explodes",
+    "title": "The Broadaxe Explodes",
+    "img": "img/broadaxe-explodes.v2.jpg"
+   },
+   {
+    "event": "chicken-in-the-landing-gear",
+    "title": "A Chicken in the Landing Gear",
+    "img": "img/chicken-in-the-landing-gear.v2.jpg"
+   },
+   {
+    "event": "pilot-overboard",
+    "title": "For Aundair, Overboard",
+    "img": "img/pilot-overboard.v3.jpg"
+   },
+   {
+    "event": "hobgoblin-warlord-below-decks",
+    "title": "The Hobgoblin Warlord",
+    "img": "img/hobgoblin-warlord-below-decks.v3.jpg"
+   },
+   {
+    "event": "kunai-to-the-rescue",
+    "title": "The Kunai to the Rescue",
+    "img": "img/kunai-to-the-rescue.v20.jpg"
+   },
+   {
+    "event": "spoils-of-the-broadsword",
+    "title": "Searching the Broadsword",
+    "img": "img/spoils-of-the-broadsword.v3.jpg"
+   },
+   {
+    "event": "second-prison-erupts",
+    "title": "A Second Prison Erupts",
+    "img": "img/second-prison-erupts.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 81,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "The operation establishes the recurring Aundairian rivals Killian, Kynds, Darvok and EEEEE and further cements Screech as the party’s pilot."
+  ],
+  "images": [
+   {
+    "event": "eeeee-the-dwarf-in-a-can",
+    "title": "EEEEE, the Dwarf in a Can",
+    "img": "img/eeeee-the-dwarf-in-a-can.v2.jpg"
+   },
+   {
+    "event": "eeeee-slain",
+    "title": "EEEEE Falls, the Archer Dies",
+    "img": "img/eeeee-slain.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 82,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "Later that night the party celebrates at Blazehelm’s mansion in Hobbstweedle; many of the campaign’s long-term Sentinel relationships begin to settle into place."
+  ],
+  "images": [
+   {
+    "event": "three-weeks-of-training",
+    "title": "Orders: Three Weeks of Training",
+    "img": "img/three-weeks-of-training.v3.jpg"
+   },
+   {
+    "event": "cromwells-coin-game",
+    "title": "Cromwell's Coin Game",
+    "img": "img/cromwells-coin-game.v3.jpg"
+   },
+   {
+    "event": "wroat-and-the-party",
+    "title": "The Approach to Wroat",
+    "img": "img/wroat-and-the-party.v2.jpg"
+   },
+   {
+    "event": "hobbstweedle-and-the-moonwatch",
+    "title": "The Moonwatch and Hobbstweedle",
+    "img": "img/hobbstweedle-and-the-moonwatch.v4.jpg"
+   },
+   {
+    "event": "blazehelms-mansion-feast",
+    "title": "Feast at Blazehelm's Mansion",
+    "img": "img/blazehelms-mansion-feast.v3.jpg"
+   },
+   {
+    "event": "how-blazehelm-knows-lirael",
+    "title": "How Blazehelm Knew: Gelard Greenly",
+    "img": "img/how-blazehelm-knows-lirael.v3.jpg"
+   },
+   {
+    "event": "how-blazehelm-knows-brand",
+    "title": "How Blazehelm Knew: The King's Apology",
+    "img": "img/how-blazehelm-knows-brand.v3.jpg"
+   },
+   {
+    "event": "how-blazehelm-knows-sazed",
+    "title": "How Blazehelm Knew: Eldritch Groves",
+    "img": "img/how-blazehelm-knows-sazed.v3.jpg"
+   },
+   {
+    "event": "the-beholder-illusion",
+    "title": "The Beholder in the Entrance Hall",
+    "img": "img/the-beholder-illusion.v2.jpg"
+   },
+   {
+    "event": "the-quiet-room",
+    "title": "Foehammer, Eloria and Clockwork",
+    "img": "img/the-quiet-room.v4.jpg"
+   },
+   {
+    "event": "music-room-and-xendrik",
+    "title": "The Music Room",
+    "img": "img/music-room-and-xendrik.v2.jpg"
+   },
+   {
+    "event": "gnome-pranks",
+    "title": "Pies, Grease and an Argument",
+    "img": "img/gnome-pranks.v2.jpg"
+   },
+   {
+    "event": "quasit-in-the-closet",
+    "title": "The Quasit in the Cowboy Hat",
+    "img": "img/quasit-in-the-closet.v2.jpg"
+   },
+   {
+    "event": "sorensons-song",
+    "title": "Sorenson's Song for Shmem",
+    "img": "img/sorensons-song.v2.jpg"
+   },
+   {
+    "event": "brand-and-smarmy-joe",
+    "title": "Brand's New Best Friend",
+    "img": "img/brand-and-smarmy-joe.v2.jpg"
+   },
+   {
+    "event": "sazed-and-nedira-prowlstone",
+    "title": "Nedira and the Village of Prowlstone",
+    "img": "img/sazed-and-nedira-prowlstone.v2.jpg"
+   },
+   {
+    "event": "the-gnome-kitchen",
+    "title": "The Gnome Kitchen",
+    "img": "img/the-gnome-kitchen.v2.jpg"
+   },
+   {
+    "event": "dwarven-roulette",
+    "title": "Dwarven Roulette with Spingus",
+    "img": "img/dwarven-roulette.v2.jpg"
+   },
+   {
+    "event": "quasits-in-the-storage-room",
+    "title": "Quasits in the Storage Room",
+    "img": "img/quasits-in-the-storage-room.v2.jpg"
+   },
+   {
+    "event": "spingus-dumbwaiter-deal",
+    "title": "Spingus's Price for the Dumbwaiter",
+    "img": "img/spingus-dumbwaiter-deal.v2.jpg"
+   },
+   {
+    "event": "the-puppet-quasit-chase",
+    "title": "Chasing a Dead Quasit Upstairs",
+    "img": "img/the-puppet-quasit-chase.v2.jpg"
+   },
+   {
+    "event": "the-potion-room",
+    "title": "Raiding the Potion Room",
+    "img": "img/the-potion-room.v2.jpg"
+   },
+   {
+    "event": "paxons-room-and-the-teleporter",
+    "title": "The Keyhole in Paxon's Painting",
+    "img": "img/paxons-room-and-the-teleporter.v2.jpg"
+   },
+   {
+    "event": "flatulence-for-paxon",
+    "title": "Something in Paxon's Tea",
+    "img": "img/flatulence-for-paxon.v2.jpg"
+   },
+   {
+    "event": "valhalla-eriksson-ball-bearings",
+    "title": "Valhalla Eriksson and the Ball Bearings",
+    "img": "img/valhalla-eriksson-ball-bearings.v2.jpg"
+   },
+   {
+    "event": "tauren-finds-faith",
+    "title": "Tauren Finds Faith",
+    "img": "img/tauren-finds-faith.v2.jpg"
+   },
+   {
+    "event": "sauna-with-dyll-strickland",
+    "title": "The Dragonborn Sauna",
+    "img": "img/sauna-with-dyll-strickland.v2.jpg"
+   },
+   {
+    "event": "halfling-card-game",
+    "title": "Cards with the Halfling Pilots",
+    "img": "img/halfling-card-game.v4.jpg"
+   },
+   {
+    "event": "blazehelm-and-the-sentinels-band",
+    "title": "Blazehelm and the Sentinels Close Out",
+    "img": "img/blazehelm-and-the-sentinels-band.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 83,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "Elsewhere, on the same day, the Brelish warship Kason is ambushed off Karrnath by three necromancer-led Karrnathi ships. The Kason sinks and Bulwark, Jyo, Norm and Dwarzel are captured."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 84,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 8
+  },
+  "doc_date": "8th of Zarantyr, 993 YK",
+  "title": "Gelion Grimdell / The Sentinels; Yedani Valley sabotage; Blazehelm party / Kason ambushed; crew captured",
+  "sidebar": [
+   "The Kason event is the beginning of the B-Team POW/Wraithwind storyline, although the main party does not experience it directly."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 85,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 9
+  },
+  "doc_date": "9th of Zarantyr, 993 YK",
+  "title": "Sentinel training begins",
+  "sidebar": [
+   "The party wakes after the celebration to another Hobbstweedle ordeal and begins formal Sentinel training."
+  ],
+  "images": [
+   {
+    "event": "flooded-house",
+    "title": "Waking to a Flooded Room",
+    "img": "img/flooded-house.v2.jpg"
+   },
+   {
+    "event": "locked-in-by-metal-plates",
+    "title": "Metal Plates and Three Keyholes",
+    "img": "img/locked-in-by-metal-plates.v2.jpg"
+   },
+   {
+    "event": "warforged-in-the-dining-room",
+    "title": "Warforged Ambush: It's a Test",
+    "img": "img/warforged-in-the-dining-room.v2.jpg"
+   },
+   {
+    "event": "polar-bear-in-the-ceiling",
+    "title": "The Polar Bear in the Ceiling",
+    "img": "img/polar-bear-in-the-ceiling.v2.jpg"
+   },
+   {
+    "event": "the-mirrored-door",
+    "title": "The Mirrored Door and the Red Key",
+    "img": "img/the-mirrored-door.v2.jpg"
+   },
+   {
+    "event": "the-stables-timer",
+    "title": "The Stables Timer and the Kruthik",
+    "img": "img/the-stables-timer.v2.jpg"
+   },
+   {
+    "event": "the-four-potions",
+    "title": "Blue Plus Yellow: The Invisible Key",
+    "img": "img/the-four-potions.v2.jpg"
+   },
+   {
+    "event": "the-strange-rooms",
+    "title": "Inverted Gravity and a Shrinking Door",
+    "img": "img/the-strange-rooms.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 86,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 9
+  },
+  "doc_date": "9th of Zarantyr, 993 YK",
+  "title": "Sentinel training begins",
+  "sidebar": [
+   "Dyll Strickland runs the team through the obstacle course while the party experiments with the strange resources and personalities around the Sentinel base."
+  ],
+  "images": [
+   {
+    "event": "dyll-strickland-dressing-down",
+    "title": "Drill Instructor Dyll Strickland",
+    "img": "img/dyll-strickland-dressing-down.v3.jpg"
+   },
+   {
+    "event": "the-five-mile-run",
+    "title": "The Five Mile Run",
+    "img": "img/the-five-mile-run.v4.jpg"
+   },
+   {
+    "event": "obstacle-course-begins",
+    "title": "The Obstacle Course",
+    "img": "img/obstacle-course-begins.v2.jpg"
+   },
+   {
+    "event": "liraels-rod-and-chicken",
+    "title": "Rod, Chicken, Mage Hand",
+    "img": "img/liraels-rod-and-chicken.v2.jpg"
+   },
+   {
+    "event": "liraels-first-flag",
+    "title": "Lirael Takes the First Flag",
+    "img": "img/liraels-first-flag.v2.jpg"
+   },
+   {
+    "event": "keys-the-shark",
+    "title": "Keys Becomes a Shark",
+    "img": "img/keys-the-shark.v2.jpg"
+   },
+   {
+    "event": "sazed-throws-the-keys",
+    "title": "Sazed Throws Everyone's Keys",
+    "img": "img/sazed-throws-the-keys.v3.jpg"
+   },
+   {
+    "event": "brand-and-the-npcs-finish",
+    "title": "Brand and the Squad Finish",
+    "img": "img/brand-and-the-npcs-finish.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 87,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 9
+  },
+  "doc_date": "9th of Zarantyr, 993 YK",
+  "title": "Sentinel training begins",
+  "sidebar": [
+   "Sazed begins teaching Tauren to read in secret; Brand and Lirael begin potion-making; personal friendships with the wider Sentinel cast deepen."
+  ],
+  "images": [
+   {
+    "event": "gnome-cleaning-argument",
+    "title": "Brand Argues with a Cleaning Gnome",
+    "img": "img/gnome-cleaning-argument.v2.jpg"
+   },
+   {
+    "event": "sheldor-tells-of-xendrik",
+    "title": "Sheldor Tells Sazed of Xen'drik",
+    "img": "img/sheldor-tells-of-xendrik.v2.jpg"
+   },
+   {
+    "event": "leff-skullcrusher",
+    "title": "How Leff Earned Skullcrusher",
+    "img": "img/leff-skullcrusher.v3.jpg"
+   },
+   {
+    "event": "tauren-cannot-read",
+    "title": "Tauren's Secret",
+    "img": "img/tauren-cannot-read.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 88,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 10
+  },
+  "doc_date": "10th of Zarantyr, 993 YK",
+  "title": "Continued Sentinel training",
+  "sidebar": [
+   "Sentinel training and downtime continue."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 89,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 10
+  },
+  "doc_date": "10th of Zarantyr, 993 YK",
+  "title": "Continued Sentinel training",
+  "sidebar": [
+   "The party acquires potion/herbalism supplies in Wroat as part of the later potion retcon."
+  ],
+  "images": [
+   {
+    "event": "herbalist-kit-retcon",
+    "title": "No Potions Without an Herbalist Kit",
+    "img": "img/herbalist-kit-retcon.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 90,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 10
+  },
+  "doc_date": "10th of Zarantyr, 993 YK",
+  "title": "Continued Sentinel training",
+  "sidebar": [
+   "The Quasit problem around Hobbstweedle develops into a lead on a stranded demon settlement and broken portal."
+  ],
+  "images": [
+   {
+    "event": "quasit-thieves",
+    "title": "Quasit Thieves in the House",
+    "img": "img/quasit-thieves.v2.jpg"
+   },
+   {
+    "event": "quasit-village-found",
+    "title": "Sazed Finds the Quasit Village",
+    "img": "img/quasit-village-found.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 91,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 11
+  },
+  "doc_date": "11th of Zarantyr, 993 YK",
+  "title": "Demon settlement destroyed; Dreamweaver infiltrates the Sentinels",
+  "sidebar": [
+   "By 19:45 the party has located the Quasit/Imp/Cambion settlement and approaches it invisibly."
+  ],
+  "images": [
+   {
+    "event": "invisible-approach-demon-village",
+    "title": "Creeping Into the Demon Village Unseen",
+    "img": "img/invisible-approach-demon-village.v2.jpg"
+   },
+   {
+    "event": "brand-greets-a-quasit",
+    "title": "Brand Walks Up to a Quasit",
+    "img": "img/brand-greets-a-quasit.v2.jpg"
+   },
+   {
+    "event": "demon-village",
+    "title": "Thunderwave Through the Demon Village",
+    "img": "img/demon-village.v3.jpg"
+   },
+   {
+    "event": "gelfs-requisitions",
+    "title": "Gelf's Requisitions and Cigars",
+    "img": "img/gelfs-requisitions.v4.jpg"
+   },
+   {
+    "event": "invisible-over-the-demon-village",
+    "title": "Scouting the Demon Village Unseen",
+    "img": "img/invisible-over-the-demon-village.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 92,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 11
+  },
+  "doc_date": "11th of Zarantyr, 993 YK",
+  "title": "Demon settlement destroyed; Dreamweaver infiltrates the Sentinels",
+  "sidebar": [
+   "They learn the demons were stranded when a portal failed and have been stealing to survive, giving the situation more nuance than a simple extermination mission."
+  ],
+  "images": [
+   {
+    "event": "cambion-confession",
+    "title": "The Last Cambion Talks",
+    "img": "img/cambion-confession.v2.jpg"
+   },
+   {
+    "event": "bells-beans-and-sentinel-gear",
+    "title": "Bells, Beans and Stolen Sentinel Gear",
+    "img": "img/bells-beans-and-sentinel-gear.v2.jpg"
+   },
+   {
+    "event": "broken-portal",
+    "title": "The Broken Teleportation Circle",
+    "img": "img/broken-portal.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 93,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 11
+  },
+  "doc_date": "11th of Zarantyr, 993 YK",
+  "title": "Demon settlement destroyed; Dreamweaver infiltrates the Sentinels",
+  "sidebar": [
+   "Back in Hobbstweedle the party begins connecting the portal, Gelard Greenly and Lirael’s earlier possession history."
+  ],
+  "images": [
+   {
+    "event": "whiskey-and-a-napkin",
+    "title": "Whiskey and a Napkin Sketch",
+    "img": "img/whiskey-and-a-napkin.v4.jpg"
+   },
+   {
+    "event": "paxon-nerds-out",
+    "title": "Paxon Nerds Out About Ancient Circles",
+    "img": "img/paxon-nerds-out.v3.jpg"
+   },
+   {
+    "event": "coffee-geyser-bean",
+    "title": "The First Bean Is a Coffee Geyser",
+    "img": "img/coffee-geyser-bean.v2.jpg"
+   },
+   {
+    "event": "erald-fart-debrief",
+    "title": "Erald Reports on the Fart King",
+    "img": "img/erald-fart-debrief.v2.jpg"
+   },
+   {
+    "event": "morkoth-in-the-workshop",
+    "title": "A Baby Morkoth Raids Brand's Room",
+    "img": "img/morkoth-in-the-workshop.v2.jpg"
+   },
+   {
+    "event": "morkoth-rope-expedition",
+    "title": "Hauling Morkoths Out of the Bag",
+    "img": "img/morkoth-rope-expedition.v2.jpg"
+   },
+   {
+    "event": "sheldor-wants-back-in",
+    "title": "Sheldor Insists on Going Back In",
+    "img": "img/sheldor-wants-back-in.v4.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "coffee-geyser-bean",
+   "erald-fart-debrief",
+   "morkoth-in-the-workshop",
+   "morkoth-rope-expedition"
+  ]
+ },
+ {
+  "n": 94,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 11
+  },
+  "doc_date": "11th of Zarantyr, 993 YK",
+  "title": "Demon settlement destroyed; Dreamweaver infiltrates the Sentinels",
+  "sidebar": [
+   "The Dreamweaver threat becomes immediate when Sheldor and other Sentinels attack under possession; Lirael’s Detect Thoughts exposes the entity actively feeding lies through compromised minds."
+  ],
+  "images": [
+   {
+    "event": "sheldor-and-the-bag",
+    "title": "Sheldor Shoves Brand in the Bag",
+    "img": "img/sheldor-and-the-bag.v2.jpg"
+   },
+   {
+    "event": "horn-of-silent-alarm",
+    "title": "The Horn of Silent Alarm",
+    "img": "img/horn-of-silent-alarm.v2.jpg"
+   },
+   {
+    "event": "keys-mauls-the-spellcaster",
+    "title": "Keys Mauls the Sentinel Spellcaster",
+    "img": "img/keys-mauls-the-spellcaster.v2.jpg"
+   },
+   {
+    "event": "stables-interrogation",
+    "title": "Tell Him Gelf and Elric",
+    "img": "img/stables-interrogation.v5.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 95,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 12
+  },
+  "doc_date": "12th of Zarantyr, 993 YK",
+  "title": "Sentinel lockdown; Dreamweaver detection plan; Lirael Sr.’s research trail uncovered / Karrnathi crackdown begins in Orska",
+  "sidebar": [
+   "At 07:00 the Sentinels are in a full internal-security crisis: they know Sheldor and Charlie Trundle are Dreamwoven but do not know how deep the infiltration goes."
+  ],
+  "images": [
+   {
+    "event": "breakfast-at-gelfs",
+    "title": "Barging In on Gelf's Breakfast",
+    "img": "img/breakfast-at-gelfs.v4.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 96,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 12
+  },
+  "doc_date": "12th of Zarantyr, 993 YK",
+  "title": "Sentinel lockdown; Dreamweaver detection plan; Lirael Sr.’s research trail uncovered / Karrnathi crackdown begins in Orska",
+  "sidebar": [
+   "Blazehelm locks down the information even from the High Marshals while the group works on covert ways to detect and remove possession."
+  ],
+  "images": [
+   {
+    "event": "code-orange",
+    "title": "Code Orange at the Mansion",
+    "img": "img/code-orange.v4.jpg"
+   },
+   {
+    "event": "back-to-training-as-normal",
+    "title": "Back to Training as If Nothing Happened",
+    "img": "img/back-to-training-as-normal.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 97,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 12
+  },
+  "doc_date": "12th of Zarantyr, 993 YK",
+  "title": "Sentinel lockdown; Dreamweaver detection plan; Lirael Sr.’s research trail uncovered / Karrnathi crackdown begins in Orska",
+  "sidebar": [
+   "Lug Murzog is revived and cleared. Feldor and Eloria propose entering the victims’ dreams to fight the possession directly."
+  ],
+  "images": [
+   {
+    "event": "lug-murzog-revived",
+    "title": "Lug Murzog Comes Back Clean",
+    "img": "img/lug-murzog-revived.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 98,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 12
+  },
+  "doc_date": "12th of Zarantyr, 993 YK",
+  "title": "Sentinel lockdown; Dreamweaver detection plan; Lirael Sr.’s research trail uncovered / Karrnathi crackdown begins in Orska",
+  "sidebar": [
+   "During interrogation, Sheldor and Charlie speak in unison through the Dreamweaver, address people hidden behind a two-way mirror and react to private comments, making it appear that the entity can somehow hear conversations on the other side of the glass."
+  ],
+  "images": [
+   {
+    "event": "dreamweaver-speaks",
+    "title": "The Dreamweaver Speaks Through Two Men",
+    "img": "img/dreamweaver-speaks.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 99,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 12
+  },
+  "doc_date": "12th of Zarantyr, 993 YK",
+  "title": "Sentinel lockdown; Dreamweaver detection plan; Lirael Sr.’s research trail uncovered / Karrnathi crackdown begins in Orska",
+  "sidebar": [
+   "The party finds that Lirael Sr. had checked out the relevant Dreamweaver books before disappearing; Sazed encounters records taken from shifter clans destroyed during the Inquisition."
+  ],
+  "images": [
+   {
+    "event": "fathers-library-card",
+    "title": "Every Book Checked Out by Lirael Sr",
+    "img": "img/fathers-library-card.v2.jpg"
+   },
+   {
+    "event": "stolen-shifter-books",
+    "title": "Sazed Finds the Stolen Shifter Books",
+    "img": "img/stolen-shifter-books.v2.jpg"
+   },
+   {
+    "event": "library-cards-for-everyone",
+    "title": "Library Cards for Everyone",
+    "img": "img/library-cards-for-everyone.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 100,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 12
+  },
+  "doc_date": "12th of Zarantyr, 993 YK",
+  "title": "Sentinel lockdown; Dreamweaver detection plan; Lirael Sr.’s research trail uncovered / Karrnathi crackdown begins in Orska",
+  "sidebar": [
+   "In Karrnath, the military crackdown on Orska begins. Nybb later tells the B-Team that military police moved into the village two days before their 14 Zarantyr arrival because people had been leaving for the nearby druid village."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 101,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 13
+  },
+  "doc_date": "13th of Zarantyr, 993 YK",
+  "title": "Brand possessed; Dream rescue frees possessed Sentinels",
+  "sidebar": [
+   "Around midnight the player-only Brand possession sequence plays out: the Dreamweaver uses Brand to spread possession to Elric and Screech and attempts to expand its network."
+  ],
+  "images": [
+   {
+    "event": "brand-possessed",
+    "title": "Possessed Brand Takes Elric",
+    "img": "img/brand-possessed.v3.jpg"
+   },
+   {
+    "event": "screech-taken",
+    "title": "Screech Goes Into the Bag",
+    "img": "img/screech-taken.v3.jpg"
+   },
+   {
+    "event": "gelf-fights-free",
+    "title": "Gelf Wakes and Fights Back",
+    "img": "img/gelf-fights-free.v3.jpg"
+   },
+   {
+    "event": "bellatrix-shot",
+    "title": "Bellatrix Shot in the Back",
+    "img": "img/bellatrix-shot.v4.jpg"
+   },
+   {
+    "event": "gelf-into-the-astral-sea",
+    "title": "Gelf Shoved Into the Astral Sea",
+    "img": "img/gelf-into-the-astral-sea.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 102,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 13
+  },
+  "doc_date": "13th of Zarantyr, 993 YK",
+  "title": "Brand possessed; Dream rescue frees possessed Sentinels",
+  "sidebar": [
+   "Clockwork proves unusually important because a construct that does not sleep or dream cannot be possessed through the normal Dreamweaver method."
+  ],
+  "images": [
+   {
+    "event": "hunky-dory",
+    "title": "Is Everything Hunky Dory?",
+    "img": "img/hunky-dory.v3.jpg"
+   },
+   {
+    "event": "house-burns-flight-to-airfield",
+    "title": "The Book of Fire and the Run",
+    "img": "img/house-burns-flight-to-airfield.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 103,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 13
+  },
+  "doc_date": "13th of Zarantyr, 993 YK",
+  "title": "Brand possessed; Dream rescue frees possessed Sentinels",
+  "sidebar": [
+   "The possessed Sentinels make for the airfield and nearly steal the Kingsblade before the party and Clockwork’s forces stop them."
+  ],
+  "images": [
+   {
+    "event": "caught-at-the-village-gate",
+    "title": "Lirael Puts Brand to Sleep",
+    "img": "img/caught-at-the-village-gate.v3.jpg"
+   },
+   {
+    "event": "empty-jail-blood-trail",
+    "title": "The Empty Jail and a Trail of Blood",
+    "img": "img/empty-jail-blood-trail.v2.jpg"
+   },
+   {
+    "event": "kingsblade-hijack",
+    "title": "Kingsblade Hijack Foiled",
+    "img": "img/kingsblade-hijack.v2.jpg"
+   },
+   {
+    "event": "clockwork-lassos-gelf",
+    "title": "Clockwork Lassos Gelf From the Void",
+    "img": "img/clockwork-lassos-gelf.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 104,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 13
+  },
+  "doc_date": "13th of Zarantyr, 993 YK",
+  "title": "Brand possessed; Dream rescue frees possessed Sentinels",
+  "sidebar": [
+   "Brand is killed and revived to clear his possession. The party then uses Dream magic to enter their friends’ minds, kills a Dream Eater with a smokepowder bomb and frees the possessed Sentinels."
+  ],
+  "images": [
+   {
+    "event": "bellatrix-revived",
+    "title": "Bellatrix Wakes Among Her Killers",
+    "img": "img/bellatrix-revived.v2.jpg"
+   },
+   {
+    "event": "brand-dies-a-little",
+    "title": "Brand Dies Just a Little Bit",
+    "img": "img/brand-dies-a-little.v2.jpg"
+   },
+   {
+    "event": "into-the-dream-plane",
+    "title": "Into the Dreamweaver's Plane",
+    "img": "img/into-the-dream-plane.v2.jpg"
+   },
+   {
+    "event": "dream-eater",
+    "title": "Bombing the Dream Eater",
+    "img": "img/dream-eater.v2.jpg"
+   },
+   {
+    "event": "brass-dragon-in-the-dream",
+    "title": "A Brass Dragon Bursts From the Light",
+    "img": "img/brass-dragon-in-the-dream.v4.jpg"
+   },
+   {
+    "event": "escape-the-collapsing-dream",
+    "title": "Escaping the Collapsing Dream",
+    "img": "img/escape-the-collapsing-dream.v2.jpg"
+   },
+   {
+    "event": "friends-come-back",
+    "title": "Friends Come Back to Themselves",
+    "img": "img/friends-come-back.v7.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 105,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 13
+  },
+  "doc_date": "13th of Zarantyr, 993 YK",
+  "title": "Brand possessed; Dream rescue frees possessed Sentinels",
+  "sidebar": [
+   "The experience establishes that Dreamweaver possession has rules, can be detected and can be fought."
+  ],
+  "images": [
+   {
+    "event": "blazehelms-personal-guard",
+    "title": "Added to Blazehelm's Personal Guard",
+    "img": "img/blazehelms-personal-guard.v3.jpg"
+   },
+   {
+    "event": "mind-control-training",
+    "title": "Mind Control Training",
+    "img": "img/mind-control-training.v2.jpg"
+   },
+   {
+    "event": "fireworks-speech",
+    "title": "Fireworks Over Hobbstweedle",
+    "img": "img/fireworks-speech.v3.jpg"
+   },
+   {
+    "event": "nobody-else-possessed",
+    "title": "No One Else Is Possessed",
+    "img": "img/nobody-else-possessed.v4.jpg"
+   },
+   {
+    "event": "screechs-model-broadsword",
+    "title": "Checklists at Screech's House",
+    "img": "img/screechs-model-broadsword.v4.jpg"
+   },
+   {
+    "event": "sazed-trance-research",
+    "title": "Sazed Studies Trance States",
+    "img": "img/sazed-trance-research.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "mind-control-training",
+   "screechs-model-broadsword"
+  ]
+ },
+ {
+  "n": 106,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 14
+  },
+  "doc_date": "14th of Zarantyr, 993 YK",
+  "title": "Lirael Sr. and Ardev investigation / POW rescue hunt begins",
+  "sidebar": [
+   "Main-party Sentinel training and investigation continue, including leads tied to Lirael Sr., Ardev’s regiment and Wroat records."
+  ],
+  "images": [
+   {
+    "event": "lirael-first-flight",
+    "title": "Lirael's First Flight",
+    "img": "img/lirael-first-flight.v3.jpg"
+   },
+   {
+    "event": "lirael-learns-to-fly",
+    "title": "Lirael Wins the Paintball Dogfight",
+    "img": "img/lirael-learns-to-fly.v3.jpg"
+   },
+   {
+    "event": "clockwork-on-sentimentality",
+    "title": "Clockwork Has No Use for Sentiment",
+    "img": "img/clockwork-on-sentimentality.v2.jpg"
+   },
+   {
+    "event": "rune-wakes-the-spellcaster",
+    "title": "The Rune Wakes the Spellcaster",
+    "img": "img/rune-wakes-the-spellcaster.v2.jpg"
+   },
+   {
+    "event": "limbs-for-faird",
+    "title": "Designing Limbs for Faird",
+    "img": "img/limbs-for-faird.v2.jpg"
+   },
+   {
+    "event": "monty-elemental-engines",
+    "title": "Monty Offers Elemental Engines",
+    "img": "img/monty-elemental-engines.v2.jpg"
+   },
+   {
+    "event": "plants-have-souls",
+    "title": "Sazed Insists Plants Have Souls",
+    "img": "img/plants-have-souls.v2.jpg"
+   },
+   {
+    "event": "larkleaf-grow-op",
+    "title": "The Larkleaf Grow-Op",
+    "img": "img/larkleaf-grow-op.v2.jpg"
+   },
+   {
+    "event": "royal-ardev-regiment",
+    "title": "The Disbanded Royal Ardev Regiment",
+    "img": "img/royal-ardev-regiment.v2.jpg"
+   },
+   {
+    "event": "nedira-signals-training",
+    "title": "Signals Training With Nedira",
+    "img": "img/nedira-signals-training.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 107,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 14
+  },
+  "doc_date": "14th of Zarantyr, 993 YK",
+  "title": "Lirael Sr. and Ardev investigation / POW rescue hunt begins",
+  "sidebar": [
+   "Lirael meets Librarian Meriel after she finds one of Lirael Sr.’s stored items; she is murdered before reaching him. Paxon identifies the masked assassin as the Even Hand, and the party begins tracing both the assassin and the Royal Ardev Regiment."
+  ],
+  "images": [
+   {
+    "event": "letter-from-meriel",
+    "title": "A Letter From Meriel",
+    "img": "img/letter-from-meriel.v2.jpg"
+   },
+   {
+    "event": "meriel-on-the-bridge",
+    "title": "Meriel Dies on the Bridge",
+    "img": "img/meriel-on-the-bridge.v2.jpg"
+   },
+   {
+    "event": "wait-im-a-sentinel",
+    "title": "Wait, I'm a Sentinel",
+    "img": "img/wait-im-a-sentinel.v2.jpg"
+   },
+   {
+    "event": "mercy-at-the-library",
+    "title": "Lirael Confides in Mercy",
+    "img": "img/mercy-at-the-library.v2.jpg"
+   },
+   {
+    "event": "the-even-hand-named",
+    "title": "Paxon Names The Even Hand",
+    "img": "img/the-even-hand-named.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 108,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 14
+  },
+  "doc_date": "14th of Zarantyr, 993 YK",
+  "title": "Lirael Sr. and Ardev investigation / POW rescue hunt begins",
+  "sidebar": [
+   "At 19:20, under the retconned B-Team chronology, Zak, Thoradin and Merbin deploy from the Pillar of Dawn into Karrnath to rescue the captured Kason POWs."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 109,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 14
+  },
+  "doc_date": "14th of Zarantyr, 993 YK",
+  "title": "Lirael Sr. and Ardev investigation / POW rescue hunt begins",
+  "sidebar": [
+   "They infiltrate the Zelbrus region, encounter Ervin Altaner, enter the militarized village of Orska and meet the informant Nybb Farkus."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 110,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 14
+  },
+  "doc_date": "14th of Zarantyr, 993 YK",
+  "title": "Lirael Sr. and Ardev investigation / POW rescue hunt begins",
+  "sidebar": [
+   "Kombrig Ubel’s crackdown escalates; Nybb is killed and the team becomes hunted while trying to locate the POW camp."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 111,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 15
+  },
+  "doc_date": "15th of Zarantyr, 993 YK",
+  "title": "Even Hand encounter / B-Team — POW camp liberated",
+  "sidebar": [
+   "The Wroat Military Library records room burns and Librarian Mercy is murdered. Murphy Gravewood is killed, Gauss Hog’s house is destroyed by an explosion, and the party pursues the Even Hand toward Kal Valvier."
+  ],
+  "images": [
+   {
+    "event": "mercy-and-the-records",
+    "title": "Mercy Killed, the Records Burned",
+    "img": "img/mercy-and-the-records.v2.jpg"
+   },
+   {
+    "event": "eloria-speak-with-dead",
+    "title": "Two Scrolls of Speak With Dead",
+    "img": "img/eloria-speak-with-dead.v3.jpg"
+   },
+   {
+    "event": "chief-torg",
+    "title": "Chief Torg and Another Murder",
+    "img": "img/chief-torg.v2.jpg"
+   },
+   {
+    "event": "meriel-speaks-from-the-morgue",
+    "title": "Meriel Speaks From the Morgue",
+    "img": "img/meriel-speaks-from-the-morgue.v2.jpg"
+   },
+   {
+    "event": "murphys-house",
+    "title": "Three Bodies at Murphy's House",
+    "img": "img/murphys-house.v2.jpg"
+   },
+   {
+    "event": "binocular-glint-chase",
+    "title": "A Glint of Binoculars",
+    "img": "img/binocular-glint-chase.v2.jpg"
+   },
+   {
+    "event": "gauss-house-explodes",
+    "title": "Gauss Hog's House Explodes",
+    "img": "img/gauss-house-explodes.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 112,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 15
+  },
+  "doc_date": "15th of Zarantyr, 993 YK",
+  "title": "Even Hand encounter / B-Team — POW camp liberated",
+  "sidebar": [
+   "The main party races to protect Kal Valvier from the Even Hand. Kal is killed and revived repeatedly; the Even Hand ultimately decapitates him, leaving him dead at the end of the encounter before Click Clack mortally wounds the assassin’s warforged body."
+  ],
+  "images": [
+   {
+    "event": "standoff-at-kals-house",
+    "title": "Give Us Kal and Walk Away",
+    "img": "img/standoff-at-kals-house.v2.jpg"
+   },
+   {
+    "event": "kal-killed-on-the-street",
+    "title": "Kal Shot From the Rooftop",
+    "img": "img/kal-killed-on-the-street.v2.jpg"
+   },
+   {
+    "event": "hunger-of-hadar-assassins",
+    "title": "Hunger of Hadar Takes the Assassins",
+    "img": "img/hunger-of-hadar-assassins.v2.jpg"
+   },
+   {
+    "event": "even-hand-unmasked",
+    "title": "Click Clack Splits The Even Hand",
+    "img": "img/even-hand-unmasked.v2.jpg"
+   },
+   {
+    "event": "click-clack-resigns",
+    "title": "Click Clack Resigns",
+    "img": "img/click-clack-resigns.v2.jpg"
+   },
+   {
+    "event": "the-master-key",
+    "title": "The Master Key",
+    "img": "img/the-master-key.v2.jpg"
+   },
+   {
+    "event": "gauss-hog-survives",
+    "title": "Gauss Hog Turns Up Alive",
+    "img": "img/gauss-hog-survives.v2.jpg"
+   },
+   {
+    "event": "gauss-hogs-story",
+    "title": "The Regiment's Real Mission",
+    "img": "img/gauss-hogs-story.v3.jpg"
+   },
+   {
+    "event": "imps-firebomb-the-house",
+    "title": "Imps Firebomb the House",
+    "img": "img/imps-firebomb-the-house.v4.jpg"
+   },
+   {
+    "event": "rolicks-dust",
+    "title": "Rolick's Dust Finds the Last Imps",
+    "img": "img/rolicks-dust.v2.jpg"
+   },
+   {
+    "event": "gentle-repose-form",
+    "title": "The Form They Definitely Shouldn't File",
+    "img": "img/gentle-repose-form.v3.jpg"
+   },
+   {
+    "event": "ardev-song-on-the-piano",
+    "title": "An Ardev Song on the Piano",
+    "img": "img/ardev-song-on-the-piano.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "imps-firebomb-the-house",
+   "rolicks-dust"
+  ]
+ },
+ {
+  "n": 113,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 15
+  },
+  "doc_date": "15th of Zarantyr, 993 YK",
+  "title": "Even Hand encounter / B-Team — POW camp liberated",
+  "sidebar": [
+   "Clockwork determines that the Even Hand’s rune transmits his soul rather than containing it, making the victory temporary. Lirael recovers his father’s Obelisk and begins taking the old conspiracy more seriously."
+  ],
+  "images": [
+   {
+    "event": "obelisk-in-meriels-bag",
+    "title": "Lirael Sr's Obelisk in Meriel's Bag",
+    "img": "img/obelisk-in-meriels-bag.v2.jpg"
+   },
+   {
+    "event": "obelisk-rune-dream",
+    "title": "The Obelisk Rune Reads Dream",
+    "img": "img/obelisk-rune-dream.v2.jpg"
+   },
+   {
+    "event": "rune-transmits",
+    "title": "The Rune Transmits a Soul",
+    "img": "img/rune-transmits.v2.jpg"
+   },
+   {
+    "event": "circle-blast-marks",
+    "title": "Blast Marks at the Broken Circle",
+    "img": "img/circle-blast-marks.v2.jpg"
+   },
+   {
+    "event": "the-old-imp",
+    "title": "The Very Old Imp",
+    "img": "img/the-old-imp.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "circle-blast-marks",
+   "the-old-imp"
+  ]
+ },
+ {
+  "n": 114,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 15
+  },
+  "doc_date": "15th of Zarantyr, 993 YK",
+  "title": "Even Hand encounter / B-Team — POW camp liberated",
+  "sidebar": [
+   "The party spends the evening with friends at Brew & Ale."
+  ],
+  "images": [
+   {
+    "event": "brew-and-ale-farewell",
+    "title": "A Last Night at Brew and Ale",
+    "img": "img/brew-and-ale-farewell.v4.jpg"
+   },
+   {
+    "event": "dancing-with-eloria",
+    "title": "Sazed Dances, Eleanor Hides",
+    "img": "img/dancing-with-eloria.v3.jpg"
+   },
+   {
+    "event": "rigged-chicken-races",
+    "title": "Rigged Chicken Races",
+    "img": "img/rigged-chicken-races.v3.jpg"
+   },
+   {
+    "event": "gelf-brand-rematch",
+    "title": "The Gelf and Brand Rematch",
+    "img": "img/gelf-brand-rematch.v3.jpg"
+   },
+   {
+    "event": "brand-walks-eleanor-home",
+    "title": "Brand Walks Eleanor Home",
+    "img": "img/brand-walks-eleanor-home.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 115,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 15
+  },
+  "doc_date": "15th of Zarantyr, 993 YK",
+  "title": "Even Hand encounter / B-Team — POW camp liberated",
+  "sidebar": [
+   "In Karrnath, the B-Team reaches the POW operation, destroys the arcane AA gun and fights Doctor Volovsky and Kombrig Ubel."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 116,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 15
+  },
+  "doc_date": "15th of Zarantyr, 993 YK",
+  "title": "Even Hand encounter / B-Team — POW camp liberated",
+  "sidebar": [
+   "The POW camp is liberated and the Pillar of Dawn arrives, but Ubel blows the mine. The team goes back inside to rescue trapped prisoners."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 117,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 15
+  },
+  "doc_date": "15th of Zarantyr, 993 YK",
+  "title": "Even Hand encounter / B-Team — POW camp liberated",
+  "sidebar": [
+   "Deep in the mine a necromancer attempts to capture them; Merbin is killed and his heart is eaten. The surviving team escapes with the POWs and the Altaner family aboard the Pillar of Dawn."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 118,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 15
+  },
+  "doc_date": "15th of Zarantyr, 993 YK",
+  "title": "Even Hand encounter / B-Team — POW camp liberated",
+  "sidebar": [
+   "The Pillar of Dawn observes a large Karrnathi airship fleet rising and begins following it."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 119,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 16
+  },
+  "doc_date": "16th of Zarantyr, 993 YK",
+  "title": "Hobbstweedle church service; Paxon prank",
+  "sidebar": [
+   "After the late Brew & Ale night crosses midnight, the party endures another prison nightmare and trains with Feldor and Eloria on recognizing and controlling dreams, developing new tools for resisting the Dreamweaver."
+  ],
+  "images": [
+   {
+    "event": "prison-nightmare-brass-dragon",
+    "title": "The Brass Dragon Breaks the Prison",
+    "img": "img/prison-nightmare-brass-dragon.v2.jpg"
+   },
+   {
+    "event": "hangover-and-dyll",
+    "title": "Hangovers on the Training Field",
+    "img": "img/hangover-and-dyll.v3.jpg"
+   },
+   {
+    "event": "fighting-shadow-selves",
+    "title": "Fighting Their Own Doppelgangers",
+    "img": "img/fighting-shadow-selves.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 120,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 16
+  },
+  "doc_date": "16th of Zarantyr, 993 YK",
+  "title": "Hobbstweedle church service; Paxon prank",
+  "sidebar": [
+   "The Even Hand leaves a silence arrow and taunting note at the party’s house. His trail disappears into the river/sewer system."
+  ],
+  "images": [
+   {
+    "event": "silence-arrow-in-the-door",
+    "title": "A Silence Arrow in the Door",
+    "img": "img/silence-arrow-in-the-door.v2.jpg"
+   },
+   {
+    "event": "tracks-into-the-sewers",
+    "title": "Tracks Into the Sewers",
+    "img": "img/tracks-into-the-sewers.v2.jpg"
+   },
+   {
+    "event": "bellatrix-sent-home",
+    "title": "Bellatrix Sent Home",
+    "img": "img/bellatrix-sent-home.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "bellatrix-sent-home"
+  ]
+ },
+ {
+  "n": 121,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 16
+  },
+  "doc_date": "16th of Zarantyr, 993 YK",
+  "title": "Hobbstweedle church service; Paxon prank",
+  "sidebar": [
+   "Clockwork begins designing sewer-crawling constructs while the party obtains maps and searches for another way to track him."
+  ],
+  "images": [
+   {
+    "event": "sewer-map-stolen",
+    "title": "The Stolen Sewer Map",
+    "img": "img/sewer-map-stolen.v2.jpg"
+   },
+   {
+    "event": "erald-delivers-the-map",
+    "title": "Erald Delivers the Sewer Map",
+    "img": "img/erald-delivers-the-map.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 122,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 16
+  },
+  "doc_date": "16th of Zarantyr, 993 YK",
+  "title": "Hobbstweedle church service; Paxon prank",
+  "sidebar": [
+   "Brand holds a service at the damaged Hobbstweedle church and learns more about the Skyfire Raid and the former priest killed in it."
+  ],
+  "images": [
+   {
+    "event": "brands-church-service",
+    "title": "Brand Leads a Church Service",
+    "img": "img/brands-church-service.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 123,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 16
+  },
+  "doc_date": "16th of Zarantyr, 993 YK",
+  "title": "Hobbstweedle church service; Paxon prank",
+  "sidebar": [
+   "The party’s nightmares continue, but the Brass Dragon imagery increasingly acts as a counterforce."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 124,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 16
+  },
+  "doc_date": "16th of Zarantyr, 993 YK",
+  "title": "Hobbstweedle church service; Paxon prank",
+  "sidebar": [
+   "The group begins planning an elaborate prank against Paxon, pulling Eloria, Clockwork and the gnomes into it."
+  ],
+  "images": [
+   {
+    "event": "sasquatch-bucket-prank",
+    "title": "Dyll's Sasquatch Bucket",
+    "img": "img/sasquatch-bucket-prank.v2.jpg"
+   },
+   {
+    "event": "paxon-painting-heist",
+    "title": "The Paxon Painting Heist",
+    "img": "img/paxon-painting-heist.v3.jpg"
+   },
+   {
+    "event": "eloria-and-clockwork-join-prank",
+    "title": "Eloria and Clockwork Join the Prank",
+    "img": "img/eloria-and-clockwork-join-prank.v3.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "sasquatch-bucket-prank"
+  ]
+ },
+ {
+  "n": 125,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 17
+  },
+  "doc_date": "17th of Zarantyr, 993 YK",
+  "title": "Tomb of Centarrel discovered; Moonwatch departure preparations",
+  "sidebar": [
+   "The Paxon prank escalates into an infiltration of Blazehelm’s mansion and the discovery/use of a portal connected to the Tomb of Centarrel."
+  ],
+  "images": [
+   {
+    "event": "potion-room-amulet",
+    "title": "Raiding the Potion Room",
+    "img": "img/potion-room-amulet.v2.jpg"
+   },
+   {
+    "event": "tomb-of-centarrel",
+    "title": "The Tomb of Centarrel",
+    "img": "img/tomb-of-centarrel.v5.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 126,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 17
+  },
+  "doc_date": "17th of Zarantyr, 993 YK",
+  "title": "Tomb of Centarrel discovered; Moonwatch departure preparations",
+  "sidebar": [
+   "They find graves connected to people they know, including family ties to Gelf and Thaldamir."
+  ],
+  "images": [
+   {
+    "event": "graves-of-the-fathers",
+    "title": "The Graves of Their Fathers",
+    "img": "img/graves-of-the-fathers.v3.jpg"
+   },
+   {
+    "event": "after-the-walls-fell",
+    "title": "After the Walls Fell",
+    "img": "img/after-the-walls-fell.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 127,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 17
+  },
+  "doc_date": "17th of Zarantyr, 993 YK",
+  "title": "Tomb of Centarrel discovered; Moonwatch departure preparations",
+  "sidebar": [
+   "The party decides to fully explore the tomb later."
+  ],
+  "images": [
+   {
+    "event": "clockwork-wyrmlings",
+    "title": "Clockwork Wyrmlings and a Dragon Skull",
+    "img": "img/clockwork-wyrmlings.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 128,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 17
+  },
+  "doc_date": "17th of Zarantyr, 993 YK",
+  "title": "Tomb of Centarrel discovered; Moonwatch departure preparations",
+  "sidebar": [
+   "That night, the altered Paxon painting is hung inside Blazehelm’s mansion; the public unveiling is planned for the following morning."
+  ],
+  "images": [
+   {
+    "event": "beholder-illusion",
+    "title": "Hanging the Portrait Under a Beholder",
+    "img": "img/beholder-illusion.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 129,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 18
+  },
+  "doc_date": "18th of Zarantyr, 993 YK",
+  "title": "Moonwatch departs for Ardev",
+  "sidebar": [
+   "At 08:00 the party unveils the altered Paxon painting at Blazehelm’s mansion, humiliating Paxon before the assembled Sentinels."
+  ],
+  "images": [
+   {
+    "event": "portrait-unveiled",
+    "title": "Paxon's Portrait Unveiled",
+    "img": "img/portrait-unveiled.v14.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 130,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 18
+  },
+  "doc_date": "18th of Zarantyr, 993 YK",
+  "title": "Moonwatch departs for Ardev",
+  "sidebar": [
+   "Before liftoff, Blazehelm tells Brand that Bellatrix Snaggletooth and her roommate have been murdered, with a note left behind."
+  ],
+  "images": [
+   {
+    "event": "bellatrix-is-dead",
+    "title": "Bellatrix Is Dead",
+    "img": "img/bellatrix-is-dead.v3.jpg"
+   },
+   {
+    "event": "why-blazehelm-trusts-paxon",
+    "title": "Why Blazehelm Trusts Paxon",
+    "img": "img/why-blazehelm-trusts-paxon.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 131,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 18
+  },
+  "doc_date": "18th of Zarantyr, 993 YK",
+  "title": "Moonwatch departs for Ardev",
+  "sidebar": [
+   "At about 12:18 the Moonwatch takes off from Hobbstweedle for Ardev, marking the beginning of the Ardev arc."
+  ],
+  "images": [
+   {
+    "event": "goodbyes-at-the-airfield",
+    "title": "Goodbyes at the Airfield",
+    "img": "img/goodbyes-at-the-airfield.v2.jpg"
+   },
+   {
+    "event": "moonwatch-crew-roles",
+    "title": "The Moonwatch Crew Roster",
+    "img": "img/moonwatch-crew-roles.v3.jpg"
+   },
+   {
+    "event": "lift-off-for-ardev",
+    "title": "Lift-Off for Ardev",
+    "img": "img/lift-off-for-ardev.v2.jpg"
+   },
+   {
+    "event": "parting-gifts",
+    "title": "Parting Gifts",
+    "img": "img/parting-gifts.v2.jpg"
+   },
+   {
+    "event": "moonwatch-departs",
+    "title": "The Moonwatch Departs",
+    "img": "img/moonwatch-departs.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 132,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 18
+  },
+  "doc_date": "18th of Zarantyr, 993 YK",
+  "title": "Moonwatch departs for Ardev",
+  "sidebar": [
+   "On the flight Brand detects evil from mirrors and Lirael experiences increasingly severe nightmare flashes when looking into them."
+  ],
+  "images": [
+   {
+    "event": "evil-in-the-mirrors",
+    "title": "Evil in the Mirrors",
+    "img": "img/evil-in-the-mirrors.v2.jpg"
+   },
+   {
+    "event": "detour-over-yedani-prison",
+    "title": "Detour over the Yedani Prison",
+    "img": "img/detour-over-yedani-prison.v2.jpg"
+   },
+   {
+    "event": "the-fourth-look",
+    "title": "The Fourth Look",
+    "img": "img/the-fourth-look.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 133,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 18
+  },
+  "doc_date": "18th of Zarantyr, 993 YK",
+  "title": "Moonwatch departs for Ardev",
+  "sidebar": [
+   "The crew throws most mirrors overboard and begins treating mirrors as a possible Dreamweaver vector."
+  ],
+  "images": [
+   {
+    "event": "cromwell-the-stowaway",
+    "title": "Cromwell the Stowaway",
+    "img": "img/cromwell-the-stowaway.v2.jpg"
+   },
+   {
+    "event": "mirrors-overboard",
+    "title": "Mirrors Overboard",
+    "img": "img/mirrors-overboard.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 134,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 18
+  },
+  "doc_date": "18th of Zarantyr, 993 YK",
+  "title": "Moonwatch departs for Ardev",
+  "sidebar": [
+   "Sorenson opens up about his fear of dying and uncertainty about Sentinel life; the Moonwatch increasingly becomes the campaign’s shared home."
+  ],
+  "images": [
+   {
+    "event": "sorenson-confides",
+    "title": "Sorenson's Fears",
+    "img": "img/sorenson-confides.v3.jpg"
+   },
+   {
+    "event": "beezel-and-the-books",
+    "title": "A Chipmunk in the Books",
+    "img": "img/beezel-and-the-books.v2.jpg"
+   },
+   {
+    "event": "dandys-dinner",
+    "title": "Dandy's Dinner",
+    "img": "img/dandys-dinner.v2.jpg"
+   },
+   {
+    "event": "canuck-songs",
+    "title": "Canuck Songs into the Night",
+    "img": "img/canuck-songs.v3.jpg"
+   },
+   {
+    "event": "the-cookie-feud",
+    "title": "The Cookie Feud",
+    "img": "img/the-cookie-feud.v2.jpg"
+   },
+   {
+    "event": "steve-the-skycracker",
+    "title": "Steve the Skycracker",
+    "img": "img/steve-the-skycracker.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "steve-the-skycracker"
+  ]
+ },
+ {
+  "n": 135,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "In Ardev the main party digs deeply into Lirael Sr.’s trail. After solving his bizarre library puzzle, they descend through an anti-magic field into his hidden office, where a slaad posing as Lirael Sr. attacks before being killed."
+  ],
+  "images": [
+   {
+    "event": "a-cold-welcome-to-ardev",
+    "title": "A Cold Welcome to Ardev",
+    "img": "img/a-cold-welcome-to-ardev.v2.jpg"
+   },
+   {
+    "event": "farks-bargain-whores",
+    "title": "Fark's Bargain Whores",
+    "img": "img/farks-bargain-whores.v2.jpg"
+   },
+   {
+    "event": "the-murderers-home",
+    "title": "The Murderer's Home",
+    "img": "img/the-murderers-home.v2.jpg"
+   },
+   {
+    "event": "the-mad-library-puzzle",
+    "title": "The Madman's Puzzle",
+    "img": "img/the-mad-library-puzzle.v2.jpg"
+   },
+   {
+    "event": "slaad-dad",
+    "title": "Slaad Dad",
+    "img": "img/slaad-dad.v2.jpg"
+   },
+   {
+    "event": "chimney-ambush",
+    "title": "Up the Chimney",
+    "img": "img/chimney-ambush.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 136,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "The hidden den yields more of Lirael Sr.’s Dreamweaver investigation: an Obelisk pedestal, disguised Wroat Military Library books, and evidence of how far his obsession had consumed him. The recovered books reveal more about the Dreamweaver before the party stops at the warning, “Beware of Knowledge.”"
+  ],
+  "images": [
+   {
+    "event": "fathers-den",
+    "title": "Lirael Sr's Den",
+    "img": "img/fathers-den.v2.jpg"
+   },
+   {
+    "event": "runes-on-the-obelisk",
+    "title": "Runes on the Obelisk",
+    "img": "img/runes-on-the-obelisk.v2.jpg"
+   },
+   {
+    "event": "the-last-poem",
+    "title": "Lirael Sr's Last Poem",
+    "img": "img/the-last-poem.v2.jpg"
+   },
+   {
+    "event": "the-secret-office",
+    "title": "The Secret Office",
+    "img": "img/the-secret-office.v2.jpg"
+   },
+   {
+    "event": "mother-under-suggestion",
+    "title": "Mother Under Suggestion",
+    "img": "img/mother-under-suggestion.v2.jpg"
+   },
+   {
+    "event": "i-pray-the-worst-has-come",
+    "title": "I Pray the Worst Has Come",
+    "img": "img/i-pray-the-worst-has-come.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 137,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "At the Ardev library, Sazed finds Carrk’s hidden message that Stones Throw has been destroyed and that Carrk is heading toward Hearthsfire."
+  ],
+  "images": [
+   {
+    "event": "hellsauce-recruits-sazed",
+    "title": "Baron Hellsauce Makes an Offer",
+    "img": "img/hellsauce-recruits-sazed.v2.jpg"
+   },
+   {
+    "event": "the-ardev-library",
+    "title": "Carrk's Message at the Library",
+    "img": "img/the-ardev-library.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "hellsauce-recruits-sazed"
+  ]
+ },
+ {
+  "n": 138,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "By late evening the party is working at Turckle & Churckle. Lirael reconnects awkwardly with Xera and tries to repair his relationship with Felicia Jr.; after an argument, Felicia storms out and disappears before Turckle can bring her home."
+  ],
+  "images": [
+   {
+    "event": "barry-baritone",
+    "title": "Barry Baritone",
+    "img": "img/barry-baritone.v2.jpg"
+   },
+   {
+    "event": "xera-harassed",
+    "title": "Trouble at the Turckle and Churckle",
+    "img": "img/xera-harassed.v2.jpg"
+   },
+   {
+    "event": "ants-and-birds",
+    "title": "Ants, Insults and Tighty Whities",
+    "img": "img/ants-and-birds.v2.jpg"
+   },
+   {
+    "event": "jazz-smells-magic",
+    "title": "Jazz Smells Magic",
+    "img": "img/jazz-smells-magic.v2.jpg"
+   },
+   {
+    "event": "felicia-storms-off",
+    "title": "Felicia Storms Off",
+    "img": "img/felicia-storms-off.v2.jpg"
+   },
+   {
+    "event": "bird-potion",
+    "title": "Irresistible to Birds",
+    "img": "img/bird-potion.v2.jpg"
+   },
+   {
+    "event": "imps-and-the-quasit",
+    "title": "The Spared Quasit",
+    "img": "img/imps-and-the-quasit.v2.jpg"
+   },
+   {
+    "event": "forge-and-the-right-hand",
+    "title": "The Right Hand at the Cannith Forge",
+    "img": "img/forge-and-the-right-hand.v2.jpg"
+   },
+   {
+    "event": "gynn-at-the-forge",
+    "title": "Gynn at the Cannith Forge",
+    "img": "img/gynn-at-the-forge.v3.jpg"
+   },
+   {
+    "event": "brokk-takes-refuge",
+    "title": "Brokk Refuses the Ship",
+    "img": "img/brokk-takes-refuge.v2.jpg"
+   },
+   {
+    "event": "filgar-the-wererat",
+    "title": "Filgar the Wererat",
+    "img": "img/filgar-the-wererat.v2.jpg"
+   },
+   {
+    "event": "the-interview",
+    "title": "An Interview Gone Wrong",
+    "img": "img/the-interview.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 139,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "The search for Felicia leads to Lirael’s trashed family home, where the party finds Turckle’s flask, Felicia’s purse and the teleportation ring that sent Gynn to the Gorgis house. Following the trail across Ardev, they learn a Glabrezu had been seen carrying two bodies."
+  ],
+  "images": [
+   {
+    "event": "house-trashed",
+    "title": "Felicia Taken",
+    "img": "img/house-trashed.v2.jpg"
+   },
+   {
+    "event": "the-druid-cat",
+    "title": "The Clocktower and the Cat",
+    "img": "img/the-druid-cat.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 140,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "A druid contact then draws Sazed into the forest to meet the Bloodsinger and the Covenant of Emberfall. He learns they are working with the Dragon’s Claw only as a means to an end and that a Fury-linked darkness is spreading through Ardev, with Fark’s Bargain Whores singled out as a dangerous focal point. Felicia remains missing as the party returns to the Moonwatch for the night."
+  ],
+  "images": [
+   {
+    "event": "the-white-stag",
+    "title": "The White Stag",
+    "img": "img/the-white-stag.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 141,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "At the same time, a major air battle erupts near the Brelish border. Bulwark and Jyo are prisoners aboard the Wraithwind."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 142,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "In parallel, Zak, Thoradin and the Pillar of Dawn Sentinels assault and bring down the Hellswind, rescuing the remaining POWs aboard and recovering intelligence later used to track the Karrnathi rear squadron in Khyber."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 143,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "Grave Grimdell sends Bulwark and Jyo to a mysterious Astral prison containing a gyroscopic device; Jyo is assaulted by the Dreamweaver."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 144,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "They bluff Grave into believing they are possessed. Grave describes the Dreamweaver’s infiltration as being directed by The Shepherd, reveals the plan to use them to infiltrate the Sentinels, and explains that the Sentinels are difficult to influence indirectly through possessed high-ranking officers."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 145,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "The rescue teams converge, the Wraithwind is destroyed, Bulwark and Jyo reunite with the surviving Kason crew, and Captain Markus recruits them into the Sentinels."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 146,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 19
+  },
+  "doc_date": "19th of Zarantyr, 993 YK",
+  "title": "Lirael Sr.’s hidden office; Covenant meeting / Wraithwind destroyed; Bulwark and Jyo join Sentinels",
+  "sidebar": [
+   "The surviving Karrnathi fleet descends into Black Pit and enters Khyber."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 147,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "Early in the day Lirael steals the latest Ardev Watch hit-piece before it can circulate while invisible Dragon’s Claw mercenaries shadow the party. The search for Felicia Jr. leads to an abandoned house saturated with demonic activity and a sealed passage into the lost Mausoleum of Alton Ardev."
+  ],
+  "images": [
+   {
+    "event": "stealing-the-hit-piece",
+    "title": "Stealing the Morning Paper",
+    "img": "img/stealing-the-hit-piece.v2.jpg"
+   },
+   {
+    "event": "the-candle-test",
+    "title": "The Candle Test",
+    "img": "img/the-candle-test.v2.jpg"
+   },
+   {
+    "event": "the-abandoned-house",
+    "title": "The Abandoned House",
+    "img": "img/the-abandoned-house.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 148,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "Inside, the party learns more of Alton Ardev’s founding ideals, deals with demons, traps and Shrimp Diggery, and discovers the ritual at the heart of the disappearances."
+  ],
+  "images": [
+   {
+    "event": "mausoleum-of-ardev",
+    "title": "The Lost Mausoleum of Ardev",
+    "img": "img/mausoleum-of-ardev.v2.jpg"
+   },
+   {
+    "event": "sazed-kicks-five-imps",
+    "title": "Five Imps in Twelve Seconds",
+    "img": "img/sazed-kicks-five-imps.v2.jpg"
+   },
+   {
+    "event": "weresharks-and-a-mimic",
+    "title": "Weresharks in the Halls",
+    "img": "img/weresharks-and-a-mimic.v2.jpg"
+   },
+   {
+    "event": "shrimp-diggery",
+    "title": "Heeby Deeby Dee, You Killed Me",
+    "img": "img/shrimp-diggery.v2.jpg"
+   },
+   {
+    "event": "voices-in-the-dark",
+    "title": "A Seductive Voice",
+    "img": "img/voices-in-the-dark.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 149,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "Turckle, the Gorgises, Neer, Elk and the draft dodgers they had hidden have been murdered for the ritual. Felicia Jr. is bound above a demon portal while Fark and Gynn attempt to make her a vessel for the Fury."
+  ],
+  "images": [
+   {
+    "event": "the-fury-ritual",
+    "title": "The Fury Ritual",
+    "img": "img/the-fury-ritual.v20.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 150,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "The party breaks the ritual, frees Felicia and kills Fark and Gynn. The ordeal awakens Felicia’s latent sorcery amid severe trauma, while surviving Abishai move to restart the portal and an enlarged Bone Devil hunts the group through the mausoleum toward the underground river."
+  ],
+  "images": [
+   {
+    "event": "the-chicken-gambit",
+    "title": "The Chicken Gambit",
+    "img": "img/the-chicken-gambit.v2.jpg"
+   },
+   {
+    "event": "felicias-fire",
+    "title": "Felicia's Fire",
+    "img": "img/felicias-fire.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 151,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "The party escapes through the underground river to Ardev’s lake and immediately mobilizes the town. Captain Flowers brings the police; the Right Hand, Morganth and the Dragon’s Claw arrive with Brokk and Barry; the Bloodsinger brings druids; and Auntie Bees arrives with her swarm."
+  ],
+  "images": [
+   {
+    "event": "bone-devil-river-chase",
+    "title": "Down the Underground River",
+    "img": "img/bone-devil-river-chase.v2.jpg"
+   },
+   {
+    "event": "rallying-ardev",
+    "title": "Rallying Ardev",
+    "img": "img/rallying-ardev.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 152,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "When the Bone Devil tears its way to the surface and summons a second devil, the uneasy alliance fights together to defend Ardev and destroys both. The party then returns below, kills the Abishai attempting to reactivate the portal and leaves the mausoleum under Oberoth’s order."
+  ],
+  "images": [
+   {
+    "event": "ardev-vs-bone-devils",
+    "title": "All of Ardev vs the Bone Devils",
+    "img": "img/ardev-vs-bone-devils.v3.jpg"
+   },
+   {
+    "event": "oberoth-the-guardian",
+    "title": "Oberoth the Guardian",
+    "img": "img/oberoth-the-guardian.v2.jpg"
+   },
+   {
+    "event": "calm-in-the-square",
+    "title": "Calm Emotions in the Square",
+    "img": "img/calm-in-the-square.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 153,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "Later, the Magic Society meeting leaves the party deeply suspicious of Fey-Lynn and her Dreamweaver theory. That night they secretly visit the ruins of Stones Throw, learn the attackers were Silver Flame warriors from outside Ardev, and rescue Skye Amberwood and eight younger shifter children from a hidden refuge beneath the well."
+  ],
+  "images": [
+   {
+    "event": "fey-lynns-society",
+    "title": "Fey-Lynn's Magic Society",
+    "img": "img/fey-lynns-society.v2.jpg"
+   },
+   {
+    "event": "moonwatch-party",
+    "title": "Wererats and Bears Aboard",
+    "img": "img/moonwatch-party.v3.jpg"
+   },
+   {
+    "event": "stones-throw-in-ashes",
+    "title": "Stones Throw in Ashes",
+    "img": "img/stones-throw-in-ashes.v4.jpg"
+   },
+   {
+    "event": "children-in-the-well",
+    "title": "Children in the Well",
+    "img": "img/children-in-the-well.v2.jpg"
+   },
+   {
+    "event": "archimedes-shot-down",
+    "title": "Archimedes Shot Down",
+    "img": "img/archimedes-shot-down.v2.jpg"
+   },
+   {
+    "event": "the-gate-dream",
+    "title": "A Dream of the Gate",
+    "img": "img/the-gate-dream.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "moonwatch-party"
+  ]
+ },
+ {
+  "n": 154,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "Meanwhile, at 09:13 the B-Team begins the Khyber Hunt. The Altaner family receives Brelish refugee status and leaves for Starilaskur."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 155,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "Bulwark/Jyo and Zak/Thoradin are split into two teams to locate the crashed Boundless and the Karrnathi rear squadron before Khyber shifts."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 156,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "Zak and Bulwark cross the old Fells Gate battlefield, survive an invisible minefield and a myconid-corrupted Neothelid, and use an abandoned Apparatus of Kwalish to escape."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 157,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "They find the Boundless survivors Cordy, Banjo and the zombifying Cyric. Cyric later sacrifices himself to let the others escape."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 158,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "The group reaches Crypt Haven, uncovers the hag/revenant ambush, frees Jyo and Thoradin, and learns the Karrnathi fleet appears to possess a way to navigate Khyber’s shifts."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 159,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 20
+  },
+  "doc_date": "20th of Zarantyr, 993 YK",
+  "title": "Felicia Jr. rescued; Stones Throw survivors rescued / Boundless survivors found; Cyric sacrifices himself",
+  "sidebar": [
+   "By 18:30 the B-Team is moving toward the Mouth of the World Scar with the surviving Boundless crew."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 160,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "At 06:40 Lirael reads Fey-Lynn’s mind and discovers she is Dreamwoven and beginning “phase 2.” The attempt to protect Xera and Felicia Sr. collapses into the Even Hand/Flock operation."
+  ],
+  "images": [
+   {
+    "event": "xeras-window",
+    "title": "At Xera's Window",
+    "img": "img/xeras-window.v2.jpg"
+   },
+   {
+    "event": "phase-two",
+    "title": "Phase Two",
+    "img": "img/phase-two.v2.jpg"
+   },
+   {
+    "event": "ellis-ambush",
+    "title": "Ambushed by Ellis",
+    "img": "img/ellis-ambush.v3.jpg"
+   },
+   {
+    "event": "mustang-full-of-arrows",
+    "title": "Mustang Full of Arrows",
+    "img": "img/mustang-full-of-arrows.v2.jpg"
+   },
+   {
+    "event": "ellis-dead-in-the-street",
+    "title": "Ellis Dead in the Street",
+    "img": "img/ellis-dead-in-the-street.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 161,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "Mustang is revealed as one of the Even Hand’s warforged bodies. The Even Hand and Mustang jointly decapitate Xera and Fey-Lynn before Brand activates the body’s personality core; afterward, Mustang’s independent personality turns against the Even Hand and warns the party it is a trap. Felicia Sr. and Lirael are taken/possessed, and the party is dragged into the lightning-rail/mobile-fortress crisis."
+  ],
+  "images": [
+   {
+    "event": "carriage-chase",
+    "title": "Mustang Betrays Them",
+    "img": "img/carriage-chase.v6.jpg"
+   },
+   {
+    "event": "ball-bearings-and-the-safe",
+    "title": "Ball Bearings and an Arcane Safe",
+    "img": "img/ball-bearings-and-the-safe.v2.jpg"
+   },
+   {
+    "event": "the-even-hand-on-the-roof",
+    "title": "Out of Your Depth",
+    "img": "img/the-even-hand-on-the-roof.v2.jpg"
+   },
+   {
+    "event": "leap-from-the-carriage",
+    "title": "Leap from the Carriage",
+    "img": "img/leap-from-the-carriage.v2.jpg"
+   },
+   {
+    "event": "xera-and-fey-lynn-die",
+    "title": "Xera and Fey-Lynn Beheaded",
+    "img": "img/xera-and-fey-lynn-die.v11.jpg"
+   },
+   {
+    "event": "bears-and-a-barrel",
+    "title": "Bears and a Barrel",
+    "img": "img/bears-and-a-barrel.v2.jpg"
+   },
+   {
+    "event": "mustang-wakes",
+    "title": "Mustang Wakes",
+    "img": "img/mustang-wakes.v2.jpg"
+   },
+   {
+    "event": "counterspelled-by-lirael",
+    "title": "Counterspelled by Lirael",
+    "img": "img/counterspelled-by-lirael.v2.jpg"
+   },
+   {
+    "event": "even-hand-dies",
+    "title": "The Even Hand Dies",
+    "img": "img/even-hand-dies.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 162,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "The Skull Knight intervenes, judges the party worthy to carry the Gate and Obelisk, tells them Lirael Sr. carried them before, and later enters Lirael’s dream prison to free him."
+  ],
+  "images": [
+   {
+    "event": "the-dream-prison",
+    "title": "The Dream Prison",
+    "img": "img/the-dream-prison.v2.jpg"
+   },
+   {
+    "event": "skull-knight-arrives",
+    "title": "Hooves in the Mist",
+    "img": "img/skull-knight-arrives.v2.jpg"
+   },
+   {
+    "event": "skull-knights-judgment",
+    "title": "The Skull Knight's Judgment",
+    "img": "img/skull-knights-judgment.v2.jpg"
+   },
+   {
+    "event": "the-true-name",
+    "title": "Do You Know Its True Name?",
+    "img": "img/the-true-name.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 163,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "By early afternoon the rail is racing toward the invisible turtle fortress while the Moonwatch is under AA fire and the party fights the Flock. The party escapes the catastrophe and begins recovering in Ardev."
+  ],
+  "images": [
+   {
+    "event": "black-booked-train",
+    "title": "Paxon: A Black-Booked Train",
+    "img": "img/black-booked-train.v2.jpg"
+   },
+   {
+    "event": "eloria-and-a-bear-army",
+    "title": "A Bear Army and a Pigeon",
+    "img": "img/eloria-and-a-bear-army.v2.jpg"
+   },
+   {
+    "event": "brands-workshop",
+    "title": "Brand's Workshop",
+    "img": "img/brands-workshop.v2.jpg"
+   },
+   {
+    "event": "a-call-from-lirael",
+    "title": "A Call from Lirael",
+    "img": "img/a-call-from-lirael.v2.jpg"
+   },
+   {
+    "event": "skye-feels-abandoned",
+    "title": "Skye Feels Abandoned",
+    "img": "img/skye-feels-abandoned.v4.jpg"
+   },
+   {
+    "event": "shadowing-the-train",
+    "title": "Shadowing the Train",
+    "img": "img/shadowing-the-train.v3.jpg"
+   },
+   {
+    "event": "jyo-the-spider",
+    "title": "Jyo the Spider",
+    "img": "img/jyo-the-spider.v2.jpg"
+   },
+   {
+    "event": "the-invisible-beholder",
+    "title": "The Invisible Beholder",
+    "img": "img/the-invisible-beholder.v2.jpg"
+   },
+   {
+    "event": "into-the-bag-of-holding",
+    "title": "Five Minutes of Air",
+    "img": "img/into-the-bag-of-holding.v2.jpg"
+   },
+   {
+    "event": "protection-and-pattern",
+    "title": "Ten Minutes of Freedom",
+    "img": "img/protection-and-pattern.v2.jpg"
+   },
+   {
+    "event": "skull-knight-turtle-fortress",
+    "title": "The Train Hits the Turtle Fortress",
+    "img": "img/skull-knight-turtle-fortress.v2.jpg"
+   },
+   {
+    "event": "felicias-reunion",
+    "title": "Felicia Learns the Cost",
+    "img": "img/felicias-reunion.v2.jpg"
+   },
+   {
+    "event": "mr-beaks-returns",
+    "title": "Mr. Beaks Returns",
+    "img": "img/mr-beaks-returns.v2.jpg"
+   },
+   {
+    "event": "skye-reunion",
+    "title": "Sazed Comes Back",
+    "img": "img/skye-reunion.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 164,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "Dreamwoven Telos and Gruff tear Jyo apart during the escape; the party kills the bears moments too late and recovers Jyo’s remains for possible revival."
+  ],
+  "images": [
+   {
+    "event": "jyo-torn-apart",
+    "title": "Jyo Torn Apart by Bears",
+    "img": "img/jyo-torn-apart.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 165,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "By 21:12 they are speaking with Wilford Chism at the Silver Flame church, trying to make sense of the Fury’s disappearance, the town’s lockdown and the many people who now need to be rescued or revived."
+  ],
+  "images": [
+   {
+    "event": "barry-and-brokk-waiting",
+    "title": "A Missed Recording Session",
+    "img": "img/barry-and-brokk-waiting.v2.jpg"
+   },
+   {
+    "event": "i-tag-ye-cosmic",
+    "title": "I Tag Ye Cosmic",
+    "img": "img/i-tag-ye-cosmic.v2.jpg"
+   },
+   {
+    "event": "lilya-the-guide",
+    "title": "Lilya the Guide",
+    "img": "img/lilya-the-guide.v2.jpg"
+   },
+   {
+    "event": "curfew-in-ardev",
+    "title": "Curfew in Ardev",
+    "img": "img/curfew-in-ardev.v2.jpg"
+   },
+   {
+    "event": "bimble-repents",
+    "title": "Bimble Niblet Repents",
+    "img": "img/bimble-repents.v2.jpg"
+   },
+   {
+    "event": "wilford-and-the-stranger-evil",
+    "title": "A Stranger Evil",
+    "img": "img/wilford-and-the-stranger-evil.v2.jpg"
+   },
+   {
+    "event": "wilford-doubts-the-watch",
+    "title": "Wilford Doubts the Ardev Watch",
+    "img": "img/wilford-doubts-the-watch.v2.jpg"
+   },
+   {
+    "event": "valvier-house-ransacked",
+    "title": "The Valvier House, Torched and Picked Over",
+    "img": "img/valvier-house-ransacked.v2.jpg"
+   },
+   {
+    "event": "jazz-hears-the-truth",
+    "title": "Jazz Learns Mustang Was the Even Hand",
+    "img": "img/jazz-hears-the-truth.v2.jpg"
+   },
+   {
+    "event": "valvier-gold-in-evidence",
+    "title": "The Gold Under a False Name",
+    "img": "img/valvier-gold-in-evidence.v2.jpg"
+   },
+   {
+    "event": "jazz-joins-the-fold",
+    "title": "Jazz Joins the Fold",
+    "img": "img/jazz-joins-the-fold.v2.jpg"
+   },
+   {
+    "event": "flowers-coerced",
+    "title": "Captain Flowers Under Threat",
+    "img": "img/flowers-coerced.v2.jpg"
+   },
+   {
+    "event": "right-hand-wakes-daedalus",
+    "title": "The Right Hand Activates Daedalus",
+    "img": "img/right-hand-wakes-daedalus.v2.jpg"
+   },
+   {
+    "event": "brokks-armor-plating",
+    "title": "Brokk's Peace Offering",
+    "img": "img/brokks-armor-plating.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 166,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "In Khyber at 06:30, the B-Team wakes to find Jyo missing and a sinkhole beside the camp. He later emerges in Ardev, directly linking the B-Team crisis to the main-party events."
+  ],
+  "images": [
+   {
+    "event": "jyo-falls-into-ardev",
+    "title": "Jyo Falls into Ardev",
+    "img": "img/jyo-falls-into-ardev.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 167,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "In Khyber, at 06:30–06:32, the B-Team infiltrates the Karrnathi rear squadron at the Mouth of the World Scar, plants bombs, steals the Khyber map from the Black Steed and plants the tracking charm, and is forced to steal the Eternal Night after Vulture’s Kunai is shot down."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 168,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "The Eternal Night fights the Soul Reaver as the wider Brelish/Karrnathi fleet battle erupts over Gol Ignis. Gazriel Grimdell and undead Captain Hawktooth board the ship. Zak Thunderwaves Hawktooth into Gol Ignis."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 169,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "Bulwark suplexes Gazriel into Thoradin’s moonbeam, turning him to dust."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 170,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "The smokepowder bomb aboard the Soul Reaver destroys its elemental engine, frees its bound shadow elemental, and sends the crippled Viper crashing into Gol Ignis, where the lava consumes it."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 171,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "Foehammer and Monty deliver the experimental invisibility drive; the reconstituted Zyborg Volovsky attacks with Sidewinders and zombie bursters. Thoradin saves Foehammer from falling into the lava, and Bulwark kicks Volovsky from the Eternal Night, but a Sidewinder rescues him."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 172,
+  "storyline": "b-team",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 21
+  },
+  "doc_date": "21st of Zarantyr, 993 YK",
+  "title": "Mustang revealed as an Even Hand body; train and turtle-fortress crisis / Gol Ignis battle",
+  "sidebar": [
+   "Monty activates the invisibility drive. The Eternal Night survives the battle and reaches the Brelish fleet as Khyber shifts: the Karrnathi side is pulled toward a twisting green bog while the Brelish fleet shifts upward into the purple Mycenia Vasts."
+  ],
+  "images": [],
+  "not_in_doc": []
+ },
+ {
+  "n": 173,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 22
+  },
+  "doc_date": "22nd of Zarantyr, 993 YK",
+  "title": "Hearthsfire arrival; meeting with Ember; Aundairians captured; Forge attack",
+  "sidebar": [
+   "The party repairs the Moonwatch, revives Xera/Fey-Lynn, deals with Felicia Sr.’s continuing possession and follows several Ardev leads."
+  ],
+  "images": [
+   {
+    "event": "body-count-twenty-six",
+    "title": "A Body Count of Twenty-Six",
+    "img": "img/body-count-twenty-six.v2.jpg"
+   },
+   {
+    "event": "turckle-and-churckle-overrun",
+    "title": "Mercenaries at Turckle and Churckle",
+    "img": "img/turckle-and-churckle-overrun.v2.jpg"
+   },
+   {
+    "event": "brokks-last-diamonds",
+    "title": "Brokk's Last Two Diamonds",
+    "img": "img/brokks-last-diamonds.v2.jpg"
+   },
+   {
+    "event": "repair-race-bet",
+    "title": "The Great Repair Race",
+    "img": "img/repair-race-bet.v3.jpg"
+   },
+   {
+    "event": "eloria-arrives",
+    "title": "Eloria Arrives in Ardev",
+    "img": "img/eloria-arrives.v2.jpg"
+   },
+   {
+    "event": "dell-quickfoot-visit",
+    "title": "Dell Quickfoot's Warning",
+    "img": "img/dell-quickfoot-visit.v2.jpg"
+   },
+   {
+    "event": "white-horn-wood-ruse",
+    "title": "A Lie for Listening Ears",
+    "img": "img/white-horn-wood-ruse.v2.jpg"
+   },
+   {
+    "event": "xera-returns",
+    "title": "Xera and Fey-Lynn Return",
+    "img": "img/xera-returns.v2.jpg"
+   },
+   {
+    "event": "zenya-wakes-swinging",
+    "title": "Zenya Takes a Hostage, Briefly",
+    "img": "img/zenya-wakes-swinging.v2.jpg"
+   },
+   {
+    "event": "lirael-asks-to-be-punched",
+    "title": "Punch Me",
+    "img": "img/lirael-asks-to-be-punched.v2.jpg"
+   },
+   {
+    "event": "xera-kisses-lirael",
+    "title": "Xera's Thank-You Kiss",
+    "img": "img/xera-kisses-lirael.v2.jpg"
+   },
+   {
+    "event": "red-dragon-divination",
+    "title": "This Is Not Your Refuge",
+    "img": "img/red-dragon-divination.v2.jpg"
+   },
+   {
+    "event": "brand-fixes-the-roof",
+    "title": "Broadhelms Come in All Shapes",
+    "img": "img/brand-fixes-the-roof.v2.jpg"
+   },
+   {
+    "event": "we-dont-die-banner",
+    "title": "We Don't Die",
+    "img": "img/we-dont-die-banner.v2.jpg"
+   },
+   {
+    "event": "felicia-too-powerful",
+    "title": "Too Powerful for Patrol",
+    "img": "img/felicia-too-powerful.v2.jpg"
+   },
+   {
+    "event": "cloak-of-connect-mind",
+    "title": "Carrk's Cloak Connects to Another Plane",
+    "img": "img/cloak-of-connect-mind.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "red-dragon-divination",
+   "brand-fixes-the-roof",
+   "we-dont-die-banner",
+   "cloak-of-connect-mind"
+  ]
+ },
+ {
+  "n": 174,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 22
+  },
+  "doc_date": "22nd of Zarantyr, 993 YK",
+  "title": "Hearthsfire arrival; meeting with Ember; Aundairians captured; Forge attack",
+  "sidebar": [
+   "Sazed brings the surviving Stones Throw children to Hearthsfire. Skye chooses Sazed as her Loreguard mentor, while Carrk’s story and behavior become increasingly suspicious."
+  ],
+  "images": [
+   {
+    "event": "skye-on-the-flight-deck",
+    "title": "Skye Lets Go",
+    "img": "img/skye-on-the-flight-deck.v2.jpg"
+   },
+   {
+    "event": "raven-call-illusion",
+    "title": "The Raven's Call",
+    "img": "img/raven-call-illusion.v2.jpg"
+   },
+   {
+    "event": "hearthsfire",
+    "title": "Hearthsfire Behind the Illusion",
+    "img": "img/hearthsfire.v2.jpg"
+   },
+   {
+    "event": "carrk-at-moon-stones",
+    "title": "Carrk at the Moon Stones",
+    "img": "img/carrk-at-moon-stones.v2.jpg"
+   },
+   {
+    "event": "stones-throw-children-home",
+    "title": "The Children of Stones Throw Come Home",
+    "img": "img/stones-throw-children-home.v2.jpg"
+   },
+   {
+    "event": "skye-becomes-initiate",
+    "title": "Skye Chooses Her Teacher",
+    "img": "img/skye-becomes-initiate.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 175,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 22
+  },
+  "doc_date": "22nd of Zarantyr, 993 YK",
+  "title": "Hearthsfire arrival; meeting with Ember; Aundairians captured; Forge attack",
+  "sidebar": [
+   "The party learns more about the shifter ideological divide, the Covenant of Emberfall and Falken’s warnings about changelings seeking refuge among shifter communities."
+  ],
+  "images": [
+   {
+    "event": "carrk-on-trial",
+    "title": "Should Carrk Keep the Ring?",
+    "img": "img/carrk-on-trial.v2.jpg"
+   },
+   {
+    "event": "spring-at-garfan",
+    "title": "Spring and the Warding Tree",
+    "img": "img/spring-at-garfan.v2.jpg"
+   },
+   {
+    "event": "bear-warns-of-carrk",
+    "title": "Beware of Carrk",
+    "img": "img/bear-warns-of-carrk.v2.jpg"
+   },
+   {
+    "event": "falkens-exile-story",
+    "title": "Why the Elders Fled Aundair",
+    "img": "img/falkens-exile-story.v2.jpg"
+   },
+   {
+    "event": "brand-and-sazed-on-industry",
+    "title": "Shifters and the Industrial Age",
+    "img": "img/brand-and-sazed-on-industry.v2.jpg"
+   },
+   {
+    "event": "flock-changeling-questioned",
+    "title": "Questioning the Dead Changeling",
+    "img": "img/flock-changeling-questioned.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 176,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 22
+  },
+  "doc_date": "22nd of Zarantyr, 993 YK",
+  "title": "Hearthsfire arrival; meeting with Ember; Aundairians captured; Forge attack",
+  "sidebar": [
+   "The party reaches Starilaskur in the evening, confronts the EPTF with evidence of the Dreamweaver and learns that the Fury cried out in anguish when the Watchers lost their powers."
+  ],
+  "images": [
+   {
+    "event": "paxon-junction-call",
+    "title": "Paxon Traces the Lightning Rail",
+    "img": "img/paxon-junction-call.v2.jpg"
+   },
+   {
+    "event": "griffith-guides-them-in",
+    "title": "Griffith and the Hippogriff",
+    "img": "img/griffith-guides-them-in.v2.jpg"
+   },
+   {
+    "event": "paladins-draw-steel",
+    "title": "Paladins at the Door",
+    "img": "img/paladins-draw-steel.v2.jpg"
+   },
+   {
+    "event": "truth-amulet-eptf",
+    "title": "The Truth Amulet at the EPTF",
+    "img": "img/truth-amulet-eptf.v2.jpg"
+   },
+   {
+    "event": "eptf-blind-spot",
+    "title": "The Task Force's Blind Spot",
+    "img": "img/eptf-blind-spot.v2.jpg"
+   },
+   {
+    "event": "elfina",
+    "title": "Elfina Daelmourn",
+    "img": "img/elfina.v2.jpg"
+   },
+   {
+    "event": "watchers-of-the-gate-explained",
+    "title": "Who the Watchers Were",
+    "img": "img/watchers-of-the-gate-explained.v2.jpg"
+   },
+   {
+    "event": "elfina-postpones-despair",
+    "title": "A Reason to Wait",
+    "img": "img/elfina-postpones-despair.v2.jpg"
+   },
+   {
+    "event": "bulwark-broadhelm",
+    "title": "The Warforged Named Broadhelm",
+    "img": "img/bulwark-broadhelm.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "bulwark-broadhelm"
+  ]
+ },
+ {
+  "n": 177,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 22
+  },
+  "doc_date": "22nd of Zarantyr, 993 YK",
+  "title": "Hearthsfire arrival; meeting with Ember; Aundairians captured; Forge attack",
+  "sidebar": [
+   "At the Military Library they discover Gelard Greenly has been researching the Dreamweaver and possession; Sazed studies trance states."
+  ],
+  "images": [
+   {
+    "event": "arkhan-military-library",
+    "title": "Arkhan's Library",
+    "img": "img/arkhan-military-library.v2.jpg"
+   },
+   {
+    "event": "gelards-books",
+    "title": "Gelard Greenly's Overdue Books",
+    "img": "img/gelards-books.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 178,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 22
+  },
+  "doc_date": "22nd of Zarantyr, 993 YK",
+  "title": "Hearthsfire arrival; meeting with Ember; Aundairians captured; Forge attack",
+  "sidebar": [
+   "Brand reunites with Ember Broadhelm, learns how his forty-year imprisonment fractured the family and activates the armor Ember spent forty years building for him."
+  ],
+  "images": [
+   {
+    "event": "young-dwarf-recruit",
+    "title": "Salutes on Recruitment Row",
+    "img": "img/young-dwarf-recruit.v2.jpg"
+   },
+   {
+    "event": "ember-reunion",
+    "title": "Ember Broadhelm",
+    "img": "img/ember-reunion.v2.jpg"
+   },
+   {
+    "event": "broadhelm-family-bad-news",
+    "title": "The Broadhelm Family Falls Apart",
+    "img": "img/broadhelm-family-bad-news.v2.jpg"
+   },
+   {
+    "event": "ring-of-cure-racism",
+    "title": "The Ring of Cure Racism",
+    "img": "img/ring-of-cure-racism.v2.jpg"
+   },
+   {
+    "event": "embers-suit",
+    "title": "Ember's Forty-Year Suit",
+    "img": "img/embers-suit.v2.jpg"
+   },
+   {
+    "event": "embers-joke-potions",
+    "title": "Joke Potions and a Goblin Brand",
+    "img": "img/embers-joke-potions.v4.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "young-dwarf-recruit"
+  ]
+ },
+ {
+  "n": 179,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 22
+  },
+  "doc_date": "22nd of Zarantyr, 993 YK",
+  "title": "Hearthsfire arrival; meeting with Ember; Aundairians captured; Forge attack",
+  "sidebar": [
+   "The Aundairian rivals unexpectedly reappear. EEEEE is killed, Killian and Darvok are captured and Kynds escapes."
+  ],
+  "images": [
+   {
+    "event": "aundairians-race",
+    "title": "Race to the Moonwatch",
+    "img": "img/aundairians-race.v2.jpg"
+   },
+   {
+    "event": "brands-rooftop-detour",
+    "title": "Mine Cart, Crane, Roof, Living Room",
+    "img": "img/brands-rooftop-detour.v2.jpg"
+   },
+   {
+    "event": "immovable-rod-and-elwood",
+    "title": "The Rod, Elwood and the Axe",
+    "img": "img/immovable-rod-and-elwood.v8.jpg"
+   },
+   {
+    "event": "aundairians-in-the-alley",
+    "title": "Jeff Swallows the Aundairians",
+    "img": "img/aundairians-in-the-alley.v2.jpg"
+   },
+   {
+    "event": "kynds-slips-away",
+    "title": "Kynds Slips Away",
+    "img": "img/kynds-slips-away.v2.jpg"
+   },
+   {
+    "event": "darvok-shouts-for-aundair",
+    "title": "Darvok Shouts for Aundair",
+    "img": "img/darvok-shouts-for-aundair.v2.jpg"
+   },
+   {
+    "event": "killian-outs-the-sentinels",
+    "title": "King Boranel's Little Secret",
+    "img": "img/killian-outs-the-sentinels.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 180,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 22
+  },
+  "doc_date": "22nd of Zarantyr, 993 YK",
+  "title": "Hearthsfire arrival; meeting with Ember; Aundairians captured; Forge attack",
+  "sidebar": [
+   "The investigation into the mysterious decommissioned rail leads to stationmaster Chaton E’Clair, but changelings assassinate him before questioning and then attack the Broadhelm Forge with another bomb and a Gorgon."
+  ],
+  "images": [
+   {
+    "event": "into-the-junction-in-a-bag",
+    "title": "Stowaways in a Bag of Holding",
+    "img": "img/into-the-junction-in-a-bag.v2.jpg"
+   },
+   {
+    "event": "cleared-track-and-chaton",
+    "title": "Orange Fur on the Cleared Track",
+    "img": "img/cleared-track-and-chaton.v2.jpg"
+   },
+   {
+    "event": "catnip-bomb",
+    "title": "Chaton's Catnip",
+    "img": "img/catnip-bomb.v2.jpg"
+   },
+   {
+    "event": "unabombers-at-the-forge",
+    "title": "A Package for Ember",
+    "img": "img/unabombers-at-the-forge.v2.jpg"
+   },
+   {
+    "event": "gorgon-slain",
+    "title": "Off the Cliff, Into the Gorgon",
+    "img": "img/gorgon-slain.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 181,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "Around 01:30 the Starilaskur aftermath continues under the EPTF defensive barrier. Lirael returns to the Witches Waltz and recovers the truth of the massacre: the Dreamweaver possessed him during the Watchers’ ritual and used him to kill them. Kynds also returns for Killian, who is released without another fight."
+  ],
+  "images": [
+   {
+    "event": "captain-dane-incensed",
+    "title": "Sigils Up, Captain Dane Furious",
+    "img": "img/captain-dane-incensed.v2.jpg"
+   },
+   {
+    "event": "horses-from-first-tower",
+    "title": "Horses from First Tower",
+    "img": "img/horses-from-first-tower.v2.jpg"
+   },
+   {
+    "event": "hooligan-saxophone",
+    "title": "The Hooligan's Saxophone Solo",
+    "img": "img/hooligan-saxophone.v2.jpg"
+   },
+   {
+    "event": "witches-waltz",
+    "title": "Flashback in the Witches Waltz",
+    "img": "img/witches-waltz.v2.jpg"
+   },
+   {
+    "event": "lirael-in-the-cart",
+    "title": "Hiding in a Cart",
+    "img": "img/lirael-in-the-cart.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 182,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "The party convinces Captain Dane to release Elfina Daelmourn from EPTF custody. Elfina accompanies them to the Witches Waltz."
+  ],
+  "images": [
+   {
+    "event": "freeing-elfina",
+    "title": "Elfina Walks Free",
+    "img": "img/freeing-elfina.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 183,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "Kynds returns to the Moonwatch with Aundairian hobgoblins to recover Killian. The confrontation ends without a bloodbath when the party gives Killian back."
+  ],
+  "images": [
+   {
+    "event": "kynds-takes-killian",
+    "title": "Kynds Takes Killian Back",
+    "img": "img/kynds-takes-killian.v3.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 184,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "At 03:30 the Moonwatch leaves Starilaskur for the eight-hour flight back to Ardev."
+  ],
+  "images": [
+   {
+    "event": "emotional-damage-sempenator",
+    "title": "The Emotional Damage Sempenator",
+    "img": "img/emotional-damage-sempenator.v2.jpg"
+   },
+   {
+    "event": "thaddeus-nightmare",
+    "title": "A Nightmare in Song",
+    "img": "img/thaddeus-nightmare.v2.jpg"
+   },
+   {
+    "event": "lirael-morning-rounds",
+    "title": "Lirael's Morning Rounds",
+    "img": "img/lirael-morning-rounds.v2.jpg"
+   },
+   {
+    "event": "felicia-confronts-elfina",
+    "title": "Felicia Confronts Elfina",
+    "img": "img/felicia-confronts-elfina.v2.jpg"
+   },
+   {
+    "event": "dragons-lost-sons",
+    "title": "Steve and Bob's Lost Sons",
+    "img": "img/dragons-lost-sons.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "emotional-damage-sempenator",
+   "thaddeus-nightmare",
+   "lirael-morning-rounds",
+   "felicia-confronts-elfina",
+   "dragons-lost-sons"
+  ]
+ },
+ {
+  "n": 185,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "Sazed speaks openly with Eloria about Skye and his divided loyalties, and at 03:30 the Moonwatch begins the eight-hour flight back to Ardev."
+  ],
+  "images": [
+   {
+    "event": "eloria-tells-of-ashhaven",
+    "title": "Eloria's Ashhaven",
+    "img": "img/eloria-tells-of-ashhaven.v2.jpg"
+   },
+   {
+    "event": "elfinas-room-elorias-kiss",
+    "title": "A Room for Elfina, a Kiss for Sazed",
+    "img": "img/elfinas-room-elorias-kiss.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 186,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "On arrival, the party finds Thaddeus d’Cannith’s Empyrean occupying their usual berth and Ardev preparing for his speech. The Bloodsinger sends Skye an Animal Messenger calling her the Lighted One and asking her to bring Sazed, the Guarded One, to Stones Throw; the party decides to go after Thaddeus’s speech."
+  ],
+  "images": [
+   {
+    "event": "empyrean-in-their-spot",
+    "title": "The Empyrean in Their Spot",
+    "img": "img/empyrean-in-their-spot.v2.jpg"
+   },
+   {
+    "event": "squirrels-in-the-tea",
+    "title": "Squirrels in the Tea",
+    "img": "img/squirrels-in-the-tea.v2.jpg"
+   },
+   {
+    "event": "brand-goes-purple",
+    "title": "Brand Goes Purple",
+    "img": "img/brand-goes-purple.v2.jpg"
+   },
+   {
+    "event": "animal-messenger",
+    "title": "A Message for the Lighted One",
+    "img": "img/animal-messenger.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "squirrels-in-the-tea"
+  ]
+ },
+ {
+  "n": 187,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "Fey-Lynn, now stable enough to discuss her possession, explains the Dreamweaver’s plan: steer the Magic Society toward Karrnath, discredit Lirael Sr., monitor the Xal’ris, capture Lirael’s mother and eventually kill the party."
+  ],
+  "images": [
+   {
+    "event": "screechs-bedtime-stories",
+    "title": "Screech's Bedtime Stories",
+    "img": "img/screechs-bedtime-stories.v3.jpg"
+   },
+   {
+    "event": "fey-lynns-debrief",
+    "title": "Fey-Lynn's Debrief: Three Phases",
+    "img": "img/fey-lynns-debrief.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 188,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "Wilford arrives frightened after an ominous divine warning and is allowed to stay aboard the Moonwatch."
+  ],
+  "images": [
+   {
+    "event": "wilford-mushroom-warning",
+    "title": "Wilford's Mushroom Warning",
+    "img": "img/wilford-mushroom-warning.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 189,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "Skye learns that Silver Flame forces destroyed Stones Throw, while Wilford Chism’s behavior and explanation of Reconciliation Day reinforce that Ardev’s elderly local congregation is very different from the force that attacked the village."
+  ],
+  "images": [
+   {
+    "event": "skye-asks-about-stones-throw",
+    "title": "Who Burned Stones Throw?",
+    "img": "img/skye-asks-about-stones-throw.v3.jpg"
+   },
+   {
+    "event": "reconciliation-day",
+    "title": "Reconciliation Day",
+    "img": "img/reconciliation-day.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ },
+ {
+  "n": 190,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "Sorenson reports on the new Cannith recording studio and dinner aboard the Empyrean, including Thaddeus’s anti-magic amulet; Barry Baritone has since disappeared. The ritual’s deaths have also left Turckle & Churckle deteriorating under Neebus."
+  ],
+  "images": [
+   {
+    "event": "murderer-leaves-ardev",
+    "title": "Murderer Leaves Ardev",
+    "img": "img/murderer-leaves-ardev.v2.jpg"
+   },
+   {
+    "event": "dinner-on-the-empyrean",
+    "title": "Dinner on the Empyrean",
+    "img": "img/dinner-on-the-empyrean.v2.jpg"
+   },
+   {
+    "event": "gorgis-family-dead",
+    "title": "The Last of the Gorgis Family",
+    "img": "img/gorgis-family-dead.v2.jpg"
+   },
+   {
+    "event": "felicia-and-skye-spar",
+    "title": "Felicia and Skye Spar",
+    "img": "img/felicia-and-skye-spar.v4.jpg"
+   },
+   {
+    "event": "thaddeus-comes-to-town",
+    "title": "Thaddeus Is Coming to Town",
+    "img": "img/thaddeus-comes-to-town.v2.jpg"
+   }
+  ],
+  "not_in_doc": [
+   "felicia-and-skye-spar"
+  ]
+ },
+ {
+  "n": 191,
+  "storyline": "main",
+  "date": {
+   "year": 993,
+   "month": 1,
+   "day": 23
+  },
+  "doc_date": "23rd of Zarantyr, 993 YK",
+  "title": "Witches Waltz truth recovered; return to Ardev",
+  "sidebar": [
+   "Captain Flowers reveals the Royal Ardev Regiment was given a black order to destroy the Hobbstweedle demon portal under cover of a training exercise and was disbanded afterward. Using Flowers’s sending stone, the party speaks with Morganth, who asks them to avoid incidents and keep the Moonwatch grounded while Thaddeus and Art review the town’s police/mercenary integration."
+  ],
+  "images": [
+   {
+    "event": "flowers-black-order",
+    "title": "Captain Flowers' Black Order",
+    "img": "img/flowers-black-order.v2.jpg"
+   },
+   {
+    "event": "morganth-sending-stone",
+    "title": "Morganth on the Sending Stone",
+    "img": "img/morganth-sending-stone.v2.jpg"
+   }
+  ],
+  "not_in_doc": []
+ }
+]
