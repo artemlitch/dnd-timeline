@@ -21,15 +21,36 @@ test('every event sits on the date of its moment in the true timeline', () => {
   assert.deepEqual(wrong, [], `\n${wrong.join('\n')}`);
 });
 
-test('an event the true timeline gives no exact day for says around, on the 1st', () => {
+const momentOf = new Map(moments.flatMap(m => m.images.map(i => [i.event, m])));
+
+test('an event the true timeline gives no exact day for says around', () => {
   const wrong = [];
   for (const m of moments) {
     const want = m.date.day ? undefined : m.date.month ? 'month' : 'year';
-    for (const { event } of m.images) {
-      const e = events.get(event);
-      if (e.around !== want) wrong.push(`${event}: around=${e.around}, the true timeline says ${m.doc_date}`);
-      else if (want && (e.day !== 1 || (want === 'year' && e.month !== 1))) wrong.push(`${event}: ${e.year}/${e.month}/${e.day} is not the 1st`);
-    }
+    for (const { event } of m.images) if (events.get(event).around !== want) wrong.push(`${event}: around=${events.get(event).around}, the true timeline says ${m.doc_date}`);
+  }
+  assert.deepEqual(wrong, [], `\n${wrong.join('\n')}`);
+});
+
+test('every around event belongs to a moment of the true timeline', () => {
+  assert.deepEqual(data.events.filter(e => e.around && !momentOf.has(e.id)).map(e => e.id), []);
+});
+
+// around a year: a month apart either side of mid-year; around a month: a week apart either side of mid-month
+test('around events in the same year or month are spread out in true timeline order', () => {
+  const groups = new Map();
+  for (const e of data.events.filter(e => e.around && momentOf.has(e.id))) {
+    const k = e.around === 'year' ? `${e.year}` : `${e.year}/${e.month}`;
+    groups.set(k, [...(groups.get(k) || []), e]);
+  }
+  const wrong = [];
+  for (const list of groups.values()) {
+    list.sort((a, b) => momentOf.get(a.id).n - momentOf.get(b.id).n);
+    const first = list[0].around === 'year' ? 7 - Math.floor(list.length / 2) : 15 - 7 * Math.floor(list.length / 2);
+    list.forEach((e, i) => {
+      const [month, day] = e.around === 'year' ? [first + i, 1] : [e.month, first + 7 * i];
+      if (e.month !== month || e.day !== day) wrong.push(`${e.id}: ${e.year}/${e.month}/${e.day}, want ${e.year}/${month}/${day}`);
+    });
   }
   assert.deepEqual(wrong, [], `\n${wrong.join('\n')}`);
 });

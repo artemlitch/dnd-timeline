@@ -337,7 +337,13 @@
    "During the first battle of the 100 Years War and the first conflict with Karrnath, a squad wearing armor made by Brand is wiped out by an undead force.",
    "Brand blames himself for their death and turns away from frontline service toward military engineering."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-first-conflict-with-karrnath",
+    "title": "Brand's Armor Fails Against the Undead",
+    "img": "img/h-first-conflict-with-karrnath.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -352,7 +358,13 @@
    "Brand begins developing a suit of armor intended not only to protect its wearer, but also the people around them.",
    "The project combines Brand’s engineering skill with his devotion to Onatar and becomes the central work of the next forty years."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-brand-begins-his-armor",
+    "title": "Brand Begins His Armor",
+    "img": "img/h-brand-begins-his-armor.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -367,7 +379,13 @@
    "Desperate to save Karrnath from the devastation of the War, Kaius I pledges his kingdom to the Blood of Vol.",
    "The alliance brings Karrnath deeper into necromantic warfare, and Kaius I is transformed into a vampire by Vol."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-kaius-becomes-a-vampire",
+    "title": "Kaius I Pledges Karrnath to the Blood of Vol",
+    "img": "img/h-kaius-becomes-a-vampire.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -423,7 +441,13 @@
    "King Thalin of Thrane dies, and the Church of the Silver Flame assumes political control of the nation.",
    "The Keeper of the Flame becomes Thrane’s supreme leader, establishing the theocratic government that rules the nation during the War."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-thrane-theocracy",
+    "title": "Thrane Becomes a Silver Flame Theocracy",
+    "img": "img/h-thrane-theocracy.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -438,7 +462,13 @@
    "After forty years of development, Brand completes a functioning prototype of his protective armor.",
    "The prototype works, but he has not yet found a way to reproduce it safely and refuses to release the plans until he can."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-brand-completes-prototype",
+    "title": "Brand Completes His Prototype Armor",
+    "img": "img/h-brand-completes-prototype.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -452,7 +482,13 @@
   "sidebar": [
    "Sazed is born, approximately 40 years before the current campaign year."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-sazed-is-born",
+    "title": "Sazed Is Born",
+    "img": "img/h-sazed-is-born.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -487,7 +523,13 @@
   "sidebar": [
    "After Brand is imprisoned in 953 YK, Ember Broadhelm begins work on a replacement suit for him. She continues refining it throughout his imprisonment; in 993 YK she reveals the unfinished armor at the Broadhelm Forge, where Brand’s Onatar-given core is able to power it."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-ember-begins-the-armor",
+    "title": "Ember Begins Brand's Replacement Armor",
+    "img": "img/h-ember-begins-the-armor.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -502,7 +544,13 @@
    "At age seven, Sazed’s shifter village outside Passage is attacked and destroyed by Silver Flame forces, killing his family.",
    "The children are hidden during the attack and later rescued by the Loreguards. Sazed is taken in and trained among them, beginning the path that shapes his later service."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-sazeds-village-burns",
+    "title": "Sazed's Village Burns",
+    "img": "img/h-sazeds-village-burns.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -517,7 +565,13 @@
    "In 961 YK, King Boranex’s two eldest sons are killed fighting Aundair around Cragwar. A month later, already ailing and grief-stricken, Boranex takes his own life.",
    "His third son Boranel is hurriedly summoned from Sharn and crowned King of Breland."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-boranex-dies",
+    "title": "King Boranex Dies; Boranel Is Crowned",
+    "img": "img/h-boranex-dies.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -531,7 +585,13 @@
   "sidebar": [
    "Shortly after King Boranex’s death, the forest outside Wroat is planted and named in his honor. By 993 YK, thirty-two years after his death, it has grown into a thriving forest."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-boranex-forest-planted",
+    "title": "Boranex Forest Is Planted",
+    "img": "img/h-boranex-forest-planted.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -591,7 +651,13 @@
    "Haruuc Shaarat’kor leads a hobgoblin rebellion against the forces of Cyre and Breland in southeastern Khorvaire.",
    "The rebellion succeeds in creating the independent goblinoid nation of Darguun."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-darguun-founded",
+    "title": "Haruuc's Rebellion Creates Darguun",
+    "img": "img/h-darguun-founded.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -608,7 +674,13 @@
    "Myconid forces then attack the battlefield with invasive spores, leaving the site contaminated and forcing Fells Gate to be sealed.",
    "Geralt Gilderfawn’s journal, found decades later by the B-Team, records the aftermath from the 3rd through the 7th of Vult 969."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-fells-gate",
+    "title": "The Battle of Fells Gate",
+    "img": "img/h-fells-gate.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -625,7 +697,13 @@
    "The Covenant grows quickly among disaffected and radicalized shifters and becomes infamous in Thrane for attacks on the military, the Silver Flame church and the general populace.",
    "As Thranish authorities close in, the Covenant slips across the border into Breland. Its ideology remains violently opposed to the Silver Flame and to the modern industrial society the Bloodsinger believes is destroying shifter life."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-covenant-of-emberfall",
+    "title": "The Covenant of Emberfall Is Founded",
+    "img": "img/h-covenant-of-emberfall.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -639,7 +717,13 @@
   "sidebar": [
    "Lirael is born, approximately 23 years before the current campaign year."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-lirael-is-born",
+    "title": "Lirael Is Born",
+    "img": "img/h-lirael-is-born.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -695,7 +779,13 @@
   "sidebar": [
    "Blazehelm vanishes from official records. Stories about the Brelish war hero continue among soldiers, while Aundair publicly claims he was never real even as its intelligence services continue to treat him as a possible living target."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-blazehelm-vanishes",
+    "title": "Blazehelm Disappears from Public Records",
+    "img": "img/h-blazehelm-vanishes.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -711,7 +801,13 @@
    "Nine-year-old Cordy excitedly demonstrates new magic, accidentally escalating from harmless sparks to repeatedly firebolting Delman’s bed and model ship.",
    "The scene establishes the affectionate sibling relationship between Screech and Cordy, and Canuck as a strangely insulated, wholesome corner of the setting."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-canuck",
+    "title": "Cordy Sets Screech's Bed on Fire",
+    "img": "img/h-canuck.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -746,7 +842,13 @@
   "sidebar": [
    "A former shifter hideout known to Sazed is discovered or compromised. A decade later, during the lightning-rail crisis, Sazed chooses it as a place to hide the rescued shifters precisely because its age may make it less obvious."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-shifter-hideout-exposed",
+    "title": "Sazed's Shifter Hideout Is Exposed",
+    "img": "img/h-shifter-hideout-exposed.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -763,7 +865,13 @@
    "Years later, Prowlstone’s letters and drawings show marriages, births and children growing up — an entire generation whose lives were made possible by the warning.",
    "Sazed’s decision blows his cover with the Brelish military, which identifies him as an Aundairian spy; his true allegiance as a Loreguard remains concealed. The Battle of the Eldritch Groves ends in a Brelish defeat, although Blazehelm later tells Sazed the battle was already a lost fight and his missing report did not cause the defeat."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-prowlstone-warning",
+    "title": "Sazed Warns Prowlstone",
+    "img": "img/h-prowlstone-warning.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -778,7 +886,13 @@
    "Following the Prowlstone warning and the Battle of the Eldritch Groves, Sazed is detained after his Aundairian cover collapses.",
    "Kynds visits him during the initial detention. Sazed is later transferred to Breland and begins roughly a decade of imprisonment, separated from the Loreguards and the communities he swore to protect."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-sazed-imprisoned",
+    "title": "Sazed Is Imprisoned",
+    "img": "img/h-sazed-imprisoned.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -792,7 +906,13 @@
   "sidebar": [
    "After decades out of sight, the Grimdell family becomes an active problem again. By the opening of the campaign they are known to have worked with House Thuranni."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-grimdells-resurface",
+    "title": "The Grimdells Resurface",
+    "img": "img/h-grimdells-resurface.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -826,7 +946,13 @@
   "sidebar": [
    "After Sazed is captured, younger Loreguards grow increasingly reckless, diverting Aundairian military money and supplies to shifter communities. Willow warns them to stop, then leaves without notice. In 985 YK, the aging elders abandon Aundair for safer Breland and found Hearthsfire, while the younger Loreguards remain behind—including Falken’s son Hale. Falken has not heard from Hale or the Aundairian clan in the eight years since; by 993 YK, only Falken and Spring remain of Hearthsfire’s founding elders."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-hearthsfire-founded",
+    "title": "Hearthsfire Is Founded",
+    "img": "img/h-hearthsfire-founded.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -841,7 +967,13 @@
    "The Daughters of Sora Kell lead an army of trolls, ogres, gnolls and other monstrous forces into western Breland.",
    "The invasion establishes the military and political reality that will soon become the nation of Droaam on Breland’s western frontier."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-sora-kell-invades",
+    "title": "The Daughters of Sora Kell Invade",
+    "img": "img/h-sora-kell-invades.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -856,7 +988,13 @@
    "Unable to fight both Droaam’s forces and Breland’s enemies, King Boranel withdraws Brelish settlers and forces from the territory west of the Graywall Mountains.",
    "The Daughters of Sora Kell declare the sovereignty of Droaam, permanently reshaping Breland’s western frontier."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-droaam-declared",
+    "title": "Droaam Declares Sovereignty",
+    "img": "img/h-droaam-declared.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -893,7 +1031,13 @@
    "Kaius III begins his rule of Karrnath upon reaching his twentieth birthday.",
    "He becomes the current reigning monarch of Karrnath."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-kaius-iii",
+    "title": "Kaius III Takes the Throne of Karrnath",
+    "img": "img/h-kaius-iii.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -929,7 +1073,13 @@
   "sidebar": [
    "Xera Kel receives a necklace in an unaddressed letter. Roughly a year later, Lirael identifies the necklace as dangerous and asks her to give it to him."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-xeras-necklace",
+    "title": "Xera Receives a Mysterious Necklace",
+    "img": "img/h-xeras-necklace.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -944,7 +1094,13 @@
    "At the age of five, Jaela Daran assumes the power and office of Keeper of the Silver Flame.",
    "Her accession places a very young Keeper at the head of the Silver Flame and the Thranish government."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-jaela-daran",
+    "title": "Jaela Daran Becomes Keeper of the Flame",
+    "img": "img/h-jaela-daran.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -1004,7 +1160,13 @@
    "At the Guns of Wroat, Kal Valvier nervously mans the defenses while Captain Flowers steadies him.",
    "Breland’s prepared air defenses and newer fleet blunt the Aundairian raid after a costly battle. The event later matters personally because the bombing killed Fogen Zaggerford, the former priest of the Hobbstweedle church."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-skyfire-raid",
+    "title": "The Skyfire Raid",
+    "img": "img/h-skyfire-raid.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -1041,7 +1203,13 @@
   "sidebar": [
    "Steve the Skycracker and Bob the Blazebringer say their sons Richard and Bill went missing roughly six weeks before the party’s return to Ardev. The young dragons were last seen heading toward Ardev."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-richard-and-bill",
+    "title": "Richard and Bill Go Missing",
+    "img": "img/h-richard-and-bill.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -1105,7 +1273,13 @@
   "sidebar": [
    "After the Royal Ardev Regiment is disbanded, Flowers is sent back to Ardev to replace the police captain who had recently died. Soon after his reassignment, Dragon’s Claw mercenaries arrive in Ardev."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-flowers-reassigned",
+    "title": "Flowers Returns to Ardev; the Dragon's Claw Arrives",
+    "img": "img/h-flowers-reassigned.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -1580,7 +1754,13 @@
   "sidebar": [
    "Player-only material on the same date shows Elerian blasted through the prison wall and killed, then revived by the awakened zombie Crek Lobo. Crek explains that he had tried to expose the domestic zombie-army operation before being mutilated and enslaved, and the two later find a tunnel leading deeper beneath the Yedani Mountains."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "elerian-and-crek-lobo",
+    "title": "Elerian Rises with Crek Lobo",
+    "img": "img/elerian-and-crek-lobo.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
