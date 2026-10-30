@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, ROWS } = require('../site/placement.js');
+const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, nearestAt, zoomToShow, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
@@ -179,6 +179,26 @@ test('a search match is drawn above the events that do not match', () => {
   const lastDimmed = cards.findLastIndex(c => c.look === 'dimmed');
   const firstMatch = cards.findIndex(c => c.look !== 'dimmed');
   assert.ok(lastDimmed < firstMatch);
+});
+
+test('a click on the strip picks the closest event within reach', () => {
+  const list = [{ id: 'a', di: 10 }, { id: 'b', di: 20 }, { id: 'c', di: 40 }];
+  const toX = d => d * 2;
+  assert.equal(nearestAt(list, 37, toX, 12).id, 'b');
+  assert.equal(nearestAt(list, 70, toX, 12).id, 'c');
+  assert.equal(nearestAt(list, 58, toX, 12), null);
+});
+
+test('going to an event zooms in until it is a full card', () => {
+  const faded = events.find(e => !shownAt(0.5).has(e.id));
+  const p = zoomToShow(events, ROWS, faded.id, CARD, 0.5, maxZoom(events, CARD));
+  assert.ok(shownAt(p).has(faded.id), `${faded.id} still faded at ${p}`);
+  assert.ok(p > 0.5);
+});
+
+test('going to an event already shown keeps the zoom', () => {
+  const shown = events.find(e => shownAt(0.5).has(e.id));
+  assert.equal(zoomToShow(events, ROWS, shown.id, CARD, 0.5, maxZoom(events, CARD)), 0.5);
 });
 
 test('with no search every event matches', () => {

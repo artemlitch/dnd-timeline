@@ -129,6 +129,19 @@
     return cards.sort((a, b) => order[a.look] - order[b.look]);
   }
 
-  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, ROWS: 2 };
+  // the event drawn closest to x on a strip, if one is within maxPx
+  function nearestAt(events, x, toX, maxPx) {
+    let best = null, bd = maxPx;
+    for (const e of events) { const d = Math.abs(toX(e.di) - x); if (d <= bd) { bd = d; best = e; } }
+    return best;
+  }
+
+  // the lowest zoom from `from` up at which the event is a full card
+  function zoomToShow(events, rows, id, cardPx, from, zmax) {
+    for (let p = from; p < zmax; p *= 1.07) if (place(events, rows, cardPx / p).has(id)) return p;
+    return zmax;
+  }
+
+  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, nearestAt, zoomToShow, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);
