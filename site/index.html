@@ -589,7 +589,7 @@ function drawMini(){if(!CAL)return;const W=SZ.mw||mini.clientWidth,H=mini.client
   MCL=Placement.miniClusters(candMemo.query===query&&candMemo.list?candMemo.list:EV.filter(visible),MR.a,MR.b,W,6);
   let lastLabel=-1e9;const h=H-24;
   mctx.font='600 10px Inter, system-ui, sans-serif';mctx.textAlign='center';
-  for(const c of MCL){const n=c.events.length,x=c.x0-1,w=Math.max(3,c.x1-c.x0+3);
+  for(const c of MCL){const n=c.events.length,w=Math.max(8,c.x1-c.x0+3),x=(c.x0+c.x1)/2-w/2;
     mctx.fillStyle='rgba(95,211,255,.85)';mctx.fillRect(x,H-6-h,w,h);
     const cx=x+w/2;if(n>1&&cx-lastLabel>=22){lastLabel=cx;mctx.fillStyle='#e8dcc0';mctx.fillText(String(n),cx,H-9-h);}}
   const a=miniX(off,W),b=miniX(off+vw()/P,W);miniWin.style.left=a+'px';miniWin.style.width=Math.max(4,b-a)+'px';
