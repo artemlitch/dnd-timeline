@@ -94,6 +94,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 .card{transform-origin:50% 0}
 .card.ghost{transform:scale(.55);z-index:2;border-color:rgba(122,92,35,.4);box-shadow:none;filter:brightness(.6) saturate(.7)}
 .card.ghost:hover{filter:none;z-index:4}
+.card.ghost.hit{transform:scale(.8);z-index:3;filter:none}
 .card.dim{transform:scale(.7);z-index:1;opacity:.55;filter:saturate(.5);box-shadow:none}
 .card.dim:hover{opacity:1;filter:none;z-index:4}
 .mk.dim{opacity:.45}
@@ -465,21 +466,16 @@ function layoutEvents(){
   // placement runs over every event, not just the ones on screen, so panning never reshuffles rows
   if(candMemo.query!==query||candMemo.ev!==EV){candMemo.query=query;candMemo.ev=EV;candMemo.list=EV.filter(visible);}
   const cand=candMemo.list,placed=Placement.place(cand,rows,(w+10)/P);shownNow.cand=cand;shownNow.placed=placed;
-  const rowX=Array.from({length:rows},()=>[]);for(const e of cand)if(placed.has(e.id))rowX[placed.get(e.id)].push(e.di);
-  // a faded card sits in the row with the most room around it, top row on ties
-  const ghostRow=e=>{let best=0,room=-1;for(let r=0;r<rows;r++){const m=Math.min(Infinity,...rowX[r].map(d=>Math.abs(d-e.di)));if(m>room){room=m;best=r;}}return best;};
   const thumb=e=>e.img?`<img src="${esc(e.img)}" alt="" loading="lazy" onerror="this.replaceWith(this.parentNode.appendChild(Object.assign(document.createElement('span'),{innerHTML:${JSON.stringify(PH).replace(/"/g,'&quot;')}})).firstChild)">`:PH;
-  // a card with no free row is still drawn, shrunk and faded behind the others, and grows back when zooming in
-  // faded cards that would sit almost on top of the previous faded card in the same row are skipped: a pile of
-  // them reads as one smear and costs a DOM node each
-  const overflow=[],lastGhost={};
+  const overflow=[];
   for(const e of vis){
-    const x=(e.di-off)*P,kc=KC[e.kind]||KC.history;
-    const look=Placement.cardLook(e,placed,query),dim=look==='dimmed'?' dim':'';
-    const mk=take('mk',e.id,'mk'+(e.major?' major':'')+dim+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=topY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
-    const ghost=look!=='full',lane=ghost?ghostRow(e):placed.get(e.id);if(look==='faded')overflow.push(e);
-    if(ghost){if(lastGhost[lane]!==undefined&&x-lastGhost[lane]<w*.35)continue;lastGhost[lane]=x;}
-    const card=take('card',e.id,'card major'+(look==='faded'?' ghost':dim)+(active&&active.id===e.id?' active':''));
+    const x=(e.di-off)*P,kc=KC[e.kind]||KC.history,look=Placement.cardLook(e,placed,query);if(look==='faded')overflow.push(e);
+    const mk=take('mk',e.id,'mk'+(e.major?' major':'')+(look==='dimmed'?' dim':'')+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=topY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
+  }
+  // a card with no free row is still drawn, shrunk and faded behind the others, and grows back when zooming in
+  for(const {e,look,lane} of Placement.drawnCards(cand,vis,placed,rows,query,w/P)){
+    const x=(e.di-off)*P,kc=KC[e.kind]||KC.history,ghost=look!=='full',dim=look==='dimmed'?' dim':'';
+    const card=take('card',e.id,'card major'+(look==='faded'?' ghost'+(query?' hit':''):dim)+(active&&active.id===e.id?' active':''));
     card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.setProperty('--h',cardH+'px');card.style.left=(x-w/2)+'px';
     const edge=gap+lane*laneH;card.style.top=edge+'px';
     if(card._for!==e.id){card._for=e.id;card.innerHTML=`<div class="th">${thumb(e)}</div>${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}<div class="tx"><h3>${esc(e.title)}</h3><div class="s">${esc(e.summary||'')}</div></div>`;}

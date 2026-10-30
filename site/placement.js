@@ -109,6 +109,26 @@
     return placed.has(e.id) ? 'full' : 'faded';
   }
 
-  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, ROWS: 2 };
+  // the cards to draw for the events in view, dimmed first so matches stack above them. A faded or dimmed card sits
+  // in the row with the most room; one landing almost on top of the previous one is skipped, except a search match
+  function drawnCards(cand, vis, placed, rows, query, need) {
+    const rowX = Array.from({ length: rows }, () => []);
+    for (const e of cand) if (placed.has(e.id)) rowX[placed.get(e.id)].push(e.di);
+    const ghostRow = e => { let best = 0, room = -1; for (let r = 0; r < rows; r++) { const m = Math.min(Infinity, ...rowX[r].map(d => Math.abs(d - e.di))); if (m > room) { room = m; best = r; } } return best; };
+    const last = {}, cards = [];
+    for (const e of vis) {
+      const look = cardLook(e, placed, query), lane = look === 'full' ? placed.get(e.id) : ghostRow(e);
+      if (look === 'dimmed' || (look === 'faded' && !query)) {
+        const k = look + lane;
+        if (last[k] !== undefined && e.di - last[k] < need * 0.35) continue;
+        last[k] = e.di;
+      }
+      cards.push({ e, look, lane });
+    }
+    const order = { dimmed: 0, faded: 1, full: 2 };
+    return cards.sort((a, b) => order[a.look] - order[b.look]);
+  }
+
+  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);

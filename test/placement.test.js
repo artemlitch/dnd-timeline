@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, ROWS } = require('../site/placement.js');
+const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
@@ -156,6 +156,24 @@ test('a search matches tags, the description and the session', () => {
   const e = { id: 'x', title: 'Dinner', tags: ['Lirael'], detail: 'the spoon flies', session: 12, kind: 'social' };
   for (const q of ['lirael', 'spoon', 'session 12', 's12']) assert.ok(matches(e, q), q);
   assert.ok(!matches(e, 'kingsblade'));
+});
+
+test('a search match is drawn at every zoom, never skipped', () => {
+  const cand = events.filter(e => matches(e, 'brand'));
+  for (const p of zooms) {
+    const placed = shownAt(p, cand);
+    const drawn = new Set(drawnCards(cand, events, placed, ROWS, 'brand', CARD / p).map(c => c.e.id));
+    const missing = cand.filter(e => !drawn.has(e.id)).map(e => e.id);
+    assert.deepEqual(missing, [], `at ${p.toFixed(3)} px/day`);
+  }
+});
+
+test('a search match is drawn above the events that do not match', () => {
+  const cand = events.filter(e => matches(e, 'brand'));
+  const cards = drawnCards(cand, events, shownAt(0.5, cand), ROWS, 'brand', CARD / 0.5);
+  const lastDimmed = cards.findLastIndex(c => c.look === 'dimmed');
+  const firstMatch = cards.findIndex(c => c.look !== 'dimmed');
+  assert.ok(lastDimmed < firstMatch);
 });
 
 test('with no search every event matches', () => {
