@@ -369,7 +369,7 @@ function init(){
   for(const [i,s] of (DATA.sessions||[]).entries()){const ev=EV.filter(e=>e.session===s.number);if(!ev.length)continue;
     const arc=ERAS.find(r=>r.row===1&&r.title===s.arc);
     ERAS.push({id:'session-'+s.number,row:2,session:s.number,alt:i%2,title:'S'+s.number,subtitle:s.title||'',color:arc?arc.color:'#555',a:ev[0].di-1/48,b:ev[ev.length-1].di+1/48});}
-  MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);ZMIN=Math.min(.02,innerWidth/(MAXDAY-MINDAY));
+  MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);setZmin();
   SPLIT=dayIndex(993,1,1,0);
   bindSearch();buildEras();drawMini();
   // open at Month scale centered on Zarantyr 993
@@ -384,8 +384,11 @@ const SZ={w:0,h:0,mw:0};
 function measure(){SZ.w=lanesEl.clientWidth;SZ.h=lanesEl.clientHeight;SZ.mw=mini.clientWidth;SZ.left=lanesEl.getBoundingClientRect().left;}
 function vw(){if(!SZ.w)measure();return SZ.w;}
 function setCenter(d){off=d-vw()/2/P;clampOff();}
-function clampOff(){const vd=vw()/P,range=MAXDAY-MINDAY;
-  if(vd>=range)off=MINDAY-(vd-range)/2;else off=Math.max(MINDAY-vd*.15,Math.min(MAXDAY-vd*.85,off));}
+// the first and last cards are centred on their day, so the bounds reach half a card past both ends
+const CARD_PX=330;
+function setZmin(){ZMIN=Math.min(.02,Math.max(vw()-CARD_PX,200)/(MAXDAY-MINDAY));}
+function clampOff(){const vd=vw()/P,pad=CARD_PX/2/P,lo=MINDAY-pad,hi=MAXDAY+pad,range=hi-lo;
+  if(vd>=range)off=lo-(vd-range)/2;else off=Math.max(lo-vd*.15,Math.min(hi-vd*.85,off));}
 function schedule(relayout){if(relayout)relayoutPending=true;if(!raf)raf=requestAnimationFrame(frame);}
 
 /* ---------- search ---------- */
@@ -575,7 +578,7 @@ function bind(){
     else mjump(e);}mdrag=null;schedule(false);});
   mini.addEventListener('pointercancel',()=>{mdrag=null;schedule(false);});
   $('#close').onclick=closeDrawer;$('#dPrev').onclick=()=>stepEvent(-1);$('#dNext').onclick=()=>stepEvent(1);
-  window.addEventListener('resize',()=>{measure();drawMini();schedule(true);});
+  window.addEventListener('resize',()=>{measure();setZmin();P=Math.max(P,ZMIN);clampOff();drawMini();schedule(true);});
 }
 
 /* ---------- minimap: one scale, ten times the view's span, so it zooms along with the view ---------- */
