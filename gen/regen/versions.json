@@ -12825,5 +12825,544 @@
    "at": "2026-10-24T12:01:10",
    "draft": "gen/drafts/h-stones-throw-massacre/20261024-120110-753000.jpg"
   }
+ ],
+ "h-first-conflict-with-karrnath": [
+  {
+   "version": 1,
+   "file": "site/img/h-first-conflict-with-karrnath.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-first-conflict-with-karrnath.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03449825,
+   "at": "2026-10-29T17:47:30",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-first-conflict-with-karrnath/20261029-174730-118000.jpg"
+  }
+ ],
+ "h-brand-begins-his-armor": [
+  {
+   "version": 1,
+   "file": "site/img/h-brand-begins-his-armor.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-brand-begins-his-armor.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03448675,
+   "at": "2026-10-29T17:47:28",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-brand-begins-his-armor/20261029-174728-254000.jpg"
+  }
+ ],
+ "h-kaius-becomes-a-vampire": [
+  {
+   "version": 1,
+   "file": "site/img/h-kaius-becomes-a-vampire.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-kaius-becomes-a-vampire.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03416525,
+   "at": "2026-10-29T17:47:28",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-kaius-becomes-a-vampire/20261029-174728-402000.jpg"
+  }
+ ],
+ "h-thrane-theocracy": [
+  {
+   "version": 1,
+   "file": "site/img/h-thrane-theocracy.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-thrane-theocracy.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03415825,
+   "at": "2026-10-29T17:47:28",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-thrane-theocracy/20261029-174728-340000.jpg"
+  }
+ ],
+ "h-brand-completes-prototype": [
+  {
+   "version": 1,
+   "file": "site/img/h-brand-completes-prototype.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-brand-completes-prototype.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.0344885,
+   "at": "2026-10-29T17:47:29",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-brand-completes-prototype/20261029-174729-965000.jpg"
+  }
+ ],
+ "h-sazed-is-born": [
+  {
+   "version": 1,
+   "file": "site/img/h-sazed-is-born.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-sazed-is-born.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03415275,
+   "at": "2026-10-29T17:47:30",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-sazed-is-born/20261029-174730-965000.jpg"
+  }
+ ],
+ "h-ember-begins-the-armor": [
+  {
+   "version": 1,
+   "file": "site/img/h-ember-begins-the-armor.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-ember-begins-the-armor.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Ember",
+    "Brand"
+   ],
+   "refs": [
+    "Character lineup",
+    "Starilaskur map"
+   ],
+   "cost": 0.0345625,
+   "at": "2026-10-29T17:47:29",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-ember-begins-the-armor/20261029-174729-093000.jpg"
+  }
+ ],
+ "h-sazeds-village-burns": [
+  {
+   "version": 1,
+   "file": "site/img/h-sazeds-village-burns.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-sazeds-village-burns.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03415675,
+   "at": "2026-10-29T17:47:33",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-sazeds-village-burns/20261029-174733-672000.jpg"
+  }
+ ],
+ "h-boranex-dies": [
+  {
+   "version": 1,
+   "file": "site/img/h-boranex-dies.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-boranex-dies.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Wroat From The Air map"
+   ],
+   "cost": 0.0341955,
+   "at": "2026-10-29T17:47:29",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-boranex-dies/20261029-174729-096000.jpg"
+  }
+ ],
+ "h-boranex-forest-planted": [
+  {
+   "version": 1,
+   "file": "site/img/h-boranex-forest-planted.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-boranex-forest-planted.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Boranex Forest Night map"
+   ],
+   "cost": 0.034158,
+   "at": "2026-10-29T17:47:30",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-boranex-forest-planted/20261029-174730-475000.jpg"
+  }
+ ],
+ "h-darguun-founded": [
+  {
+   "version": 1,
+   "file": "site/img/h-darguun-founded.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-darguun-founded.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Hobgoblin",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.0344705,
+   "at": "2026-10-29T17:47:33",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-darguun-founded/20261029-174733-648000.jpg"
+  }
+ ],
+ "h-fells-gate": [
+  {
+   "version": 1,
+   "file": "site/img/h-fells-gate.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-fells-gate.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.034159,
+   "at": "2026-10-29T17:47:32",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-fells-gate/20261029-174732-849000.jpg"
+  }
+ ],
+ "h-covenant-of-emberfall": [
+  {
+   "version": 1,
+   "file": "site/img/h-covenant-of-emberfall.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-covenant-of-emberfall.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "The Bloodsinger"
+   ],
+   "refs": [
+    "Character lineup",
+    "Covenant of Emberfall Druid",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.034792,
+   "at": "2026-10-29T17:47:36",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-covenant-of-emberfall/20261029-174736-943000.jpg"
+  }
+ ],
+ "h-lirael-is-born": [
+  {
+   "version": 1,
+   "file": "site/img/h-lirael-is-born.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-lirael-is-born.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Felicia Sr",
+    "Lirael Sr"
+   ],
+   "refs": [
+    "Character lineup",
+    "Xal'ri House map"
+   ],
+   "cost": 0.034546,
+   "at": "2026-10-29T17:47:34",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-lirael-is-born/20261029-174734-116000.jpg"
+  }
+ ],
+ "h-blazehelm-vanishes": [
+  {
+   "version": 1,
+   "file": "site/img/h-blazehelm-vanishes.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-blazehelm-vanishes.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Blazehelm"
+   ],
+   "refs": [
+    "Character lineup",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03448875,
+   "at": "2026-10-29T17:47:33",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-blazehelm-vanishes/20261029-174733-771000.jpg"
+  }
+ ],
+ "h-canuck": [
+  {
+   "version": 1,
+   "file": "site/img/h-canuck.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-canuck.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Screech"
+   ],
+   "refs": [
+    "Character lineup",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.0344995,
+   "at": "2026-10-29T17:47:36",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-canuck/20261029-174736-290000.jpg"
+  }
+ ],
+ "h-shifter-hideout-exposed": [
+  {
+   "version": 1,
+   "file": "site/img/h-shifter-hideout-exposed.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-shifter-hideout-exposed.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Abandoned Shack map"
+   ],
+   "cost": 0.0341425,
+   "at": "2026-10-29T17:47:35",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-shifter-hideout-exposed/20261029-174735-028000.jpg"
+  }
+ ],
+ "h-prowlstone-warning": [
+  {
+   "version": 1,
+   "file": "site/img/h-prowlstone-warning.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-prowlstone-warning.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Nedira"
+   ],
+   "refs": [
+    "Character lineup",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03454975,
+   "at": "2026-10-29T17:47:35",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-prowlstone-warning/20261029-174735-991000.jpg"
+  }
+ ],
+ "h-sazed-imprisoned": [
+  {
+   "version": 1,
+   "file": "site/img/h-sazed-imprisoned.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-sazed-imprisoned.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Sazed",
+    "Kynds"
+   ],
+   "refs": [
+    "Character lineup",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03452025,
+   "at": "2026-10-29T17:47:34",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-sazed-imprisoned/20261029-174734-879000.jpg"
+  }
+ ],
+ "h-grimdells-resurface": [
+  {
+   "version": 1,
+   "file": "site/img/h-grimdells-resurface.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-grimdells-resurface.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Grail Grimdell"
+   ],
+   "refs": [
+    "Character lineup",
+    "Gelion Grimdell",
+    "Geraldine Grimdell",
+    "Grave Grimdell",
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03536925,
+   "at": "2026-10-29T17:47:49",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-grimdells-resurface/20261029-174749-337000.jpg"
+  }
+ ],
+ "h-hearthsfire-founded": [
+  {
+   "version": 1,
+   "file": "site/img/h-hearthsfire-founded.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-hearthsfire-founded.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Falken"
+   ],
+   "refs": [
+    "Character lineup",
+    "Hearthsfire map"
+   ],
+   "cost": 0.03450025,
+   "at": "2026-10-29T17:47:39",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-hearthsfire-founded/20261029-174739-928000.jpg"
+  }
+ ],
+ "h-sora-kell-invades": [
+  {
+   "version": 1,
+   "file": "site/img/h-sora-kell-invades.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-sora-kell-invades.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.034143,
+   "at": "2026-10-29T17:47:38",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-sora-kell-invades/20261029-174738-069000.jpg"
+  }
+ ],
+ "h-droaam-declared": [
+  {
+   "version": 1,
+   "file": "site/img/h-droaam-declared.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-droaam-declared.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03415,
+   "at": "2026-10-29T17:47:37",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-droaam-declared/20261029-174737-139000.jpg"
+  }
+ ],
+ "h-kaius-iii": [
+  {
+   "version": 1,
+   "file": "site/img/h-kaius-iii.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-kaius-iii.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.03414925,
+   "at": "2026-10-29T17:47:38",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-kaius-iii/20261029-174738-483000.jpg"
+  }
+ ],
+ "h-xeras-necklace": [
+  {
+   "version": 1,
+   "file": "site/img/h-xeras-necklace.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-xeras-necklace.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Xera"
+   ],
+   "refs": [
+    "Character lineup",
+    "The Turckle and Churckle map"
+   ],
+   "cost": 0.03452125,
+   "at": "2026-10-29T17:47:42",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-xeras-necklace/20261029-174742-765000.jpg"
+  }
+ ],
+ "h-jaela-daran": [
+  {
+   "version": 1,
+   "file": "site/img/h-jaela-daran.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-jaela-daran.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Khorvaire Map map"
+   ],
+   "cost": 0.0341525,
+   "at": "2026-10-29T17:47:39",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-jaela-daran/20261029-174739-299000.jpg"
+  }
+ ],
+ "h-skyfire-raid": [
+  {
+   "version": 1,
+   "file": "site/img/h-skyfire-raid.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-skyfire-raid.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Kal Valvier",
+    "Captain Flowers"
+   ],
+   "refs": [
+    "Character lineup",
+    "Wroat From The Air map"
+   ],
+   "cost": 0.0345695,
+   "at": "2026-10-29T17:47:41",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-skyfire-raid/20261029-174741-295000.jpg"
+  }
+ ],
+ "h-richard-and-bill": [
+  {
+   "version": 1,
+   "file": "site/img/h-richard-and-bill.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-richard-and-bill.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [],
+   "refs": [
+    "Ardev map"
+   ],
+   "cost": 0.0341525,
+   "at": "2026-10-29T17:47:40",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-richard-and-bill/20261029-174740-284000.jpg"
+  }
+ ],
+ "h-flowers-reassigned": [
+  {
+   "version": 1,
+   "file": "site/img/h-flowers-reassigned.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/h-flowers-reassigned.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Captain Flowers"
+   ],
+   "refs": [
+    "Character lineup",
+    "Ardev Police Station map"
+   ],
+   "cost": 0.0345245,
+   "at": "2026-10-29T17:47:42",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/h-flowers-reassigned/20261029-174742-532000.jpg"
+  }
+ ],
+ "elerian-and-crek-lobo": [
+  {
+   "version": 1,
+   "file": "site/img/elerian-and-crek-lobo.v1.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/elerian-and-crek-lobo.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. A dynamic, tilted camera in the middle of the action, with figures overlapping and cutting across the frame, and speed shown by blur and wind. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Elarian"
+   ],
+   "refs": [
+    "Character lineup",
+    "Crek Lobo",
+    "Prison Exterior 10ft squares map"
+   ],
+   "cost": 0.03481475,
+   "at": "2026-10-29T17:47:45",
+   "draft": "/Users/artemlitch/projects/dnd-timeline/gen/drafts/elerian-and-crek-lobo/20261029-174745-748000.jpg"
+  }
  ]
 }

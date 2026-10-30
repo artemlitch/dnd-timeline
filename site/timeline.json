@@ -267,7 +267,7 @@
     },
     {
       "number": 22,
-      "title": "Jeff Shut The Fuck Up, We’re Jacking Off and Punching Birds",
+      "title": "Jeff Shut The Fuck Up, We\u2019re Jacking Off and Punching Birds",
       "act": 1,
       "arc": "Arc 3: Ardev"
     },
@@ -410,8 +410,8 @@
         "Undead"
       ],
       "major": true,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-first-conflict-with-karrnath.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -426,15 +426,15 @@
       "session": 0,
       "kind": "history",
       "summary": "Brand begins developing a suit of armor intended not only to protect its wearer, but also the people around them.",
-      "detail": "The project combines Brand’s engineering skill with his devotion to Onatar and becomes the central work of the next forty years.",
+      "detail": "The project combines Brand\u2019s engineering skill with his devotion to Onatar and becomes the central work of the next forty years.",
       "tags": [
         "Brand",
         "Onatar",
         "Broadhelm Forge"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-brand-begins-his-armor.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -456,8 +456,8 @@
         "Kaius"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-kaius-becomes-a-vampire.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -518,14 +518,14 @@
       "session": 0,
       "kind": "history",
       "summary": "King Thalin of Thrane dies, and the Church of the Silver Flame assumes political control of the nation.",
-      "detail": "The Keeper of the Flame becomes Thrane’s supreme leader, establishing the theocratic government that rules the nation during the War.",
+      "detail": "The Keeper of the Flame becomes Thrane\u2019s supreme leader, establishing the theocratic government that rules the nation during the War.",
       "tags": [
         "Thrane",
         "Silver Flame"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-thrane-theocracy.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -546,8 +546,8 @@
         "Onatar"
       ],
       "major": true,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-brand-completes-prototype.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -568,8 +568,8 @@
         "Shifters"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-sazed-is-born.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -606,16 +606,16 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "After Brand is imprisoned in 953 YK, Ember Broadhelm begins work on a replacement suit for him. She continues refining it throughout his imprisonment; in 993 YK she reveals the unfinished armor at the Broadhelm Forge, where Brand’s Onatar-given core is able to power it.",
-      "detail": "After Brand is imprisoned in 953 YK, Ember Broadhelm begins work on a replacement suit for him. She continues refining it throughout his imprisonment; in 993 YK she reveals the unfinished armor at the Broadhelm Forge, where Brand’s Onatar-given core is able to power it.",
+      "summary": "After Brand is imprisoned in 953 YK, Ember Broadhelm begins work on a replacement suit for him. She continues refining it throughout his imprisonment; in 993 YK she reveals the unfinished armor at the Broadhelm Forge, where Brand\u2019s Onatar-given core is able to power it.",
+      "detail": "After Brand is imprisoned in 953 YK, Ember Broadhelm begins work on a replacement suit for him. She continues refining it throughout his imprisonment; in 993 YK she reveals the unfinished armor at the Broadhelm Forge, where Brand\u2019s Onatar-given core is able to power it.",
       "tags": [
         "Ember",
         "Brand",
         "Broadhelm Forge"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-ember-begins-the-armor.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -629,7 +629,7 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "At age seven, Sazed’s shifter village outside Passage is attacked and destroyed by Silver Flame forces, killing his family.",
+      "summary": "At age seven, Sazed\u2019s shifter village outside Passage is attacked and destroyed by Silver Flame forces, killing his family.",
       "detail": "The children are hidden during the attack and later rescued by the Loreguards. Sazed is taken in and trained among them, beginning the path that shapes his later service.",
       "tags": [
         "Sazed",
@@ -638,8 +638,8 @@
         "Loreguards"
       ],
       "major": true,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-sazeds-village-burns.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -653,7 +653,7 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "In 961 YK, King Boranex’s two eldest sons are killed fighting Aundair around Cragwar. A month later, already ailing and grief-stricken, Boranex takes his own life.",
+      "summary": "In 961 YK, King Boranex\u2019s two eldest sons are killed fighting Aundair around Cragwar. A month later, already ailing and grief-stricken, Boranex takes his own life.",
       "detail": "His third son Boranel is hurriedly summoned from Sharn and crowned King of Breland.",
       "tags": [
         "Boranex",
@@ -661,8 +661,8 @@
         "Breland"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-boranex-dies.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -676,15 +676,15 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "Shortly after King Boranex’s death, the forest outside Wroat is planted and named in his honor. By 993 YK, thirty-two years after his death, it has grown into a thriving forest.",
-      "detail": "Shortly after King Boranex’s death, the forest outside Wroat is planted and named in his honor. By 993 YK, thirty-two years after his death, it has grown into a thriving forest.",
+      "summary": "Shortly after King Boranex\u2019s death, the forest outside Wroat is planted and named in his honor. By 993 YK, thirty-two years after his death, it has grown into a thriving forest.",
+      "detail": "Shortly after King Boranex\u2019s death, the forest outside Wroat is planted and named in his honor. By 993 YK, thirty-two years after his death, it has grown into a thriving forest.",
       "tags": [
         "Boranex Forest",
         "Wroat"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-boranex-forest-planted.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -744,15 +744,15 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "Haruuc Shaarat’kor leads a hobgoblin rebellion against the forces of Cyre and Breland in southeastern Khorvaire.",
+      "summary": "Haruuc Shaarat\u2019kor leads a hobgoblin rebellion against the forces of Cyre and Breland in southeastern Khorvaire.",
       "detail": "The rebellion succeeds in creating the independent goblinoid nation of Darguun.",
       "tags": [
         "Darguun",
         "Hobgoblins"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-darguun-founded.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -767,15 +767,15 @@
       "session": 0,
       "kind": "history",
       "summary": "A Mindflayer incursion from Khyber reaches toward the surface and is driven back by Brelish forces at Fells Gate.",
-      "detail": "Myconid forces then attack the battlefield with invasive spores, leaving the site contaminated and forcing Fells Gate to be sealed. Geralt Gilderfawn’s journal, found decades later by the B-Team, records the aftermath from the 3rd through the 7th of Vult 969.",
+      "detail": "Myconid forces then attack the battlefield with invasive spores, leaving the site contaminated and forcing Fells Gate to be sealed. Geralt Gilderfawn\u2019s journal, found decades later by the B-Team, records the aftermath from the 3rd through the 7th of Vult 969.",
       "tags": [
         "Fells Gate",
         "Mind Flayers",
         "Khyber"
       ],
       "major": true,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-fells-gate.v1.jpg",
+      "img_version": 1,
       "around": "month"
     },
     {
@@ -790,7 +790,7 @@
       "session": 0,
       "kind": "history",
       "summary": "The shifter village of FaltenStep is wiped out during a surge of Silver Flame extremism in Thrane. Shifters are driven from the country, and communities that refuse to leave are destroyed; Breland accepts shifters who flee across the border.",
-      "detail": "The Bloodsinger, son of FaltenStep’s village chief, responds by founding the Covenant of Emberfall and dedicating it to the preservation of the shifter bloodline. The Covenant grows quickly among disaffected and radicalized shifters and becomes infamous in Thrane for attacks on the military, the Silver Flame church and the general populace. As Thranish authorities close in, the Covenant slips across the border into Breland. Its ideology remains violently opposed to the Silver Flame and to the modern industrial society the Bloodsinger believes is destroying shifter life.",
+      "detail": "The Bloodsinger, son of FaltenStep\u2019s village chief, responds by founding the Covenant of Emberfall and dedicating it to the preservation of the shifter bloodline. The Covenant grows quickly among disaffected and radicalized shifters and becomes infamous in Thrane for attacks on the military, the Silver Flame church and the general populace. As Thranish authorities close in, the Covenant slips across the border into Breland. Its ideology remains violently opposed to the Silver Flame and to the modern industrial society the Bloodsinger believes is destroying shifter life.",
       "tags": [
         "Covenant of Emberfall",
         "The Bloodsinger",
@@ -798,8 +798,8 @@
         "Silver Flame"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-covenant-of-emberfall.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -822,8 +822,8 @@
         "Ardev"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-lirael-is-born.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -890,8 +890,8 @@
         "Aundair"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-blazehelm-vanishes.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -906,15 +906,15 @@
       "session": 0,
       "kind": "history",
       "summary": "A post-credits flashback shows teenage Delman Swordblade, years before he becomes Screech, living in the snowy village of Canuck.",
-      "detail": "Nine-year-old Cordy excitedly demonstrates new magic, accidentally escalating from harmless sparks to repeatedly firebolting Delman’s bed and model ship. The scene establishes the affectionate sibling relationship between Screech and Cordy, and Canuck as a strangely insulated, wholesome corner of the setting.",
+      "detail": "Nine-year-old Cordy excitedly demonstrates new magic, accidentally escalating from harmless sparks to repeatedly firebolting Delman\u2019s bed and model ship. The scene establishes the affectionate sibling relationship between Screech and Cordy, and Canuck as a strangely insulated, wholesome corner of the setting.",
       "tags": [
         "Screech",
         "Cordy",
         "Canuck"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-canuck.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -958,8 +958,8 @@
         "Shifters"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-shifter-hideout-exposed.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -974,7 +974,7 @@
       "session": 0,
       "kind": "history",
       "summary": "While operating as a Loreguard undercover in the Brelish military under the guise of an Aundairian spy, Sazed learns that fighting is moving toward the shifter village of Prowlstone.",
-      "detail": "Instead of passing the military intelligence along as ordered, Sazed warns Prowlstone. The warning gives the village time to prepare and defend itself; Nedira is there when the warning arrives. Years later, Prowlstone’s letters and drawings show marriages, births and children growing up — an entire generation whose lives were made possible by the warning. Sazed’s decision blows his cover with the Brelish military, which identifies him as an Aundairian spy; his true allegiance as a Loreguard remains concealed. The Battle of the Eldritch Groves ends in a Brelish defeat, although Blazehelm later tells Sazed the battle was already a lost fight and his missing report did not cause the defeat.",
+      "detail": "Instead of passing the military intelligence along as ordered, Sazed warns Prowlstone. The warning gives the village time to prepare and defend itself; Nedira is there when the warning arrives. Years later, Prowlstone\u2019s letters and drawings show marriages, births and children growing up \u2014 an entire generation whose lives were made possible by the warning. Sazed\u2019s decision blows his cover with the Brelish military, which identifies him as an Aundairian spy; his true allegiance as a Loreguard remains concealed. The Battle of the Eldritch Groves ends in a Brelish defeat, although Blazehelm later tells Sazed the battle was already a lost fight and his missing report did not cause the defeat.",
       "tags": [
         "Sazed",
         "Prowlstone",
@@ -982,8 +982,8 @@
         "Loreguards"
       ],
       "major": true,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-prowlstone-warning.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1004,8 +1004,8 @@
         "Kynds"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-sazed-imprisoned.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1026,8 +1026,8 @@
         "House Thuranni"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-grimdells-resurface.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1065,16 +1065,16 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "After Sazed is captured, younger Loreguards grow increasingly reckless, diverting Aundairian military money and supplies to shifter communities. Willow warns them to stop, then leaves without notice. In 985 YK, the aging elders abandon Aundair for safer Breland and found Hearthsfire, while the younger Loreguards remain behind—including Falken’s son Hale. Falken has not heard from Hale or the Aundairian clan in the eight years since; by 993 YK, only Falken and Spring remain of Hearthsfire’s founding elders.",
-      "detail": "After Sazed is captured, younger Loreguards grow increasingly reckless, diverting Aundairian military money and supplies to shifter communities. Willow warns them to stop, then leaves without notice. In 985 YK, the aging elders abandon Aundair for safer Breland and found Hearthsfire, while the younger Loreguards remain behind—including Falken’s son Hale. Falken has not heard from Hale or the Aundairian clan in the eight years since; by 993 YK, only Falken and Spring remain of Hearthsfire’s founding elders.",
+      "summary": "After Sazed is captured, younger Loreguards grow increasingly reckless, diverting Aundairian military money and supplies to shifter communities. Willow warns them to stop, then leaves without notice. In 985 YK, the aging elders abandon Aundair for safer Breland and found Hearthsfire, while the younger Loreguards remain behind\u2014including Falken\u2019s son Hale. Falken has not heard from Hale or the Aundairian clan in the eight years since; by 993 YK, only Falken and Spring remain of Hearthsfire\u2019s founding elders.",
+      "detail": "After Sazed is captured, younger Loreguards grow increasingly reckless, diverting Aundairian military money and supplies to shifter communities. Willow warns them to stop, then leaves without notice. In 985 YK, the aging elders abandon Aundair for safer Breland and found Hearthsfire, while the younger Loreguards remain behind\u2014including Falken\u2019s son Hale. Falken has not heard from Hale or the Aundairian clan in the eight years since; by 993 YK, only Falken and Spring remain of Hearthsfire\u2019s founding elders.",
       "tags": [
         "Hearthsfire",
         "Falken",
         "Shifters"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-hearthsfire-founded.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1089,15 +1089,15 @@
       "session": 0,
       "kind": "history",
       "summary": "The Daughters of Sora Kell lead an army of trolls, ogres, gnolls and other monstrous forces into western Breland.",
-      "detail": "The invasion establishes the military and political reality that will soon become the nation of Droaam on Breland’s western frontier.",
+      "detail": "The invasion establishes the military and political reality that will soon become the nation of Droaam on Breland\u2019s western frontier.",
       "tags": [
         "Droaam",
         "Sora Kell",
         "Breland"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-sora-kell-invades.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1111,16 +1111,16 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "Unable to fight both Droaam’s forces and Breland’s enemies, King Boranel withdraws Brelish settlers and forces from the territory west of the Graywall Mountains.",
-      "detail": "The Daughters of Sora Kell declare the sovereignty of Droaam, permanently reshaping Breland’s western frontier.",
+      "summary": "Unable to fight both Droaam\u2019s forces and Breland\u2019s enemies, King Boranel withdraws Brelish settlers and forces from the territory west of the Graywall Mountains.",
+      "detail": "The Daughters of Sora Kell declare the sovereignty of Droaam, permanently reshaping Breland\u2019s western frontier.",
       "tags": [
         "Droaam",
         "Boranel",
         "Breland"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-droaam-declared.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1165,8 +1165,8 @@
         "Kaius"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-kaius-iii.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1210,8 +1210,8 @@
         "Ardev"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-xeras-necklace.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1232,8 +1232,8 @@
         "Thrane"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-jaela-daran.v1.jpg",
+      "img_version": 1,
       "around": "year"
     },
     {
@@ -1297,7 +1297,7 @@
       "session": 0,
       "kind": "history",
       "summary": "The Kason, with Norm Twosteel and Dwarzel Hellfoot aboard, spots a large Aundairian airship fleet approaching Wroat.",
-      "detail": "At the Guns of Wroat, Kal Valvier nervously mans the defenses while Captain Flowers steadies him. Breland’s prepared air defenses and newer fleet blunt the Aundairian raid after a costly battle. The event later matters personally because the bombing killed Fogen Zaggerford, the former priest of the Hobbstweedle church.",
+      "detail": "At the Guns of Wroat, Kal Valvier nervously mans the defenses while Captain Flowers steadies him. Breland\u2019s prepared air defenses and newer fleet blunt the Aundairian raid after a costly battle. The event later matters personally because the bombing killed Fogen Zaggerford, the former priest of the Hobbstweedle church.",
       "tags": [
         "Skyfire Raid",
         "Wroat",
@@ -1305,8 +1305,8 @@
         "Kal Valvier"
       ],
       "major": true,
-      "img": "",
-      "img_version": 0
+      "img": "img/h-skyfire-raid.v1.jpg",
+      "img_version": 1
     },
     {
       "id": "h-richard-and-bill",
@@ -1319,16 +1319,16 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "Steve the Skycracker and Bob the Blazebringer say their sons Richard and Bill went missing roughly six weeks before the party’s return to Ardev. The young dragons were last seen heading toward Ardev.",
-      "detail": "Steve the Skycracker and Bob the Blazebringer say their sons Richard and Bill went missing roughly six weeks before the party’s return to Ardev. The young dragons were last seen heading toward Ardev.",
+      "summary": "Steve the Skycracker and Bob the Blazebringer say their sons Richard and Bill went missing roughly six weeks before the party\u2019s return to Ardev. The young dragons were last seen heading toward Ardev.",
+      "detail": "Steve the Skycracker and Bob the Blazebringer say their sons Richard and Bill went missing roughly six weeks before the party\u2019s return to Ardev. The young dragons were last seen heading toward Ardev.",
       "tags": [
         "Steve the Skycracker",
         "Bob the Blazebringer",
         "Dragons"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-richard-and-bill.v1.jpg",
+      "img_version": 1,
       "around": "month"
     },
     {
@@ -1342,16 +1342,16 @@
       "act": 0,
       "session": 0,
       "kind": "history",
-      "summary": "After the Royal Ardev Regiment is disbanded, Flowers is sent back to Ardev to replace the police captain who had recently died. Soon after his reassignment, Dragon’s Claw mercenaries arrive in Ardev.",
-      "detail": "After the Royal Ardev Regiment is disbanded, Flowers is sent back to Ardev to replace the police captain who had recently died. Soon after his reassignment, Dragon’s Claw mercenaries arrive in Ardev.",
+      "summary": "After the Royal Ardev Regiment is disbanded, Flowers is sent back to Ardev to replace the police captain who had recently died. Soon after his reassignment, Dragon\u2019s Claw mercenaries arrive in Ardev.",
+      "detail": "After the Royal Ardev Regiment is disbanded, Flowers is sent back to Ardev to replace the police captain who had recently died. Soon after his reassignment, Dragon\u2019s Claw mercenaries arrive in Ardev.",
       "tags": [
         "Captain Flowers",
         "Dragons Claw",
         "Ardev"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0,
+      "img": "img/h-flowers-reassigned.v1.jpg",
+      "img_version": 1,
       "around": "month"
     },
     {
@@ -1436,7 +1436,7 @@
       "kind": "revelation",
       "major": true,
       "summary": "Far from DarkWood, a grizzled old wizard opens a long-locked book and reads aloud the prophecy that frames the whole story.",
-      "detail": "In a dim library crammed wall to wall with texts divine and devilish, and with trinkets from a hundred lifetimes, an old human wizard in green robes slumps at his desk, pipe drooping, a raven perched on his staff. The raven caws once and the wizard whips around with unnatural speed, his green eyes finding a scrying eye in the dark; he smirks, puffs his pipe and turns back. Without a word of command the raven pries a book from the shelf, and the wizard releases its ancient clasp. He reads of a century of war entering its final stage, “its shrieking twilight, its howling dark, the swan song.” “But you are not heroes, you are not soldiers, and you are not villains, you are criminals. And yet it is your hands which hold the quill.” The characters know nothing of this scene. It is simply where their story begins.",
+      "detail": "In a dim library crammed wall to wall with texts divine and devilish, and with trinkets from a hundred lifetimes, an old human wizard in green robes slumps at his desk, pipe drooping, a raven perched on his staff. The raven caws once and the wizard whips around with unnatural speed, his green eyes finding a scrying eye in the dark; he smirks, puffs his pipe and turns back. Without a word of command the raven pries a book from the shelf, and the wizard releases its ancient clasp. He reads of a century of war entering its final stage, \u201cits shrieking twilight, its howling dark, the swan song.\u201d \u201cBut you are not heroes, you are not soldiers, and you are not villains, you are criminals. And yet it is your hands which hold the quill.\u201d The characters know nothing of this scene. It is simply where their story begins.",
       "tags": [
         "Wizard",
         "Raven",
@@ -1484,7 +1484,7 @@
       "kind": "travel",
       "major": false,
       "summary": "The carriages roll through the woods to DarkWood Prison, and the inmates behind the walls start chanting: fresh fish, fresh fish.",
-      "detail": "The journey continues into thick woods and up to a new prison. The players were promised it would not be a corn maze, and it is not. As the carriages approach the gates, a chant rises from inside the walls: “Fresh fish, fresh fish.” The arrivals are split into bunks. Lirael and Elarian share the first with Tauren, and Brand and Sazed share the second with Leff.",
+      "detail": "The journey continues into thick woods and up to a new prison. The players were promised it would not be a corn maze, and it is not. As the carriages approach the gates, a chant rises from inside the walls: \u201cFresh fish, fresh fish.\u201d The arrivals are split into bunks. Lirael and Elarian share the first with Tauren, and Brand and Sazed share the second with Leff.",
       "tags": [
         "DarkWood",
         "Lirael",
@@ -2060,7 +2060,7 @@
       "kind": "revelation",
       "major": false,
       "summary": "The tarp comes off the mirror and everyone is dragged into a personal nightmare until Sazed smashes it.",
-      "detail": "Lirael walks a pier behind his family; they cannot hear him, and the faster he runs the farther away they get. Brand walks the streets of Sharn running red with blood, hides under a corpse, and watches soldiers in mechanical suits of armor duckwalk out of the smoke. Sazed leaves his hut to find his village on fire and ringed by soldiers, and the villagers' corpses rise, point at him and say “It was you.” Each wakes in a cold sweat. Sazed destroys the mirror. Mirrors will come back to haunt the party later.",
+      "detail": "Lirael walks a pier behind his family; they cannot hear him, and the faster he runs the farther away they get. Brand walks the streets of Sharn running red with blood, hides under a corpse, and watches soldiers in mechanical suits of armor duckwalk out of the smoke. Sazed leaves his hut to find his village on fire and ringed by soldiers, and the villagers' corpses rise, point at him and say \u201cIt was you.\u201d Each wakes in a cold sweat. Sazed destroys the mirror. Mirrors will come back to haunt the party later.",
       "tags": [
         "Mirror",
         "Lirael",
@@ -2156,7 +2156,7 @@
       "kind": "battle",
       "major": true,
       "summary": "In the burning prison yard Grail Grimdell thanks the party for so many beautiful corpses, and everyone they have killed stands back up.",
-      "detail": "The necromancer Grail Grimdell confronts the party in the yard, composed and eloquent. “I must thank you, you have given me so many beautiful corpses for my army. I'm sure you'll recognise them.” He offers them a special place at his side. The dead rise from the ground: Officer Bloodworth, Shmem Gorgis, Scud Barlowe, Magnot Whitlin and Warden Sharpe. Behind them come Bloodworth's personal guard, the guards from every fight, the young officers from the barricade, and gang members from the very first cafeteria brawl. Everyone the party has killed is back.",
+      "detail": "The necromancer Grail Grimdell confronts the party in the yard, composed and eloquent. \u201cI must thank you, you have given me so many beautiful corpses for my army. I'm sure you'll recognise them.\u201d He offers them a special place at his side. The dead rise from the ground: Officer Bloodworth, Shmem Gorgis, Scud Barlowe, Magnot Whitlin and Warden Sharpe. Behind them come Bloodworth's personal guard, the guards from every fight, the young officers from the barricade, and gang members from the very first cafeteria brawl. Everyone the party has killed is back.",
       "tags": [
         "Grail Grimdell",
         "Zombies",
@@ -2209,8 +2209,8 @@
         "DarkWood"
       ],
       "major": false,
-      "img": "",
-      "img_version": 0
+      "img": "img/elerian-and-crek-lobo.v1.jpg",
+      "img_version": 1
     },
     {
       "id": "brand-kills-grail",
@@ -2248,7 +2248,7 @@
       "kind": "revelation",
       "major": true,
       "summary": "Grail's necklace raises him as an awakened zombie, more deranged and more powerful, and his dead rise again remembering their lives.",
-      "detail": "As the party starts to rest, the necklace on Grail's corpse raises him as an awakened zombie. He is now noticeably more deranged and far more powerful. With an evil laugh he declares: “You fools think you won. You have only allowed me to achieve my final form!” He vows to become lord of the dead, his dead covering the earth and suffocating the light from this world. All his zombies rise again, their souls now bound to their bodies so they remember their former lives, zombie Rolick among them. “Now my children look upon your killers and help them join us!”",
+      "detail": "As the party starts to rest, the necklace on Grail's corpse raises him as an awakened zombie. He is now noticeably more deranged and far more powerful. With an evil laugh he declares: \u201cYou fools think you won. You have only allowed me to achieve my final form!\u201d He vows to become lord of the dead, his dead covering the earth and suffocating the light from this world. All his zombies rise again, their souls now bound to their bodies so they remember their former lives, zombie Rolick among them. \u201cNow my children look upon your killers and help them join us!\u201d",
       "tags": [
         "Grail Grimdell",
         "Grail's Necklace",
@@ -2482,7 +2482,7 @@
       "kind": "revelation",
       "major": true,
       "summary": "A mysterious note on Grail's body, signed DDT, summons him to the hidden mountain village of Mara'bor.",
-      "detail": "Alongside the necklace, the party finds a note. “Grail my friend, I will be needing your assistance once again. You have been of great service to the organization and we ask for your heed again. As usual nothing will be in writing, meet me at the hidden mountain village of Mara'bor for more instructions.” It is signed DDT. Brand remembers Mara'bor from a book about hidden mountain villages he read as a kid. Elric says he knows how to get there.",
+      "detail": "Alongside the necklace, the party finds a note. \u201cGrail my friend, I will be needing your assistance once again. You have been of great service to the organization and we ask for your heed again. As usual nothing will be in writing, meet me at the hidden mountain village of Mara'bor for more instructions.\u201d It is signed DDT. Brand remembers Mara'bor from a book about hidden mountain villages he read as a kid. Elric says he knows how to get there.",
       "tags": [
         "DDT",
         "Mara'bor",
@@ -3021,7 +3021,7 @@
       "kind": "social",
       "major": false,
       "summary": "At midnight Grail's brother arrives, and Lirael, wearing the necklace, convinces him he is Grail reborn.",
-      "detail": "At midnight Grail's brother, later named by Major Blazehelm as Gelion Grimdell, arrives at the abandoned house. The party tells him to go into the cellar. He questions his “brother”: why is he allied with the living, and why, if he was reincarnated, is he not a zombie? Lirael sells it, and the brother exclaims that their mother was always trying new things with the necklaces. Before they leave, the brother suggests they turn Lirael's friends into zombies. Lirael says he is too tired to do it, so the brother offers to do it himself.",
+      "detail": "At midnight Grail's brother, later named by Major Blazehelm as Gelion Grimdell, arrives at the abandoned house. The party tells him to go into the cellar. He questions his \u201cbrother\u201d: why is he allied with the living, and why, if he was reincarnated, is he not a zombie? Lirael sells it, and the brother exclaims that their mother was always trying new things with the necklaces. Before they leave, the brother suggests they turn Lirael's friends into zombies. Lirael says he is too tired to do it, so the brother offers to do it himself.",
       "tags": [
         "Gelion Grimdell",
         "Lirael",
@@ -3160,7 +3160,7 @@
       "kind": "social",
       "major": false,
       "summary": "Soldiers appear out of thin air in a clearing, and Gelf trades barbs with Chief Petty Officer Smildar Paxon until he lets them in.",
-      "detail": "After about a forty-minute walk the party reaches a clearing. “Leave this to me and Elric okay guys?” says Gelf, as soldiers and Paxon appear out of nowhere. “Hey there Smildar.” “Oh we're using first names now Gelf? Is that proper military vernacular?” Gelf greets him as “Chief Pettiest of Petty Officers Smildar Paxon his Holiness,” insists the party won't be prisoners much longer, and Paxon sighs that he was really enjoying how nice and quiet the Kingsblade was without him. Paxon writes something on his sheet, signals them to follow, and he and the soldiers vanish as quickly as they appeared.",
+      "detail": "After about a forty-minute walk the party reaches a clearing. \u201cLeave this to me and Elric okay guys?\u201d says Gelf, as soldiers and Paxon appear out of nowhere. \u201cHey there Smildar.\u201d \u201cOh we're using first names now Gelf? Is that proper military vernacular?\u201d Gelf greets him as \u201cChief Pettiest of Petty Officers Smildar Paxon his Holiness,\u201d insists the party won't be prisoners much longer, and Paxon sighs that he was really enjoying how nice and quiet the Kingsblade was without him. Paxon writes something on his sheet, signals them to follow, and he and the soldiers vanish as quickly as they appeared.",
       "tags": [
         "Paxon",
         "Gelf",
@@ -3184,7 +3184,7 @@
       "kind": "revelation",
       "major": true,
       "summary": "Crossing an invisible threshold, the party passes through a massive illusion and sees a humongous airship, where Major Blazehelm welcomes them into the Sentinels.",
-      "detail": "“Let's go everyone,” says Gelf. As Elric and Gelf lead the party forward, they too disappear. Crossing the threshold, the party passes through a massive illusion spell and sees a humongous airship in front of them: the Kingsblade, a brand new Galifar class ship on its maiden voyage. A gangway opens. Major Blazehelm introduces himself and welcomes the party into the Sentinels. The DarkWood arc is over.",
+      "detail": "\u201cLet's go everyone,\u201d says Gelf. As Elric and Gelf lead the party forward, they too disappear. Crossing the threshold, the party passes through a massive illusion spell and sees a humongous airship in front of them: the Kingsblade, a brand new Galifar class ship on its maiden voyage. A gangway opens. Major Blazehelm introduces himself and welcomes the party into the Sentinels. The DarkWood arc is over.",
       "tags": [
         "Kingsblade",
         "Blazehelm",
