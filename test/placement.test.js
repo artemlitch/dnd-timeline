@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, nearestAt, zoomToShow, ROWS } = require('../site/placement.js');
+const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, nearestAt, zoomToShow, miniRange, miniClusters, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
@@ -199,6 +199,31 @@ test('going to an event zooms in until it is a full card', () => {
 test('going to an event already shown keeps the zoom', () => {
   const shown = events.find(e => shownAt(0.5).has(e.id));
   assert.equal(zoomToShow(events, ROWS, shown.id, CARD, 0.5, maxZoom(events, CARD)), 0.5);
+});
+
+test('the strip shows ten times the view, centred on it', () => {
+  assert.deepEqual(miniRange(1000, 10, 0, 36000, 10), { a: 955, b: 1055 });
+});
+
+test('the strip never runs past either end of the timeline', () => {
+  assert.deepEqual(miniRange(5, 10, 0, 36000, 10), { a: 0, b: 100 });
+  assert.deepEqual(miniRange(35995, 10, 0, 36000, 10), { a: 35900, b: 36000 });
+});
+
+test('zoomed far out, the strip shows the whole timeline', () => {
+  assert.deepEqual(miniRange(1000, 20000, 0, 36000, 10), { a: 0, b: 36000 });
+});
+
+test('events close together on the strip form one cluster', () => {
+  const list = [{ id: 'a', di: 10 }, { id: 'b', di: 10.5 }, { id: 'c', di: 11 }, { id: 'd', di: 30 }];
+  const cl = miniClusters(list, 0, 100, 1000, 8);
+  assert.deepEqual(cl.map(c => c.events.map(e => e.id)), [['a', 'b', 'c'], ['d']]);
+  assert.equal(cl[0].di, 10.5);
+});
+
+test('the strip leaves out events beyond its range', () => {
+  const list = [{ id: 'a', di: -5 }, { id: 'b', di: 50 }, { id: 'c', di: 150 }];
+  assert.deepEqual(miniClusters(list, 0, 100, 1000, 8).map(c => c.events[0].id), ['b']);
 });
 
 test('with no search every event matches', () => {

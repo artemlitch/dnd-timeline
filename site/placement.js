@@ -142,6 +142,25 @@
     return zmax;
   }
 
-  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, nearestAt, zoomToShow, ROWS: 2 };
+  // days a..b the bottom strip covers: `factor` times the view's span of days centred on it, kept inside the timeline
+  function miniRange(off, span, minDay, maxDay, factor) {
+    const len = Math.min(span * factor, maxDay - minDay);
+    const a = Math.min(Math.max(off + span / 2 - len / 2, minDay), maxDay - len);
+    return { a, b: a + len };
+  }
+
+  // events in a..b grouped into clusters on a strip W px wide: one joins the cluster before it when within px of it
+  function miniClusters(events, a, b, W, px) {
+    const out = [];
+    for (const e of events) {
+      if (e.di < a || e.di > b) continue;
+      const x = (e.di - a) / (b - a) * W, c = out[out.length - 1];
+      if (c && x - c.x1 <= px) { c.events.push(e); c.x1 = x; } else out.push({ events: [e], x0: x, x1: x });
+    }
+    for (const c of out) c.di = (c.events[0].di + c.events[c.events.length - 1].di) / 2;
+    return out;
+  }
+
+  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, nearestAt, zoomToShow, miniRange, miniClusters, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);
