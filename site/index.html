@@ -147,6 +147,13 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 #miniC{position:absolute;inset:0;width:100%;height:100%}
 #miniWin{position:absolute;top:6px;bottom:6px;min-width:4px;border:1px solid var(--cyan);background:rgba(95,211,255,.12);box-shadow:0 0 10px rgba(95,211,255,.4);pointer-events:none;border-radius:2px}
 .miniL{position:absolute;bottom:3px;font-family:var(--ui);font-size:10px;color:var(--brass);pointer-events:none;letter-spacing:.06em}
+#miniTip{position:absolute;bottom:calc(100% + 9px);left:0;max-width:300px;padding:7px 12px 8px;background:linear-gradient(180deg,var(--ink-3),var(--ink-2));border:1px solid var(--bronze);border-radius:4px;box-shadow:0 8px 24px rgba(0,0,0,.65),inset 0 0 0 1px rgba(201,162,77,.12);pointer-events:none;opacity:0;transform:translateY(4px);transition:opacity .12s,transform .12s;white-space:nowrap;z-index:10}
+#miniTip.on{opacity:1;transform:none}
+#miniTip::after{content:'';position:absolute;top:100%;left:var(--ax,50%);width:8px;height:8px;background:var(--ink-2);border-right:1px solid var(--bronze);border-bottom:1px solid var(--bronze);transform:translate(-50%,-4px) rotate(45deg)}
+#miniTip b{display:block;font-family:var(--display);font-size:13px;font-weight:600;color:var(--brass-hi);overflow:hidden;text-overflow:ellipsis}
+#miniTip span{display:block;font-size:12.5px;color:var(--parch);overflow:hidden;text-overflow:ellipsis}
+#miniTip span.more{color:var(--parch-dim);font-style:italic}
+#miniTip i{display:block;margin-top:3px;font-style:normal;font-family:var(--ui);font-size:10px;letter-spacing:.06em;color:var(--parch-dim)}
 
 /* drawer */
 #drawer{position:fixed;top:0;right:0;bottom:0;width:var(--drawer-w);max-width:100%;z-index:40;transform:translateX(104%);transition:transform .32s cubic-bezier(.2,.7,.2,1);
@@ -285,6 +292,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
     <div id="miniWin"></div>
     <span class="miniL" id="miniA" style="left:8px"></span>
     <span class="miniL" id="miniB" style="right:8px"></span>
+    <div id="miniTip"></div>
   </div>
 </div>
 
@@ -571,18 +579,20 @@ function bind(){
   // the strip's range is held still while dragging, so the pointer keeps the same day under it
   const mjump=e=>{const r=mini.getBoundingClientRect();setCenter(miniDay(e.clientX-r.left,r.width));schedule(false);};
   mini.addEventListener('pointerdown',e=>{mdrag={x:e.clientX,moved:false,range:MR};mini.setPointerCapture(e.pointerId);});
-  mini.addEventListener('pointermove',e=>{if(!mdrag)return;if(Math.abs(e.clientX-mdrag.x)>4)mdrag.moved=true;if(mdrag.moved)mjump(e);});
+  mini.addEventListener('pointermove',e=>{if(e.pointerType==='mouse'){mhover=e.clientX-mini.getBoundingClientRect().left;drawMini();}if(!mdrag)return;if(Math.abs(e.clientX-mdrag.x)>4)mdrag.moved=true;if(mdrag.moved)mjump(e);});
   mini.addEventListener('pointerup',e=>{if(mdrag&&!mdrag.moved){const r=mini.getBoundingClientRect(),c=Placement.nearestAt(MCL,e.clientX-r.left,d=>miniX(d,r.width),14);
     if(c&&c.events.length===1)animateTo(Placement.zoomToShow(shownNow.cand,shownNow.rows,c.events[0].id,shownNow.cardPx,P,ZMAX),c.di,520);
     else if(c){const z=Placement.clusterZoom(c.events[0].di-.02,c.events[c.events.length-1].di+.02,P,vw(),ZMAX);animateTo(z.p,z.center,520);}
     else mjump(e);}mdrag=null;schedule(false);});
   mini.addEventListener('pointercancel',()=>{mdrag=null;schedule(false);});
+  mini.addEventListener('pointerleave',()=>{mhover=null;drawMini();});
   $('#close').onclick=closeDrawer;$('#dPrev').onclick=()=>stepEvent(-1);$('#dNext').onclick=()=>stepEvent(1);
   window.addEventListener('resize',()=>{measure();setZmin();P=Math.max(P,ZMIN);clampOff();drawMini();schedule(true);});
 }
 
 /* ---------- minimap: one scale, ten times the view's span, so it zooms along with the view ---------- */
-let MR={a:0,b:1},MCL=[],mdrag=null;
+let MR={a:0,b:1},MCL=[],mdrag=null,mhover=null;
+const miniTip=$('#miniTip');
 const miniX=(d,W)=>(d-MR.a)/(MR.b-MR.a)*W,miniDay=(x,W)=>MR.a+x/W*(MR.b-MR.a);
 function miniDate(d,span){const c=fromDay(d+1e-6);return span>=DPY*2?yr(c.year):span>=DPM*2?`${mName(c.month)} ${yr(c.year)}`:`${mName(c.month)} ${c.day}, ${yr(c.year)}`;}
 function drawMini(){if(!CAL)return;const W=SZ.mw||mini.clientWidth,H=mini.clientHeight,dpr=devicePixelRatio||1;
@@ -590,13 +600,21 @@ function drawMini(){if(!CAL)return;const W=SZ.mw||mini.clientWidth,H=mini.client
   mctx.setTransform(dpr,0,0,dpr,0,0);mctx.clearRect(0,0,W,H);
   MR=mdrag?mdrag.range:Placement.miniRange(off,vw()/P,MINDAY,MAXDAY,10);
   MCL=Placement.miniClusters(candMemo.query===query&&candMemo.list?candMemo.list:EV.filter(visible),MR.a,MR.b,W,6);
-  let lastLabel=-1e9;const h=H-24;
+  let lastLabel=-1e9;const h=H-24,hov=mhover===null||mdrag?null:Placement.nearestAt(MCL,mhover,d=>miniX(d,W),10);
   mctx.font='600 10px Inter, system-ui, sans-serif';mctx.textAlign='center';
   for(const c of MCL){const n=c.events.length,w=Math.max(8,c.x1-c.x0+3),x=(c.x0+c.x1)/2-w/2;
-    mctx.fillStyle='rgba(95,211,255,.85)';mctx.fillRect(x,H-6-h,w,h);
+    mctx.fillStyle=c===hov?'#f0d48a':'rgba(95,211,255,.85)';mctx.fillRect(x,H-6-h,w,h);
     const cx=x+w/2;if(n>1&&cx-lastLabel>=22){lastLabel=cx;mctx.fillStyle='#e8dcc0';mctx.fillText(String(n),cx,H-9-h);}}
   const a=miniX(off,W),b=miniX(off+vw()/P,W);miniWin.style.left=a+'px';miniWin.style.width=Math.max(4,b-a)+'px';
-  const span=MR.b-MR.a;$('#miniA').textContent=miniDate(MR.a,span);$('#miniB').textContent=miniDate(MR.b,span);}
+  const span=MR.b-MR.a;$('#miniA').textContent=miniDate(MR.a,span);$('#miniB').textContent=miniDate(MR.b,span);
+  showMiniTip(hov,W);}
+function showMiniTip(c,W){if(!c){miniTip.classList.remove('on');return;}
+  const ev=c.events,n=ev.length,key=ev[0].id+'|'+n;
+  if(miniTip.dataset.k!==key){miniTip.dataset.k=key;
+    miniTip.innerHTML=n===1?`<b>${esc(ev[0].title)}</b><i>${esc(ev[0].around?fmtLong(ev[0]):fmtShort(ev[0]))}</i>`
+      :`<b>${n} moments</b>${ev.slice(0,4).map(e=>`<span>${esc(e.title)}</span>`).join('')}${n>4?`<span class="more">and ${n-4} more</span>`:''}<i>${esc(clusterLabel(ev))}</i>`;}
+  const tw=miniTip.offsetWidth,cx=(c.x0+c.x1)/2,l=Math.max(6,Math.min(W-tw-6,cx-tw/2));
+  miniTip.style.left=l+'px';miniTip.style.setProperty('--ax',(cx-l)+'px');miniTip.classList.add('on');}
 
 /* ---------- drawer ---------- */
 function openEvent(e,pan){active=e;setEventParam(e.id);$('#dScroll').scrollTop=0;const kc=KC[e.kind]||KC.history;drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');
