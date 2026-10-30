@@ -1,0 +1,20 @@
+{tone}
+This scene is a little sister's first magic going badly.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a cosy timber house in the snowy village of Canuck. Time and light: winter evening.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Nine-year-old Cordy, thrilled, has just fire-bolted her teenage brother Delman's bed and his model ship. Teenage Screech stares at the flames, more amused than angry.
+
+CAST
+- {cast:Screech} Here: a teenager.
+- Cordy: a delighted nine-year-old halfling girl with sparks at her fingertips.
+
+REFERENCES
+{references}

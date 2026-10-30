@@ -1,0 +1,20 @@
+{tone}
+This scene is a kingdom giving up its western frontier.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: a road through the Graywall Mountains. Time and light: dusk.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Brelish settlers and soldiers retreat east through the mountain pass with their carts, while on the ridge behind them a troll raises the new banner of Droaam.
+
+CAST
+- The settlers: Brelish settlers and soldiers.
+- The troll: a huge troll with a banner.
+
+REFERENCES
+{references}

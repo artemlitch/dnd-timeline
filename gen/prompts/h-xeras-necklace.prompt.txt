@@ -1,0 +1,19 @@
+{tone}
+This scene is a strange gift arriving with no sender.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:ardev/turckle-and-churckle}
+In this moment: a quiet corner of the tavern. Time and light: evening.
+{maps:The Turckle and Churckle}
+
+THE MOMENT
+Xera opens an unaddressed letter and lifts out a necklace with a dark stone that seems to drink the light.
+
+CAST
+- {cast:Xera} Here: a year younger.
+
+REFERENCES
+{references}

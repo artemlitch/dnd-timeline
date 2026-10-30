@@ -80,6 +80,22 @@
     return { p: Math.min(zmax, Math.max(fit, p * 2)), center: (a + b) / 2 };
   }
 
-  const api = { prepare, place, nearestShown, stepShown, clusterZoom, ROWS: 2 };
+  // px per day at which the closest two events in date order sit a card apart, so every event can show at full size
+  function maxZoom(events, cardPx) {
+    let gap = 1;
+    for (let i = 1; i < events.length; i++) gap = Math.min(gap, Math.max(events[i].di - events[i - 1].di, 1 / 24 / 60));
+    return Math.max(2400, cardPx / gap * 1.2);
+  }
+
+  // the date an event's panel shows; one known only to the year or month says "Around" instead of an invented day
+  function dateLabel(e, cal) {
+    const month = cal.monthNames[e.month - 1];
+    if (e.around === 'year') return `Around ${e.year} YK`;
+    if (e.around === 'month') return `Around ${month}, ${e.year} YK`;
+    const weekday = cal.dayNames[(e.day - 1) % 7], hour = String(e.hour || 0).padStart(2, '0');
+    return `${weekday}, ${month} ${e.day}, ${e.year} YK, ${hour}:00`;
+  }
+
+  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);

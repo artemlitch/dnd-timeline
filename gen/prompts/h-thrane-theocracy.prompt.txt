@@ -1,0 +1,20 @@
+{tone}
+This scene is a church taking the throne of a nation.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: the great cathedral of Flamekeep in Thrane, a pillar of silver fire. Time and light: day.
+{maps:Khorvaire Map}
+
+THE MOMENT
+The crown of Thrane is laid on an altar before a towering pillar of silver flame, while the Keeper of the Flame in white and silver robes raises her hands before a vast congregation of Silver Flame clergy and knights.
+
+CAST
+- The Keeper of the Flame: a priest in white and silver robes with a radiant silver symbol.
+- The congregation: Silver Flame clergy and knights in white and silver.
+
+REFERENCES
+{references}

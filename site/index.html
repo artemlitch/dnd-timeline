@@ -92,9 +92,8 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
   background:#000;border:1px solid var(--bronze);box-shadow:inset 0 0 0 1px rgba(240,212,138,.35),0 6px 16px rgba(0,0,0,.55)}
 .card,.mk,.ln,.cl{transition:top .42s cubic-bezier(.2,.7,.2,1),bottom .42s cubic-bezier(.2,.7,.2,1),height .42s cubic-bezier(.2,.7,.2,1),transform .42s cubic-bezier(.2,.7,.2,1),opacity .35s,filter .35s,box-shadow .15s}
 .card{transform-origin:50% 0}
-.card.ghost{transform:scale(.55);z-index:2;pointer-events:none;border-color:rgba(122,92,35,.4);box-shadow:none}
-.card>*{transition:opacity .35s}
-.card.ghost>*{opacity:.2}
+.card.ghost{transform:scale(.55);z-index:2;border-color:rgba(122,92,35,.4);box-shadow:none;filter:brightness(.6) saturate(.7)}
+.card.ghost:hover{filter:none;z-index:4}
 .ln.ghost{opacity:.15}
 .nt{transition:none !important}
 .card:hover,.card.active{box-shadow:inset 0 0 0 1px rgba(240,212,138,.7),0 0 0 1px var(--kc),0 0 18px color-mix(in srgb,var(--kc) 60%,transparent),0 8px 18px rgba(0,0,0,.6)}
@@ -354,15 +353,13 @@ const mName=m=>CAL.monthNames[m-1];
 const wName=d=>CAL.dayNames[(d-1)%7];
 const hh=h=>String(h).padStart(2,'0')+':00';
 function fmtShort(e){return `${mName(e.month)} ${e.day}, ${e.year} YK`;}
-function fmtLong(e){return `${wName(e.day)}, ${mName(e.month)} ${e.day}, ${e.year} YK, ${hh(e.hour||0)}`;}
+function fmtLong(e){return Placement.dateLabel(e,CAL);}
 
 function init(){
   if(window.TIMELINE_LOCAL)$('#localTag').hidden=false;
   DATA=window.TIMELINE;CAL=DATA.calendar;DPM=CAL.daysPerMonth;DPY=DPM*CAL.monthNames.length;
   EV=Placement.prepare(DATA);
-  // max zoom is whatever lets the closest pair of events in one row show as two full cards
-  let minGap=1;const prevIn={};for(const e of EV){const k=e.idx%ROWS;if(prevIn[k]!==undefined)minGap=Math.min(minGap,Math.max(e.di-prevIn[k],1/24/60));prevIn[k]=e.di;}
-  ZMAX=Math.max(2400,320/minGap*1.2);
+  ZMAX=Placement.maxZoom(EV,320);
   ERAS=DATA.eras.map(r=>({...r,a:dayIndex(r.start.year,r.start.month,r.start.day,0),b:dayIndex(r.end.year,r.end.month,r.end.day,0)+1}));
   // a session band spans its own events, coloured by its arc
   for(const [i,s] of (DATA.sessions||[]).entries()){const ev=EV.filter(e=>e.session===s.number);if(!ev.length)continue;

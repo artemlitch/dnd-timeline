@@ -1,0 +1,20 @@
+{tone}
+This scene is aging elders founding a hidden village.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hearthsfire}
+In this moment: a forest clearing where the first huts of Hearthsfire are going up. Time and light: afternoon.
+{maps:Hearthsfire}
+
+THE MOMENT
+Falken, younger, leads the aging shifter elders into the clearing as the first huts go up, glancing back toward the road where his son did not follow.
+
+CAST
+- {cast:Falken} Here: younger.
+- The elders: aging shifter elders.
+
+REFERENCES
+{references}

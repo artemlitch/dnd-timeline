@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place, nearestShown, stepShown, clusterZoom, ROWS } = require('../site/placement.js');
+const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
@@ -111,4 +111,28 @@ test('clicking a bubble at the closest zoom keeps the zoom', () => {
 test('stepping past the last full-size card gives nothing', () => {
   const shown = shownAt(0.5), list = events.filter(e => shown.has(e.id));
   assert.equal(stepShown(events, shown, list[list.length - 1], 1), null);
+});
+
+test('an event with a known day and hour shows them', () => {
+  assert.equal(dateLabel({ year: 993, month: 1, day: 18, hour: 8 }, timeline.calendar), 'Wir, Zarantyr 18, 993 YK, 08:00');
+});
+
+test('an event known only to the year says around that year', () => {
+  assert.equal(dateLabel({ year: 953, month: 1, day: 1, hour: 12, around: 'year' }, timeline.calendar), 'Around 953 YK');
+});
+
+test('an event known only to the month says around that month', () => {
+  assert.equal(dateLabel({ year: 992, month: 12, day: 1, hour: 12, around: 'month' }, timeline.calendar), 'Around Vult, 992 YK');
+});
+
+test('at the maximum zoom every event shows as a full card', () => {
+  const zmax = maxZoom(events, CARD);
+  assert.equal(shownAt(zmax).size, events.length);
+});
+
+test('a faded card is only dimmed, and can still be clicked open', () => {
+  const html = require('node:fs').readFileSync(require('node:path').join(__dirname, '../site/index.html'), 'utf8');
+  const ghost = [...html.matchAll(/\.card\.ghost[^{]*\{[^}]*\}/g)].map(m => m[0]).join(' ');
+  assert.doesNotMatch(ghost, /pointer-events:\s*none/);
+  assert.doesNotMatch(ghost, /opacity:\s*\.2\b/);
 });

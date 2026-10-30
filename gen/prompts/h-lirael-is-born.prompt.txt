@@ -1,0 +1,20 @@
+{tone}
+This scene is a drow family welcoming a son.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/xalri-house}
+In this moment: the Xal'ri family home in Ardev. Time and light: night, lamplight.
+{maps:Xal'ri House}
+
+THE MOMENT
+Felicia Sr, young, holds her newborn son Lirael while Lirael Sr, young and proud, leans over them.
+
+CAST
+- {cast:Felicia Sr} Here: young.
+- {cast:Lirael Sr} Here: young.
+
+REFERENCES
+{references}

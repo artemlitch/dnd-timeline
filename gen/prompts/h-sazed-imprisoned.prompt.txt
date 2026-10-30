@@ -1,0 +1,20 @@
+{tone}
+This scene is a spy in a cell after his cover breaks.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:khorvaire}
+In this moment: a stone holding cell. Time and light: grey light through a barred window.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Sazed sits shackled in a stone cell. Kynds the halfling leans against the bars outside, visiting.
+
+CAST
+- {cast:Sazed} Here: younger, shackled.
+- {cast:Kynds}
+
+REFERENCES
+{references}

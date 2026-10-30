@@ -1,0 +1,20 @@
+{tone}
+This scene is a five-year-old girl becoming head of a church and nation.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: the cathedral of Flamekeep, a pillar of silver fire. Time and light: day.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Five-year-old Jaela Daran stands small before the towering pillar of silver flame as the clergy kneel to her.
+
+CAST
+- Jaela Daran: a five-year-old girl in white and silver robes.
+- The clergy: Silver Flame clergy in white and silver.
+
+REFERENCES
+{references}

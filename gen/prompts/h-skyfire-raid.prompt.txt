@@ -1,0 +1,21 @@
+{tone}
+This scene is an air raid on a capital.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:wroat/wall-and-guns}
+In this moment: the walls of Wroat, the great guns firing. Time and light: night, fire and flak.
+{maps:Wroat From The Air}
+
+THE MOMENT
+An Aundairian airship fleet bombs Wroat while the great guns fire back. On the wall, Kal Valvier nervously mans a gun as Captain Flowers steadies him with a hand on his shoulder.
+
+CAST
+- {cast:Kal Valvier}
+- {cast:Captain Flowers} Here: younger.
+- The airships: Aundairian elemental airships.
+
+REFERENCES
+{references}

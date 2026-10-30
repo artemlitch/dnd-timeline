@@ -1,0 +1,20 @@
+{tone}
+This scene is a shifter village destroyed by the Silver Flame.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: a shifter village outside Passage burning. Time and light: night, firelight and white radiant light.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Silver Flame soldiers in white and silver sweep through a burning shifter village. Under a bed in a hut, a seven-year-old shifter boy, Sazed, hides and watches their boots pass.
+
+CAST
+- Sazed as a child: a seven-year-old shifter boy with wild hair.
+- The soldiers: Silver Flame templars in white and silver armour.
+
+REFERENCES
+{references}

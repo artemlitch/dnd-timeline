@@ -1,0 +1,20 @@
+{tone}
+This scene is a new police captain arriving as mercenaries move in.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/ardev-police-station}
+In this moment: the Ardev police station. Time and light: day.
+{maps:Ardev Police Station}
+
+THE MOMENT
+Captain Flowers sets his kit down in his new office. Through the window, Dragon's Claw mercenaries ride into town.
+
+CAST
+- {cast:Captain Flowers}
+- The mercenaries: Dragons Claw mercenaries on horseback.
+
+REFERENCES
+{references}

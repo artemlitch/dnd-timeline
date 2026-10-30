@@ -1,0 +1,20 @@
+{tone}
+This scene is a grieving son founding a militant shifter covenant.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: the burned ruins of the shifter village of FaltenStep in Thrane. Time and light: dusk.
+{maps:Khorvaire Map}
+
+THE MOMENT
+The Bloodsinger, young and grief-stricken, stands among the ashes of his father's village and swears an oath, a band of angry shifters gathering around him.
+
+CAST
+- {cast:The Bloodsinger} Here: young.
+- {cast:Covenant of Emberfall Druid} Here: several of them.
+
+REFERENCES
+{references}

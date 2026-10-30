@@ -1,0 +1,19 @@
+{tone}
+This scene is a memorial forest being planted.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:boranex-forest}
+In this moment: open fields outside Wroat, the city walls in the distance. Time and light: spring morning.
+{maps:Boranex Forest Night}
+
+THE MOMENT
+Rows of foresters and soldiers plant thousands of saplings across the fields outside Wroat in King Boranex's memory, a memorial stone at the centre.
+
+CAST
+- The planters: Brelish foresters and soldiers.
+
+REFERENCES
+{references}

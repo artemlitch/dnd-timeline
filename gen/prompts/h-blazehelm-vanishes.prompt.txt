@@ -1,0 +1,20 @@
+{tone}
+This scene is a war hero vanishing into the shadows.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a records office, a clerk striking a name from a ledger. Time and light: night, lamplight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+A clerk draws a line through Blazehelm's name in a military ledger, while Blazehelm himself, in a dark cloak over his armour, walks out of the lamplight into the night.
+
+CAST
+- {cast:Blazehelm} Here: younger, in a dark cloak over his armour.
+- The clerk: a Brelish military clerk.
+
+REFERENCES
+{references}

@@ -1,0 +1,19 @@
+{tone}
+This scene is an inventor beginning his life's work.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: Brand's military forge in Sharn, blueprints pinned everywhere, a forge glowing. Time and light: night, forge-light.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Brand bends over a workbench covered in blueprints of a suit of armour that shields not just its wearer but the people around it, a small shrine to Onatar glowing on the wall beside him.
+
+CAST
+- {cast:Brand} Here: younger, in a smith's leather apron, no power armor.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is a desperate king becoming a vampire.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a dark Karrnathi throne room of black stone, red banners. Time and light: night, candlelight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+King Kaius I of Karrnath, a hard-faced warrior king, kneels before a pale, beautiful elven lich queen in black, Lady Vol, who bends to bite his throat. Robed priests of the Blood of Vol watch from the shadows.
+
+CAST
+- Kaius I: a hard-faced human warrior king in black and red armour with a crown.
+- Lady Vol: a pale, beautiful elven lich queen in black, with a dragonmark of death.
+- The priests: robed priests of the Blood of Vol.
+
+REFERENCES
+{references}

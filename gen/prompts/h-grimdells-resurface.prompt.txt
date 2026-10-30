@@ -1,0 +1,23 @@
+{tone}
+This scene is a family of necromancers returning from the shadows.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a dim back room. Time and light: night, candlelight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+The Grimdell siblings sit at a candlelit table across from an elegant elf in House Thuranni's colours, sealing a contract.
+
+CAST
+- {cast:Gelion Grimdell}
+- {cast:Grail Grimdell}
+- {cast:Geraldine Grimdell}
+- {cast:Grave Grimdell}
+- The Thuranni agent: an elegant elf in dark House Thuranni colours.
+
+REFERENCES
+{references}

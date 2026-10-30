@@ -1,0 +1,20 @@
+{tone}
+This scene is a dead man revived by a zombie in a tunnel.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:darkwood-prison}
+In this moment: below the prison wall in the dark. Time and light: night, firelight from above.
+{maps:Prison Exterior 10ft squares}
+
+THE MOMENT
+Elerian, blasted through the prison wall and killed, opens his eyes again in the dirt. Crek Lobo, a mutilated awakened zombie, kneels over him. Behind them, a tunnel leads down into the mountain.
+
+CAST
+- {cast:Elarian} Here: dead and just revived, bloodied.
+- {cast:Crek Lobo}
+
+REFERENCES
+{references}

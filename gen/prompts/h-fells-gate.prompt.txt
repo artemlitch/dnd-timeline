@@ -1,0 +1,21 @@
+{tone}
+This scene is Brelish soldiers holding back a horror from below.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: a gate in the rock leading down into Khyber, the battlefield carpeted in strange fungus. Time and light: night, torchlight and sickly glow.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Brelish soldiers hold the gate against mind flayers rising from the depths, while clouds of myconid spores roll across the battlefield and infect the fallen.
+
+CAST
+- The mind flayers: tentacle-faced aberrations in dark robes.
+- The soldiers: Brelish soldiers in dark blue.
+- The myconids: walking fungus creatures releasing spores.
+
+REFERENCES
+{references}

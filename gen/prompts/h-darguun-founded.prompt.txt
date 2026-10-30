@@ -1,0 +1,20 @@
+{tone}
+This scene is a hobgoblin rebellion founding a nation.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: a battlefield in southeastern Khorvaire. Time and light: sunset.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Haruuc, a huge hobgoblin warlord, raises his banner over a captured Cyran fort as his hobgoblin army cheers below.
+
+CAST
+- Haruuc: a huge, scarred hobgoblin warlord.
+- {cast:Hobgoblin} Here: an army of them.
+
+REFERENCES
+{references}

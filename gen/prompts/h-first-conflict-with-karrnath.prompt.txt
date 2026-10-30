@@ -1,0 +1,20 @@
+{tone}
+This scene is the first battle of a century-long war, lost to the undead.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: a muddy battlefield on the Karrnathi border. Time and light: grey dawn, smoke.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Brelish soldiers in heavy armour forged by Brand lie dead in the mud, overrun by a tide of Karrnathi undead: skeletons and zombie soldiers in black and red. In the foreground Brand kneels among the fallen squad, holding a dented helmet he made, his face hollow with guilt.
+
+CAST
+- {cast:Brand} Here: younger, in a smith's leather apron and plain armour, no power armor.
+- The undead: Karrnathi skeletons and zombie soldiers in black and red.
+
+REFERENCES
+{references}

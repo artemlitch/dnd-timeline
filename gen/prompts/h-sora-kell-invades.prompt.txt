@@ -1,0 +1,20 @@
+{tone}
+This scene is a monstrous army invading a kingdom.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: the hills of western Breland. Time and light: storm.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Three hag sisters lead an army of trolls, ogres and gnolls over the hills of western Breland.
+
+CAST
+- The Daughters of Sora Kell: three monstrous hag sisters.
+- The army: trolls, ogres and gnolls.
+
+REFERENCES
+{references}

@@ -1,0 +1,20 @@
+{tone}
+This scene is a grieving kingdom crowning a new king.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:wroat/brokenblade-castle-and-citadel}
+In this moment: the throne hall of Brokenblade Castle, draped in mourning black. Time and light: day.
+{maps:Wroat From The Air}
+
+THE MOMENT
+Young Boranel, hurriedly summoned from Sharn, kneels to be crowned in a hall draped in black for his father and two brothers, nobles and High Marshals standing grim around him.
+
+CAST
+- Boranel: a young, broad-shouldered human prince with a red beard.
+- The court: Brelish nobles and High Marshals in mourning.
+
+REFERENCES
+{references}

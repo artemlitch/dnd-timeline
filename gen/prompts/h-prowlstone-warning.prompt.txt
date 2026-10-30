@@ -1,0 +1,21 @@
+{tone}
+This scene is a spy betraying his orders to save a village.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: the shifter village of Prowlstone in the Eldritch Groves. Time and light: night.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Sazed, in an Aundairian officer's coat, gives his warning to the village elders by firelight. Nedira, younger, stands behind them, already reaching for his weapon.
+
+CAST
+- {cast:Sazed} Here: younger, in an Aundairian officer's coat.
+- {cast:Nedira} Here: younger.
+- The elders: shifter elders of Prowlstone.
+
+REFERENCES
+{references}

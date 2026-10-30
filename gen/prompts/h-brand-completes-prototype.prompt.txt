@@ -1,0 +1,19 @@
+{tone}
+This scene is an inventor's armour coming to life after forty years.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: Brand's forge in Sharn. Time and light: night, the glow of a holy core.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Brand stands back as the finished prototype suit of power armour comes alive on its stand, a holy core of golden light igniting in its chest, his face lit with awe. Stacks of locked plans sit unreleased on the bench behind him.
+
+CAST
+- {cast:Brand} Here: in a smith's leather apron, not wearing the armour.
+
+REFERENCES
+{references}

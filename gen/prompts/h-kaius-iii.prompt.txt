@@ -1,0 +1,20 @@
+{tone}
+This scene is a young king crowned.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a Karrnathi throne room of black stone. Time and light: day.
+{maps:Khorvaire Map}
+
+THE MOMENT
+A young man of twenty, Kaius III, is crowned in the black stone hall of Karrnath before ranks of soldiers.
+
+CAST
+- Kaius III: a young, pale human king of twenty.
+- The soldiers: Karrnathi soldiers in black and red.
+
+REFERENCES
+{references}

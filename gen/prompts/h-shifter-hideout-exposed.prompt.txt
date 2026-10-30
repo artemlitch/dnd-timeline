@@ -1,0 +1,20 @@
+{tone}
+This scene is a secret refuge discovered.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:shifter-hideout}
+In this moment: a hidden shifter hideout in the woods. Time and light: dusk.
+{maps:Abandoned Shack}
+
+THE MOMENT
+Shifters flee their hidden refuge through the trees as soldiers' lanterns appear between the trunks.
+
+CAST
+- The shifters: shifters of all ages with wild hair.
+- The soldiers: soldiers with lanterns.
+
+REFERENCES
+{references}

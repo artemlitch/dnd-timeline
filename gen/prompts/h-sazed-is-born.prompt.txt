@@ -1,0 +1,19 @@
+{tone}
+This scene is a shifter child's birth in a village hut.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a shifter family's hut in a village outside Passage. Time and light: night, firelight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+In a warm, firelit hut, a shifter mother holds her newborn son, Sazed, while the father leans over them, both with wild hair and faintly bestial features.
+
+CAST
+- The family: a shifter mother and father with wild hair and faintly bestial features, and their newborn son.
+
+REFERENCES
+{references}

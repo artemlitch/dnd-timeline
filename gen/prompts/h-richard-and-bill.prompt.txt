@@ -1,0 +1,19 @@
+{tone}
+This scene is two young dragons flying toward a town and vanishing.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:skies-over-breland}
+In this moment: the skies over the hills toward Ardev. Time and light: dusk.
+{maps:Ardev}
+
+THE MOMENT
+Two young dragons, one blue and one red, fly toward Ardev on the horizon, the last time anyone sees them.
+
+CAST
+- Richard and Bill: two young dragons, one blue and one red.
+
+REFERENCES
+{references}

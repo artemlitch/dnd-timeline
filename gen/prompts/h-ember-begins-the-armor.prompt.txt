@@ -1,0 +1,20 @@
+{tone}
+This scene is a sister starting forty years of work for her imprisoned brother.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:starilaskur/starilaskur-broadhelm-forge}
+In this moment: the Broadhelm forge. Time and light: night, forge-glow.
+{maps:Starilaskur}
+
+THE MOMENT
+Ember Broadhelm, decades younger, hammers the first plate of a new suit of power armour for her imprisoned brother, a portrait of Brand propped on the workbench.
+
+CAST
+- {cast:Ember} Here: decades younger.
+- {cast:Brand} Here: not present in person, only in a small portrait on the workbench.
+
+REFERENCES
+{references}
