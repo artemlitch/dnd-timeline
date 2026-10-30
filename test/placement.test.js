@@ -137,6 +137,11 @@ test('a faded card is only dimmed, and can still be clicked open', () => {
   assert.doesNotMatch(ghost, /opacity:\s*\.2\b/);
 });
 
+test('a card that does not match the search fades to a fifth', () => {
+  const html = require('node:fs').readFileSync(require('node:path').join(__dirname, '../site/index.html'), 'utf8');
+  assert.match(html, /\.card\.dim>\*\{opacity:\.2\}/);
+});
+
 test('a search never hides an event: one that does not match is drawn dimmed', () => {
   const e = { id: 'x', title: 'Saxophone Solo', kind: 'social' };
   assert.equal(cardLook(e, new Map(), 'kingsblade'), 'dimmed');
