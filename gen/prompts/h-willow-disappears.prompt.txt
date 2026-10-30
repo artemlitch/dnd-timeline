@@ -13,7 +13,7 @@ THE MOMENT
 Willow stands over the young shifters gathered around a chest of stolen Aundairian gold, warning them, one hand raised. The young shifters laugh. Behind her, the dark forest waits.
 
 CAST
-- {cast:Willow}
+- Willow: an elderly female shifter, stooped but fierce, with long grey wild hair, a weathered face with bestial features, pointed ears and sharp yellow eyes, in worn furs and leather.
 - The young shifters: brash young shifters with wild hair, pointed ears and bestial features.
 
 REFERENCES

@@ -1,0 +1,19 @@
+{tone}
+This scene is the founding of a faith.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a hill in Thrane. Time and light: dusk, silver firelight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+A pillar of silver fire rises from a cleft in the hill while the first faithful kneel around it in white robes, raising the first chapel stones.
+
+CAST
+- The faithful: humans in plain white robes, kneeling in awe.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is weapons forged against the Dreamweaver.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a great arcane forge-hall of the dragonmarked houses. Time and light: arcane light.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Dragonmarked artificers of many houses stand around a towering black Obelisk and a great stone Gate, inscribing runes that glow as they are carved, while the shadow of the Dreamweaver presses against the windows.
+
+CAST
+- The artificers: dragonmarked men and women of many houses, marks glowing on their skin.
+- The Obelisk: a tall black monolith carved with runes.
+- The Gate: a massive arched stone gateway.
+
+REFERENCES
+{references}

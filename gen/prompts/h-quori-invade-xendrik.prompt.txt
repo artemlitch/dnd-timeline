@@ -1,0 +1,20 @@
+{tone}
+This scene is a war of giants against nightmares.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: the jungle continent of Xen'drik. Time and light: a sky torn open by a violet rift.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Giant mages in ancient robes raise a blinding ritual against a sky full of quori, alien dream spirits pouring from a violet rift, as the coastline behind them cracks and sinks into the sea.
+
+CAST
+- The giants: towering mages and warriors of an ancient empire.
+- The quori: nightmarish dream spirits, many-limbed and shifting.
+
+REFERENCES
+{references}

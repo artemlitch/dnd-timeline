@@ -1,0 +1,20 @@
+{tone}
+This scene is human settlements pushing into goblin lands.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: the plains of central Khorvaire. Time and light: late afternoon.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Human settlers raise palisade towns across the central plains, while goblinoid warbands watch from the hills at the edge of their shrinking lands.
+
+CAST
+- The settlers: early humans in simple armour and homespun.
+- The goblinoids: hobgoblin and goblin warbands.
+
+REFERENCES
+{references}

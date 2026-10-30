@@ -1,0 +1,19 @@
+{tone}
+This scene is a kingdom rebuilt from ruin.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a half-rebuilt throne hall. Time and light: bright morning.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Galifar II is crowned in a throne hall still under scaffolding, masons and soldiers cheering as the banners of Galifar are raised again.
+
+CAST
+- Galifar II: a young human king, solemn, in a simple crown.
+
+REFERENCES
+{references}

@@ -1,0 +1,20 @@
+{tone}
+This scene is a town founded for outcasts.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:ardev}
+In this moment: the site of Ardev before the town. Time and light: morning.
+{maps:Ardev}
+
+THE MOMENT
+Alton Ardev leads a band of drow, goblins and other outcasts into a valley, marking out the first houses above ground while others dig the first tunnels below.
+
+CAST
+- Alton Ardev: a determined human founder in travelling clothes.
+- The settlers: drow, goblins and others rejected elsewhere.
+
+REFERENCES
+{references}

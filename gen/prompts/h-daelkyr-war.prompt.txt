@@ -1,0 +1,21 @@
+{tone}
+This scene is the madness of Xoriat breaking into the world.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: western Khorvaire, the land warped and twisted. Time and light: a sickly purple sky.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Gatekeeper druids hold a line of glowing seals against tall, beautiful, alien daelkyr lords and their aberrations pouring from a portal of writhing flesh. Above it all, a vast shadowy shape of the Dreamweaver watches from the clouds.
+
+CAST
+- The daelkyr: tall, beautiful, alien lords from Xoriat.
+- The Gatekeepers: orc druids in furs and woad.
+- The Dreamweaver: a vast, half-seen shadow in the sky, eyes like dreams.
+
+REFERENCES
+{references}

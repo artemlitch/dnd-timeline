@@ -1,0 +1,20 @@
+{tone}
+This scene is a holy war on shifters.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a burning forest village. Time and light: night, torchlight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Templars of the Silver Flame in silver armour drive shifter families out of a burning forest village at torch and spearpoint.
+
+CAST
+- The templars: Silver Flame knights in silver armour and white tabards.
+- The shifters: wild-haired, bestial-featured families.
+
+REFERENCES
+{references}

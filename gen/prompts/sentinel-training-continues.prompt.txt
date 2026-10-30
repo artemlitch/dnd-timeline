@@ -1,0 +1,24 @@
+{tone}
+This scene is a long day of training.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:hobbstweedle/obstacle-course}
+In this moment: the obstacle course. Time and light: afternoon.
+{maps:Obstacle Course}
+
+THE MOMENT
+The party runs the Sentinel obstacle course again, climbing walls and swinging over pits, while Sentinel instructors shout from the sidelines.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Thaldamir}
+- {cast:Elarian}
+- The instructors: Sentinel officers in uniform.
+
+REFERENCES
+{references}

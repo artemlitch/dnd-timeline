@@ -1,0 +1,19 @@
+{tone}
+This scene is the myth of the world's making.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: the void before the world. Time and light: starlight and golden fire.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Three colossal Progenitor Wyrms coil in the void. Khyber, dark and serpentine, tears into golden Siberys, scattering his body into a glittering ring of dragonshards, while green Eberron wraps herself around Khyber, becoming a living world of forests and seas that imprisons him below.
+
+CAST
+- The Progenitor Wyrms: three titanic dragons, Siberys golden, Khyber black, Eberron green.
+
+REFERENCES
+{references}

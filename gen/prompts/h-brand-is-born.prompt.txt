@@ -1,0 +1,20 @@
+{tone}
+This scene is a dwarf smith family welcoming a son.
+
+FRAMING
+{framing:close}
+
+SETTING
+{setting:khorvaire}
+In this moment: a home above the Broadhelm forge. Time and light: night, firelight.
+{maps:Khorvaire Map}
+
+THE MOMENT
+A dwarf mother holds her newborn son by the fire while his father, still in his smith's apron, looks down at him with pride.
+
+CAST
+- {cast:Brand} Here: a newborn dwarf baby swaddled in a blanket, nothing of the grown man yet.
+- His parents: a dwarf smith and his wife.
+
+REFERENCES
+{references}

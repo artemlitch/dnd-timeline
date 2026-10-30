@@ -1,0 +1,22 @@
+{tone}
+This scene is a bluff that gets an enemy talking.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:ardev/lirael-srs-den}
+In this moment: Lirael Sr.'s den. Time and light: night, candlelight.
+{maps:Lireal Sr Secret Office}
+
+THE MOMENT
+The party stand stiff and blank-eyed, pretending to be possessed, while Grave Grimdell circles them, pleased, explaining the Dreamweaver's plan.
+
+CAST
+- {cast:Lirael} Here: blank-eyed, pretending to be possessed.
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Grave Grimdell}
+
+REFERENCES
+{references}

@@ -1,0 +1,20 @@
+{tone}
+This scene is a sacrifice that seals the fiends beneath the world.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: a burning primordial wasteland. Time and light: hellfire and radiant light.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Hundreds of feathered, rainbow-winged couatls dive into a vast chasm, dissolving into chains of radiant light that drag giant demon lords down into the dark below. A few great dragons watch from the cliffs before turning to leave.
+
+CAST
+- The couatls: feathered winged serpents in brilliant colours.
+- The demon lords: colossal fiends of fire, horn and shadow.
+
+REFERENCES
+{references}

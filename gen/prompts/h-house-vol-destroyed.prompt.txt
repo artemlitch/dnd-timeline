@@ -1,0 +1,19 @@
+{tone}
+This scene is the fall of an elven house and the birth of a lich.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a ruined elven citadel. Time and light: dragonfire at night.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Elven warriors and dragons burn the citadel of House Vol. In the ash, Lady Vol rises as a lich, her elven face gaunt and her eyes cold green fire, the Mark of Death glowing on her skin.
+
+CAST
+- Lady Vol: an elven noblewoman turned lich, regal and terrible.
+
+REFERENCES
+{references}

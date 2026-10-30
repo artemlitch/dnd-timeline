@@ -1,0 +1,19 @@
+{tone}
+This scene is a king uniting five lands.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a war camp on the plains. Time and light: morning.
+{maps:Khorvaire Map}
+
+THE MOMENT
+King Galifar I is raised on a shield before kneeling lords of five lands, their banners lowered before his.
+
+CAST
+- Galifar I: a powerful human warlord-king in plate and crown.
+
+REFERENCES
+{references}

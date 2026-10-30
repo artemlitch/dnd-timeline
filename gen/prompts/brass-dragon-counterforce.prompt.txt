@@ -1,0 +1,24 @@
+{tone}
+This scene is nightmares pushed back by a golden dragon.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:hobbstweedle/gelf-elric-screech-house}
+In this moment: a bedroom at night. Time and light: night, golden light.
+{maps:Gelf, Elric & Screechs House#3}
+
+THE MOMENT
+The party sleep fitfully in their beds while dark nightmare shapes crowd the walls, and a glowing brass dragon of light coils over them, driving the shadows back.
+
+CAST
+- {cast:Lirael}
+- {cast:Sazed}
+- {cast:Brand}
+- {cast:Thaldamir}
+- {cast:Elarian}
+- The Brass Dragon: a radiant, golden dragon of light.
+
+REFERENCES
+{references}

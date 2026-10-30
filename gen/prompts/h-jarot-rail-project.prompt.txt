@@ -1,0 +1,19 @@
+{tone}
+This scene is a king breaking ground on a great project.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: an open plain with surveyors' flags. Time and light: bright day.
+{maps:Khorvaire Map}
+
+THE MOMENT
+King Jarot drives a silver spike into the first rail of a vast new lightning rail line, engineers and workers stretching away along the route behind him.
+
+CAST
+- King Jarot: a stately older human king in Galifar's colours.
+
+REFERENCES
+{references}

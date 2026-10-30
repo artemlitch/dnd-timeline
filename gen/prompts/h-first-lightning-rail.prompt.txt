@@ -1,0 +1,19 @@
+{tone}
+This scene is the first lightning rail leaving the station.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: a station in Flamekeep. Time and light: day.
+{maps:Khorvaire Map}
+
+THE MOMENT
+The first lightning rail coach pulls out above a line of glowing conductor stones, blue lightning crackling under it, as crowds cheer from the platform.
+
+CAST
+- The crowd: Thrane citizens in their best clothes.
+
+REFERENCES
+{references}

@@ -1,0 +1,21 @@
+{tone}
+This scene is a mirror that opens the way to a nightmare.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: the capital of old Galifar in ruins. Time and light: night, violet light.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Creed Odeon stands before his shattered Shadowmirror as the Dreamweaver pours out of it over a burning city, and on the far side of the square the Skull Knight raises the black Obelisk before the great stone Gate to drive it back.
+
+CAST
+- Creed Odeon: a gaunt human wizard in dark robes.
+- {cast:The Skull Knight}
+- The Dreamweaver: a vast, half-seen shadow with eyes like dreams.
+
+REFERENCES
+{references}

@@ -1,0 +1,20 @@
+{tone}
+This scene is a family forge being built.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a mountainside forge in the Blackcap Mountains. Time and light: snowy morning, forge glow.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Ulnar and Kathla Broadhelm, a dwarf couple, hang the first Broadhelm sign above a new stone forge cut into the mountainside.
+
+CAST
+- Ulnar Broadhelm: a broad dwarf smith with a braided black beard.
+- Kathla Broadhelm: a dwarf smith with braided red hair, hammer on her shoulder.
+
+REFERENCES
+{references}

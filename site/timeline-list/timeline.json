@@ -11,7 +11,13 @@
    "According to myth, the Progenitor Wyrms create reality and the thirteen planes. Khyber turns against the others and tears Siberys apart.",
    "Eberron coils around Khyber and becomes the living world and prison of the Dragon Below. Siberys’s shattered body becomes the golden ring of dragonshards surrounding the world, while Khyber becomes the vast world beneath."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-creation",
+    "title": "The Creation of Eberron, Khyber and Siberys",
+    "img": "img/h-creation.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -26,7 +32,13 @@
    "Recognizing that the war against Khyber’s fiends cannot otherwise be won, the couatls sacrifice most of their number to bind the most powerful demon lords and the majority of the fiends beneath Khyber.",
    "The surviving dragons withdraw to Argonnessen to contemplate the Draconic Prophecy, leaving the bound fiends imprisoned below the world."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-couatls-bind-the-demons",
+    "title": "Couatls Bind the Demon Lords Beneath Khyber",
+    "img": "img/h-couatls-bind-the-demons.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -41,7 +53,13 @@
    "The quori invade Xen’drik from Dal Quor, the Plane of Dreams, beginning a devastating war against the giants.",
    "The giants ultimately use immensely powerful magic to throw Dal Quor out of planar alignment and seal it away from Eberron. The magical backlash devastates Xen’drik and sinks large portions of the continent beneath the sea."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-quori-invade-xendrik",
+    "title": "The Quori Invade Xen'drik",
+    "img": "img/h-quori-invade-xendrik.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -58,7 +76,13 @@
    "Note the Gatekeepers are a distinct group from the Watchers of the Gate.",
    "Around the same era, the Dhakaani unite the goblinoid nations of Khorvaire into the great Dhakaani Empire."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-vvaraak-and-the-gatekeepers",
+    "title": "Vvaraak Teaches Druidic Magic; the First Gatekeepers Arise",
+    "img": "img/h-vvaraak-and-the-gatekeepers.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -74,7 +98,13 @@
    "The Wroat Military Library records identify this Daelkyr War as the First Incursion: the Dreamweaver first appears during the conflict and makes its first known attempt to build an empire in the material plane through large-scale possession.",
    "Sources: Wroat Military Library Dreamweaver Books (played library information) + supplied Eberron setting timeline; -8,000 date supplied by the GM"
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-daelkyr-war",
+    "title": "The First Incursion: the Daelkyr War",
+    "img": "img/h-daelkyr-war.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -89,7 +119,13 @@
    "Elves and dragons unite to destroy House Vol, the elven line that bears the Mark of Death, bringing the house to ruin.",
    "Lady Vol survives as the lich Queen of the Dead."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-house-vol-destroyed",
+    "title": "House Vol Is Destroyed; Lady Vol Becomes the Lich Queen",
+    "img": "img/h-house-vol-destroyed.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -104,7 +140,13 @@
    "Human settlements expand across central Khorvaire, carving territory out of lands still controlled by goblinoid peoples.",
    "These settlements develop into the political foundations of the Five Nations that will later dominate central Khorvaire."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-five-nations-emerge",
+    "title": "The Future Five Nations Emerge",
+    "img": "img/h-five-nations-emerge.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -122,7 +164,13 @@
    "Over the centuries, the Twelve becomes one of the central institutions behind the technological and arcane development of the dragonmarked houses.",
    "Sources: Wroat Military Library Dreamweaver Books (played library information) + supplied Eberron setting timeline (Wizards of the Coast)"
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-second-incursion",
+    "title": "The Second Incursion; the Twelve Is Established",
+    "img": "img/h-second-incursion.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -137,7 +185,13 @@
    "The Kingdom of Galifar is established roughly four decades before the Third Incursion.",
    "This date is an approximate reconstruction rather than a date stated directly in the Dreamweaver library text."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-galifar-founded",
+    "title": "The Kingdom of Galifar Is Founded",
+    "img": "img/h-galifar-founded.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -153,7 +207,13 @@
    "Those records describe the Third Incursion as resulting in the destruction of the Kingdom of Galifar and the death of King Galifar I.",
    "The Skull Knight is said in those records to end the Third Incursion using the Obelisk and the Gate."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-third-incursion",
+    "title": "The Third Incursion",
+    "img": "img/h-third-incursion.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -167,7 +227,13 @@
   "sidebar": [
    "The Kingdom of Galifar is reconstituted by Galifar II in the year 1, seven years after the Third Incursion."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-galifar-refounded",
+    "title": "Galifar II Refounds Galifar",
+    "img": "img/h-galifar-refounded.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -182,7 +248,13 @@
    "The Church of the Silver Flame is founded, establishing the religious institution that will become one of the great powers of Khorvaire.",
    "The faith later becomes especially dominant in Thrane and profoundly shapes the political and religious history of the continent."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-silver-flame-founded",
+    "title": "The Church of the Silver Flame Is Founded",
+    "img": "img/h-silver-flame-founded.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -197,7 +269,13 @@
    "Alton Ardev establishes the settlement that becomes Ardev as a refuge for drow, goblinoids and others rejected elsewhere.",
    "The community grows both above and below ground, laying the foundation for modern Ardev and Lower Ardev."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-ardev-founded",
+    "title": "Alton Ardev Founds Ardev",
+    "img": "img/h-ardev-founded.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -212,7 +290,13 @@
    "Ulnar and Kathla Broadhelm establish the Broadhelm Smithery in the Blackcap Mountains in 680 YK.",
    "Over the following centuries the Broadhelm name grows into a household name across Breland, laying the foundation for Brand’s family legacy."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-broadhelm-smithery-founded",
+    "title": "Ulnar and Kathla Broadhelm Found the Broadhelm Smithery",
+    "img": "img/h-broadhelm-smithery-founded.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -226,7 +310,13 @@
   "sidebar": [
    "Brand Broadhelm is born, approximately 215 years before the current campaign year."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-brand-is-born",
+    "title": "Brand Broadhelm Is Born",
+    "img": "img/h-brand-is-born.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -241,7 +331,13 @@
    "The first lightning rail line begins operation, connecting Flamekeep in Thrane with Fairhaven in Aundair.",
    "The new transportation system marks the beginning of the lightning rail network that will eventually bind much of central Khorvaire together."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-first-lightning-rail",
+    "title": "The First Lightning Rail Runs from Flamekeep to Fairhaven",
+    "img": "img/h-first-lightning-rail.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -256,7 +352,13 @@
    "The Church of the Silver Flame launches the great inquisition against Lycanthropes and Shifters, beginning the campaign later known as the Silver Purge.",
    "The purge continues for roughly fifty years and kills virtually all Lycanthropes and Shifters across Khorvaire, leaving a lasting legacy of fear and persecution."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-silver-purge",
+    "title": "The Silver Purge Begins",
+    "img": "img/h-silver-purge.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -271,7 +373,13 @@
    "The Brelish Army approaches the Broadhelms for an arms contract roughly 160 years before the campaign.",
    "Brand takes the opportunity to represent the family directly, trains with the Brelish military and establishes his own military forge in Sharn."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-brand-joins-the-army",
+    "title": "Brand Enters Brelish Military Service",
+    "img": "img/h-brand-joins-the-army.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -286,7 +394,13 @@
    "King Jarot begins an ambitious public-works project intended to connect the heart of Khorvaire through an expanded lightning-rail network.",
    "The project accelerates the transformation of the Five Nations into an increasingly interconnected industrial society."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-jarot-rail-project",
+    "title": "King Jarot Begins the Central Lightning Rail Project",
+    "img": "img/h-jarot-rail-project.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -301,7 +415,13 @@
    "The expanding lightning-rail network now connects the Five Nations with Zilargo, the Mror Holds and the Talenta Plains.",
    "The system becomes one of the major arteries for civilian travel, commerce and military movement across Khorvaire."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "h-lightning-rail-network",
+    "title": "The Lightning Rail Connects the Five Nations",
+    "img": "img/h-lightning-rail-network.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -930,7 +1050,7 @@
    {
     "event": "h-willow-disappears",
     "title": "Willow Disappears",
-    "img": "img/h-willow-disappears.v2.jpg"
+    "img": "img/h-willow-disappears.v3.jpg"
    }
   ],
   "not_in_doc": []
@@ -2430,7 +2550,13 @@
   "sidebar": [
    "Sentinel training and downtime continue."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "sentinel-training-continues",
+    "title": "Sentinel Training Continues",
+    "img": "img/sentinel-training-continues.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -3567,7 +3693,13 @@
   "sidebar": [
    "The party’s nightmares continue, but the Brass Dragon imagery increasingly acts as a counterforce."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "brass-dragon-counterforce",
+    "title": "The Brass Dragon Holds Back the Nightmares",
+    "img": "img/brass-dragon-counterforce.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {
@@ -4211,7 +4343,13 @@
   "sidebar": [
    "They bluff Grave into believing they are possessed. Grave describes the Dreamweaver’s infiltration as being directed by The Shepherd, reveals the plan to use them to infiltrate the Sentinels, and explains that the Sentinels are difficult to influence indirectly through possessed high-ranking officers."
   ],
-  "images": [],
+  "images": [
+   {
+    "event": "bluffing-grave",
+    "title": "Bluffing Grave",
+    "img": "img/bluffing-grave.v1.jpg"
+   }
+  ],
   "not_in_doc": []
  },
  {

@@ -1,0 +1,19 @@
+{tone}
+This scene is a continent bound together by rail.
+
+FRAMING
+{framing:epic}
+
+SETTING
+{setting:khorvaire}
+In this moment: a great rail junction. Time and light: dusk.
+{maps:Khorvaire Map}
+
+THE MOMENT
+Lightning rail lines fan out across the plains from a great junction, trains crackling with blue lightning heading off toward distant mountains and grasslands.
+
+CAST
+- The travellers: gnomes, dwarves, halflings and humans on the platforms.
+
+REFERENCES
+{references}

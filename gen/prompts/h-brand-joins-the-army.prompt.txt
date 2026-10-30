@@ -1,0 +1,20 @@
+{tone}
+This scene is a young dwarf smith signing up.
+
+FRAMING
+{framing:medium}
+
+SETTING
+{setting:khorvaire}
+In this moment: a military forge in Sharn. Time and light: day, forge glow.
+{maps:Khorvaire Map}
+
+THE MOMENT
+A young Brand, in a smith's apron, shakes hands with a Brelish officer in his new military forge in Sharn, racks of fresh weapons behind them.
+
+CAST
+- {cast:Brand} Here: young, in a smith's leather apron, no power armor.
+- The officer: a Brelish army officer in blue and grey.
+
+REFERENCES
+{references}

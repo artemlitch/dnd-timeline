@@ -1,0 +1,20 @@
+{tone}
+This scene is a dragon teaching druids at the dawn of history.
+
+FRAMING
+{framing:wide}
+
+SETTING
+{setting:khorvaire}
+In this moment: a misty primeval forest in western Khorvaire. Time and light: dawn.
+{maps:Khorvaire Map}
+
+THE MOMENT
+The great black dragon Vvaraak lies coiled among standing stones in a primeval forest, teaching a circle of orc druids. Green light rises from their hands into the roots and trees around them.
+
+CAST
+- Vvaraak: an ancient, enormous black dragon, wise and calm.
+- The orc druids: the first Gatekeepers, in furs, bone and woad.
+
+REFERENCES
+{references}
