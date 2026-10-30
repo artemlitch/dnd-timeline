@@ -10701,7 +10701,7 @@
       "session": 29,
       "kind": "battle",
       "major": true,
-      "img": "img/skull-knight-turtle-fortress.v2.jpg",
+      "img": "img/skull-knight-turtle-fortress.v3.jpg",
       "summary": "Sazed plants a smokepowder satchel on the train's elemental ring and jumps. The Skull Knight catches him, and the train slams into the fortress and blows its head off.",
       "detail": "Brand detaches the last car with the final decoupler while Lirael thunderwaves to slow it. Lirael's mage hand signals the Moonwatch through the smoke, and Cromwell's mage hand retrieves The Even Hand's rune from the astral realm. The Skull Knight rides Sazed back to the detached car, then vanishes as the smoke clears. The Moonwatch takes a little more fire before the train is out of range. Climbing the rope, they watch the explosion destroy the fortress's head before the whole fortress turns invisible.",
       "tags": [
@@ -10713,7 +10713,7 @@
         "Lirael",
         "Cromwell"
       ],
-      "img_version": 2
+      "img_version": 3
     },
     {
       "id": "felicias-reunion",

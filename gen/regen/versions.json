@@ -9866,6 +9866,26 @@
    ],
    "cost": 0.03494025,
    "at": "2026-10-23T13:28:01"
+  },
+  {
+   "version": 3,
+   "file": "site/img/skull-knight-turtle-fortress.v3.jpg",
+   "model": "google/gemini-3.1-flash-lite-image",
+   "prompt": "gen/prompts/skull-knight-turtle-fortress.prompt.txt",
+   "style": "gritty fantasy in the world of Dungeons & Dragons Eberron: worn and lived-in people, creatures and places, weathered gear, rich, saturated colour, and magic glowing vividly wherever it appears: arcane lamps, dragonshards, spell light and enchanted machinery throw coloured light across the scene. Soft, diffused shadows that fade gently rather than cut, with a faint rim of light along the edges of figures separating them from the background. Strong atmospheric depth: the foreground is sharp, the middle distance softens, and the background fades into dusty haze. No hard outlines anywhere.",
+   "lineup": [
+    "Lirael",
+    "Brand",
+    "Sazed",
+    "The Skull Knight"
+   ],
+   "refs": [
+    "Character lineup",
+    "Mobile Fortress map"
+   ],
+   "cost": 0.034664,
+   "at": "2026-10-29T17:53:51",
+   "draft": "gen/drafts/skull-knight-turtle-fortress/20261029-175351-152000.jpg"
   }
  ],
  "felicias-reunion": [
