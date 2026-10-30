@@ -96,6 +96,19 @@
     return `${weekday}, ${month} ${e.day}, ${e.year} YK, ${hour}:00`;
   }
 
-  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, ROWS: 2 };
+  // whether an event matches a lowercase search; an empty search matches everything
+  function matches(e, query) {
+    if (!query) return true;
+    if (!e._q) e._q = [e.title, (e.tags || []).join(' '), e.summary, e.detail, e.arc, e.act, e.session ? `session ${e.session} s${e.session}` : '', e.kind].join(' ').toLowerCase();
+    return e._q.includes(query);
+  }
+
+  // a search never hides an event: matches with room are full cards, without room faded, and the rest dimmed
+  function cardLook(e, placed, query) {
+    if (!matches(e, query)) return 'dimmed';
+    return placed.has(e.id) ? 'full' : 'faded';
+  }
+
+  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);

@@ -94,6 +94,9 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
 .card{transform-origin:50% 0}
 .card.ghost{transform:scale(.55);z-index:2;border-color:rgba(122,92,35,.4);box-shadow:none;filter:brightness(.6) saturate(.7)}
 .card.ghost:hover{filter:none;z-index:4}
+.card.dim{transform:scale(.7);z-index:1;opacity:.55;filter:saturate(.5);box-shadow:none}
+.card.dim:hover{opacity:1;filter:none;z-index:4}
+.mk.dim{opacity:.45}
 .ln.ghost{opacity:.15}
 .nt{transition:none !important}
 .card:hover,.card.active{box-shadow:inset 0 0 0 1px rgba(240,212,138,.7),0 0 0 1px var(--kc),0 0 18px color-mix(in srgb,var(--kc) 60%,transparent),0 8px 18px rgba(0,0,0,.6)}
@@ -388,11 +391,7 @@ function schedule(relayout){if(relayout)relayoutPending=true;if(!raf)raf=request
 function bindSearch(){
   $('#search').addEventListener('input',e=>{query=e.target.value.trim().toLowerCase();schedule(true);});
 }
-function visible(e){
-  if(!query)return true;
-  if(!e._q)e._q=[e.title,(e.tags||[]).join(' '),e.summary,e.detail,e.arc,e.act,e.session?'session '+e.session+' s'+e.session:'',e.kind].join(' ').toLowerCase();
-  return e._q.includes(query);
-}
+function visible(e){return Placement.matches(e,query);}
 
 /* ---------- eras ---------- */
 function buildEras(){
@@ -461,7 +460,7 @@ function layoutEvents(){
   const gap=mobile?54:66,cardH=Math.max(mobile?110:140,Math.min(mobile?150:220,Math.floor((H-gap)/ROWS)-12)),laneH=cardH+12,w=Math.round(cardH*1.4);
   const rows=Math.max(1,Math.min(ROWS,Math.floor((H-gap)/laneH)));
   const margin=W*.5,lo=off-margin/P,hi=off+(W+margin)/P;
-  const vis=EV.filter(e=>visible(e)&&e.di>=lo&&e.di<=hi);
+  const vis=EV.filter(e=>e.di>=lo&&e.di<=hi);
   used={mk:new Set(),ln:new Set(),card:new Set(),cl:new Set()};
   // placement runs over every event, not just the ones on screen, so panning never reshuffles rows
   if(candMemo.query!==query||candMemo.ev!==EV){candMemo.query=query;candMemo.ev=EV;candMemo.list=EV.filter(visible);}
@@ -476,15 +475,16 @@ function layoutEvents(){
   const overflow=[],lastGhost={};
   for(const e of vis){
     const x=(e.di-off)*P,kc=KC[e.kind]||KC.history;
-    const mk=take('mk',e.id,'mk'+(e.major?' major':'')+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=topY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
-    const ghost=!placed.has(e.id),lane=ghost?ghostRow(e):placed.get(e.id);if(ghost)overflow.push(e);
+    const look=Placement.cardLook(e,placed,query),dim=look==='dimmed'?' dim':'';
+    const mk=take('mk',e.id,'mk'+(e.major?' major':'')+dim+(active&&active.id===e.id?' active':''));mk.style.setProperty('--kc',kc);mk.style.left=x+'px';mk.style.top=topY+'px';mk.title=e.title;mk.setAttribute('role','button');mk.setAttribute('aria-label',e.title);mk.onclick=ev=>{ev.stopPropagation();openEvent(e);};
+    const ghost=look!=='full',lane=ghost?ghostRow(e):placed.get(e.id);if(look==='faded')overflow.push(e);
     if(ghost){if(lastGhost[lane]!==undefined&&x-lastGhost[lane]<w*.35)continue;lastGhost[lane]=x;}
-    const card=take('card',e.id,'card major'+(ghost?' ghost':'')+(active&&active.id===e.id?' active':''));
+    const card=take('card',e.id,'card major'+(look==='faded'?' ghost':dim)+(active&&active.id===e.id?' active':''));
     card.style.setProperty('--kc',kc);card.style.setProperty('--w',w+'px');card.style.setProperty('--h',cardH+'px');card.style.left=(x-w/2)+'px';
     const edge=gap+lane*laneH;card.style.top=edge+'px';
     if(card._for!==e.id){card._for=e.id;card.innerHTML=`<div class="th">${thumb(e)}</div>${e.session?`<span class="pill">S${e.session}</span>`:''}${!e.session&&e.arc?`<span class="pill">${esc(e.arc)}</span>`:''}<div class="tx"><h3>${esc(e.title)}</h3><div class="s">${esc(e.summary||'')}</div></div>`;}
     card.onclick=ev=>{ev.stopPropagation();openEvent(e);};
-    const ln=take('ln',e.id,'ln'+(ghost?' ghost':''));ln.style.setProperty('--kc',kc);ln.style.left=x+'px';ln.style.top=topY+'px';ln.style.height=(edge-topY)+'px';
+    const ln=take('ln',e.id,'ln'+(ghost?' ghost':'')+dim);ln.style.setProperty('--kc',kc);ln.style.left=x+'px';ln.style.top=topY+'px';ln.style.height=(edge-topY)+'px';
   }
   // count bubbles along the top for the faded cards: click to zoom in on that run (neighbours within 90px share one)
   const groups=[];for(const e of overflow){const g=groups[groups.length-1];if(g&&(e.di-g[g.length-1].di)*P<90)g.push(e);else groups.push([e]);}

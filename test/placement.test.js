@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, ROWS } = require('../site/placement.js');
+const { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, ROWS } = require('../site/placement.js');
 
 const timeline = require('../site/timeline.json');
 const events = prepare(timeline);
@@ -135,4 +135,29 @@ test('a faded card is only dimmed, and can still be clicked open', () => {
   const ghost = [...html.matchAll(/\.card\.ghost[^{]*\{[^}]*\}/g)].map(m => m[0]).join(' ');
   assert.doesNotMatch(ghost, /pointer-events:\s*none/);
   assert.doesNotMatch(ghost, /opacity:\s*\.2\b/);
+});
+
+test('a search never hides an event: one that does not match is drawn dimmed', () => {
+  const e = { id: 'x', title: 'Saxophone Solo', kind: 'social' };
+  assert.equal(cardLook(e, new Map(), 'kingsblade'), 'dimmed');
+});
+
+test('a search match with room shows as a full card', () => {
+  const e = { id: 'x', title: 'Tour of the Kingsblade', kind: 'travel' };
+  assert.equal(cardLook(e, new Map([['x', 0]]), 'kingsblade'), 'full');
+});
+
+test('a search match with no room shows as a faded card', () => {
+  const e = { id: 'x', title: 'Tour of the Kingsblade', kind: 'travel' };
+  assert.equal(cardLook(e, new Map(), 'kingsblade'), 'faded');
+});
+
+test('a search matches tags, the description and the session', () => {
+  const e = { id: 'x', title: 'Dinner', tags: ['Lirael'], detail: 'the spoon flies', session: 12, kind: 'social' };
+  for (const q of ['lirael', 'spoon', 'session 12', 's12']) assert.ok(matches(e, q), q);
+  assert.ok(!matches(e, 'kingsblade'));
+});
+
+test('with no search every event matches', () => {
+  assert.ok(matches({ id: 'x', title: 'Dinner' }, ''));
 });

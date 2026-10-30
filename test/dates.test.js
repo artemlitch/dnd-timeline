@@ -21,6 +21,19 @@ test('every event sits on the date of its moment in the true timeline', () => {
   assert.deepEqual(wrong, [], `\n${wrong.join('\n')}`);
 });
 
+test('an event the true timeline gives no exact day for says around, on the 1st', () => {
+  const wrong = [];
+  for (const m of moments) {
+    const want = m.date.day ? undefined : m.date.month ? 'month' : 'year';
+    for (const { event } of m.images) {
+      const e = events.get(event);
+      if (e.around !== want) wrong.push(`${event}: around=${e.around}, the true timeline says ${m.doc_date}`);
+      else if (want && (e.day !== 1 || (want === 'year' && e.month !== 1))) wrong.push(`${event}: ${e.year}/${e.month}/${e.day} is not the 1st`);
+    }
+  }
+  assert.deepEqual(wrong, [], `\n${wrong.join('\n')}`);
+});
+
 test('within a campaign day, events follow the order of the true timeline', () => {
   const at = e => ((e.year * 12 + e.month) * 28 + e.day) * 24 + (e.hour || 0);
   const wrong = [];
