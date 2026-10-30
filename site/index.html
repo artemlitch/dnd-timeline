@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The 100 Years War</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%230b0d14'/%3E%3Ccircle cx='32' cy='32' r='18' fill='none' stroke='%23c9a24d' stroke-width='6' stroke-dasharray='9 5'/%3E%3Ccircle cx='32' cy='32' r='6' fill='%235fd3ff'/%3E%3C/svg%3E">
-<meta name="description" content="An interactive, zoomable chronicle of an Eberron campaign spanning 893 to 993 YK.">
+<meta name="description" content="An interactive, zoomable chronicle of an Eberron campaign spanning the Creation to 993 YK.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Cinzel:wght@500;700;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Special+Elite&display=swap" rel="stylesheet">
@@ -249,7 +249,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
   <div id="panel">
     <header class="grp" id="brand">
       <h1>THE 100 YEARS WAR</h1>
-      <p>An Eberron chronicle · 893–993 YK</p>
+      <p>An Eberron chronicle · Creation to 993 YK</p>
     </header>
     <div class="grp">
       <span class="lbl">Scale</span>
@@ -335,7 +335,7 @@ const PH=`<svg viewBox="-50 -50 100 100" class="ph">${GEAR}</svg>`;
 const KINDS=['battle','intrigue','revelation','social','travel','loss','history'];
 const KC={history:'#a89a7c',battle:'#ff7a3d',intrigue:'#c9a24d',revelation:'#b48cff',social:'#7fd0a0',travel:'#5fd3ff',loss:'#d9455f'};
 const PRESETS={century:.03,decade:.3,year:3,month:40,week:180,day:1200};
-const ZMIN=.02;let ZMAX=2400;const ROWS=Placement.ROWS;
+let ZMIN=.02,ZMAX=2400;const yr=Placement.yearName;const ROWS=Placement.ROWS;
 // ctrl/cmd + wheel zoom speed: 2 by default, ?zoomspeed=3 in the URL overrides it
 const ZOOM_SPEED=+new URLSearchParams(location.search).get('zoomspeed')||2;
 const BOOT_WAIT=performance.now();
@@ -356,7 +356,7 @@ function fromDay(di){const t=Math.floor(di),y=CAL.epochYear+Math.floor(t/DPY),r=
 const mName=m=>CAL.monthNames[m-1];
 const wName=d=>CAL.dayNames[(d-1)%7];
 const hh=h=>String(h).padStart(2,'0')+':00';
-function fmtShort(e){return `${mName(e.month)} ${e.day}, ${e.year} YK`;}
+function fmtShort(e){return `${mName(e.month)} ${e.day}, ${yr(e.year)}`;}
 function fmtLong(e){return Placement.dateLabel(e,CAL);}
 
 function init(){
@@ -369,7 +369,7 @@ function init(){
   for(const [i,s] of (DATA.sessions||[]).entries()){const ev=EV.filter(e=>e.session===s.number);if(!ev.length)continue;
     const arc=ERAS.find(r=>r.row===1&&r.title===s.arc);
     ERAS.push({id:'session-'+s.number,row:2,session:s.number,alt:i%2,title:'S'+s.number,subtitle:s.title||'',color:arc?arc.color:'#555',a:ev[0].di-1/48,b:ev[ev.length-1].di+1/48});}
-  MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);
+  MINDAY=0;MAXDAY=Math.max(dayIndex(CAL.epochYear+100,1,1,0),EV[EV.length-1].di+1);ZMIN=Math.min(.02,innerWidth/(MAXDAY-MINDAY));
   SPLIT=dayIndex(993,1,1,0);
   bindSearch();buildEras();drawMini();
   // open at Month scale centered on Zarantyr 993
@@ -413,13 +413,13 @@ function layoutEras(){
 }
 
 /* ---------- ruler ---------- */
-const UNITS=[{n:'hour',s:1/24},{n:'6h',s:.25},{n:'day',s:1},{n:'week',s:7},{n:'month',s:DPM},{n:'year',s:DPY},{n:'decade',s:DPY*10},{n:'quarter',s:DPY*25}];
+const UNITS=[{n:'hour',s:1/24},{n:'6h',s:.25},{n:'day',s:1},{n:'week',s:7},{n:'month',s:DPM},{n:'year',s:DPY},{n:'decade',s:DPY*10},{n:'quarter',s:DPY*25},{n:'century',s:DPY*100},{n:'millennium',s:DPY*1000},{n:'10k',s:DPY*10000}];
 function tickLabel(u,d){const c=fromDay(d+1e-6);
   switch(u){case'hour':case'6h':return c.hour===0?`${wName(c.day)} ${c.day}`:hh(c.hour);
     case'day':return `${wName(c.day)}, ${mName(c.month)} ${c.day}`;
     case'week':return `${mName(c.month)} ${c.day}`;
     case'month':return `${mName(c.month)} ${c.year}`;
-    default:return `${c.year} YK`;}}
+    default:return yr(c.year);}}
 function drawRuler(){
   const W=vw(),H=40,dpr=devicePixelRatio||1;
   if(ruler.width!==W*dpr||ruler.height!==H*dpr){ruler.width=W*dpr;ruler.height=H*dpr;ruler.style.width=W+'px';ruler.style.height=H+'px';}
@@ -435,7 +435,7 @@ function drawRuler(){
   for(let d=st;(d-off)*P<W;d+=L.s){const x=Math.round((d-off)*P)+.5;rctx.moveTo(x,H-14);rctx.lineTo(x,H);}
   rctx.stroke();rctx.shadowBlur=0;
   for(let d=st;(d-off)*P<W;d+=L.s){const x=(d-off)*P;rctx.fillText(tickLabel(L.n,d),x+5,16);}
-  if(li<=4){const c=fromDay(off+W/2/P);const ctx=L.n==='month'?`${c.year} YK`:`${mName(c.month)} ${c.year} YK`;rctx.font='500 11px Inter, system-ui, sans-serif';const tw=rctx.measureText(ctx).width+14;rctx.fillStyle='rgba(11,13,20,.85)';rctx.fillRect(W-tw-6,3,tw,18);rctx.strokeStyle='#7a5c23';rctx.strokeRect(W-tw-5.5,3.5,tw-1,17);rctx.fillStyle='#c9a24d';rctx.fillText(ctx,W-tw+1,12.5);}
+  if(li<=4){const c=fromDay(off+W/2/P);const ctx=L.n==='month'?yr(c.year):`${mName(c.month)} ${yr(c.year)}`;rctx.font='500 11px Inter, system-ui, sans-serif';const tw=rctx.measureText(ctx).width+14;rctx.fillStyle='rgba(11,13,20,.85)';rctx.fillRect(W-tw-6,3,tw,18);rctx.strokeStyle='#7a5c23';rctx.strokeRect(W-tw-5.5,3.5,tw-1,17);rctx.fillStyle='#c9a24d';rctx.fillText(ctx,W-tw+1,12.5);}
 }
 
 /* ---------- events layout ---------- */
@@ -450,7 +450,7 @@ function trim(){for(const t in pool){for(const[k,el]of pool[t]){if(!used[t].has(
 function clusterLabel(c){const a=fromDay(c[0].di),b=fromDay(c[c.length-1].di);
   if(a.year===b.year&&a.month===b.month&&a.day===b.day)return `${mName(a.month)} ${a.day}`;
   if(a.year===b.year&&a.month===b.month)return `${mName(a.month)} ${a.day}–${b.day}`;
-  if(a.year===b.year)return `${a.year} YK`;return `${a.year}–${b.year} YK`;}
+  if(a.year===b.year)return yr(a.year);return `${yr(a.year)} – ${yr(b.year)}`;}
 // the same list object is handed to Placement while the search is unchanged, so its zoom-in layout is computed once
 const candMemo={query:null,ev:null,list:null};
 const shownNow={cand:[],placed:new Map()};
@@ -535,7 +535,7 @@ function bind(){
   const presets=$('#presets');presets.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;animateTo(PRESETS[b.dataset.p],off+vw()/2/P,480);});
   $('#zoom').addEventListener('input',e=>{const t=e.target.value/1000;zoomAt(ZMIN*Math.pow(ZMAX/ZMIN,t),vw()/2);});
   document.querySelectorAll('.jump').forEach(b=>b.onclick=()=>{const j=b.dataset.j;
-    if(j==='start')animateTo(PRESETS.year,dayIndex(CAL.epochYear,1,1,0)+60,520);
+    if(j==='start')animateTo(PRESETS.year,dayIndex(893,1,1,0)+60,520);
     else if(j==='break')animateTo(PRESETS.week,SPLIT+.5,520);
     else{const last=EV[EV.length-1];animateTo(PRESETS.week,last.di,520);}});
   // wheel: ctrl/cmd zooms at cursor; otherwise pans (deltaX or deltaY)
@@ -581,7 +581,7 @@ function bind(){
 /* ---------- minimap: one scale, ten times the view's span, so it zooms along with the view ---------- */
 let MR={a:0,b:1},MCL=[],mdrag=null;
 const miniX=(d,W)=>(d-MR.a)/(MR.b-MR.a)*W,miniDay=(x,W)=>MR.a+x/W*(MR.b-MR.a);
-function miniDate(d,span){const c=fromDay(d+1e-6);return span>=DPY*2?`${c.year} YK`:span>=DPM*2?`${mName(c.month)} ${c.year}`:`${mName(c.month)} ${c.day}, ${c.year}`;}
+function miniDate(d,span){const c=fromDay(d+1e-6);return span>=DPY*2?yr(c.year):span>=DPM*2?`${mName(c.month)} ${yr(c.year)}`:`${mName(c.month)} ${c.day}, ${yr(c.year)}`;}
 function drawMini(){if(!CAL)return;const W=SZ.mw||mini.clientWidth,H=mini.clientHeight,dpr=devicePixelRatio||1;
   if(miniC.width!==Math.round(W*dpr)||miniC.height!==Math.round(H*dpr)){miniC.width=Math.round(W*dpr);miniC.height=Math.round(H*dpr);}
   mctx.setTransform(dpr,0,0,dpr,0,0);mctx.clearRect(0,0,W,H);

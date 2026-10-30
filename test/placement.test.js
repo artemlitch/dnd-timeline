@@ -163,13 +163,14 @@ test('a search matches tags, the description and the session', () => {
   assert.ok(!matches(e, 'kingsblade'));
 });
 
-test('a search match is drawn at every zoom, never skipped', () => {
+test('a search match is only skipped when another match is drawn on top of it', () => {
   const cand = events.filter(e => matches(e, 'brand'));
   for (const p of zooms) {
-    const placed = shownAt(p, cand);
-    const drawn = new Set(drawnCards(cand, events, placed, ROWS, 'brand', CARD / p).map(c => c.e.id));
-    const missing = cand.filter(e => !drawn.has(e.id)).map(e => e.id);
-    assert.deepEqual(missing, [], `at ${p.toFixed(3)} px/day`);
+    const placed = shownAt(p, cand), need = CARD / p;
+    const drawn = drawnCards(cand, events, placed, ROWS, 'brand', need).filter(c => c.look !== 'dimmed');
+    const ids = new Set(drawn.map(c => c.e.id));
+    const lost = cand.filter(e => !ids.has(e.id) && !drawn.some(c => Math.abs(c.e.di - e.di) < need * 0.35)).map(e => e.id);
+    assert.deepEqual(lost, [], `at ${p.toFixed(3)} px/day`);
   }
 });
 

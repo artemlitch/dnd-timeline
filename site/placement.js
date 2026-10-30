@@ -15,7 +15,7 @@
   // days). At each step shown cards move up to the highest row that has room, then hidden cards take the highest
   // free row, both in rank order (major first, then every 2nd, 4th, 8th event so they spread evenly). Zooming in only
   // pulls cards apart, so a shown card never hides and never moves down
-  const NEED0 = 1e5, STEP = 1.02;
+  const NEED0 = 1e8, STEP = 1.02;
   const sims = new WeakMap();
   function simulation(events, rows) {
     let byRows = sims.get(events);
@@ -90,10 +90,16 @@
   // the date an event's panel shows; one known only to the year or month says "Around" instead of an invented day
   function dateLabel(e, cal) {
     const month = cal.monthNames[e.month - 1];
-    if (e.around === 'year') return `Around ${e.year} YK`;
-    if (e.around === 'month') return `Around ${month}, ${e.year} YK`;
+    if (e.around === 'unknown') return 'Date unknown';
+    if (e.around === 'year') return `Around ${yearName(e.year)}`;
+    if (e.around === 'month') return `Around ${month}, ${yearName(e.year)}`;
     const weekday = cal.dayNames[(e.day - 1) % 7], hour = String(e.hour || 0).padStart(2, '0');
-    return `${weekday}, ${month} ${e.day}, ${e.year} YK, ${hour}:00`;
+    return `${weekday}, ${month} ${e.day}, ${yearName(e.year)}, ${hour}:00`;
+  }
+
+  // years before 1 YK count back as BG, as the true timeline writes them
+  function yearName(y) {
+    return y < 1 ? `${(-y).toLocaleString('en-US')} BG` : `${y} YK`;
   }
 
   // whether an event matches a lowercase search; an empty search matches everything
@@ -110,7 +116,7 @@
   }
 
   // the cards to draw for the events in view, dimmed first so matches stack above them. A faded or dimmed card sits
-  // in the row with the most room; one landing almost on top of the previous one is skipped, except a search match
+  // in the row with the most room; one landing almost on top of the previous one of the same look is skipped
   function drawnCards(cand, vis, placed, rows, query, need) {
     const rowX = Array.from({ length: rows }, () => []);
     for (const e of cand) if (placed.has(e.id)) rowX[placed.get(e.id)].push(e.di);
@@ -118,7 +124,7 @@
     const last = {}, cards = [];
     for (const e of vis) {
       const look = cardLook(e, placed, query), lane = look === 'full' ? placed.get(e.id) : ghostRow(e);
-      if (look === 'dimmed' || (look === 'faded' && !query)) {
+      if (look !== 'full') {
         const k = look + lane;
         if (last[k] !== undefined && e.di - last[k] < need * 0.35) continue;
         last[k] = e.di;
@@ -161,6 +167,6 @@
     return out;
   }
 
-  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, maxZoom, matches, cardLook, drawnCards, nearestAt, zoomToShow, miniRange, miniClusters, ROWS: 2 };
+  const api = { prepare, place, nearestShown, stepShown, clusterZoom, dateLabel, yearName, maxZoom, matches, cardLook, drawnCards, nearestAt, zoomToShow, miniRange, miniClusters, ROWS: 2 };
   if (typeof module === 'object' && module.exports) module.exports = api; else root.Placement = api;
 })(this);

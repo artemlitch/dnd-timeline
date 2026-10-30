@@ -26,7 +26,7 @@ const momentOf = new Map(moments.flatMap(m => m.images.map(i => [i.event, m])));
 test('an event the true timeline gives no exact day for says around', () => {
   const wrong = [];
   for (const m of moments) {
-    const want = m.date.day ? undefined : m.date.month ? 'month' : 'year';
+    const want = m.date.day ? undefined : m.date.month ? 'month' : m.date.year == null ? 'unknown' : 'year';
     for (const { event } of m.images) if (events.get(event).around !== want) wrong.push(`${event}: around=${events.get(event).around}, the true timeline says ${m.doc_date}`);
   }
   assert.deepEqual(wrong, [], `\n${wrong.join('\n')}`);
