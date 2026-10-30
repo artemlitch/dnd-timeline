@@ -587,10 +587,10 @@ function drawMini(){if(!CAL)return;const W=SZ.mw||mini.clientWidth,H=mini.client
   mctx.setTransform(dpr,0,0,dpr,0,0);mctx.clearRect(0,0,W,H);
   MR=mdrag?mdrag.range:Placement.miniRange(off,vw()/P,MINDAY,MAXDAY,10);
   MCL=Placement.miniClusters(candMemo.query===query&&candMemo.list?candMemo.list:EV.filter(visible),MR.a,MR.b,W,6);
-  const mx=Math.max(1,...MCL.map(c=>c.events.length));let lastLabel=-1e9;
+  let lastLabel=-1e9;const h=H-24;
   mctx.font='600 10px Inter, system-ui, sans-serif';mctx.textAlign='center';
-  for(const c of MCL){const n=c.events.length,t=Math.sqrt(n/mx),h=6+t*(H-24),x=c.x0-1,w=Math.max(3,c.x1-c.x0+3);
-    mctx.fillStyle=`rgba(95,211,255,${.35+t*.6})`;mctx.fillRect(x,H-6-h,w,h);
+  for(const c of MCL){const n=c.events.length,x=c.x0-1,w=Math.max(3,c.x1-c.x0+3);
+    mctx.fillStyle='rgba(95,211,255,.85)';mctx.fillRect(x,H-6-h,w,h);
     const cx=x+w/2;if(n>1&&cx-lastLabel>=22){lastLabel=cx;mctx.fillStyle='#e8dcc0';mctx.fillText(String(n),cx,H-9-h);}}
   const a=miniX(off,W),b=miniX(off+vw()/P,W);miniWin.style.left=a+'px';miniWin.style.width=Math.max(4,b-a)+'px';
   const span=MR.b-MR.a;$('#miniA').textContent=miniDate(MR.a,span);$('#miniB').textContent=miniDate(MR.b,span);}
