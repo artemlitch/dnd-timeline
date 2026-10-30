@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>The 100 Years War</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%230b0d14'/%3E%3Ccircle cx='32' cy='32' r='18' fill='none' stroke='%23c9a24d' stroke-width='6' stroke-dasharray='9 5'/%3E%3Ccircle cx='32' cy='32' r='6' fill='%235fd3ff'/%3E%3C/svg%3E">
-<meta name="description" content="An interactive, zoomable chronicle of an Eberron campaign spanning 894 to 993 YK.">
+<meta name="description" content="An interactive, zoomable chronicle of an Eberron campaign spanning 893 to 993 YK.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Cinzel:wght@500;700;900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Special+Elite&display=swap" rel="stylesheet">
@@ -244,7 +244,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
   <div id="panel">
     <header class="grp" id="brand">
       <h1>THE 100 YEARS WAR</h1>
-      <p>An Eberron chronicle · 894–993 YK</p>
+      <p>An Eberron chronicle · 893–993 YK</p>
     </header>
     <div class="grp">
       <span class="lbl">Scale</span>
@@ -279,7 +279,7 @@ a.jump{text-decoration:none;margin-left:6px;border-style:dashed}
     <canvas id="miniC"></canvas>
     <div id="miniDiv"></div>
     <div id="miniWin"></div>
-    <span class="miniL" style="left:8px">894 YK</span>
+    <span class="miniL" style="left:8px">893 YK</span>
     <span class="miniL" id="miniMid">Zarantyr 993</span>
     <span class="miniL" style="right:8px">Vult 993</span>
   </div>
@@ -579,7 +579,7 @@ function bind(){
   window.addEventListener('resize',()=>{measure();drawMini();schedule(true);});
 }
 
-/* ---------- minimap: split strip, left 58% = 894..992 YK, right 42% = Zarantyr 993 so the campaign month stays usable ---------- */
+/* ---------- minimap: split strip, left 58% = 893..992 YK, right 42% = Zarantyr 993 so the campaign month stays usable ---------- */
 const SPLIT_F=.58;
 function dayToMini(d,W){return d<SPLIT?d/SPLIT*SPLIT_F*W:SPLIT_F*W+(d-SPLIT)/(MAXDAY-SPLIT)*(1-SPLIT_F)*W;}
 function miniToDay(x,W){return x<SPLIT_F*W?x/(SPLIT_F*W)*SPLIT:SPLIT+(x-SPLIT_F*W)/((1-SPLIT_F)*W)*(MAXDAY-SPLIT);}
